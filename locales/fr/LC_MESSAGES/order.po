@@ -1,0 +1,439 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Foodsoft developers
+# This file is distributed under the same license as the Foodsoft package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodsoft 4.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-02 17:17\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: ../../order.rst:3
+msgid "Order"
+msgstr "Commander"
+
+#: ../../order.rst:6
+msgid "The general idea"
+msgstr "L'idée générale"
+
+#: ../../order.rst:8
+msgid ""
+"The principle of foodsoft is that to receive their products, the cells "
+"associate to place **orders** to the suppliers. That's how it goes:"
+msgstr ""
+"Le principe de foodsoft est que pour recevoir leurs produits, les "
+"cellules s’associent pour passer des **commandes** aux fournisseur-e-s. "
+"Voilà comment ça se passe :"
+
+#: ../../order.rst:11
+msgid ""
+"An order list corresponding to a supplier, for example 'Sugar and "
+"services', is first put online by a member of the Boufcoop,"
+msgstr ""
+"une liste de commande correspondant à un-e fournisseur-e, par exemple "
+"‘Sucre et services’, est d’abord mise en ligne par un-e membre de la "
+"boufcoop,"
+
+#: ../../order.rst:12
+msgid ""
+"this list remains accessible for a certain time to all the members, who "
+"can choose the quantity of the different products that they wish to "
+"order,"
+msgstr ""
+"cette liste reste accessible pendant un certain temps à tou-te-s les "
+"membres, qui peuvent choisir la quantité des différents produits qu’illes"
+" souhaitent commander,"
+
+#: ../../order.rst:13
+msgid "on the scheduled date, the order is closed, we can not change it anymore,"
+msgstr "à la date prévue, la commande est clôturée, on ne peut plus la modifier,"
+
+#: ../../order.rst:14
+msgid ""
+"a person then takes care of recovering the quantities of each product and"
+" to contact the supplier,"
+msgstr ""
+"une personne se charge alors de récupérer les quantités de chaque produit"
+" et de contacter le-la fournisseur-e,"
+
+#: ../../order.rst:15
+msgid ""
+"the products are delivered. It happens that the delivery does not "
+"correspond exactly to the order (errors, products unavailable, "
+"misunderstandings, last minute price change, losses ...)."
+msgstr ""
+"les produits sont livrés. Il arrive que la livraison ne corresponde pas "
+"exactement à la commande (erreurs, produits indisponibles, quiproquos, "
+"changement de prix de dernière minute, pertes...)."
+
+#: ../../order.rst:16
+msgid ""
+"the products are distributed among the cells, remaining as close as "
+"possible to their initial wishes,"
+msgstr ""
+"les produits sont répartis entre les cellules, en restant au plus proche "
+"de leurs souhaits initiaux,"
+
+#: ../../order.rst:17
+msgid ""
+"a person carefully compares the actual quantities received by each cell "
+"and their orders, and makes the final **count** of the order."
+msgstr ""
+"une personne compare attentivement les quantités effectivement reçues par"
+" chaque cellule et leurs commandes, et effectue le **décompte** final de "
+"la commande."
+
+#: ../../order.rst:19
+msgid ""
+"Orders can be in three states: **in progress**, **closed** or "
+"**counted**. The countdown phase allows to make sure that what is paid "
+"for by the cells corresponds to what they have received. It is explained "
+"more in detail in the section :ref:`finance`. To order, each cell has "
+"some credit. The current credit of your cell is displayed on your "
+"dashboard. More detailed information is provided on the page *Placing an "
+"order*, accessible under the *Commands* tab of the main menu. The credit "
+"is broken down into three parts:"
+msgstr ""
+"Les commandes peuvent donc être dans trois états : **en cours**, "
+"**clôturées** ou **décomptées**. La phase de décompte permet de s’assurer"
+" que ce qui est payé par les cellules correspond bien à ce qu’elles ont "
+"reçu. Elle est expliquée plus en détail dans la section :ref:`finance`. "
+"Pour commander, chaque cellule dispose d’un certain crédit. Le crédit "
+"actuel de ta cellule est affiché sur ton tableau de bord. Des "
+"informations plus détaillées sont fournies sur la page *Passer une "
+"commande*, accessible sous l’onglet *Commandes* du menu principal. Le "
+"crédit y est décomposé en trois parties :"
+
+#: ../../order.rst:26
+msgid "credit committed to ongoing orders,"
+msgstr "crédit engagé dans des commandes en cours,"
+
+#: ../../order.rst:27
+msgid "credit committed in orders already closed, but not yet counted,"
+msgstr ""
+"crédit engagé dans des commandes déjà clôturées, mais pas encore "
+"décomptées,"
+
+#: ../../order.rst:28
+msgid "available credit"
+msgstr "crédit disponible"
+
+#: ../../order.rst:31
+msgid "To order"
+msgstr "Passer une commande"
+
+#: ../../order.rst:33
+msgid ""
+"Once on the page *Place an order*, accessible under the tab *Orders* of "
+"the main menu, if you click on the name of a supplier for whom he exits "
+"an order in progress, you land on the order list. The inset at the top "
+"left contains some useful information about the order:"
+msgstr ""
+"Une fois sur la page *Passer une commande*, accessible sous l’onglet "
+"*Commandes* du menu principal, si tu cliques sur le nom d’un-e "
+"fournisseur-e pour le-laquelle il exsite une commande en cours, tu "
+"atteris sur la liste de commande. L’encart en haut à gauche réunit "
+"quelques informations utiles sur la commande :"
+
+#: ../../order.rst:36
+msgid "the person who created the list,"
+msgstr "la personne qui a créé la liste,"
+
+#: ../../order.rst:37
+msgid "the planned closing date, from which the order will not be modifiable,"
+msgstr ""
+"la date de clôture prévue, à partir de laquelle la commande ne sera plus "
+"modifiable,"
+
+#: ../../order.rst:38
+msgid "the amount already committed by all the cells on this order,"
+msgstr "le montant déjà engagé par toutes les cellules sur cette commande,"
+
+#: ../../order.rst:39
+msgid "the available credit of your cell."
+msgstr "le crédit disponible de ta cellule."
+
+#: ../../order.rst:42
+msgid "Choose products"
+msgstr "Choisir des produits"
+
+#: ../../order.rst:44
+msgid ""
+"You will find below this insert the list of products offered for this "
+"order. It's not necessarily about of all the products of the supplier-e, "
+"since the person who creates the order list has had the possibility to "
+"select only a subset (see :ref:`management`)."
+msgstr ""
+"Tu trouveras en dessous de cet encart la liste des produits proposés pour"
+" cette commande. Il ne s’agit par forcément de tous les produits du-de la"
+" fournisseur-e, puisque la personne qui crée la liste de commande a eu la"
+" possibilité d’en sélectionner seulement un sous-ensemble (voir "
+":ref:`management`)."
+
+#: ../../order.rst:48
+msgid ""
+"For each product, you must choose the number of units you want to order. "
+"The unit varies according to the product (1kg, 75cl, ...), and is "
+"therefore indicated in the column *unit* of the table (4th column). The "
+"price of a unit is shown in the column *price* (3rd column). To increase "
+"or decrease the number of units you want for your cell, use the + and - "
+"buttons of the 6th column (quantity)."
+msgstr ""
+"Pour chaque produit, il te faut choisir le nombre d’unités que tu "
+"souhaites commander. L’unité varie suivant le produit (1kg, 75cl, ...), "
+"et est donc indiquée dans la colonne *unité* du tableau (4ème colonne). "
+"Le prix d’une unité est indiqué dans la colonne *prix* (3ème colonne). "
+"Pour augmenter ou réduire le nombre d’unités que tu souhaites pour ta "
+"cellule, utilises les boutons + et - de la 6ème colonne (quantité)."
+
+#: ../../order.rst:53
+msgid ""
+"As the products are offered by the supplier-e in the form of lots (see "
+":ref:`lots`), as long as it is missing units to complete the current "
+"batch, you are not sure to receive the product. This number is displayed "
+"in the 5th column (*Missing*). The number of units you are not sure to "
+"receive appears in red, while the number that appears in green is safe."
+msgstr ""
+"Comme les produits sont proposés par le-la fournisseur-e sous forme de "
+"lots (voir :ref:`lots`), tant qu’il manque des unités pour compléter le "
+"lot en cours, tu n’est pas sûr-e de recevoir le produit. Ce nombre est "
+"affiché dans la 5ème colonne (*Manquant*). Le nombre d’unités que tu "
+"n’est pas sûr-e de recevoir apparaît en rouge, tandis que le nombre qui "
+"apparaît en vert est sûr."
+
+#: ../../order.rst:59
+msgid "Tolerance"
+msgstr "Tolérance"
+
+#: ../../order.rst:61
+msgid ""
+"The quantity that you indicate as *tolerance* is a maximum that you are "
+"ready to receive, in addition to the quantity ordered normally, in case "
+"it allows to complete a lot at the time of the closing of the order. If "
+"there is no lot to complete, this quantity will simply be ignored. "
+"Putting a non-zero tolerance when your orders is beneficial for all of "
+"the boufcoop, as this increases the chances of completing some lots that "
+"otherwise could not be ordered. Moreover, it can even encourage other "
+"people who need more of the product than you to order, because you will "
+"give them more hope that the lot is completed."
+msgstr ""
+"La quantité que tu indiques comme *tolérance* est un maximum que tu es "
+"prêt-e à recevoir, en plus de la quantité commandée normalement, au cas "
+"où cela permette de compléter un lot au moment de la clotûre de la "
+"commande. Si il n’y a pas de lot à compléter, cette quantité sera "
+"simplement ignorée. Le fait de mettre une tolérance non nulle lors de tes"
+" commandes est bénéfique pour l’ensemble de la boufcoop, car cela "
+"augmente les chances de compléter certains lots qui sinon ne pourraient "
+"pas être commandés. De plus, cela peut même encourager d’autres personnes"
+" qui ont encore plus besoin du produit que toi à passer commande, car tu "
+"leur donneras plus d’espoir que le lot soit complété."
+
+#: ../../order.rst:69
+msgid "**Example**:"
+msgstr "**Exemple** :"
+
+#: ../../order.rst:71
+msgid ""
+"The banana cell really needs 3 chocolate chips. But chocolate can not be "
+"delivered only in batches of 8 platelets. Banana therefore orders 3 pads,"
+" plus a tolerance of 2, the maximum that she can afford to pay, hoping "
+"that another cell will complete the order."
+msgstr ""
+"La cellule Banane a vraiment besoin de 3 plaquettes de chocolat. Mais le "
+"chocolat ne peut être livré qu’en lots de 8 plaquettes. Banane commande "
+"donc 3 plaquettes, plus une tolérance de 2, le maximum qu’elle puisse se "
+"permettre de payer, en espérant qu’une autre cellule complète la "
+"commande."
+
+#: ../../order.rst:75
+msgid ""
+"The next day, Fig cell sees this. It only needs one plate, and the "
+"command so. At this point there are 4 pads in firm order, plus a "
+"tolerance of 2, so the lot does not can still not be completed! "
+"Fortunately, the Apple cell sees that only two are missing platelets to "
+"complete the lot, she is sure to have her chocolate. She orders three "
+"plates."
+msgstr ""
+"Le lendemain, la cellule Figue voit cela. Elle n’a besoin que d’une seule"
+" plaquette, et la commande donc. A ce stade, il y a 4 plaquettes en "
+"commande ferme, plus une tolérance de 2, donc le lot ne peut toujours pas"
+" être complété ! Heureusement, la cellule Pomme voit qu’il ne manque que "
+"deux plaquettes pour compléter le lot, elle est sûre d’avoir son "
+"chocolat. Elle en commande trois plaquettes."
+
+#: ../../order.rst:80
+msgid ""
+"The coop receives 8 platelets. Fig and Apple have their platelets "
+"ordered, and so 4. Banane receives his 3 platelets, plus 1 bonus, which "
+"fits well in his margin of tolerance. Everyone is happy, whereas if "
+"nobody had indicated tolerance, the delivery would not have maybe not "
+"even possible!"
+msgstr ""
+"La coop recoit donc 8 plaquettes. Figue et Pomme ont leurs plaquettes "
+"commandées, et il en reste donc 4. Banane recoit donc ses 3 plaquettes, "
+"plus 1 en bonus, ce qui entre bien dans sa marge de tolérance. Tout le "
+"monde est content, alors que si personne n’avait pas indiqué de "
+"tolérance, la livraison n’aurait peut-être même pas été possible !"
+
+#: ../../order.rst:89
+msgid "Order management"
+msgstr "Gestion des commandes"
+
+#: ../../order.rst:91
+msgid ""
+"The *Order Management* page is accessible under the *Orders* tab of the "
+"main menu, but only if you are part of a team that has access to it. This"
+" option can be configured by an administrator in the parameters of each "
+"team."
+msgstr ""
+"La page de *Gestion des commandes* est accessible sous l’onglet "
+"*Commandes* du menu principal, mais seulement si tu fais partie d’une "
+"équipe qui y a accès. Cette option peut être configurée par un-e "
+"administrat-rice-eur dans les paramètres de chaque équipe."
+
+#: ../../order.rst:96
+msgid "Define a new order"
+msgstr "Définir une nouvelle commande"
+
+#: ../../order.rst:98
+msgid ""
+"To define a new command, click on the button at the top right of the "
+"page, and select the name of a email provider. You can then choose the "
+"dates of opening and closing of the order, as well as the articles that "
+"you wish to make it appear. The list of articles can be modified from "
+":ref:`products`. A Once the command has been created, it will appear in "
+"the current command list and the cells will be able to start order."
+msgstr ""
+"Pour définir une nouvelle commande, clique sur le bouton en haut à droite"
+" de la page, et sélectionne le nom d’un-e fournisseur-e. Tu peux alors "
+"choisir les dates d’ouverture et de clôture de la commande, ainsi que les"
+" articles que tu souhaites y faire apparaître. La liste des articles peut"
+" être modifiée à partir de l’:ref:`products`. Une fois la commande créée,"
+" elle apparaîtra dans la liste des commande en cours et les cellules "
+"pourront commencer à commander."
+
+#: ../../order.rst:105
+msgid "Closing and sending"
+msgstr "Clôture et envoi"
+
+#: ../../order.rst:107
+msgid ""
+"To close the order, click the *Close* button from the *Order Management* "
+"page. The date closure is given as an indication, orders must always be "
+"closed manually. Once order closed, you land on the summary page of the "
+"quantities ordered. You can also access this page from the *Order "
+"Management*, by clicking the *Show* button to the right of the closed "
+"order desired."
+msgstr ""
+"Pour clôturer la commande, clique sur le bouton *Clôturer* à partir de la"
+" page *Gestion des commandes*. La date de clôture est donnée à titre "
+"indicatif, les commandes doivent toujours être clôturées manuellement. "
+"Une fois la commande clôturée, tu atteris sur la page de résumé des "
+"quantités commandées. Tu peux aussi accéder à cette page à partir de la "
+"*Gestion des commandes*, en cliquant sur le bouton *Afficher* à droite de"
+" la commande clôturée souhaitée."
+
+#: ../../order.rst:113
+msgid ""
+"The most convenient way to transmit the order to the supplier is the *Fax"
+" in PDF*, accessible from the menu *Download* (even if you send it by "
+"email and not by fax). Indeed, the table obtained simply summarizes the "
+"number of lots to be ordered for each product, as well as the price, but "
+"does not mention the distribution between the cells (which does not "
+"usually interest the supplier)."
+msgstr ""
+"Le plus pratique pour transmettre la commande au-à la fournisseur-e est "
+"le *Fax au format PDF*, accessible depuis le menu *Télécharger* (même si "
+"tu l’envoies par email et non par fax). En effet, le tableau obtenu "
+"résume simplement le nombre de lots à commander pour chaque produit, "
+"ainsi que le prix, mais ne fait pas mention de la répartition entre les "
+"cellules (ce qui n’intérresse en général pas le-la fournisseur-e)."
+
+#: ../../order.rst:119
+msgid "Reception and verification"
+msgstr "Réception et vérification"
+
+#: ../../order.rst:121
+msgid ""
+"Once delivery has arrived safely, it may be wise to check its contents to"
+" take into account any changes to the order (unavailable products, price "
+"changes ...). The button *Receive* accessible from the *Order Management*"
+" page validates this verification step. The table that appears summarizes"
+" the quantities ordered for each product, and you must enter in the "
+"adequate column the quantity actually received after verification. By "
+"clicking on the *Edit* button, you can even change the price of each "
+"product if it turned out that there was an error. Finally, we can even "
+"add a product to the list if the delivery contains products that were not"
+" present in the order list (gifts, last minute changes ...)."
+msgstr ""
+"Une fois la livraison arrivée à bon port, il peut être judicieux de "
+"vérifier son contenu afin de prendre en compte les éventuels changements "
+"par rapport à la commande (produits indisponibles, changements de "
+"prix...). Le bouton *Réceptionner* accessible depuis la page de *Gestion "
+"des commandes* permet de valider cette étape de vérification. Le tableau "
+"qui s’affiche récapitule les quantités commandées pour chaque produit, et"
+" il faut alors saisir dans la colonne adéquate la quantité effectivement "
+"recue après vérification. En cliquant sur le bouton *Modifier*, on peut "
+"même changer le prix de chaque produit si il s’est avéré qu’il y a eu une"
+" erreur. Finalement, on peut même ajouter un produit à la liste si la "
+"livraison contient des produits qui n’étaient pas présents dans la liste "
+"de commande (cadeaux, changements de dernière minute...)."
+
+#: ../../order.rst:130
+msgid ""
+"If you wish, you can leave comments (at the bottom of the order "
+"management page) to keep track of all these changes, which can be useful "
+"when counting and billing (see :ref:`finance`)."
+msgstr ""
+"Si on le souhaite, il est possible de laisser des commentaires (en bas de"
+" la page de gestion de la commande) pour garder trace de tous ces "
+"changements, ce qui pourra être utile lors du décompte et de la "
+"facturation (voir :ref:`finance`)."
+
+#: ../../order.rst:134
+msgid "Distribution between cells"
+msgstr "Répartition entre les cellules"
+
+#: ../../order.rst:136
+msgid ""
+"To help with the distribution between cells, it is best to download the "
+"*Distribution Matrix PDF*, accessible from the menu *Download* on the "
+"summary page of any closed order. The PDF file that you will get first "
+"consists of a table of products and their quantities, then a large double"
+" table entry, whose columns are the products, and the lines are the "
+"items, with at the intersection the number of units of each product that "
+"the corresponding cell must receive."
+msgstr ""
+"Pour aider à la répartition entre les cellules, le mieux est de "
+"télécharger la *Matrice de répartition en PDF*, accessible depuis le menu"
+" *Télécharger* sur la page récapitulative de toute commande clôturée. Le "
+"fichier PDF que tu obtiendras est composé d’abord d’un tableau des "
+"produits et de leurs quantités, puis d’un grand tableau à double entrée, "
+"dont les colonnes sont les produits, et les lignes sont les articles, "
+"avec à l’intersection le nombre d’unités de chaque produit que doit "
+"recevoir la cellule correspondante."
+
+#: ../../order.rst:141
+msgid ""
+"If there are problems with the distribution, it may be useful to note it "
+"also in the comments of the command."
+msgstr ""
+"Si il y a des problèmes lors de la répartition, il peut être utile de le "
+"noter aussi dans les commentaires de la commande."
+
+#: ../../order.rst:145
+msgid "Billing and billing"
+msgstr "Facturation et décompte"
+
+#: ../../order.rst:147
+msgid "See the section :ref:`finance`."
+msgstr "Voir la section :ref:`finance`."

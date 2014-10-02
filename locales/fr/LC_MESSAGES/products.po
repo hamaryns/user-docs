@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Foodsoft developers
+# This file is distributed under the same license as the Foodsoft package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodsoft 4.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-02 17:17\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: ../../products.rst:5
+msgid "Products"
+msgstr "L'annuaire"
+
+#: ../../products.rst:7
+msgid ""
+"The directory is one of the key elements of the Boufcoop, since this is "
+"where all the suppliers' contacts and information about their products "
+"are stored."
+msgstr ""
+"L'annuaire est un des éléments clés de la boufcoop, puisque c'est là que "
+"sont stockés tous les contacts des fournisseur-e-s et les informations sur "
+"leurs produits."
+
+#: ../../products.rst:10
+msgid "Supplier-e-s"
+msgstr "Fournisseur-e-s"
+
+#: ../../products.rst:12
+msgid ""
+"The *directory* is accessible under the *Products* tab of the main menu. "
+"To *add a supplier-e*, click on the blue button at the top right of the "
+"page, then enter the data you want in the form. The *customer number of "
+"the coop* is useful for wholesalers, who assign a number that must be "
+"recalled at the time of each order. The *how to order* field is used to "
+"specify the means by which the supplier wishes to be contacted. After "
+"validation, the e-provider will appear immediately in the *directory*, "
+"and the information can be *modified* by clicking the corresponding "
+"button in front of its name."
+msgstr ""
+"L'*annuaire* est accessible sous l'onglet *Produits* du menu principal. Pour"
+" *ajouter un-e fournisseur-e*, clique sur le bouton bleu en haut à droite de"
+" la page, puis saisis les données que tu souhaites dans le formulaire. Le "
+"*numéro de client de la coop* est utile plutôt pour les grossistes, qui "
+"affectent un numéro qu'il faut rappeler au moment de chaque commande. Le "
+"champ *comment commander* sert à préciser par quel moyen le-la fournisseur-e"
+" souhaite être contacté-e. Après validation, le-la fournisseur-e apparaîtra "
+"immédiatement dans l'*annuaire*, et les informations peuvent être "
+"*modifiées* en cliquant sur le bouton correspondant en face de son nom."
+
+#: ../../products.rst:19
+msgid "products"
+msgstr "Produits"
+
+#: ../../products.rst:21
+msgid ""
+"The information on the products offered by a supplier is accessible by "
+"clicking on the link *Articles ()* in front of its name in the "
+"*directory*. To add a *new product*, click on the blue button at the top "
+"left of the list of products of a supplier, and fill in the form that "
+"appears."
+msgstr ""
+"Les informations sur les produits proposés par un-e fournisseur-e sont "
+"accessibles en cliquant sur le lien *Articles ()* face à son nom dans "
+"l'*annuaire*. Pour ajouter un *nouveau produit*, clique sur le bouton bleu "
+"en haut à gauche de la liste des produits d'un-e fournisseur-e, et remplis "
+"le formulaire qui s'affiche."
+
+#: ../../products.rst:27
+msgid "Units and lots"
+msgstr "Unités et lots"
+
+#: ../../products.rst:29
+msgid ""
+"Most suppliers offer their wholesale packaged products, such as bags of "
+"25kg of flour, or lots of 12 jars of honey. These **lots** will then be "
+"distributed among the different cells. In Foodsoft, the **unit** is the "
+"smallest amount of product that can be ordered by a cell. The choice of a"
+" relevant unit depends of course on the product under consideration. For "
+"example, for flour a unit of 1kg may be a good choice, while for saffran "
+"it could be 1g. Once this choice is made, each batch then contains a "
+"certain number of units (for example 25 units of 1kg in a 25kg bag)."
+msgstr ""
+"La plupart des fournisseur-e-s proposent leurs produits conditionnés en "
+"gros, par exemple des sacs de 25kg de farine, ou bien des lots de 12 pots de"
+" miel. Ces **lots** vont ensuite être répartis entre les différentes "
+"cellules. Dans Foodsoft, l'**unité** correspond à la plus petite quantité du"
+" produit qui peut être commandée par une cellule. Le choix d'une unité "
+"pertinente dépend bien sûr du produit considéré. Par exemple, pour la farine"
+" une unité de 1kg peut être un bon choix, tandis que pour du saffran cela "
+"pourrait être 1g. Une fois ce choix effectué, chaque lot contient ensuite un"
+" certain nombre d'unités (par exemple 25 unités de 1kg dans un sac de 25kg)."
+
+#: ../../products.rst:35
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../../products.rst:37
+msgid ""
+"The categories help to improve the readability of orders for suppliers "
+"offering a lot of products. Apart from that they have no influence. They "
+"can be configured from the *Categories* page on the *Products* tab of the"
+" main menu."
+msgstr ""
+"Les catégories permettent d'améliorer la lisibilité des commandes chez les "
+"fournisseur-e-s proposant beaucoup de produits. Hormis cela elles n'ont "
+"aucune influence. Elles peuvent être configurées depuis la page *Catégories*"
+" accessible sous l'onglet *Produits* du menu principal."
+
+#: ../../products.rst:41
+msgid "order"
+msgstr "Consigne"
+
+#: ../../products.rst:43
+msgid ""
+"The deposit is an additional price invoiced by the supplier for "
+"containers delivered with the order (bottles, crates). In general, these "
+"containers are recovered at the next delivery, and the deposit is "
+"refunded at that time."
+msgstr ""
+"La consigne est un prix supplémentaire facturé par le-la fournisseur-e pour "
+"des contenants livrés avec la commande (bouteilles, caisses). En général, "
+"ces contenants sont récupérés lors de la livraison suivante, et la consigne "
+"est remboursée à ce moment là."
+
+#: ../../products.rst:47
+msgid "Availability"
+msgstr "Disponibilité"
+
+#: ../../products.rst:49
+msgid ""
+"To avoid deleting a product that is unavailable only temporarily (for "
+"reasons of exhaustion of stock or seasonality), one or more products may "
+"be *marked as unavailable* by ticking the box to the left of their name "
+"and using the drop-down list at the bottom of the list."
+msgstr ""
+"Pour éviter de supprimer un produit qui n'est indisponible que "
+"temporairement (pour des raisons d'épuisement de stock ou de saisonnalité), "
+"un ou plusieurs produits peuvent être *marqués comme indisponibles* en "
+"cochant la case à gauche de leur nom et en utilisant la liste déroulante en "
+"bas de la liste."
+
+#: ../../products.rst:52
+msgid "Shared directory"
+msgstr "Annuaire mutualisé"
+
+#: ../../products.rst:54
+msgid ""
+"It makes it possible to share information on the suppliers of the same "
+"region between several boufcoops. To access it, click on the white button"
+" at the top right of the *directory* page, accessible under the "
+"*Products* tab of the main menu. If a shared directory has been "
+"configured during the installation of Foodsoft, you will see the list of "
+"suppliers. To access it in your boufcoop, you just have to *subscribe*."
+msgstr ""
+"Il permet de partager des informations sur les fournisseur-e-s d'une même "
+"région entre plusieurs boufcoops. Pour y accéder, clique sur le bouton blanc"
+" en haut à droite de la page de l'*annuaire*, accessible sous l'onglet "
+"*Produits* du menu principal. Si un annuaire mutualisé a bien été configuré "
+"lors de l'installation de Foodsoft, tu verras alors la liste des "
+"fournisseur-e-s. Pour y avoir accès dans ta boufcoop, il te suffit de t'y "
+"*abonner*."

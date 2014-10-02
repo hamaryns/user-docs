@@ -11,6 +11,15 @@ Welcome to Foodsoft's documentation!
    :caption: Contents:
    :glob:
 
+   structure
+   communication
+   order
+   cooperate
+   products
+   cellar
+   finance
+   administration
+
    tutorials/*
 
 Indices and tables

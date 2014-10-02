@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Foodsoft developers
+# This file is distributed under the same license as the Foodsoft package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodsoft 4.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-02 17:17\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: ../../communication.rst:3
+msgid "Communicate"
+msgstr "Communiquer"
+
+#: ../../communication.rst:6
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ../../communication.rst:8
+msgid ""
+"The Wiki is accessible from the main foodsoft menu. It is often used to "
+"publish reports meetings and internal documentation explaining the "
+"operation of the Boufcoop."
+msgstr ""
+"Le Wiki est accessible depuis le menu principal de foodsoft. Il est en "
+"souvent utilisé pour publier les compte-rendus de réunions et de la "
+"documentation interne expliquant le fonctionnement de la boufcoop."
+
+#: ../../communication.rst:11
+msgid ""
+"To create a new page, go to *All Pages*, then *Create New Page*. Then "
+"write the content in using the formatting wizard on the right to get a "
+"nice rendering. Unfortunately the current version does not allow to "
+"insert images."
+msgstr ""
+"Pour créer une nouvelle page, va dans *Toutes les pages*, puis *Créer une "
+"nouvelle page*. Ensuite, écris le contenu en utilisant l’assistant de mise "
+"en forme sur la droite pour obtenir un joli rendu. Malheureusement la "
+"version actuelle ne permet pas d’insérer des images."
+
+#: ../../communication.rst:16
+msgid "messaging"
+msgstr "Messagerie"
+
+#: ../../communication.rst:18
+msgid ""
+"The *Internal Messaging* is accessible from the main menu, under the "
+"*Boufcoop* tab. Its operation is similar to that of a forum. When sending"
+" a message, it can be sent to all members of the same cell or the same "
+"team. Members can configure their profile to receive or not these "
+"messages in their mailbox, or only on Foodsoft."
+msgstr ""
+"La *Messagerie* interne est accessible depuis le menu principal, sous "
+"l’onglet *Boufcoop*. Son fonctionnement est similaire à celui d'un forum. "
+"Lors de l'envoi d'un message, on peut l'adresser à tou-te-s les membres "
+"d'une même cellule ou d'une même équipe. Les membres peuvent configurer leur"
+" profil pour recevoir ou non ces messages dans leur boîte mail, ou seulement"
+" sur Foodsoft."

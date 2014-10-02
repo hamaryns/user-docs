@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Foodsoft developers
+# This file is distributed under the same license as the Foodsoft package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodsoft 4.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-02 17:17\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: ../../cooperate.rst:3
+msgid "Cooperate"
+msgstr "Coopérer"
+
+#: ../../cooperate.rst:5
+msgid ""
+"Foodsoft integrates a shared job manager, which can be useful so that the"
+" tasks necessary for the smooth operation of a boomcoop are carried out, "
+"and that each one can evaluate its level of investment compared to "
+"others."
+msgstr ""
+"Foodsoft intègre un gestionnaire de boulots partagés, qui peut être utile "
+"pour que les tâches nécessaires au bon fonctionnement d'une boufcoop soient "
+"effectuées, et que chacun-e puisse évaluer son niveau d'investissement par "
+"rapport aux autres."
+
+#: ../../cooperate.rst:8
+msgid "To do a job"
+msgstr "Effectuer un boulot"
+
+#: ../../cooperate.rst:10
+msgid ""
+"Your calendar is accessible under the *Boufcoop* tab of the main menu. "
+"The jobs that are proposed to you depend on the teams of which you are a "
+"member (see :ref:`structure`). For each of them, the table includes the "
+"following information"
+msgstr ""
+"Ton agenda est accessible sous l'onglet *Boufcoop* du menu principal. Les "
+"boulots qui te sont proposés dépendent des équipes dont tu es membre (voir "
+":ref:`structure`). Pour chacun d'entre eux, le tableau regroupe les "
+"informations suivantes"
+
+#: ../../cooperate.rst:14
+msgid "the due date"
+msgstr "la date d'échéance"
+
+#: ../../cooperate.rst:15
+msgid "the job title"
+msgstr "l'intitulé du boulot"
+
+#: ../../cooperate.rst:16
+msgid ""
+"people already registered (in green), as well as the number of people "
+"still to be filled (in red),"
+msgstr ""
+"les personnes déjà inscrites (en vert), ainsi que le nombre de personnes "
+"encore à pourvoir (en rouge),"
+
+#: ../../cooperate.rst:17
+msgid "the *Charge you this job* button"
+msgstr "le bouton *Te charger de ce boulot*"
+
+#: ../../cooperate.rst:19
+msgid ""
+"Click on this button if you want to register to do this job. You can also"
+" access a more complete description by clicking on the job name in the "
+"*Activity* column. Once you are registered, you will see your name in the"
+" list of people in green, and you will have access to the button "
+"*Performed?* Which is used to indicate to Foodsoft that the job has been "
+"done. It will suffice for that **one** of the people registered click on "
+"this button."
+msgstr ""
+"Clique sur ce bouton si tu souhaites t'inscrire pour effectuer ce boulot. Tu"
+" peux aussi accéder à une description plus complète en cliquant sur le nom "
+"du boulot dans la colonne *Activité*. Une fois que tu es inscrit-e, tu "
+"verras ton nom dans la liste des personnes en vert, et tu auras accès au "
+"bouton *Effectué?* qui sert à indiquer à Foodsoft que le boulot a bien été "
+"effectué. Il suffira pour cela que **l'une** des personnes inscrites clique "
+"sur ce bouton."
+
+#: ../../cooperate.rst:25
+msgid "The system of acorns"
+msgstr "Le système de glands"
+
+#: ../../cooperate.rst:27
+msgid ""
+"The \"tassels\" allow the cells to measure their level of investment "
+"relative to that of other cells. The number of acorns is calculated as "
+"follows. For each cell, Foodsoft measures the number of hours worked "
+"during a certain period, and divides it by the price of orders placed "
+"during the same period. The hour / euro ratio obtained is then divided "
+"again by the same hour / euro ratio calculated for the whole of the "
+"boofcoop. Finally, the result is multiplied by 100 to obtain a "
+"percentage."
+msgstr ""
+"Les \"glands\" permettent aux cellules de mesurer leur niveau "
+"d'investissement respectif par rapport à celui des autres cellules. Le "
+"nombre de glands est calculé de la facon suivante. Pour chaque cellule, "
+"Foodsoft mesure le nombre d'heures coopérées pendant une certaine période, "
+"et le divise par le prix des commandes passées pendant la même période. Le "
+"rapport heure/euro obtenu est ensuite à nouveau divisé par le même rapport "
+"heure/euro calculé pour l'ensemble de la boofcoop. Finalement, le résultat "
+"est multiplié par 100 afin d'obtenir un pourcentage."
+
+#: ../../cooperate.rst:31
+msgid ""
+"Thus, if your cell has 100 acorns, it means that your cooperation / "
+"orders ratio is identical to the average of the boufcoop. On the other "
+"hand, 50 acorns mean that you make half as many cooperation hours as the "
+"average for each euro ordered. Attention, the number of acorns is not "
+"updated in real time, but only during the following three operations:"
+msgstr ""
+"Ainsi, si ta cellule a 100 glands, cela signifie que votre rapport "
+"coopération/commandes est identique à la moyenne de la boufcoop. Par contre "
+"50 glands signifient que vous faites deux fois moins d'heures de coopération"
+" que la moyenne pour chaque euro commandé. Attention, le nombre de glands "
+"n'est pas mis à jour en temps réel, mais seulement lors des trois opérations"
+" suivantes:"
+
+#: ../../cooperate.rst:34
+msgid "adding a member to the cell,"
+msgstr "ajout d'un-e membre à la cellule,"
+
+#: ../../cooperate.rst:35
+msgid "closing of an order to which the cell takes part,"
+msgstr "clôture d'une commande à laquelle la cellule prend part,"
+
+#: ../../cooperate.rst:36
+msgid ""
+"modification of a job in which one of the members of the cell is "
+"participating (including marking it as completed)."
+msgstr ""
+"modification d'un boulot auquel l'un-e des membres de la cellule participe "
+"(y compris le fait de le marquer comme terminé)."
+
+#: ../../cooperate.rst:38
+msgid ""
+"Acorns are primarily a tool for personal assessment of investment, and "
+"are therefore never made public to other cells. Only administrators who "
+"have the password to access the database can possibly consult them. When "
+"configuring Foodsoft, it is possible to set up a minimum of acorns needed"
+" to place an order. Any cell that falls below this minimum will no longer"
+" be able to command unless you contact the webmaster to set up an "
+"exception. For new cells, the minimum is not taken into account before "
+"the 6th order."
+msgstr ""
+"Les glands sont avant tout un outil d'évaluation personnelle de "
+"l'investissement, et ne sont donc jamais rendu publics aux autres cellules. "
+"Seuls les administrat-rice-eur-s qui ont le mot de passe pour accéder à la "
+"base de données peuvent éventuellement les consulter. Lors de la "
+"configuration de Foodsoft, il est possible de mettre en place un minimum de "
+"glands nécessaire pour pouvoir passer une commande. Toute cellule qui tombe "
+"en dessous de ce minimum ne pourra alors plus commande, à moins de contacter"
+" le-la webmaster pour mettre en place une exception. Pour les nouvelles "
+"cellules, le minimum n'est de toute facon pas pris en compte avant la 6ème "
+"commande."
+
+#: ../../cooperate.rst:42
+msgid "Define a job"
+msgstr "Définir un boulot"
+
+#: ../../cooperate.rst:44
+msgid ""
+"For *Define a new job*, click on the blue button at the top right of the "
+"*Agenda, accessible under the* Boufcoop * tab of the main menu. Choose a "
+"brief title for the proposed *activity* and then a detailed *description*"
+" of the task at hand. Do not forget the logistical details (place and "
+"time of appointment, tools to bring, etc.). It is not necessary to fill "
+"in the *Registered Managers* line at this point, as members will register"
+" themselves. Just specify the *number of people needed*, as well as the "
+"*team* involved. You can leave the *team* field blank if you want the job"
+" to be accessible to all members. Finally, choose the due date, and "
+"validate by clicking on the blue button at the bottom of the page."
+msgstr ""
+"Pour *Définir un nouveau boulot*, clique sur le bouton bleu en haut à droite"
+" de l'*Agenda, accessible sous l'onglet *Boufcoop* du menu principal. "
+"Choisis un bref titre pour l'*activité* proposée, puis entre une "
+"*description* détaillée de la tâche à accomplir. N'oublie pas les détails "
+"logistiques (lieu et heure du rendez-vous, outils à amener, etc.). Il n'est "
+"pas nécessaire de remplir la ligne *Responsables inscritEs* à ce stade, car "
+"les membres viendront s'inscrire elleux mêmes. Spécifie juste le *nombre de "
+"personnes nécessaires*, ainsi que l'*équipe* concernée. Tu peux laisser le "
+"champ *équipe* vide si tu veux que le boulot soit accessible à tou-te-s les "
+"membres. Finalement, choisis la date d'échéance, et valide en cliquant sur "
+"le bouton bleu en bas de la page."
