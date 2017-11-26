@@ -16,7 +16,7 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -30,7 +30,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.todo']
+extensions = ['sphinx.ext.todo', 'sphinxcontrib_robotframework']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -63,7 +63,7 @@ release = u'4.6'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = os.getenv('LANG', 'en')
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -76,6 +76,18 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
 
+# Enable Robot Framework tests during Sphinx compilation.
+sphinxcontrib_robotframework_enabled = True
+
+# Hide Robot Framework syntax from the Sphinx output by default
+# (preferred, when you use the extension for scripted screenshots)
+sphinxcontrib_robotframework_quiet = True
+
+# Configure Robot Frameowrk tests to use Firefox
+sphinxcontrib_robotframework_variables = {
+    'BROWSER': 'ff',
+    'LANGUAGE': language
+}
 
 # -- Options for HTML output ----------------------------------------------
 

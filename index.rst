@@ -12,6 +12,7 @@ Welcome to Foodsoft's documentation!
    :glob:
 
    tutorials/*
+   screenshot
 
 Indices and tables
 ==================
