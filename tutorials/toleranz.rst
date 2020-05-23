@@ -1,4 +1,4 @@
-Tolanzen
+Tutorial - How to do Toleranzen
 ========
 Manche LieferantInnen liefern keine einzelnen Packungen, sondern nur ganze Gebinde an, die wir aber unter uns aufteilen können. Ähnlich ist es bei Waren, die lose in einer Großpackung bestellt werden, aus der sich dann jede Bestellgruppe ihre bestellte Menge herausschöpft.
 Durch die Bestellungen der Bestellgruppe wird die Gebindegröße wahrscheinlich nicht genau erreicht. Beispiel: 28 Packungen wurden bestellt, es gibt 10 Packungen je Gebinde – daher werden nur 2 Gebinde, also 20 Packungen bestellt und viele Bestellgruppen gehen leer aus. Wenn sich aber jemand bereit erklärt hätte, in so einem Fall 2 Packungen zusätzlich zu nehmen, könnten 30 (also 3 Gebinde) bestellt werden.
