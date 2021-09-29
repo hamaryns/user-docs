@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-09-29T15:35:02.104Z
+date: 2021-09-29T16:05:08.847Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -171,7 +171,13 @@ Falls nicht:
 - **Pfandbereinigter Betrag **größer als** Total**: Lieferant verrechnet mehr, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht Verlust.
 - **Pfandbereinigter Betrag **kleiner als** Total**: Lieferant verrechnet weniger, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht “Gewinn”.
 
-Unter Finanzen \> Bestellungen abrechnen \> … findest du ebenfalls eine Gegenüberstellung von Bestellung und Rechnung, die allerdings nur dann brauchbar ist, wenn es genau eine Bestellung gibt, die der Rechnung zugeordnet wird. Werden mehrere Bestellungen zugeordnet, wird immer nur die aktuelle Bestellung mit der gesamten Rechnung verglichen.
+> Unter Finanzen \> Bestellungen abrechnen \> … findest du ebenfalls eine Gegenüberstellung von Bestellung und Rechnung, die allerdings nur dann brauchbar ist, wenn es genau eine Bestellung gibt, die der Rechnung zugeordnet wird. Werden mehrere Bestellungen zugeordnet, wird immer nur die aktuelle Bestellung mit der gesamten Rechnung verglichen.
+{.is-warning}
+
+
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden.
+{.is-danger}
+
 
 
 <h2 id="rechpruef-bezfreig" class="toc-header"><a class="toc-anchor" href="#rechpruef-bezfreig"></a>Rechnung zur Bezahlung freigeben</h2>
