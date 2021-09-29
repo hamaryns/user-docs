@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T15:51:58.967Z
+date: 2021-09-29T15:54:04.450Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -17,7 +17,7 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 {.is-warning}
 
 
-> Diese Dokumentation ist in einem  [Wiki.js](wiki) angelegt. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
+> Diese Dokumentation ist in einem  [Wiki.js](wiki) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
 {.is-info}
 
 <h2 id="fsdoc-anw" class="toc-header"><a class="toc-anchor" href="#fsdoc-anw"></a>Foodsoft Anwendung</h2>
