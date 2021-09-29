@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-06-07T06:45:54.481Z
+date: 2021-09-29T16:03:55.205Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -317,6 +317,10 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
 7. Ansichtsoptionen \> Gruppenübersicht: Anteil an Transportkosten für jede Bestellgruppe wird angezeigt
 
 8. Solange die Bestellung noch nicht abgerechnet wurde, kann der Vorgang ab Schritt 3 wiederholt werden, um Korrekturen vorzunehmen, nachdem die Ansichtsoption wieder auf “Bestellung bearbeiten” zurückgesetzt wurde.
+
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden.
+{.is-danger}
+
 
 <h1 id="bestellungabrechnen" class="toc-header"><a class="toc-anchor" href="#bestellungabrechnen"></a>Bestellung abrechnen</h1>
 
