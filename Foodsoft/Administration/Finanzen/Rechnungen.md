@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-09-29T15:19:27.608Z
+date: 2021-09-29T15:35:02.104Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -77,6 +77,14 @@ Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Bank�
 
 Von Rechnung übernehmen. 
 
+Für die Eingabe des Datums gibt es folgende alternative Möglichkeiten
+1. Über die Kalenderfunktion: im erscheinenden Kalender das Datum auswählen; diese Art ist auf mobilen Geräten aufgrund des kleinen Displays oft schwierig anzuwenden.
+1. Eingabe im Textfeld **genau im Format** `2021-09-29` (also zuerst Jahr 4-stellig, Bindestrich, in der Mitte Monat zweistellig ggf. mit führender Null, Bindestrich,am Ende Tag zweistellig ggf. mit führender Null). 
+
+> Wenn das Datum im falschen Format eingegeben wird, interpretiert die Foodsoft das Datum und insbesondere das Jahr falsch, und die Rechnung ist nachher scheinbar verschwunden, weil sie z.B. im Jahr 21 n.Chr. (statt 2021) angelegt ist.
+{.is-warning}
+
+
 > Rechungen werden in der Liste der Rechnungen nach dem Rechnungsdatum sortiert. Wenn dieses Feld leer gelassen wird, erscheint die Rechnung ganz am Ende der Liste der Rechnungen, statt am Anfang, wo neue Rechnungen sonst zu finden sind. Auch wenn ein falsches Datum (z.B. falsches Jahr) eingegeben wird, ist die Rechnung in der Liste schwerer aufzufinden.
 {.is-warning}
 
@@ -141,7 +149,7 @@ Um eine bereits angelegte Rechnung anzuzeigen:
 
 Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben anzeigen und dann “bearbeiten” auswählen. Zusätzlich gibt es noch die Möglichkeit über Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung bearbeiten.
 
-<h1 id="rechpruef" class="toc-header"><a class="toc-anchor" href="#rechpruef"></a>>Rechnung prüfen</h1>
+<h1 id="rechpruef" class="toc-header"><a class="toc-anchor" href="#rechpruef"></a>Rechnung prüfen</h1>
 
 Unter Finanzen \> Übersicht \> unbezahlte Rechnung wir die Differenz zwischen Foodsoft Buchungen von den Mitgliederkonten und dem pfandbereinigten Rechnungsbetrag angezeigt, wenn sie nicht null ist:
 - roter minus-Betrag: Foodcoop macht Verlust
@@ -170,7 +178,7 @@ Unter Finanzen \> Bestellungen abrechnen \> … findest du ebenfalls eine Gegen�
 
 Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von Rechnungen andere Personen zuständig sind. 
 
-<h1 id="rechbezkenn" class="toc-header"><a class="toc-anchor" href="#rechbezkenn"></a>>Rechungen als bezahlt kennzeichnen</h1>
+<h1 id="rechbezkenn" class="toc-header"><a class="toc-anchor" href="#rechbezkenn"></a>Rechungen als bezahlt kennzeichnen</h1>
 
 Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
 
