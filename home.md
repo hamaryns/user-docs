@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T21:17:06.286Z
+date: 2021-09-29T21:18:48.030Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -32,7 +32,7 @@ Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen 
 - [Dokumente](/de/Foodsoft/Anwendung/Dokumente)
 {.links-list}
 
-<h2 id="fsdoc-admin" class="toc-header"><a class="toc-anchor" href="#fsdoc-admin"></a>Foodsoft Administration</h2>
+## Foodsoft Administration
 
 Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann, und wir ihr sie einrichten könnt. Auch im laufenden Betrieb der Foodcoop braucht die Foodsoft  Administratorinnen, die sich im Hintergrund darum kümmern, dass es regelmäßig etwas zu Bestellen gibt, Artikel in der Foodsoft aktuell sind, und auch die Bestellungen abgrechnet werden. 
 
@@ -56,7 +56,7 @@ Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert un
 > Dieser Teil ist noch nicht hierher übertragen. Schau mal auf https://github.com/foodcoops/foodsoft 
 {.is-danger}
 
-<h2 id="fsdoc-alt" class="toc-header"><a class="toc-anchor" href="#fsdoc-alt"></a>Andere Foodsoft Dokumentationen</h2>
+## Andere Foodsoft Dokumentationen
 
 Diese Dokumentationen sind unvollständig und nicht aktuell.
 
