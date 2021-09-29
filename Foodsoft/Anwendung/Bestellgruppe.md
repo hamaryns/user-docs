@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-06-06T17:22:04.615Z
+date: 2021-09-29T17:07:03.323Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -80,7 +80,7 @@ Hier kannst du einstellen, welche Art von Foodsoft-Nachrichten du bekommst:
 > Solange du in deiner Foodcoop aktiv bist, und in deiner Foodcoop Foodsoft Nachrichten verwendet werden, solltest du „Bekomme Nachrichten als E-Mails“ unbedingt aktiviert haben, damit du z.B. erfährst, wann es was zu bestellen gibt, wo Mithilfe benötigt wird, wann es Treffen gibt wo du dabei sein solltest. 
 {.is-info}
 
-> Sobald du „Bekomme Nachrichten als E-Mails“ deaktivierst, bekommst du von deiner Foodcoop keine Emails mehr, und bist damit quasi nicht mehr ansprechbar, außer du schaust regelmeäßig in die Foodsoft, ob Nachrichten für dich eingelangt sind. 
+> Sobald du „Bekomme Nachrichten als E-Mails“ deaktivierst, bekommst du von deiner Foodcoop keine Emails mehr, und bist damit quasi nicht mehr ansprechbar, außer du schaust regelmäßig in die Foodsoft, ob Nachrichten für dich eingelangt sind. 
 {.is-warning}
 
 
