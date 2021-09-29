@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T21:24:05.802Z
+date: 2021-09-29T21:29:16.180Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -41,9 +41,9 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - [Bestellungen](/de/Foodsoft/Administration/Bestellungen)
 - [Lager](/de/Foodsoft/Administration/Lager)
 - [Finanzen](/de/Foodsoft/Administration/Finanzen)
-- [Foodsoft-Konten](/de/Foodsoft/Administration/Finanzen/Konten)
-- [Foodcoop-Bankkonto](/de/Foodsoft/Administration/Finanzen/Bankkonto)
-- [Rechnungen](/de/Foodsoft/Administration/Finanzen/Rechnungen)
+- Finanzen: [Foodsoft-Konten](/de/Foodsoft/Administration/Finanzen/Konten) 
+- Finanzen: [Foodcoop-Bankkonto](/de/Foodsoft/Administration/Finanzen/Bankkonto)
+- Finanzen: [Rechnungen](/de/Foodsoft/Administration/Finanzen/Rechnungen)
 - [Benutzerinnen (Menü Administration)](/de/Foodsoft/Administration/Benutzerverwaltung)
 - [Einstellungen (Menü Administration)](/de/Foodsoft/Administration/Einstellungen)
 {.links-list}
