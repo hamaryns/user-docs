@@ -2,7 +2,7 @@
 title: Abholung
 description: 
 published: true
-date: 2021-09-29T20:43:23.736Z
+date: 2021-09-29T20:57:26.806Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-18T12:57:04.492Z
@@ -16,6 +16,8 @@ Wenn die Funktion „Abholtage“ für dich oder für alle freigegeben ist, kann
 
 > Falls die Funktion nicht freigegeben ist, kannst du eine Administratorin deiner Foodsoft bitten, sie  freizuschalten.
 {.is-warning}
+
+Test
 
 ## Wer hat was bestellt? Bestelllisten generieren (Abholtage)
 > Für Mitglieder zum Abholen Liste aller Bestellungen nach Bestellgruppen gruppiert erstellen:
