@@ -2,13 +2,13 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T15:59:14.316Z
+date: 2021-09-29T21:17:06.286Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
 ---
 
-<h1 id="fsdoc" class="toc-header"><a class="toc-anchor" href="#fsdoc"></a>Foodsoft Dokumentation</h1>
+# Foodsoft Dokumentation
 
 Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/Foodsoft/videos) zu ausgewählten Funktionen. Sie wird, genauso wie die Foodsoft-Software, von freiwilligen Foodcoop-EnthusiastInnen unentgeltlich in ihrer Freizeit erstellt. 
 
@@ -21,7 +21,7 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 > Diese Dokumentation ist in einem  [Wiki.js](wiki) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
 {.is-info}
 
-<h2 id="fsdoc-anw" class="toc-header"><a class="toc-anchor" href="#fsdoc-anw"></a>Foodsoft Anwendung</h2>
+## Foodsoft Anwendung
 
 Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen kennenlernen möchtest, bist du hier richtig. 
 - [Starten und Navigieren](/de/Foodsoft/Anwendung/Navigation)
@@ -49,7 +49,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 {.links-list}
 
 
-<h2 id="fsdoc-dev" class="toc-header"><a class="toc-anchor" href="#fsdoc-dev"></a>Foodsoft Programmierung</h2>
+## Foodsoft Programmierung
 
 Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du etwas dazu beitragen möchtest, bist du hier am richtigen Platz.
 
@@ -65,7 +65,7 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 {.links-list}
 
 
-<h2 id="fsdoc-altapp" class="toc-header"><a class="toc-anchor" href="#fsdoc-altapp"></a>Foodsoft Alternativen</h2>
+## Foodsoft Alternativen
 
 
 - [Foodcoop-Shop](https://www.foodcoopshop.com/)
@@ -75,7 +75,7 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 > Warum in einer Doku für die Foodsoft "Werbung" für alterative Möglichkeiten? Falls sich jemand hierher z.B. auf der Suche nach einer Doku für den Foodcoopshop verirrt hat, oder sich einen Überblick über Foodsoft Apps verschaffen möchte, oder einfach mal wissen möchte, was es denn mit dieser "anderen Foodsoft" auf sich hat.
 {.is-info}
 
-<h1 id="otherres" class="toc-header"><a class="toc-anchor" href="#otherres"></a>Andere Dokumentationen für Foodcoops</h1>
+# Andere Dokumentationen für Foodcoops
 
 - [Das Foodcoop Handbuch](https://handbuch.foodcoops.at/)
 - [Organisiert euch! Handbuch](https://organisiert-euch.org/)
