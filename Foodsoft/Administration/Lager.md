@@ -2,7 +2,7 @@
 title: Lager
 description: Menü Artikel > Lager
 published: true
-date: 2021-09-29T14:53:49.378Z
+date: 2021-09-29T15:10:15.049Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:55:48.199Z
@@ -111,7 +111,7 @@ Lieferantin und Artikel anlegen: siehe [Lieferantinnen](Lieferantinnen).
 
 <h1 id="lagerartikelbestellen" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen"></a>Lagerartikel bei Lieferantin bestellen</h1>
 
-<h2 id="lagerartikelbestellen-foodsoft" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen-foodsoft"></a>Bestellen über die Foodsoft</h2>
+<h2 id="lagerartikelbestellen-foodsoft" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen-foodsoft"></a>Variante 1: Bestellen über die Foodsoft</h2>
 
 Wenn eine Bestellung für die Mitglieder bei einer Lieferantin angelegt ist, können auch Artikel fürs Lager bei dieser Lieferantin mitbestellt werden: 
 
@@ -119,21 +119,29 @@ Bestellen \> Bestellverwaltung \> Bestellung anzeigen \> Lagerbestellung.
 
 Es kann auch eine Bestellung nur für eine Lagerbestellung angelegt werden, um eine Bestellliste für die Lieferantin zu erstellen, und dann die Bestellung gleich wieder geschlossen werden, wenn nicht erwünscht ist, dass Mitglieder bei der Lieferantin direkt bestellen. Eine Funktion, die es ermöglicht, bestimmte Artikel nur für die Lagerbestellung freizuschalten, aber nicht für Mitglieder (z.B. Öl-Lieferantin: Kanister Großgebinde 5L nur für Lagerbestellung, 1L-Flaschen für Mitglieder) gibt es derzeit noch nicht.
 
-Wie bei den Bestellungen beschrieben, kann nach Abschluss der Bestellung eine Bestellliste z.B. im PDF -Format erstellt und die Lieferantin geschickt werden. 
+
+> Wie bei den Bestellungen beschrieben, kann nach Abschluss der Bestellung eine Bestellliste z.B. im PDF-Format erstellt und die Lieferantin geschickt werden. 
+Der Vorteil ist, dass bei dieser Bestellliste auch die in der Foodsoft hinterlegten Preise angeführt werden, und der Lieferant rückmelden kann, wenn diese nicht stimmen. Besonders bei vielen verschiedenen Artikeln ist diese Methode oft einfacher, wenn Foodcoop-Mitglieder direkt mitbestellen sollen, ist diese Variante ein Muss.  
+{.is-success}
+
 
 > Leider gibt es in der Foodsoft noch keine Verknüpfung der Funktionen Lagerbestellung und Lieferung, sodass in jedem Fall die Anzahl der gelieferten Artikel in der Funktion „Lieferung“ (siehe nächster Abschnitt) neu eingegeben werden muss, unabhängig davon, ob dies bereits bei einer Lagerbestellung vorher erfolgt ist. 
 {.is-danger}
 
->Da beim Anlegen der Rechnung und Zuordnung von Bestellung (für Bestellgruppen und Lager) und Lieferung ins Lager der Lageranteil doppelt berücksichtigt würde, wird empfohlen, nach beendeter Bestellung mit *Bestellung in Empfang nehmen* die Artikel der Lager-Lieferung herauszunehmen (d.h. die Stückzahl für jeden Artikel um die Ajeweilige Anzahl der Lagerartikel zu reduzieren), und bei *Bestellung abrechnen* die Bestellungen fürs Lager ebenfalls auf 0 zu setzen.
+>Da beim Anlegen der Rechnung und Zuordnung einer gemeinsamen Bestellung für Bestellgruppen und Lager sowie der Lieferung ins Lager der Lageranteil doppelt berücksichtigt würde, wird in diesem Fall empfohlen, nach beendeter Bestellung mit *Bestellung in Empfang nehmen* die Artikel der Lager-Lieferung herauszunehmen (d.h. die Stückzahl für jeden Artikel um die Ajeweilige Anzahl der Lagerartikel zu reduzieren), und bei *Bestellung abrechnen* die Bestellungen fürs Lager ebenfalls auf 0 zu setzen.
 {.is-danger}
 
 
 
-<h2 id="lagerartikelbestellen-manuell" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen-manuell"></a>Sonstige Bestellvarianten für Lagerartikel</h2>
+<h2 id="lagerartikelbestellen-manuell" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen-manuell"></a>Variante 2: Bestellung Lagerartikel ohne Foodsoft</h2>
 
-Ansonsten kann eine Bestellung fürs Lager auch direkt bei der Lieferantin z.B. per Telefon, Email oder über einen Webshop erfolgen, ohne die Foodsoft zu verwenden. 
+Alternativ kann eine Bestellung fürs Lager auch direkt bei der Lieferantin z.B. per Telefon, Email oder über einen Webshop erfolgen, ohne die Foodsoft zu verwenden. 
 
-> Wichitg ist auch in diesem Fall der nächste Schritt, nämlich über eine Lieferung die Artikel ins Lager einzubringen.
+> Besonders bei wenigen Artikeln ist diese Variante oft die einfachere. 
+{.is-success}
+
+
+> Wichtig ist auch in diesem Fall der nächste Schritt, nämlich über eine Lieferung die Artikel ins Lager einzubringen.
 {.is-warning}
 
 <h1 id="lieferungeinbringen" class="toc-header"><a class="toc-anchor" href="#lieferungeinbringen"></a>Lieferung: Artikel ins Lager einbringen</h1>
