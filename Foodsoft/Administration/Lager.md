@@ -2,7 +2,7 @@
 title: Lager
 description: Menü Artikel > Lager
 published: true
-date: 2021-05-14T22:36:40.097Z
+date: 2021-09-29T14:53:49.378Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:55:48.199Z
@@ -121,7 +121,10 @@ Es kann auch eine Bestellung nur für eine Lagerbestellung angelegt werden, um e
 
 Wie bei den Bestellungen beschrieben, kann nach Abschluss der Bestellung eine Bestellliste z.B. im PDF -Format erstellt und die Lieferantin geschickt werden. 
 
-> Leider gibt es in der Foodsoft noch keine Verknüpfung der Funktionen Lagerbestellung und Lieferung, sodass in jedem Fall die Anzahl der gelieferten Artikel in der Funktion „Lieferung“ (siehe nächster Abschnitt) neu eingegeben werden muss, unabhängig davon, ob dies bereits bei einer Lagerbestellung vorher erfolgt ist.
+> Leider gibt es in der Foodsoft noch keine Verknüpfung der Funktionen Lagerbestellung und Lieferung, sodass in jedem Fall die Anzahl der gelieferten Artikel in der Funktion „Lieferung“ (siehe nächster Abschnitt) neu eingegeben werden muss, unabhängig davon, ob dies bereits bei einer Lagerbestellung vorher erfolgt ist. 
+{.is-danger}
+
+>Da beim Anlegen der Rechnung und Zuordnung von Bestellung (für Bestellgruppen und Lager) und Lieferung ins Lager der Lageranteil doppelt berücksichtigt würde, wird empfohlen, nach beendeter Bestellung mit *Bestellung in Empfang nehmen* die Artikel der Lager-Lieferung herauszunehmen (d.h. die Stückzahl für jeden Artikel um die Ajeweilige Anzahl der Lagerartikel zu reduzieren), und bei *Bestellung abrechnen* die Bestellungen fürs Lager ebenfalls auf 0 zu setzen.
 {.is-danger}
 
 
@@ -152,6 +155,13 @@ Details siehe **Tutorial - Lagerartikel anlegen und einbringen.pdf**
 > Preise von Lagerartikeln können nicht geändert werden. Wenn eine neue Lieferung mit einem anderen Preis ankommt, muss der Lagerbestand der alten Artikel Null sein, damit dieser Lagerrtikel gelöscht werden und mit einem anderen Preis neu angelegt werden kann. Ansonsten muss für die neuen Artikel ein weiterer Lagerartikel mit dem neuen Preis unter einer anderen Artikelbezeichnung angelegt wrrden, z.B. "Rosinen" (Altbestand) und "Rosinen 2021-05" für die neuen). 
 {.is-warning}
 
+<h1 id="lagerbestellungrechnung" class="toc-header"><a class="toc-anchor" href="#lagerbestellungrechnung"></a>Rechnung für Lieferung anlegen</h1>
+
+Anlegen möglich 
+1. direkt nach Eingabe der Lieferung, oder
+1. jederzeit (auch später) über Rechnung > neue Rechnung anlegen > Lieferant > Lieferung anhand Datum auswählen
+
+
 <h1 id="lagerbestellunganlegen" class="toc-header"><a class="toc-anchor" href="#lagerbestellunganlegen"></a>Lagerbestellung für Mitglieder anlegen</h1>
 
 Die Lagerbestellung ermöglich es den Foocoop Mitgliedern, Artikel aus dem Lager zu bestellen. Diese Bestellung scheint dann für Mitglieder bei den anderen Bestellungen mit dem Lieferantinnenname **Lager** auf. 
@@ -165,6 +175,8 @@ Tipps:
 
 - Wöchentlich eine Lagerbestellung mit dem üblichen Abholtag der anderen Bestellungen anlegen (z.B. Lagerbestellung Sonntag bis Mittwoch, Abholung Freitag). Diese Lagerbestellung scheint dann in den Bestelllisten unter Bestellen \> Abholtage auf.
 - Wöchentlich eine Lagerbestellung für spontan bei der Abholung mitzunehmende Artikel anlegen, zeitversetzt zur ersten Lagerbestellung (Beispiel: Mittwoch bis Dienstag). Hier können Lagerartikel bestellt werden, bevor sie spontan mitgenommen werden. Allerdings kommt es trotzdem immer wieder vor, dass Mitglieder Artikel mitnehmen, ohne sie vorher zu bestellen (z.B. weil sie dazu gerade keine Zeit haben, oder auch weil sie die Artikel in der Foodsoft Lagerbestellung gerade nicht finden), dann aber zuhause feststellen, dass der Artikel gar nicht bestellbar ist, meist deshalb, weil ihn bereits wer anderer bestellt, aber noch nicht abgeholt hatte.
+
+
 
 <h1 id="inventuranlegen" class="toc-header"><a class="toc-anchor" href="#inventuranlegen"></a>Inventur anlegen</h1>
 
