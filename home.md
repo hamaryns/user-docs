@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T15:45:35.374Z
+date: 2021-09-29T15:51:58.967Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -66,12 +66,13 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 
 <h2 id="fsdoc-altapp" class="toc-header"><a class="toc-anchor" href="#fsdoc-altapp"></a>Foodsoft Alternativen</h2>
 
-> mario fragt: warum in einer doku werbung für andere applikation? Mirko meint dazu: falls sich jemand hierher auf der Suche nach einer Doku für den Foodcoopshop verirrt hat, oder sich einen Überblick über Foodsoft Apps verschaffen möchte, oder einfach mal wissen möchte, was es denn mit dieser "anderen Foodsoft" auf sich hat - würde das nicht als "Werbung" sehen, da ja niemand mit der Foodsoft Profit betreibt. Und falls jemand mit der Foodsoft unzufrieden ist: wenn er/sie meint, der Foodcoopshop sei für die eigene Foodcoop die bessere Foodsoft, dann soll es eben so sein...
-{.is-info}
-
 
 - [Foodcoop-Shop](https://www.foodcoopshop.com/)
+- Abrechnung über Papierlisten (vielleicht mag jemand eine Anleitung dazu schreiben?)
 {.links-list}
+
+> Warum in einer Doku für die Foodsoft "Werbung" für alterative Möglichkeiten? Falls sich jemand hierher z.B. auf der Suche nach einer Doku für den Foodcoopshop verirrt hat, oder sich einen Überblick über Foodsoft Apps verschaffen möchte, oder einfach mal wissen möchte, was es denn mit dieser "anderen Foodsoft" auf sich hat.
+{.is-info}
 
 <h1 id="otherres" class="toc-header"><a class="toc-anchor" href="#otherres"></a>Andere Dokumentationen für Foodcoops</h1>
 
