@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T21:21:00.184Z
+date: 2021-09-29T21:24:05.802Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -72,7 +72,7 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 - Abrechnung über Papierlisten (vielleicht mag jemand eine Anleitung dazu schreiben?)
 {.links-list}
 
-> Warum in einer Doku für die Foodsoft "Werbung" für alterative Möglichkeiten? Falls sich jemand hierher z.B. auf der Suche nach einer Doku für den Foodcoopshop verirrt hat, oder sich einen Überblick über Foodsoft Apps verschaffen möchte, oder einfach mal wissen möchte, was es denn mit dieser "anderen Foodsoft" auf sich hat.
+> Warum in einer Doku für die Foodsoft "Werbung" für alternative Möglichkeiten? Falls sich jemand hierher z.B. auf der Suche nach einer Doku für den Foodcoopshop verirrt hat, oder sich einen Überblick über Foodsoft Apps verschaffen möchte, oder einfach mal wissen möchte, was es denn mit dieser "anderen Foodsoft" auf sich hat.
 {.is-info}
 
 # Andere Dokumentationen für Foodcoops
