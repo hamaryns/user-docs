@@ -2,7 +2,7 @@
 title: Abholung
 description: 
 published: true
-date: 2021-04-20T20:14:11.553Z
+date: 2021-09-29T20:43:23.736Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-18T12:57:04.492Z
@@ -31,5 +31,32 @@ Wenn die Funktion „Abholtage“ für dich oder für alle freigegeben ist, kann
 {.is-info}
 	
 
+## Noch eine Überschrift
 
 
+> Für Mitglieder zum Abholen Liste aller Bestellungen nach Bestellgruppen gruppiert erstellen:
+> Bestellungen > Abholtage > Gruppen PDF
+{.is-info}
+
+> Zum Aufteilen auf die Bestellgruppen Liste aller Bestellungen nach Artikeln gruppiert erstellen: 
+> Bestellungen > Abholtage > Artikel PDF
+{.is-info}
+
+> Zum Erstellen einer Matrix aus Bestellgruppen und Artikeln: 
+> Bestellungen > Abholtage > Artikel PDF
+{.is-info}
+
+## Noch eine letzte Überschrift
+
+
+> Für Mitglieder zum Abholen Liste aller Bestellungen nach Bestellgruppen gruppiert erstellen:
+> Bestellungen > Abholtage > Gruppen PDF
+{.is-info}
+
+> Zum Aufteilen auf die Bestellgruppen Liste aller Bestellungen nach Artikeln gruppiert erstellen: 
+> Bestellungen > Abholtage > Artikel PDF
+{.is-info}
+
+> Zum Erstellen einer Matrix aus Bestellgruppen und Artikeln: 
+> Bestellungen > Abholtage > Artikel PDF
+{.is-info}
