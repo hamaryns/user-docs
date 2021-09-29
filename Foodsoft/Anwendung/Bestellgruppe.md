@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-29T17:19:34.301Z
+date: 2021-09-29T17:20:37.472Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -101,7 +101,10 @@ Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner
 {.is-warning}
 
 ![profildaten2.png](/profildaten2.png)
+
+
 <h2 id="personen-ag" class="toc-header"><a class="toc-anchor" href="#personen-ag"></a>Mitgliedschaft in Arbeitsgruppen beenden</h2>
+
 Falls du Mitglied in Arbeitsgruppen bist (nur Administratorinnen können dich zum Mitglied einer Arbeitsgruppe machen), kannst du hier selbst deine Mitgliedschaft beenden. 
 
 > Falls du in der Arbeitsgruppe Aufgaben übernommen hast, teile es bitte vorher den anderen Mitgliedern mit! 
