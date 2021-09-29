@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-29T17:27:08.823Z
+date: 2021-09-29T17:27:52.434Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -160,7 +160,7 @@ Wenn du den Code abtippst, statt ihn zu kopieren (grundsätzlich nicht empfohlen
 > Punkt und nicht Komma
 {.is-warning}
 
-> keine Leerzeichen im Code (Smartphones fügen gern ein Leerzeichen nach dem Punkt ein, das du bitte löschen musst) 
+> keine Leerzeichen im Code (Smartphones und Tablets fügen gern ein Leerzeichen nach dem Punkt ein, das du bitte löschen musst) 
 {.is-warning}
 
 > Code muss vollständig sein, es dürfen keine Zeichen fehlen (häufig passiert das beim Kopieren am Anfang und Ende des Codes, beim Abtippen auch mitten drin)
