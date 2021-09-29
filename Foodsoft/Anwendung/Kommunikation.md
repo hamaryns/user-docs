@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-06-03T10:27:28.102Z
+date: 2021-09-29T16:54:16.570Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -23,11 +23,7 @@ Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail z
 Wenn nicht anders eingestellt (siehe [Mein Profil](Bestellgruppe)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
 
 Am Ende jeder dieser Emails findest du folgende  Links, die dich in die Foodsoft führen:
-> ====================================================================
-> 
-> Antworten: https://app.foodcoops.at/.../messages/new?message%5Breply_to%5D=...
-> Nachricht online einsehen: https://app.foodcoops.at/.../messages/...
-> Nachrichten-Einstellungen: https://app.foodcoops.at/.../home/profile
+![nachrichten-links.png](/nachrichten-links.png)
 
 
 Um auf Nachrichten zu antworten, gibt es 2 Möglichkeiten:
