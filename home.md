@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-06-06T17:07:16.719Z
+date: 2021-09-29T15:45:35.374Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -12,8 +12,6 @@ dateCreated: 2021-03-17T13:41:15.075Z
 
 Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/Foodsoft/videos) zu ausgewählten Funktionen.
 
-> Fehlt: Screenshot und Erklärung, wie man in der Doku navigieren kann
-{.is-danger}
 
 > Obwohl wir uns Mühe geben, wird diese Dokumentation wohl nie perfekt sein. Wenn dir etwas auffällt, schreib mit der Kommentarfunktion einen Kommentar, wie wir es besser beschreiben könnten!
 {.is-warning}
