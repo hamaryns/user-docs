@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-09-29T16:54:16.570Z
+date: 2021-09-29T17:06:08.913Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -10,7 +10,7 @@ dateCreated: 2021-04-02T21:03:25.476Z
 
 <h1 id="foodsoft-nachrichten" class="toc-header"><a class="toc-anchor" href="#foodsoft-nachrichten"></a>Foodsoft Nachrichten</h1>
 
-Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodosft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](Bestellgruppe)). 
+Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](Bestellgruppe)). 
 
 
 > Manche Foodcoops verwenden die Nachrichtenfunktion der Foodsoft nicht, sondern stattdessen ein anderes System. Um Missverständnisse vorzbeugen, solltest du in diesem Fall die Nachrichtenfunktionen der Foodsoft nicht verwenden (selbst wenn sie nicht ausgeblendet ist).
@@ -91,10 +91,13 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 > Foodsoft Nachrichten können **keine Anhänge** (Attachments) enthalten. Grafiken und PDF-Dokumente können jedoch z.B. im Bereich [Foodcoop \>  Dokumente](Dokumente) hochgeladen werden, und der Link darauf vesendet werden.
 {.is-info}
 
+
+
+
+
 <h1 id="telefonnummern-emailadressen" class="toc-header"><a class="toc-anchor" href="#telefonnummern-emailadressen"></a>Telefonnummern und Emailadressen</h1>
 
-Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](Navigation):
--> *Foodcoop \> Mitglieder*: 
+Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](Navigation)  *Foodcoop \> Mitglieder*: 
 
 ![mitglieder.png](/mitglieder.png)
 
@@ -106,6 +109,11 @@ Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, o
 
 > Nur wenn das Mitglied seine Telefonnummer eingegeben hat, ist sie hier sichtbar. Außerdem können Mitglieder es in ihren [Profileinstellungen](Bestellgruppe) festlegen, ob ihre Telefonnummer  und E-Mail  für andere Mitglieder sichtbar ist. In diesem Fall kannst du eineN Foodsoft AdministratorIn deiner Foodcoop fragen. 
 {.is-info}
+
+
+
+
+
       
 <h1 id="umfragen" class="toc-header"><a class="toc-anchor" href="#umfragen"></a>Umfragen</h1>
 
