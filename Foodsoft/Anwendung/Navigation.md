@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-06-06T17:32:37.115Z
+date: 2021-09-29T17:34:04.984Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -39,6 +39,9 @@ verwenden, schlage es in deiner Foodcoop vor. Falls ihr selbst Probleme
 beim Einrichten habt, es findet sich aus einer anderen Foodcoop sicher
 wer, der euch dabei helfen kann.
 
+
+
+
 <h1 id="fs-aufruf-anmeldung" class="toc-header"><a class="toc-anchor" href="#fs-aufruf-anmeldung"></a>Foodsoft Aufruf und Anmeldung</h1>
 
 Die Foodsoft wird über einen Web-Browser wie Firefox,
@@ -57,11 +60,17 @@ Trick, der weiter unten beschrieben ist.
 > Für den Login ist eine Emailadresse und ein Passwort erforderlich. Beides solltest du von deiner Foodcoop erfahren, die einen Zugang für dich angelegt hat.
 {.is-info}
 
+
+
+
 <h2 id="erstes-mal-anmelden" class="toc-header"><a class="toc-anchor" href="#erstes-mal-anmelden"></a>Erstes Mal Anmelden</h2>
 
 Im folgenden Video-Tutorial cder Foodcoop Fresskorb erfährst du, wie du dich das erste Mal anmeldest, deine persönlichen Daten vervollständigst und dein Passwort neu setzt. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UKMVAJCIOi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 <h1 id="startseite-dashboard" class="toc-header"><a class="toc-anchor" href="#startseite-dashboard"></a>Startseite (Dashboard)</h1>
 
@@ -80,15 +89,24 @@ beinhaltet folgende Bereiche, von oben nach unten:
 
   - [Meine Bestellgruppe](Bestellgruppe): Guthaben, Letzte Transaktionen, Kontoauszug   anzeigen
 
+
+
+
 <h1 id="navigation" class="toc-header"><a class="toc-anchor" href="#navigation"></a>Navigation</h1>
 
 Je nach Breite deines Displays bzw. Browser-Fensters sieht das Menü unterschiedlich aus.
+
+
+
 
 <h2 id="breites-display" class="toc-header"><a class="toc-anchor" href="#breites-display"></a>Breites Display</h2>
 
 Bei einem breiten Display wie z.B. am PC oder Laptop sieht es so aus:
 
 ![menues-standard.gif](/menues-standard.gif)
+
+
+
 
 <h2 id="schmales-display" class="toc-header"><a class="toc-anchor" href="#schmales-display"></a>Schmales Display</h2>
 
@@ -103,6 +121,9 @@ Hier klappt das Menü erst auf, wenn du auf den eingekreisten Button klickst:
 Hier noch das ganze in animierter Form:
 
 ![menues-standard-schmal.gif](/menues-standard-schmal.gif)
+
+
+
 
 <h2 id="menue" class="toc-header"><a class="toc-anchor" href="#menue"></a>Menü</h2>
 
@@ -137,7 +158,11 @@ Das Menü hat folgende Struktur. Erklärungen zu den Menupunkten sind über die 
 > Wenn du besondere Berechtigungen hast, können auch mehr Menüs da sein, die im [administrativen Teil der Dokumentation](/de/Foodsoft/Administration) beschrieben sind.
 {.is-info}
 
+
+
+
 <h2 id="link-leiste" class="toc-header"><a class="toc-anchor" href="#link-leiste"></a>Link-Leiste</h2>
+
 Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Logos (bei schmalem Display) gibt es noch die blau hinterlegten Links:
 
 ![menu1breit.png](/menu1breit.png)
@@ -158,6 +183,9 @@ Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Log
   - Feedback
 
 
+
+
+
 <h2 id="direkt-zu" class="toc-header"><a class="toc-anchor" href="#direkt-zu"></a>Direkt zu...</h2>
 
 ![direkt-zu.png](/direkt-zu.png)
@@ -166,6 +194,11 @@ Der graue Kasten enthält eine Auswahl der Menüpunkte. Falls du hier eine gewü
 
 > Welche Menüpunkte hier aufscheinen, können auch die Administratorinnen deiner Foodcoop nicht beeinflussen.
 {.is-info}
+
+
+
+
+
 
 
 <h1 id="listen" class="toc-header"><a class="toc-anchor" href="#listen"></a>Listen</h1>
@@ -180,7 +213,12 @@ An vielen Stellen in der Foodsoft werden Informationen in Form von Listen darges
   - Erste/letzte Seite: << bzw. >> 
 - Anzahl der Ergebnisse pro Seite ändern (20 (=Standardwert), 50, 100, 200, 500)
 - Suchfunktion (nicht immer verfügbar); 
-  - Falls nicht vorhanden: Anzahl der Ergebnisse pro Seite auf Maximum stellen und Browser-Suche verwenden
+  - Falls nicht vorhanden: Anzahl der Ergebnisse pro Seite auf Maximum (500) stellen und Browser-Suche verwenden
+
+
+
+
+
 
 <h1 id="abmelden" class="toc-header"><a class="toc-anchor" href="#abmelden"></a> Abmelden/Logout</h1>
 
