@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-29T17:22:08.298Z
+date: 2021-09-29T17:27:08.823Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -209,8 +209,12 @@ betrag</td>
 > Du kannst einen Code nur dann mehrfach verwenden, wenn du genau die selben Beträge für Mitgliedsbeitrag und/oder Guthaben überweist. Ansonsten musst du in der Foodsoft einen passenden Code mit dem Zahlungsreferenz-Rechner erstellen. 
 {.is-warning}
 
-> Cent-Beträge müssen durch einen **Punkt als Dezimaltrenner** abgetrennt sein, z.B: FS123.456G25.50 für 25,50 €.
+> Cent-Beträge müssen durch einen **Punkt als Dezimaltrenner** abgetrennt sein, z.B: `FS123.456G25.50` für 25,50 €.
 {.is-warning}
+
+> Ein Code ohne Kategorie-Kürzel und Betrag wie z.B. `FS123.456` ist ungültig! 
+{.is-danger}
+
 
 > Bei unpassenden Zahlungscodes wird kein Guthaben aufgeladen, und es verursacht für das Finanzteam deiner Foodcoop einen Extra-Aufwand, den du vermeiden kannst, indem du schaust, dass der Code vollständig ist und zum Überweisungsbetrag passt.
 {.is-danger}
