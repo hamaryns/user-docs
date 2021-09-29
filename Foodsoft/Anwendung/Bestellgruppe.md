@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-29T17:07:03.323Z
+date: 2021-09-29T17:19:34.301Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -26,6 +26,11 @@ Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der 
 Um dein Profil zu bearbeiten klicke im Menü rechts-oben auf deinen Namen und "Profil bearbeiten": 
 
 ![meine-bestellgruppe.png](/teil-1/meine-bestellgruppe.png)
+
+
+Hier kannst du nun folgende Daten eingeben bzw. Einstellungen vornehmen. Wenn du fertig bist, schließe mit "Speichern" ganz unten ab.
+
+![profildaten1.png](/profildaten1.png)
 
 <h2 id="vor-nachname" class="toc-header"><a class="toc-anchor" href="#vor-nachname"></a>Vor- und Nachname</h2>
 
@@ -94,6 +99,19 @@ Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner
 
 > Es kann sein, das neue Mitglieder durch eure Foodsoft-Administration freigegeben werden müssen. Wende dich bitte dazu an euren Administrator-Mensch oder Administratoren.
 {.is-warning}
+
+![profildaten2.png](/profildaten2.png)
+<h2 id="personen-ag" class="toc-header"><a class="toc-anchor" href="#personen-ag"></a>Mitgliedschaft in Arbeitsgruppen beenden</h2>
+Falls du Mitglied in Arbeitsgruppen bist (nur Administratorinnen können dich zum Mitglied einer Arbeitsgruppe machen), kannst du hier selbst deine Mitgliedschaft beenden. 
+
+> Falls du in der Arbeitsgruppe Aufgaben übernommen hast, teile es bitte vorher den anderen Mitgliedern mit! 
+{.is-warning}
+
+
+
+
+
+
 
 <h1 id="meine-bestellgruppe" class="toc-header"><a class="toc-anchor" href="#meine-bestellgruppe"></a>Meine Bestellgruppe: Kontostand und Kontoauszug einsehen</h1>
 
