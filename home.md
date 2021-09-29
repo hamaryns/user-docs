@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T15:54:04.450Z
+date: 2021-09-29T15:56:19.517Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -10,7 +10,7 @@ dateCreated: 2021-03-17T13:41:15.075Z
 
 <h1 id="fsdoc" class="toc-header"><a class="toc-anchor" href="#fsdoc"></a>Foodsoft Dokumentation</h1>
 
-Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/Foodsoft/videos) zu ausgewählten Funktionen.
+Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/Foodsoft/videos) zu ausgewählten Funktionen. Sie wurde, genauso wie die Foodsoft-Software, von Freiwilligen in ihrer Freizeit erstellt. 
 
 
 > Obwohl wir uns Mühe geben, wird diese Dokumentation wohl nie perfekt sein. Wenn dir etwas auffällt, schreib mit der Kommentarfunktion einen Kommentar, wie wir es besser beschreiben könnten!
