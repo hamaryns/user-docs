@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:30:10.158Z
+date: 2021-09-30T06:31:57.856Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -209,9 +209,9 @@ Ein eventuell zu zahlendes Pfand z.B. auf Mehrweg-Saftflaschen ist im Preis inkl
 {.is-danger}
 
 
-# Deine abgeschlossenen Bestellungen einsehen
+# Bestellungen ansehen
 
-Unter *Bestellen! > Bestellungen* siehst du untehalb der laufenden Bestellungen auch die abgschlossenen Bestellungen, aufgegliedert in "Nicht abgerechnete Bestellungen" und (weiter unten) "Abgerechnete Bestellungen". Hier kannst du jederzeit nachschauen, was du bestellt hast. 
+Unter *Bestellen! > Bestellungen* siehst du untehalb der laufenden Bestellungen auch die abgschlossenen Bestellungen, aufgegliedert in "Nicht abgerechnete Bestellungen" und (weiter unten) "Abgerechnete Bestellungen". Hier kannst du jederzeit nachschauen, was du bestellt hast, auch wenn Bestellungen bereits abgeschlossen sind. 
 
 > Achte dabei bitte auf den Abholtag! Wenn du etwas vermisst, was du bestellt hast, vielleicht ist der Abholtag z.B. erst in einer Woche?
 {.is-warning}
