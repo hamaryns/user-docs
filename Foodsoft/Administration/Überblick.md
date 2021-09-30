@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-09-30T11:17:16.243Z
+date: 2021-09-30T11:17:56.353Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -104,7 +104,7 @@ Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechte
 ![menues-admin.gif](/menues-admin.gif)
 
 
-| Menü                | Untermenü | [Berechtigung(en)](Benutzerverwaltung) |
+| Menü                | Untermenü | [Berechtigung(en)](./Benutzerverwaltung) |
 | ------------------- | --------- | --------------- | 
 | Bestellungen | [Bestellverwaltung](./Bestellungen) | Bestellungen | 
 | Artikel | Lieferantinnen |  | 
