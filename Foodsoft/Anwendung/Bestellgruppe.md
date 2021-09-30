@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-30T06:59:35.377Z
+date: 2021-09-30T07:00:13.814Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -23,7 +23,7 @@ Bestellt wird innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutz
 
 Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, erfahrst du unter "Profil bearbeiten".
 
-# Profil bearbeiten: meine Kontaktdaten
+# Profil bearbeiten
 
 Um dein Profil zu bearbeiten klicke im Menü rechts-oben auf deinen Namen und "Profil bearbeiten": 
 
