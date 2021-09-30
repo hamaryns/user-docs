@@ -2,14 +2,14 @@
 title: Überblick
 description: 
 published: true
-date: 2021-09-30T11:17:56.353Z
+date: 2021-09-30T11:18:14.042Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
 ---
 
 # Einleitung
-In diesem Teil der Dokumentationen sind Funktionen der Foodsoft beschrieben, die zur Einrichtung und Administration erforderlich sind. Diese Funktionen sind nur für Foodsoft Benutzerinnen mit entsprechenden Zugriffsrechten verfügbar (siehe [Benutzerinnenverwaltung](Benutzerverwaltung)).
+In diesem Teil der Dokumentationen sind Funktionen der Foodsoft beschrieben, die zur Einrichtung und Administration erforderlich sind. Diese Funktionen sind nur für Foodsoft Benutzerinnen mit entsprechenden Zugriffsrechten verfügbar (siehe [Benutzerinnenverwaltung](./Benutzerverwaltung)).
 
 Die Funktionen der Foodsoft werden ständig erweitert, machmal kann es sein, dass eine neue Funktion noch nicht hier dokumentiert ist. Bitte trag selbst etwas bei, indem du eine Beschreibung, oder zumindest an der passenden Stelle eine Überschrift hinzufügst.
 
