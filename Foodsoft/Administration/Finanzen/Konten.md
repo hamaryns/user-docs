@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Menü Finanzen > Konten verwalten
 published: true
-date: 2021-09-30T15:09:01.053Z
+date: 2021-09-30T15:16:49.517Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -56,12 +56,17 @@ Forumsbeiträge zum Thema:
   
 # Kontoauszüge anzeigen
 
-Finanzen \> Konten verwalten 
+*Finanzen \> Konten verwalten* 
 - Liste Bestellgruppen: Kontoauszug \> Kontoauszug der Bestellgruppe anzeigen
   - gelöschte Bestellgruppen sind nicht auswählbar
-- Alle Transaktionen: alle Transaktionen aller (auch bereits gelöschter Bestellgruppen, gekennzeichnet mit †) werden angezeigt
-  - <span id="anchor-140"></span>Kontoauszug von gelöschter Bestellgruppe rekonstruieren: Transaktion der Bestellgruppe suchen, in Spalte „Bestellgruppe“ auf Link klicken: alle Kontotrasnaktionen und End-Kontostand werden angezeigt
-- Foodcoop Transaktionen: eigenes Konto für Foodsoft, wo z.B. Mitgliedsbeiträge hingebucht werden können, siehe [Sammeltransaktionen manuell durchführen](#anchor-141).
+- **Alle Transaktionen**: alle Transaktionen aller (auch bereits gelöschter Bestellgruppen, gekennzeichnet mit †) werden angezeigt
+  - Kontoauszug von gelöschter Bestellgruppe rekonstruieren: Transaktion der Bestellgruppe suchen, in Spalte „Bestellgruppe“ auf Link klicken: alle Kontotransaktionen und End-Kontostand werden angezeigt
+- **Foodcoop Transaktionen**: eigenes Konto für Foodsoft, wo z.B. Mitgliedsbeiträge hingebucht werden können, siehe *Sammeltransaktionen manuell durchführen*.
+- **Finanzlink erstellen**: ...
+
+## Summe aller Guthaben ermitteln
+
+...
 
 # Transaktionen durchführen
 
