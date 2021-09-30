@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:32:39.406Z
+date: 2021-09-30T06:36:11.934Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -137,7 +137,11 @@ Es können immer nur ganzzahlige Vielfache der Einheit eines Artikels bestellt w
 
 # Bestellungen stornieren
 
-Es gibt keine Funktion, mit der Bestellungen als Ganzes mit einem Klick stornieren kannst. Aber du kannst die Bestellungen bearbeiten und die Mengen der bisher bestellten Artikel auf Null setzen. Sobald eine Bestellung allerdings beendet ist, gibt es diese Möglichkeit nicht mehr. 
+Es gibt keine Funktion, mit der Bestellungen als Ganzes mit einem Klick stornieren kannst. Solange Bestellungen noch offen sind, kannst du jedoch die Bestellungen bearbeiten und die Mengen der bisher bestellten Artikel auf Null setzen. 
+
+> Sobald eine Bestellung beendet ist, gibt es keine Möglichkeit mehr, sie zu stornieren. 
+{.is-warning}
+
 
 
 
