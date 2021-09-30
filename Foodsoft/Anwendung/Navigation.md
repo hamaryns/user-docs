@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-09-30T06:18:22.026Z
+date: 2021-09-30T06:19:01.910Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -82,11 +82,11 @@ beinhaltet folgende Bereiche, von oben nach unten:
   - [Offene Aufgaben](./Mitmachen): wo wird meine Mitarbeit benötigt? - falls die
     Aufgaben-Funktion verwendet wird
 
-  - [Laufende Bestellungen](Bestellen): was kann ich aktuell bestellen?
+  - [Laufende Bestellungen](./Bestellen): was kann ich aktuell bestellen?
 
-  - [Neueste Nachrichten](Kommunikation) – falls Nachrichten verwendet werden
+  - [Neueste Nachrichten](./Kommunikation) – falls Nachrichten verwendet werden
 
-  - [Meine Bestellgruppe](Bestellgruppe): Guthaben, Letzte Transaktionen, Kontoauszug   anzeigen
+  - [Meine Bestellgruppe](./Bestellgruppe): Guthaben, Letzte Transaktionen, Kontoauszug   anzeigen
 
 
 
