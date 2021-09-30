@@ -2,7 +2,7 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Wie Foodcoops mit damit umgehen und wie es in der Foodsoft zu berücksichtigen ist
 published: true
-date: 2021-09-30T11:07:57.930Z
+date: 2021-09-30T11:09:45.491Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
@@ -107,7 +107,7 @@ Auszug aus dem Anhang 1 des [Umsatzsteuergesetz](https://www.ris.bka.gv.at/Gelte
 {.is-warning}
 
 
-## 13% Mehrwersteuersatz
+## 13% Mehrwertsteuersatz
 
 Manche Landwirte verrechnen einen Einheitssteuersatz von 13 %. 
 
