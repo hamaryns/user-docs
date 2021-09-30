@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-05-26T06:44:27.732Z
+date: 2021-09-30T06:30:10.158Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -11,7 +11,7 @@ dateCreated: 2021-04-02T21:00:01.863Z
 
 Die Kernfunktion der Foodsoft ist eine Art Webshop, um die Bestellungen der Foodcoop-Mitglieder gesammelt an die Lieferantinnen weiterzugeben. Eine Bestellung bezieht sich immer auf die Artikel einer Lieferantin. Bestellungen sind meist zeitlich begrenzt. Innerhalb dieses Zeitfensters sind die Bestellungen "offen" ("laufende Bestellung") und du kannst deine Bestellung beliebig oft bearbeiten. Es ist nicht erforderlich, dass du deine Bestellung abschließt oder abschickst (dies erledigt die zuständige Person oder Gruppe). Wenn eine Bestellung endet, wird der Letztstand deiner Bestellung für dich bestellt.
 
-<h1 id="liefernde-produkte-bestellungen" class="toc-header"><a class="toc-anchor" href="#liefernde-produkte-bestellungen"></a>Lieferantinnen, Produkte und Bestellungen</h1>
+# Lieferantinnen, Produkte und Bestellungen
 
 Während Webshops meist nach Produktkategorien geordnet sind, ist die Foodsoft nach Lieferantinnen gegliedert. Das mag für dich zunächst unübersichtlich sein, weil auf den ersten Blick vielleicht nicht klar ist, bei welcher Lieferantin welche Produkte erhältlich sind. Manchmal gibt es das gleiche oder ähnliche Produkte auch bei verschiedenen Lieferantinnen. Hier ein (fiktives) Beispiel: 
 
@@ -35,7 +35,10 @@ Im folgenden Abschnitt siehst du, wie die Bestellungen dieses Beispiels in der F
 {.is-danger}
 
 
-<h1 id="bestellungen-ueberblick" class="toc-header"><a class="toc-anchor" href="#bestellungen-ueberblick"></a>Bestellungen Überblicksseite </h1>
+
+
+
+# Bestellungen Überblicksseite
 
 Die Bestellungen Überblicksseite erreichst du über das [Menü Bestellungen > Bestellen!](/de/Teil-1/Navigation). 
 
@@ -45,7 +48,7 @@ Die Bestellungen Überblicksseite erreichst du über das [Menü Bestellungen > B
 
  
 
-<h2 id="guthaben" class="toc-header"><a class="toc-anchor" href="#guthaben"></a>Guthaben</h2>
+## Guthaben
 
 Das Feld "Guthaben" zeigt dir an, wie viel Guthaben du für deine Bestellunge noch zur Verfügung hast. 
 
@@ -60,14 +63,13 @@ Dein Guthaben wird wie folgt aufgeschlüsselt:
 - **nicht abgerechnete Bestellungen**: diesen Betrag machen Bestellungen aus, die schon abgeschlossen sind, die aber nicht abgerechnet wurden.  
 - **Verfügbares Guthaben**: nur dieser Teil deines Guthabens steht dir aktuell noch für Bestellungen zur Verfügung. Er berechnet sich deinem Kontostand minus den Beträgen für laufende und noch nicht abgerechnete Bestellungen. 
 
-<h2 id="lager" class="toc-header"><a class="toc-anchor" href="#lager"></a>Lager-Bestellung</h2> 
-
-Wenn von deiner Foodcoop verwendet, kann so wie im Beispiel eine Bestellung "Lager" dabei sein. Das sind Artikel, die aus dem Lager deiner Foodcoop bestellen kannst. Falls einzelne Artikel nicht bestellbar sind, ist der Lagerstand erschöpft. Es kann auch sein, dass Artikel noch im Lager sind, aber bereits von anderen Foodcoop Mitgliedern bestellt sind.
 
 
 
 
-<h2 id="laufende-bestellungen" class="toc-header"><a class="toc-anchor" href="#laufende-bestellungen"></a>Laufende Bestellungen</h2>
+
+
+## Laufende Bestellungen
 
 Laufende Bestellungen sind jene, wo du im Moment bestellen kannst, indem du sie bearbeitest. 
 
@@ -85,7 +87,10 @@ Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen.
 > Wenn von einer Lieferantin gerade keine Bestellung offen ist, ist es leider nicht möglich, die verfügbaren Produkte dieser Lieferantin einzusehen, außer du verfügst über entsprechende administrative Rechte in der Foodsoft.
 {.is-info}
 
-<h2 id="bestellungen-nicht-abgerechnet" class="toc-header"><a class="toc-anchor" href="#bestellungen-nicht-abgerechnet"></a>Nicht abgerechnete Bestellungen</h2>
+
+
+
+## Nicht abgerechnete Bestellungen
 
 Nicht abgerechnete Bestellungen sind jene Bestellungen, die bereits abgeschlossen sind, und die du daher nicht mehr bearbeiten kannst. Meist bedeutet das auch, dass die Bestellung bereits an die Lieferantin geschickt wurde.  Beim Abholen deiner Bestellung kannst du hier nachschauen, was du bestellt hast. Wenn eine Bestellung grau dargestellt und kein Link hinterlegt ist, hast du bei dieser Bestellung nichts bestellt. 
 
@@ -94,11 +99,15 @@ Falls du dich erinnern kannst, etwas bestellt zu haben, es aber hier nicht finde
 - die Bestellung wurde von deiner Foodcoop storniert
 - es waren mehrere Bestellungen für die Lieferantin (bzw. das Lager) gleichzeitig offen, und du hast es bei einer anderen Bestellung bestellt
 
-<h2 id="abgerechnete-bestellungen" class="toc-header"><a class="toc-anchor" href="#abgerechnete-bestellungen"></a>Abgerechnete Bestellungen</h2>
+
+
+## Abgerechnete Bestellungen
 
 Abgerechnete Bestellungen sind üblicherweise jene, wo die Lieferantin der Foodcoop eine Rechnung gestellt hat, die Foodcoop deine Bestellungen an das tatsächlich gelieferte angepasst und die entsprechenden Beträge von deinem Guthaben abgebucht hat. 
 
-<h1 id="bestellungen-bearbeiten" class="toc-header"><a class="toc-anchor" href="#bestellungen-bearbeiten"></a>Bestellungen bearbeiten</h1>
+
+
+# Bestellungen bearbeiten
 
 1. auf die Bestellung der Lieferantin klicken
 1. die Bestellmengen anpassen durch + und - Schaltflächen
@@ -117,16 +126,22 @@ Danach siehst du zusammenfassend eine Übersicht über die Artikel, die du beste
 
 Es können immer nur ganzzahlige Vielfache der Einheit eines Artikels bestellt werden, z.B. 2 x Karotten 500 g =  1000 g. Manche Artikel wie z.B. Krautköpfe werden nach Stück bestellt, variieren aber im Gewicht von Stück zu Stück. Erkundige dich, wie deine Foodcoop damit umgeht!
 
+> Wenn von deiner Foodcoop verwendet, kann so wie im Beispiel eine Bestellung **Lager** dabei sein. Das sind Artikel, die aus dem Lager deiner Foodcoop bestellen kannst. Falls einzelne Artikel nicht bestellbar sind, ist der Lagerstand erschöpft. Es kann auch sein, dass Artikel noch im Lager sind, aber bereits von anderen Foodcoop Mitgliedern bestellt sind.
+{.is-info}
 
 
 > Bestellen über Smartphone: Speichern-Button wieder sichtbar machen durch Deaktivieren des zuletzt aktivierten Artikels; ins Weiße klicken …
 {.is-warning}
 
-<h1 id="bestellungen-stornieren" class="toc-header"><a class="toc-anchor" href="#bestellungen-stornieren"></a>Bestellungen stornieren</h1>
+
+
+# Bestellungen stornieren
 
 Es gibt keine Funktion, mit der Bestellungen als Ganzes mit einem Klick stornieren kannst. Aber du kannst die Bestellungen bearbeiten und die Mengen der bisher bestellten Artikel auf Null setzen. Sobald eine Bestellung allerdings beendet ist, gibt es diese Möglichkeit nicht mehr. 
 
-<h1 id="bestellende-abholtag" class="toc-header"><a class="toc-anchor" href="#bestellende-abholtag"></a>Bestellende und Abholtag</h1>
+
+
+# Bestellende und Abholtag
 
 > Jede Bestellung kann ihren eigenen Endzeitpunkt und ihr eigenes Abholdatum haben. Während z.B. die Produkte der einen Bestellung noch in der aktuellen Woche abzuholen sind, kann es sein, dass sie bei einer anderen erst eine Woche später kommen. 
 {.is-warning}
@@ -135,7 +150,7 @@ Es gibt keine Funktion, mit der Bestellungen als Ganzes mit einem Klick stornier
 Oft wird die Foodsoft in Foodcoops so verwendet, dass sie automatisch bei Bestellende die Bestellungen an die Lieferantinnen verschickt. Daher ist es meist nicht möglich (oder mit sehr hohem Aufwand für deine Kolleginnen aus der Foodcoop verbunden, die die Verwaltung der Bestellungen abwickeln), nach Bestellende noch etwas an deiner Bestellung zu verändern. Eigeninitiative ist hier gefragt, vielleicht kann dir wer anderer etwas abtreten oder du suchst jemand anderen, der etwas übernimmt, was du doch nicht brauchst.
 
 
-<h2 id="mindestbestellmengen" class="toc-header"><a class="toc-anchor" href="#mindestbestellmengen"></a>Mindestbestellmengen</h2>
+## Mindestbestellmengen
 
 Manche Liefeantinnen liefern nur, wenn eine gewisse Mindestbestellmenge erreicht wird. In diesem Fall siehst du beim Bestellen links oben im Kasten die folgenden Infos:
 
@@ -144,7 +159,7 @@ Manche Liefeantinnen liefern nur, wenn eine gewisse Mindestbestellmenge erreicht
 
 Nur wenn am Ende der Bestellung die Mindestmenge erreicht wurde, wird die Bestellung auch an die Lieferantin abgeschickt. Ansonsten kommt die Bestellung nicht zustande. Die Foodsoft informiert dich leider nicht automatisch über das Ergebnis, aber du kannst deine Kollegin in eurer Foodcoop, die die Bestellungen anlegt bzw. für die Lieferantin zuständig ist, bitten, die betroffenen Bestellgruppen im Fall einer nicht zustande gekommen Bestellung zu informieren. 
 
-<h2 id="gebindegroessen-toleranz" class="toc-header"><a class="toc-anchor" href="#gebindegroessen-toleranz"></a>Gebindegrößen und Toleranz</h2>
+## Gebindegrößen und Toleranz
 
 Manche LieferantInnen liefern keine einzelnen Packungen, sondern nur ganze Gebinde an, die wir aber unter uns aufteilen können. Ähnlich ist es bei Waren, die lose in einer Großpackung bestellt werden, aus der sich dann jede Bestellgruppe ihre bestellte Menge herausschöpft. Durch die Bestellungen der Bestellgruppen wird die Gebindegröße wahrscheinlich nicht genau erreicht. 
 
@@ -173,7 +188,7 @@ Geht die Anzahl im Moment nicht auf, ist die Zeile rötlich eingefärbt und unte
 > Beispiel: siehe Werners **Tutorial – Toleranzen.pdf**
 {.is-info}
 
-<h2 id="pfand" class="toc-header"><a class="toc-anchor" href="#pfand"></a>Pfand</h2>
+## Pfand
 
 Ein eventuell zu zahlendes Pfand z.B. auf Mehrweg-Saftflaschen ist im Preis inkludiert, wie viel das Pfand ausmacht ist allerdings  mit besonderen Zugangsrechten über das Menü Artikel einsehbar. Manche Foodcoops schreiben daher die Höhe des Pfands in die Artikelbezeichnung, z.B.: *Apfelsaft in Mehrwegflasche, inkl. 50 Cent Pfand*
 
@@ -194,14 +209,19 @@ Ein eventuell zu zahlendes Pfand z.B. auf Mehrweg-Saftflaschen ist im Preis inkl
 {.is-danger}
 
 
-<h1 id="eigene-bestellungen-einsehen" class="toc-header"><a class="toc-anchor" href="#eigene-bestellungen-einsehen"></a>Deine abgeschlossenen Bestellungen einsehen</h1>
+# Deine abgeschlossenen Bestellungen einsehen
 
-Unter Bestellen! > Bestellungen siehst du untehalb der laufenden Bestellungen auch die abgschlossenen Bestellungen, aufgegliedert in "Nicht abgerechnete Bestellungen" und (weiter unten) "Abgerechnete Bestellungen". Hier kannst du jederzeit nachschauen, was du bestellt hast. 
+Unter *Bestellen! > Bestellungen* siehst du untehalb der laufenden Bestellungen auch die abgschlossenen Bestellungen, aufgegliedert in "Nicht abgerechnete Bestellungen" und (weiter unten) "Abgerechnete Bestellungen". Hier kannst du jederzeit nachschauen, was du bestellt hast. 
 
 > Achte dabei bitte auf den Abholtag! Wenn du etwas vermisst, was du bestellt hast, vielleicht ist der Abholtag z.B. erst in einer Woche?
 {.is-warning}
 
-<h1 id="bestellungen-aufteilen" class="toc-header"><a class="toc-anchor" href="#bestellungen-aufteilen"></a>Bestellung aufteilen und abholen (Abholtage): wer hat was bestellt?</h1>
+
+
+
+# Bestellung aufteilen und abholen 
+
+## Abholtage: wer hat was bestellt?
 
 Viele Foodcoops nützen die Möglichkeit der Foodsoft, übersichtliche Listen der Bestellungen als PDF für alle Mitglieder zu erstellen und auszudrucken. 
 
@@ -218,7 +238,7 @@ Wenn die Funktion „Abholtage“ für dich oder für alle freigegeben ist (sieh
 > Administratorin deiner Foodcoop bitten, sie freizuschalten (entweder für alle, oder indem sie dich zu einer AG mit der Berechtigung hinzufügt, nur für dich).
 {.is-info}
 
-<h2 id="abholen-zuviel-wenig-bekommen" class="toc-header"><a class="toc-anchor" href="#abholen-zuviel-wenig-bekommen"></a>Abholen: zuviel oder zu wenig bekommen?</h2>
+## Abholen: zuviel oder zu wenig bekommen?
 
 Wenn du etwas vermisst, was du bestellt hast, die gelieferte Menge nicht mit der bestellten übereinstimmt, oder für dich etwas bereit gestellt ist, das du nicht bestellt hast, ist es in vielen Foodcoops erforderlich, dass du das in irgendeiner Form bekannt gibst, z.B. indem du es eine Liste im Lagerraum einträgst. 
 
