@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:38:33.424Z
+date: 2021-09-30T06:39:18.820Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -58,7 +58,7 @@ Das Feld "Guthaben" zeigt dir an, wie viel Guthaben du für deine Bestellunge no
 
 Dein Guthaben wird wie folgt aufgeschlüsselt:
 
-- **Kontostand**: Dein gesamtes Guthaben in der Foodsoft. Erkundige dich in deiner Foodcoop, wie du Guthaben aufladen kannst. Eine Möglichkeit mit Banküberweisung und Zahlungsreferenzcode ist unter [Meine Bestellgruppe](/de/Teil-1/Bestellgruppe) beschrieben. Abgerechnete Bestellungen wurden von diesem Guthaben bereits abgebucht. Wie du dir deinen Kontoauszug für dein Foodsoft Guthaben anschauen kannst, ist auch unter [Meine Bestellgruppe](/de/Teil-1/Bestellgruppe) beschrieben.
+- **Kontostand**: Dein gesamtes Guthaben in der Foodsoft. Erkundige dich in deiner Foodcoop, wie du Guthaben aufladen kannst. Eine Möglichkeit mit Banküberweisung und Zahlungsreferenzcode ist unter [Meine Bestellgruppe](./Bestellgruppe) beschrieben. Abgerechnete Bestellungen wurden von diesem Guthaben bereits abgebucht. Wie du dir deinen Kontoauszug für dein Foodsoft Guthaben anschauen kannst, ist auch unter [Meine Bestellgruppe](./Bestellgruppe) beschrieben.
 - **Laufende Bestellungen**: diesen Betrag machen deine laufenden Bestellungen aus.
 - **nicht abgerechnete Bestellungen**: diesen Betrag machen Bestellungen aus, die schon abgeschlossen sind, die aber nicht abgerechnet wurden.  
 - **Verfügbares Guthaben**: nur dieser Teil deines Guthabens steht dir aktuell noch für Bestellungen zur Verfügung. Er berechnet sich deinem Kontostand minus den Beträgen für laufende und noch nicht abgerechnete Bestellungen. 
