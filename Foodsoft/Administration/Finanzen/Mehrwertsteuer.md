@@ -2,7 +2,7 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Wie Foodcoops mit damit umgehen und wie es in der Foodsoft zu berücksichtigen ist
 published: true
-date: 2021-09-30T11:04:49.203Z
+date: 2021-09-30T11:05:48.472Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
@@ -29,7 +29,7 @@ Grundsätzlich muss für alle Artikel, die eine Foocoop an ihre Mitglieder weite
 
 Die Preisinformationen z.B. in Form von Preislisten von Lieferantinnen enthalten manchmal Preise ohne Mehrwertsteuer (Netto) oder manchmal mit Mehrwertsteuer (Brutto). Der Foodcoop müssen von den Lieferantinnen immer Bruttobeträge in Rechnung gestellt werden, genauso wie ihren Mitgliedern immer Bruttopreise verrechnet werden müssen. Die Foodcoop reicht die Mehrwertsteuer nur von ihren Mitgliedern an die Lieferantinnen weiter, die sie dann dem Finanzamt zuführen müssen.
 
-> Die Mehrwertsteuer muss beim [Anlegen von Artikeln in der Foodsoft](Lieferantinnen) nicht eingegeben werden. Sie kann eingegeben werden, wenn von der Lieferantin Netto-Preisinformation vorliegen. Wenn die Lieferantin Bruttopreise angibt, ist es übersichtlicher, keine Mehrwersteuer einzugeben (Netto=Brutto, Mehrwertsteuer = 0%). 
+> Die Mehrwertsteuer muss beim [Anlegen von Artikeln in der Foodsoft](../Lieferantinnen) nicht eingegeben werden. Sie kann eingegeben werden, wenn von der Lieferantin Netto-Preisinformation vorliegen. Wenn die Lieferantin Bruttopreise angibt, ist es übersichtlicher, keine Mehrwersteuer einzugeben (Netto=Brutto, Mehrwertsteuer = 0%). 
 {.is-info}
 
 
