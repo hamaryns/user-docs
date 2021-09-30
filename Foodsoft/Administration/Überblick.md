@@ -2,21 +2,20 @@
 title: Überblick
 description: 
 published: true
-date: 2021-06-06T13:19:46.502Z
+date: 2021-09-30T11:14:22.018Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
 ---
 
-
-<h1 id="ueberblick-einleitung" class="toc-header"><a class="toc-anchor" href="#ueberblick-einleitung"></a>Einleitung</h1>
+# Einleitung
 In diesem Teil der Dokumentationen sind Funktionen der Foodsoft beschrieben, die zur Einrichtung und Administration erforderlich sind. Diese Funktionen sind nur für Foodsoft Benutzerinnen mit entsprechenden Zugriffsrechten verfügbar (siehe [Benutzerinnenverwaltung](Benutzerverwaltung)).
 
 Die Funktionen der Foodsoft werden ständig erweitert, machmal kann es sein, dass eine neue Funktion noch nicht hier dokumentiert ist. Bitte trag selbst etwas bei, indem du eine Beschreibung, oder zumindest an der passenden Stelle eine Überschrift hinzufügst.
 
-<h1 id="funktionsueberblick" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick"></a>Funktionsüberblick - was die Foodsoft alles kann</h1>
+# Funktionsüberblick - was die Foodsoft alles kann
 
-<h2 id="funktionsueberblick-unterstuetzung" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-unterstuetzung"></a>Typische Foodcoop-Abläufe und die jeweilige Unterstützung durch die Foodsoft</h2>
+## Typische Foodcoop-Abläufe und die jeweilige Unterstützung durch die Foodsoft
 
 So könnte ein typischer Wochenablauf in einer Foodcoop mit einem wöchentlichen Bestellrhythmus aussehen:
 
@@ -45,7 +44,7 @@ Parallel dazu laufen noch folgende Vorgänge ab:
 7. Ein FC-Mitglied bucht monatlich über die **Foodsoft** die **Mitgliedsbeiträge** der Mitglieder von ihrem Guthaben ab.
 8. Mitglieder können sich über **Nachrichten in der Foodsoft** austauschen, die sie per Email zugeschickt bekommen, Entscheidungen können über **Umfragen** getroffen werden, anfallende **Aufgaben** werden über die Foodsoft ausgeschrieben und FC-Mitglieder tragen sich dafür ein. 
 
-<h2 id="funktionsueberblick-anwendungsvarianten" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-anwendungsvarianten"></a>Anwendungsvarianten der Foodsoft</h2>
+## Anwendungsvarianten der Foodsoft
 
 Es gibt viele Anwendungsvarianten der Foodsoft, je nachdem, welche der
 Funktionen der Foodsoft genutzt bzw. nicht genutzt werden. Damit die
@@ -60,7 +59,7 @@ haben wir im Folgenden versucht, typische Anwendungsfälle aufzulisten.
 | Rechnungen          |   |   | x | x |
 | Bankanbindung       |   |   |   | x |
 
-<h3 id="funktionsueberblick-anwendungsvarianten-bestellen" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-anwendungsvarianten-bestellen"></a>Variante 1: nur Bestellen</h3>
+### Variante 1: nur Bestellen
 
 Auch wenn ihr die Foodsoft nur zum Bestellen verwendet, solltet ihr unbedingt eure Bestellungen auch abrechnen (siehe [Bestellung abrechnen](#anchor-64)). Damit sagt ihr der Foodsoft, dass die Bestellung nur mehr historisch relevant ist. Andernfalls taucht sie sowohl bei den Abholtagen, als auch in der Bestellverwaltung auf. Irgendwann werden die Seiten dann aber so lang, dass sie Ewigkeiten zum Laden benötigen.
 
@@ -69,7 +68,7 @@ Sofern ihr die Foodsoft nicht für eure Finanzen verwendet, solltet ihr
 - *Mitglieder manuell abrechnen* unter Administration-\>Einstellungen-\>Finanzen aktivieren. Dadurch gibt es auf den Konten keine Buchungen, wenn ihr die Bestellungen abrechnet.
 - Wenn ihr *Minimaler Kontostand* zusätzlich noch auf z.B. *-1000* setzt, dann könnt ihr euch das mit dem „Startgeld“ ersparen. 
 
-<h3 id="funktionsueberblick-anwendungsvarianten-bestellenguthaben" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-anwendungsvarianten-bestellenguthaben"></a>Variante 2: Bestellungen und Guthaben, keine Rechungen</h3>
+### Variante 2: Bestellungen und Guthaben, keine Rechungen
 
 Bei der Abrechnung von Bestellungen wird den Mitgliedern das entsprechende Guthaben von ihren Foodsoft-Konten abgebucht. Dafür ist es nötig, auch eine Rechnung anzulegen. Gedacht ist es so, dass dabei eine digitale Kopie der Rechnung der Lieferantin in der Foodsoft erstellt wird. Das mag nach ein wenig Mehraufwand klingen, ermöglicht aber eine bessere Übersicht und Arbeitsteilung in der Foodcoop. Falls ihr dennoch keine „echten“ Rechnungen anlegen wollt, müsst ihr zumindest eine Pseudo-Rechnung erstellen, um Bestellungen abrechnen zu können. Diese
 sollten:
@@ -78,7 +77,7 @@ sollten:
 - Rechnungsbetrag = Bestellbetrag
 - Als bezahlt markiert werden, indem im Feld ein Datum eingetragen wird
 
-<h3 id="funktionsueberblick-anwendungsvarianten-ohnebank" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-anwendungsvarianten-ohnebank"></a>Variante 3: keine Bankanbindung</h3>
+### Variante 3: keine Bankanbindung
 
 - Guthaben aus Ebanking manuell in Foodsoft übertragen
 - Rechnungen händisch als bezahlt markieren
@@ -87,7 +86,7 @@ sollten:
 
 Wie beschrieben unter [Funktionsüberblick](#anchor-61).
 
-<h3 id="funktionsueberblick-anwendungsvarianten-optionales" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-anwendungsvarianten-optionales"></a>Optionale Funktionen</h3>
+### Optionale Funktionen
 
 Folgende Funktionen können optional teilweise auch deaktiviert werden,
 wenn sie nicht benötigt werden, sodass sie gar nicht aufscheinen:
@@ -98,7 +97,7 @@ wenn sie nicht benötigt werden, sodass sie gar nicht aufscheinen:
 - WIKI
 - Dokumenteverwaltung
 
-<h1 id="menues-administration" class="toc-header"><a class="toc-anchor" href="#menues-administration"></a>Menüs für Administration</h1>
+# Menüs für Administration
 
 Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechten (siehe [Benutzerinnenverwaltung](Benutzerverwaltung)) erweitert:
 
@@ -119,12 +118,12 @@ Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechte
 | Adminstration | [Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen](Benutzerverwaltung) | Admin | 
 | Adminstration | [Einstellungen](Einstellungen) | Admin | 
 
-<h1 id="foodsoft-einrichten" class="toc-header"><a class="toc-anchor" href="#foodsoft-einrichten"></a>Foodsoft einrichten</h1>
+# Foodsoft einrichten
 
 Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, und Foodcoops ihre eigene Foodsoft Instanz aktiviert bekommen können. Ihr müsst euch also nicht selbst um einen Server und die Installation der Foodsoft kümmern, obwohl das natürlich auch möglich ist. Wenn ihr dabei seid, eine Foodcoop neu zu gründen, könnt ihr in der Demo-Instanz die Foodsoft zunächst mal ausprobieren. Wenn ihr sicher seid, dass ihr sie verwenden wollt, sind folgende Schritte nötig bzw. empfohlen:
 
 
-<h2 id="foodsoft-einrichten-notwendig" class="toc-header"><a class="toc-anchor" href="#foodsoft-einrichten-notwendig"></a>Notwendige Schritte</h2>
+## Notwendige Schritte
 
 1. IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](Neue_Foodsoft_Instanz) 
 1. [Allgemeine Einstellungen](Einstellungen) 
@@ -138,7 +137,7 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 - ...
 
 
-<h1 id="foodsoft-verwenden" class="toc-header"><a class="toc-anchor" href="#foodsoft-verwenden"></a>Foodsoft verwenden</h1>
+# Foodsoft verwenden
 
 - [Bestellungen](Bestellungen)
 - [Lager](Lager)
@@ -146,7 +145,7 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 - [Rechnungen](Finanzen/Rechnungen)
 {.links-list}
 
-<h2 id="foodsoft-verwenden-tipps" class="toc-header"><a class="toc-anchor" href="#foodsoft-verwenden-tipps"></a>Allgemeine Tipps </h2>
+## Allgemeine Tipps
 
 - [Demoinstallationen der Foodsoft](Demo-Installationen) Hier kannst du die Foodsoft testen und etwas ausprobieren, ohne etwas in deiner eigenen Foodsoft kaputt zu machen 
 {.links-list}
