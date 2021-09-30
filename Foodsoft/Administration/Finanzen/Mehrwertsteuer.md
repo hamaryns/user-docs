@@ -2,13 +2,13 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Wie Foodcoops mit damit umgehen und wie es in der Foodsoft zu berücksichtigen ist
 published: true
-date: 2021-09-30T10:52:55.584Z
+date: 2021-09-30T11:04:13.428Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
 ---
 
-<h1 id="mwst" class="toc-header"><a class="toc-anchor" href="#mwst"></a>Mehrwertsteuer</h1>
+# Mehrwertsteuer
 
 > Die Mehrwertsteuer (abgekürzt Mwst, auch Umsatzsteuer) ist eine Steuer für Lieferungen oder Leistungen, die nur bei der Letztverbraucherin/dem Letztverbraucher zum Tragen kommt. Der Mehrwertsteuersatz beträgt **grundsätzlich 20 Prozent** (sogenannter "Normalsteuersatz"). Für einige Waren/Dienstleistungen gilt ein ermäßigter Mehrwertsteuersatz z.B. für **Lebensmittel von 10 Prozent**, Details siehe unten. Der ermäßigte Steuersatz von **13 Prozent** kann z.B. unter bestimmten Voraussetzunen für landwirtschafliche Direktvermarktung herangezogen werden.
 
@@ -19,7 +19,7 @@ Weitere Infos:
 - https://www.usp.gv.at/steuern-finanzen/umsatzsteuer.html
 - Umsatzsteuergesetz: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004873
 
-<h2 id="mwst-umgang" class="toc-header"><a class="toc-anchor" href="#mwst-umgang"></a>Wie Foodcoops mit Mehrwertsteuer umgehen</h2>
+## Wie Foodcoops mit Mehrwertsteuer umgehen
 
 Grundsätzlich muss für alle Artikel, die eine Foocoop an ihre Mitglieder weitergibt, eine Mehrwersteuer bezahlt werden. Die Bemessung und Abfuhr der Merwertsteuer ist jedoch Aufgabe der Lieferantin. Für die Foodcoop ist es nur wichtig, dass sie von Lieferantinnen Rechnungen bekommen, auf denen vermerkt ist, wieviel Mehrwersteuer angefallen ist.
 
@@ -33,7 +33,7 @@ Die Preisinformationen z.B. in Form von Preislisten von Lieferantinnen enthalten
 {.is-info}
 
 
-<h2 id="mwst-netbrt" class="toc-header"><a class="toc-anchor" href="#mwst-netbrt"></a>Netto und Bruttobeträge in der Foodsoft</h2>
+## Netto- und Bruttobeträge in der Foodsoft
 
 Netto und Bruttobeträge werden an verschienden Stellen der Foodsoft angezeigt. Die Bedeutung ist dabei grundsätzlich wie oben beschrieben, allerdings spielt der Pfandbetrag auch eine Rolle, falls vorhanden.
 
@@ -47,7 +47,7 @@ Artikelkosten mit Mehrwertsteuer und mit Pfand. Die Foodsoft berechnet auch auf 
 > Netto- und Bruttobetrag sind gleich, wenn keine Mehrwersteuer eingegeben wurde, bzw. unterscheiden sich um das Pfand, falls für den Artikel eines eingegeben wurde.
 {.is-info}
 
-<h2 id="mwst-runddiff" class="toc-header"><a class="toc-anchor" href="#mwst-runddiff"></a>Rundungsdifferenzen</h2>
+## Rundungsdifferenzen
 
 Durch folgende unterschiedliche Berechnungsarten der Mehrwertsteuer bei Bestellungen bzw. Rechnungen kann es zu Differenzen im Cent-Bereich kommen:
 - Foodsoft: Mehrwertsteuer wird auf einzelen Artikel berechnet und dabei auf Cent gerundet, Gesamtbetrag ist Summe von gerundeten Einzelbeträgen. Beispiel: Artikelpreis netto 2,34 Euro, brutto mit 10% Mwst 2,574 = gerundet 2,57 Euro, davon 10 Stück: 10 * 2,57 = 25,70 Euro.
@@ -56,8 +56,14 @@ Durch folgende unterschiedliche Berechnungsarten der Mehrwertsteuer bei Bestellu
 > Daher ist es vorteilhaft, Nettopreise eher auf den nächsten ganzen Centbetrag aufzurunden, also z.B. 1,10 statt 1,09 Euro. Dadurch können systematische Verluste der Foodcoop vermieden werden, besonders wenn von einer Lieferantin viele Artikel bzw. Einheiten mit kleinen Geldbeträgen bestellt werden.
 {.is-info}
 
+> Die Differenz aufgrund von Rundungsfehlern kann maximal 1 Cent pro Artikel ausmachen. Wenn also z.B. insgesamt 60 Artikel bestellt wurden, kann der Fehler nur 60 Cent sein. Eine größere Differenz muss ihre Ursache woanders haben.
+{.is-info}
 
-<h2 id="mwst-steuersatz10proz" class="toc-header"><a class="toc-anchor" href="#mwst-steuersatz10proz"></a>10% Mehrwersteuersatz</h2>
+## 20% Mehrwertsteuersatz
+
+Der normale Mehrwertsteuersatz beträgt 20 %, ausgenommen die im Folgenden angeführten Lebensmittel und landwirtschaftlichen Produkte.
+
+## 10% Mehrwertsteuersatz
 
 Auszug aus dem Anhang 1 des [Umsatzsteuergesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004873):
 - genießbare **Waren tierischen Ursprungs**: 
@@ -95,7 +101,13 @@ Auszug aus dem Anhang 1 des [Umsatzsteuergesetz](https://www.ris.bka.gv.at/Gelte
 > Nicht darunter fallen Lebensmittel wie Kaffee, Teearten wie z.B. schwarzer Tee, Getränke wie Säfte, Bier und Wein  
 {.is-warning}
 
-<h2 id="mwst-steuersatz13proz" class="toc-header"><a class="toc-anchor" href="#mwst-steuersatz13proz"></a>13% Mehrwersteuersatz</h2>
+> Während Milcherzeugnisse nur mit 10 % Mwst besteuert werden, sind es bei veganen pflanzlichen Milchersatzprodukten wie z.B. Sojamilch 20 %!
+{.is-warning}
 
-> Wenn sich wer auskennt, unter welchen  für Foodcoops relevanten Bedingungen dieser Mehrwersteuersatz zum Einsatz kommen kann, bitte hier ergänzen.
+
+## 13% Mehrwersteuersatz
+
+Manche Landwirte verrechnen einen Einheitssteuersatz von 13 %. 
+
+> Wenn sich wer auskennt, unter welchen  für Foodcoops relevanten Bedingungen dieser Mehrwertsteuersatz zum Einsatz kommen kann, bitte hier ergänzen.
 {.is-danger}
