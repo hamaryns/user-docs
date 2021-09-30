@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:40:00.347Z
+date: 2021-09-30T06:43:02.284Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -107,7 +107,9 @@ Abgerechnete Bestellungen sind üblicherweise jene, wo die Lieferantin der Foodc
 
 
 
-# Bestellen: Bestellungen bearbeiten
+# Bestellen
+
+## Bestellungen bearbeiten
 
 1. auf die Bestellung der Lieferantin klicken
 1. die Bestellmengen anpassen durch + und - Schaltflächen
@@ -135,7 +137,7 @@ Es können immer nur ganzzahlige Vielfache der Einheit eines Artikels bestellt w
 
 
 
-# Bestellungen stornieren
+## Bestellungen stornieren
 
 Es gibt keine Funktion, mit der Bestellungen als Ganzes mit einem Klick stornieren kannst. Solange Bestellungen noch offen sind, kannst du jedoch die Bestellungen bearbeiten und die Mengen der bisher bestellten Artikel auf Null setzen. 
 
@@ -145,7 +147,7 @@ Es gibt keine Funktion, mit der Bestellungen als Ganzes mit einem Klick stornier
 
 
 
-# Bestellende und Abholtag
+## Bestellende und Abholtag
 
 > Jede Bestellung kann ihren eigenen Endzeitpunkt und ihr eigenes Abholdatum haben. Während z.B. die Produkte der einen Bestellung noch in der aktuellen Woche abzuholen sind, kann es sein, dass sie bei einer anderen erst eine Woche später kommen. 
 {.is-warning}
