@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-09-30T11:18:14.042Z
+date: 2021-09-30T11:18:39.481Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -26,7 +26,7 @@ FC-Mitglieder bestellen oder verändern ihre **Bestellungen über die Foodsoft**
 3.  Mittwoch: 
 Der Status der Bestellungen wird eingefroren, FC-Mitglieder können ihre Bestellungen nun nicht mehr ändern, **Listen der Bestellungen** (enthalten nur jeweils gesamte Artikelzahl der Foodcoop) werden **von der Foodsoft an die Lieferantinnen** geschickt
 4.  Donnerstag:
-FC-Mitglied erstellt in der **Foodsoft mit der Funktion Abholtage Bestelllisten **und druckt sie aus, eine nach Bestellgruppen sortiert, eine nach Artikel sortiert und legt diese Bestelllisten in der Lagerraum 
+FC-Mitglied erstellt in der **Foodsoft mit der Funktion Abholtage Bestelllisten** und druckt sie aus, eine nach Bestellgruppen sortiert, eine nach Artikel sortiert und legt diese Bestelllisten in der Lagerraum 
 5.  Donnerstag bis Freitag:
 Lieferantinnen liefern bestellte Artikel in den Lagerraum; FC-Mitglied nimmt über **Foodsoft** Bestellungen an und vermerkt **Abweichungen zwischen Bestellung und Lieferungen**
 6.  Freitag = **Abholtag**: 
