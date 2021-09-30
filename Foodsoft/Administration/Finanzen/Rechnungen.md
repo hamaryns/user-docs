@@ -2,13 +2,13 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-09-29T16:05:08.847Z
+date: 2021-09-30T10:48:40.499Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
 ---
 
-<h1 id="rechnunganlegen" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen"></a>Rechnung anlegen</h1>
+# Rechnung anlegen
 
 Die Funktion “Rechnung anlegen” dient dazu, Rechnungen von ProdzentInnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen scheinen zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Rechnungen können in Papierform oder digital als PDF vorliegen. 
 
@@ -20,7 +20,7 @@ Eine neue Rechnung kann angelegt werden unter
 - Artikel \> Lieferant \> Letzte Lieferungen \> Rechnung anlegen
 - Artikel \> Lager \> neue Lieferung… (?)
 
-> Empfehlung: Rechnungen, die in Papierform vorliegen, gehen einfacher mit einem Smartphone oder Tablet mit Kamerafunktion einzugeben. Die Eingabe kann auch jederzeit unterbrochen, die Rechnung unfertig gespeichert werden, um auf einem anderen Gerät fortgesetzt werden. Wichtig ist es, das das Datum der Rechnung einzugeben, weil sie sonst schwer auffindbar ist. 
+> Empfehlung: Rechnungen, die in Papierform vorliegen, gehen einfacher mit einem Smartphone oder Tablet mit Kamerafunktion einzugeben. Sobald ein Rechnungsdatum eingegeben ist, kann die Eingabe jederzeit unterbrochen, die Rechnung unfertig gespeichert werden, um auf einem anderen Gerät fortgesetzt werden. Wichtig ist es, das Datum der Rechnung (oder zumindest das aktuelle Datum) einzugeben, weil sie sonst schwer auffindbar ist. 
 {.is-info}
 
 ![neue-rechnung.png](/neue-rechnung.png)
@@ -28,7 +28,7 @@ Eine neue Rechnung kann angelegt werden unter
 
 In der neuen Rechnung ist anzugeben:
 
-<h2 id="rechnunganlegen-lieferantin" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-lieferantin"></a>Lieferant</h2>
+## Lieferant
 
 Lieferantin auswählen.
 
@@ -36,7 +36,7 @@ Lieferantin auswählen.
 {.is-info}
 
 
-<h2 id="rechnunganlegen-bestliefverk" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-bestliefverk"></a>Bestellungen und Lieferungen mit Rechnung verknüpfen</h2>
+## Bestellungen und Lieferungen mit Rechnung verknüpfen
 
 In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung(en) und/oder jene Bestellung(en) auswählen, für die die Rechnung ausgestellt wurde. Damit ist klar, ob die Lieferantin für eine Lieferung/Bestellung eine Rechnung ausgestellt hat, und der Rechnungsberag kann mit dem Guthaben, das den Mitgliedern abgebucht wird (bzw. das als Warenwert ins Lager eingegangen ist), verglichen werden. Dies ist die einzige echte Kontrollmöglichkeit, um zu schauen, dass die Foodcoop keinen Verlust, aber auch keinen unerwünschten Gewinn macht - daher ist dieser Schritt sehr wichtig.
 
@@ -64,7 +64,7 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 {.is-danger}
 
 
-<h2 id="rechnunganlegen-nummer" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-nummer"></a>Nummer</h2>
+## Nummer
 
 Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Banküberweisung von der Foodsoft (oder von der Person, die in der Foodcoop die Rechnungen via Ebanking manuell bezahlt) in den Verwendungszweck eingetragen, und dient sowohl der Foodsoft als auch der Lieferantin zur eindeutigen Zuordnung der Rechnung. 
 > Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521`. 
@@ -73,22 +73,24 @@ Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Bank�
 
 
 
-<h2 id="rechnunganlegen-rechndatum" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-rechndatum"></a>Rechnungsdatum</h2>
+## Rechnungsdatum
 
-Von Rechnung übernehmen. 
+Von Rechnung übernehmen. Wenn nicht bekannt, das Datum der Lieferung oder das aktuelle Datum eingeben.
 
-Für die Eingabe des Datums gibt es folgende alternative Möglichkeiten
-1. Über die Kalenderfunktion: im erscheinenden Kalender das Datum auswählen; diese Art ist auf mobilen Geräten aufgrund des kleinen Displays oft schwierig anzuwenden.
-1. Eingabe im Textfeld **genau im Format** `2021-09-29` (also zuerst Jahr 4-stellig, Bindestrich, in der Mitte Monat zweistellig ggf. mit führender Null, Bindestrich,am Ende Tag zweistellig ggf. mit führender Null). 
+Für die Eingabe des Datums gibt es folgende alternative Möglichkeiten:
+1. Über die **Kalenderfunktion**: ins Eingabefeld klicken, es erscheinent ein Kalender, das aktuelle Datum ist gelb hinterlegt. Auf das gewünschte Datum klicken, wodurch dieses blau wird und im Eingebefeld erscheint. Diese Art ist auf mobilen Geräten aufgrund des kleinen Displays oft schwierig anzuwenden. ![rechnungsdatum-kalender.png](/rechnungsdatum-kalender.png)
+1. **Eingabe im Textfeld genau im Format** `2021-09-30` (also zuerst Jahr 4-stellig, Bindestrich, in der Mitte Monat zweistellig ggf. mit führender Null, Bindestrich, am Ende Tag zweistellig ggf. mit führender Null). 
 
-> Wenn das Datum im falschen Format eingegeben wird, interpretiert die Foodsoft das Datum und insbesondere das Jahr falsch, und die Rechnung ist nachher scheinbar verschwunden, weil sie z.B. im Jahr 21 n.Chr. (statt 2021) angelegt ist.
+> Wenn das Datum im falschen Format eingegeben wird, interpretiert die Foodsoft das Datum und insbesondere das Jahr falsch, und die Rechnung ist nachher scheinbar verschwunden, weil die Rechnungen nach Datum sortiert werden (neuerste zuerst). Die Eingabe von `30.9.2021` ergibt z.B. `36-03-13`, also das Datum 13. März im Jahr 36 n.Chr., und die Rechnung wird ganz ans Ende der Liste gereiht.
 {.is-warning}
 
 
-> Rechungen werden in der Liste der Rechnungen nach dem Rechnungsdatum sortiert. Wenn dieses Feld leer gelassen wird, erscheint die Rechnung ganz am Ende der Liste der Rechnungen, statt am Anfang, wo neue Rechnungen sonst zu finden sind. Auch wenn ein falsches Datum (z.B. falsches Jahr) eingegeben wird, ist die Rechnung in der Liste schwerer aufzufinden.
+> Auch wenn dieses Feld leer gelassen wird, erscheint die Rechnung ganz am Ende der Liste der Rechnungen, statt am Anfang, wo neue Rechnungen sonst zu finden sind. 
 {.is-warning}
 
-<h2 id="rechnunganlegen-bezahltam" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-bezahltam"></a>Bezahlt am</h2>
+
+
+## Bezahlt am
 
 ### Rechnung noch unbezahlt
 
@@ -99,17 +101,17 @@ Für die Eingabe des Datums gibt es folgende alternative Möglichkeiten
 Falls die Rechnung schon bezahlt wurde, das Datum eintragen, an dem dies erledigt wurde. Die Rechnung scheint dann **nicht** unter "unbezahlte Rechnungen" auf.  Die Person in deiner Foodcoop, die einen Bankkontozugang hat und die Überweisung der Rechnungen durchführt, weiß damit, dass diese Rechnung nicht mehr zu zahlen ist.
 
 
-<h2 id="rechnunganlegen-betrag" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-betrag"></a>Betrag</h2>
+## Betrag
 
 Rechnungsbetrag (inklusive [Mehrwertsteuer](Mehrwertsteuer)) von Rechnung übernehmen.
 
-<h2 id="rechnunganlegen-pfandberech" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-pfandberech"></a>Pfand berechnet</h2>
+## Pfand berechnet
 
 Leer lassen, falls in den Artikeln der Foodsoft ein Pfandbetrag bereits inkludiert ist, weil Bestellungen und Lieferungen nicht pfandbereinigt werden. Falls sich Pfand in der Foodsoft und auf der Rechnung des Produzenten nicht decken, kann hier die Differenz eingegeben werden: 
 - (Pfand gesamt Produzent) - (Pfand gesamt Foodsoft). 
     
     
-<h3 id="rechnunganlegen-pfandberech-beisp" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-pfandberech-beisp"></a>Beispiele </h3>
+### Beispiele
 
 Für 3 Flaschen und 50 Cent Pfand pro Flasche:
 - Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet ebenfalls 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 3 \* 0,50 = 0 €
@@ -118,7 +120,7 @@ Für 3 Flaschen und 50 Cent Pfand pro Flasche:
 
 Siehe auch [Pfand in Foodcoops](Pfand).
 
-<h2 id="rechnunganlegen-pfandgut" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-pfandgut"></a>Pfand gutgeschrieben</h2>
+## Pfand gutgeschrieben
 
 Pfandgutschrift des Produzenten Brutto (inkl. Mwst) als positiven Wert eintragen wie auf der Rechnung ausgewiesen, sofern im Rechnungsendbetrag berücksichtigt.
 
@@ -126,7 +128,7 @@ Pfandgutschrift des Produzenten Brutto (inkl. Mwst) als positiven Wert eintragen
 {.is-info}
 
 
-<h2 id="rechnunganlegen-anhang" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-anhang"></a>Anhang</h2>
+## Anhang
 
 Foto der Papierrechnung oder PDF-Rechnungsdatei hochladen. 
     
@@ -134,11 +136,14 @@ Foto der Papierrechnung oder PDF-Rechnungsdatei hochladen.
 {.is-info}
 
 
-<h2 id="rechnunganlegen-notiz" class="toc-header"><a class="toc-anchor" href="#rechnunganlegen-notiz"></a>Notiz</h2>
+## Notiz
 
 Empfehlung, dass hier der Status der Rechnung kommentiert wird (kann bezahlt werden, oder es muss z.B. noch auf eine Anpassung an die Lieferung gewartet werden) und etwaige Differenzen zwischen Bestellung und Rechnung dokumentiert und erklärt werden (Vorschlag: “Differenz X,XX Euro zugunsten/zulasten der Foodcoop aufgrund ...”). Kann zunächst leer gelassen und später noch bearbeitet werden.
 
-<h1 id="rechnunganzmod" class="toc-header"><a class="toc-anchor" href="#rechnunganzmod"></a>Rechnung anzeigen und bearbeiten</h1>
+
+
+
+# Rechnung anzeigen und bearbeiten
 
 Um eine bereits angelegte Rechnung anzuzeigen: 
 - Finanzen \> Rechnungen; Die Rechnungen sind nach Rechnungsdatum sortiert, beginnend mit aktuellen. Diese Rechnung sollte hier auch dann zu finden sein, wenn die Rechnung schon als bezahlt markiert wurde (= Datum bei "bezahlt am" eingegeben)
@@ -149,16 +154,15 @@ Um eine bereits angelegte Rechnung anzuzeigen:
 
 Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben anzeigen und dann “bearbeiten” auswählen. Zusätzlich gibt es noch die Möglichkeit über Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung bearbeiten.
 
-<h1 id="rechpruef" class="toc-header"><a class="toc-anchor" href="#rechpruef"></a>Rechnung prüfen</h1>
+# Rechnung prüfen
 
-Unter Finanzen \> Übersicht \> unbezahlte Rechnung wir die Differenz zwischen Foodsoft Buchungen von den Mitgliederkonten und dem pfandbereinigten Rechnungsbetrag angezeigt, wenn sie nicht null ist:
+Unter *Finanzen \> Übersicht \> unbezahlte Rechnung* wir die Differenz zwischen Foodsoft Buchungen von den Mitgliederkonten und dem pfandbereinigten Rechnungsbetrag angezeigt, wenn sie nicht null ist:
 - roter minus-Betrag: Foodcoop macht Verlust
 - grüner plus-Betrag: Foodcoop macht Gewinn
 - kein Differenzbetrag: exakte Übereinstimmung der Beträge
 
 Das Vorzeichen hat sich Anfang März 2021 umgedreht, die Bedeutung der Farben in Bezug auf Verlust/Gewinn für die Foodcoop ist gleich geblieben.
 
-Lieferungen ins Lager werden bei dieser Differenz leider nicht berücksichtigt(?)
 
 Zusätzlich sind in der Rechnungsansicht noch folgende Details einzusehen:
 - **Pfandbereinigter Betrag** = Rechnungsbetrag - Pfand berechnet + Pfand gutgeschrieben
@@ -175,16 +179,15 @@ Falls nicht:
 {.is-warning}
 
 
-> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden.
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden. (**Github Issue?**)
 {.is-danger}
 
 
-
-<h2 id="rechpruef-bezfreig" class="toc-header"><a class="toc-anchor" href="#rechpruef-bezfreig"></a>Rechnung zur Bezahlung freigeben</h2>
+## Rechnung zur Bezahlung freigeben
 
 Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von Rechnungen andere Personen zuständig sind. 
 
-<h1 id="rechbezkenn" class="toc-header"><a class="toc-anchor" href="#rechbezkenn"></a>Rechungen als bezahlt kennzeichnen</h1>
+# Rechungen als bezahlt kennzeichnen
 
 Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
 
@@ -192,4 +195,4 @@ Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, wenn sie tatsäc
 {.is-info}
 
 
-Bezahlte Rechnungen scheinen nicht mehr unter Finanzen \> Rechnungen \> unbezahlte Rechnungen und Finanzen \> Übersicht \> unbezahlte Rechnungen auf.
+Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen \> Rechnungen \> unbezahlte Rechnungen* und *Finanzen \> Übersicht \> unbezahlte Rechnungen* auf.
