@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:31:57.856Z
+date: 2021-09-30T06:32:39.406Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -107,7 +107,7 @@ Abgerechnete Bestellungen sind üblicherweise jene, wo die Lieferantin der Foodc
 
 
 
-# Bestellungen bearbeiten
+# Bestellen: Bestellungen bearbeiten
 
 1. auf die Bestellung der Lieferantin klicken
 1. die Bestellmengen anpassen durch + und - Schaltflächen
