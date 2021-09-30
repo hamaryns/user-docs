@@ -2,13 +2,13 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-09-29T17:34:04.984Z
+date: 2021-09-30T06:14:48.911Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
 ---
 
-<h1 id="einleitung" class="toc-header"><a class="toc-anchor" href="#einleitung"></a>Einleitung</h1>
+# Einleitung
 
 Eine **Foodcoop** (Lebensmittelkooperative) ist der Zusammenschluss von
 Personen und Haushalten, die selbstorganisiert bevorzugt biologische
@@ -41,8 +41,7 @@ wer, der euch dabei helfen kann.
 
 
 
-
-<h1 id="fs-aufruf-anmeldung" class="toc-header"><a class="toc-anchor" href="#fs-aufruf-anmeldung"></a>Foodsoft Aufruf und Anmeldung</h1>
+# Foodsoft Aufruf und Anmeldung
 
 Die Foodsoft wird über einen Web-Browser wie Firefox,
 Chrome, Internet-Explorer o.ä. aufgerufen über die Webadresse
@@ -63,7 +62,7 @@ Trick, der weiter unten beschrieben ist.
 
 
 
-<h2 id="erstes-mal-anmelden" class="toc-header"><a class="toc-anchor" href="#erstes-mal-anmelden"></a>Erstes Mal Anmelden</h2>
+## Erstes Mal Anmelden
 
 Im folgenden Video-Tutorial cder Foodcoop Fresskorb erfährst du, wie du dich das erste Mal anmeldest, deine persönlichen Daten vervollständigst und dein Passwort neu setzt. 
 
@@ -72,7 +71,7 @@ Im folgenden Video-Tutorial cder Foodcoop Fresskorb erfährst du, wie du dich da
 
 
 
-<h1 id="startseite-dashboard" class="toc-header"><a class="toc-anchor" href="#startseite-dashboard"></a>Startseite (Dashboard)</h1>
+# Startseite (Dashboard)
 
 Das Dashboard, also die Seite, die dir nach dem Login angezeigt wird,
 und die über das Menü über den Eintrag „Dashboard“ erreichbar ist,
@@ -92,14 +91,14 @@ beinhaltet folgende Bereiche, von oben nach unten:
 
 
 
-<h1 id="navigation" class="toc-header"><a class="toc-anchor" href="#navigation"></a>Navigation</h1>
+# Navigation
 
 Je nach Breite deines Displays bzw. Browser-Fensters sieht das Menü unterschiedlich aus.
 
 
 
 
-<h2 id="breites-display" class="toc-header"><a class="toc-anchor" href="#breites-display"></a>Breites Display</h2>
+## Breites Display
 
 Bei einem breiten Display wie z.B. am PC oder Laptop sieht es so aus:
 
@@ -108,7 +107,7 @@ Bei einem breiten Display wie z.B. am PC oder Laptop sieht es so aus:
 
 
 
-<h2 id="schmales-display" class="toc-header"><a class="toc-anchor" href="#schmales-display"></a>Schmales Display</h2>
+## Schmales Display
 
 Bei einem schmalen Display wie z.B. am Smartphone, oder wenn du am Computer dein Browserfenster schmal machst;
 
@@ -125,7 +124,7 @@ Hier noch das ganze in animierter Form:
 
 
 
-<h2 id="menue" class="toc-header"><a class="toc-anchor" href="#menue"></a>Menü</h2>
+## Menü
 
 Das Menü hat folgende Struktur. Erklärungen zu den Menupunkten sind über die jeweiligen Links erreichbar: 
 
@@ -161,7 +160,7 @@ Das Menü hat folgende Struktur. Erklärungen zu den Menupunkten sind über die 
 
 
 
-<h2 id="link-leiste" class="toc-header"><a class="toc-anchor" href="#link-leiste"></a>Link-Leiste</h2>
+## Link-Leiste
 
 Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Logos (bei schmalem Display) gibt es noch die blau hinterlegten Links:
 
@@ -186,7 +185,7 @@ Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Log
 
 
 
-<h2 id="direkt-zu" class="toc-header"><a class="toc-anchor" href="#direkt-zu"></a>Direkt zu...</h2>
+## Direkt zu...
 
 ![direkt-zu.png](/direkt-zu.png)
 
@@ -201,7 +200,7 @@ Der graue Kasten enthält eine Auswahl der Menüpunkte. Falls du hier eine gewü
 
 
 
-<h1 id="listen" class="toc-header"><a class="toc-anchor" href="#listen"></a>Listen</h1>
+# Listen
 
 An vielen Stellen in der Foodsoft werden Informationen in Form von Listen dargestellt. Wenn die Listen länger sind, gibt es verschiedene Möglichkeiten, sich darin zurechtzufinden:
 
@@ -220,7 +219,7 @@ An vielen Stellen in der Foodsoft werden Informationen in Form von Listen darges
 
 
 
-<h1 id="abmelden" class="toc-header"><a class="toc-anchor" href="#abmelden"></a> Abmelden/Logout</h1>
+# Abmelden/Logout
 
 Um dich abzumelden und die Sitzung zu beenden, klicke im Menu rechts-oben auf einen Namen und "Abmelden".
 
