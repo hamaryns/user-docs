@@ -2,7 +2,7 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Wie Foodcoops mit damit umgehen und wie es in der Foodsoft zu berücksichtigen ist
 published: true
-date: 2021-09-30T11:04:13.428Z
+date: 2021-09-30T11:04:49.203Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
@@ -58,6 +58,8 @@ Durch folgende unterschiedliche Berechnungsarten der Mehrwertsteuer bei Bestellu
 
 > Die Differenz aufgrund von Rundungsfehlern kann maximal 1 Cent pro Artikel ausmachen. Wenn also z.B. insgesamt 60 Artikel bestellt wurden, kann der Fehler nur 60 Cent sein. Eine größere Differenz muss ihre Ursache woanders haben.
 {.is-info}
+
+# Mehrwertsteuersätze
 
 ## 20% Mehrwertsteuersatz
 
