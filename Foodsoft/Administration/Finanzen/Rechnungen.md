@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-09-30T10:48:40.499Z
+date: 2021-09-30T10:51:09.442Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -103,7 +103,7 @@ Falls die Rechnung schon bezahlt wurde, das Datum eintragen, an dem dies erledig
 
 ## Betrag
 
-Rechnungsbetrag (inklusive [Mehrwertsteuer](Mehrwertsteuer)) von Rechnung übernehmen.
+Rechnungsbetrag (inklusive [Mehrwertsteuer](./Mehrwertsteuer)) von Rechnung übernehmen.
 
 ## Pfand berechnet
 
@@ -118,7 +118,7 @@ Für 3 Flaschen und 50 Cent Pfand pro Flasche:
 - Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet nur 10 Cent pro Flasche, Differenz = 3 \* 0,10 - 3 \* 0,50 = 3 \* (0,10-0,50) = -1,20 €
 - Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet kein Pfand, Differenz = 0 - 3 \* 0,50 = -1,50 € Foodsoft-Artikel enthält kein Pfand, Produzent verrechnet 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 0 = +1,50 €
 
-Siehe auch [Pfand in Foodcoops](Pfand).
+Siehe auch [Pfand in Foodcoops](./Pfand).
 
 ## Pfand gutgeschrieben
 
@@ -191,7 +191,7 @@ Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von 
 
 Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
 
-> Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Foodsoft Rechnungen](#anchor-134) im Abschnitt [Bankkonto mit Foodsoft verknüpfen](#anchor-19).
+> Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](./Bankkonto)
 {.is-info}
 
 
