@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-09-30T11:14:22.018Z
+date: 2021-09-30T11:17:16.243Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -84,7 +84,7 @@ sollten:
 
 <h3 id="funktionsueberblick-anwendungsvarianten-voll" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-anwendungsvarianten-voll"></a>Variante 4: Vollnutzung</h3>
 
-Wie beschrieben unter [Funktionsüberblick](#anchor-61).
+Wie beschrieben unter *Funktionsüberblick*.
 
 ### Optionale Funktionen
 
@@ -99,24 +99,24 @@ wenn sie nicht benötigt werden, sodass sie gar nicht aufscheinen:
 
 # Menüs für Administration
 
-Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechten (siehe [Benutzerinnenverwaltung](Benutzerverwaltung)) erweitert:
+Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechten (siehe [Benutzerinnenverwaltung](./Benutzerverwaltung)) erweitert:
 
 ![menues-admin.gif](/menues-admin.gif)
 
 
 | Menü                | Untermenü | [Berechtigung(en)](Benutzerverwaltung) |
 | ------------------- | --------- | --------------- | 
-| Bestellungen | [Bestellverwaltung](Bestellungen) | Bestellungen | 
+| Bestellungen | [Bestellverwaltung](./Bestellungen) | Bestellungen | 
 | Artikel | Lieferantinnen |  | 
 | Artikel | Lager |  | 
 | Artikel | Kategorien |  | 
 | Finanzen | Übersicht | Finanzen | 
-| Finanzen | [Bankkonten](Finanzen/Bankkonto) | Finanzen | 
-| Finanzen | [Konten verwalten](Finanzen/Konten)| Finanzen | 
-| Finanzen | [Bestellungen abrechnen](Bestellungen) | Finanzen | 
-| Finanzen | [Rechnungen](Finanzen/Rechnungen) | Finanzen | 
-| Adminstration | [Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen](Benutzerverwaltung) | Admin | 
-| Adminstration | [Einstellungen](Einstellungen) | Admin | 
+| Finanzen | [Bankkonten](./Finanzen/Bankkonto) | Finanzen | 
+| Finanzen | [Konten verwalten](./Finanzen/Konten)| Finanzen | 
+| Finanzen | [Bestellungen abrechnen](./Bestellungen) | Finanzen | 
+| Finanzen | [Rechnungen](./Finanzen/Rechnungen) | Finanzen | 
+| Adminstration | [Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen](./Benutzerverwaltung) | Admin | 
+| Adminstration | [Einstellungen](./Einstellungen) | Admin | 
 
 # Foodsoft einrichten
 
@@ -125,32 +125,32 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 
 ## Notwendige Schritte
 
-1. IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](Neue_Foodsoft_Instanz) 
-1. [Allgemeine Einstellungen](Einstellungen) 
-1. [Benutzerinnenverwaltung](Benutzerverwaltung) BenutzerInnen und Bestellgruppen anlegen, Arbeitsgruppen und Berechtigungen setzen
-1. [Lieferantinnen, Artikel und Kategorien anlegen](Lieferantinnen)
+1. IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](./Neue_Foodsoft_Instanz) 
+1. [Allgemeine Einstellungen](./Einstellungen) 
+1. [Benutzerinnenverwaltung](./Benutzerverwaltung) BenutzerInnen und Bestellgruppen anlegen, Arbeitsgruppen und Berechtigungen setzen
+1. [Lieferantinnen, Artikel und Kategorien anlegen](./Lieferantinnen)
 
-<h2 id="foodsoft-einrichten-optional" class="toc-header"><a class="toc-anchor" href="#foodsoft-einrichten-optional"></a>Optionale Schritte</h2>
+## Optionale Schritte
 
-- [Dokumente, Infos und Anleitungen für Foodcoop Mitglieder anlegen](/de/Foodsoft/Anwendung/Dokumente)
-- [Bankkonto mit Foodsoft verbinden](Bankkonto)
+- [Dokumente, Infos und Anleitungen für Foodcoop Mitglieder anlegen](../Anwendung/Dokumente)
+- [Bankkonto mit Foodsoft verbinden](./Bankkonto)
 - ...
 
 
 # Foodsoft verwenden
 
-- [Bestellungen](Bestellungen)
-- [Lager](Lager)
-- [Mitglieder-Konten für Guthaben](Finanzen/Konten)
-- [Rechnungen](Finanzen/Rechnungen)
+- [Bestellungen](./Bestellungen)
+- [Lager](./Lager)
+- [Mitglieder-Konten für Guthaben](./Finanzen/Konten)
+- [Rechnungen](./Finanzen/Rechnungen)
 {.links-list}
 
 ## Allgemeine Tipps
 
-- [Demoinstallationen der Foodsoft](Demo-Installationen) Hier kannst du die Foodsoft testen und etwas ausprobieren, ohne etwas in deiner eigenen Foodsoft kaputt zu machen 
+- [Demoinstallationen der Foodsoft](./Demo-Installationen) Hier kannst du die Foodsoft testen und etwas ausprobieren, ohne etwas in deiner eigenen Foodsoft kaputt zu machen 
 {.links-list}
-- [Begriffsklärungen](Begriffsklärungen) Manche Begriffe in der Foodsoft haben spezielle oder auch mehrfache Bedeutungen
-- [Brutto, Netto und Mehrwertsteuer](Finanzen/Mehrwertsteuer) Wie wir als Foodcoop mit Mehrwertsteuer umgehen sollen, und wie Mehrwertsteuer in der Foodsoft berücksichtigt werden kann
-- [Foodsoft-Listen](Listen) Allgemeines zum Umgang mit Listen-Darstellungen in der Foodsoft (Artikel, Bestellungen, Rechnungen, ...), die schnell mal etwas unübersichtlich werden können
+- [Begriffsklärungen](./Begriffsklärungen) Manche Begriffe in der Foodsoft haben spezielle oder auch mehrfache Bedeutungen
+- [Brutto, Netto und Mehrwertsteuer](./Finanzen/Mehrwertsteuer) Wie wir als Foodcoop mit Mehrwertsteuer umgehen sollen, und wie Mehrwertsteuer in der Foodsoft berücksichtigt werden kann
+- [Foodsoft-Listen](./Listen) Allgemeines zum Umgang mit Listen-Darstellungen in der Foodsoft (Artikel, Bestellungen, Rechnungen, ...), die schnell mal etwas unübersichtlich werden können
 
 
