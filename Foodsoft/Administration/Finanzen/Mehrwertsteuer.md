@@ -2,7 +2,7 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Wie Foodcoops mit damit umgehen und wie es in der Foodsoft zu berücksichtigen ist
 published: true
-date: 2021-06-06T15:48:34.164Z
+date: 2021-09-30T10:52:55.584Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
@@ -10,7 +10,7 @@ dateCreated: 2021-04-22T09:16:46.231Z
 
 <h1 id="mwst" class="toc-header"><a class="toc-anchor" href="#mwst"></a>Mehrwertsteuer</h1>
 
-> Die Mehrwertsteuer (abgegürzt Mwst, auch Umsatzsteuer) ist eine Steuer für Lieferungen oder Leistungen, die nur bei der Letztverbraucherin/dem Letztverbraucher zum Tragen kommt. Der Mehrwertsteuersatz beträgt **grundsätzlich 20 Prozent** (sogenannter "Normalsteuersatz"). Für einige Waren/Dienstleistungen gilt ein ermäßigter Mehrwertsteuersatz z.B. für **Lebensmittel von 10 Prozent**, Details siehe unten. Der ermäßigte Steuersatz von **13 Prozent** kann z.B. unter bestimmten Voraussetzunen für landwirtschafliche Direktvermarktung herangezogen werden.
+> Die Mehrwertsteuer (abgekürzt Mwst, auch Umsatzsteuer) ist eine Steuer für Lieferungen oder Leistungen, die nur bei der Letztverbraucherin/dem Letztverbraucher zum Tragen kommt. Der Mehrwertsteuersatz beträgt **grundsätzlich 20 Prozent** (sogenannter "Normalsteuersatz"). Für einige Waren/Dienstleistungen gilt ein ermäßigter Mehrwertsteuersatz z.B. für **Lebensmittel von 10 Prozent**, Details siehe unten. Der ermäßigte Steuersatz von **13 Prozent** kann z.B. unter bestimmten Voraussetzunen für landwirtschafliche Direktvermarktung herangezogen werden.
 
 
 
