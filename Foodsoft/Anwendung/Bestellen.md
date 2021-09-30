@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:39:18.820Z
+date: 2021-09-30T06:40:00.347Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -76,7 +76,7 @@ Laufende Bestellungen sind jene, wo du im Moment bestellen kannst, indem du sie 
 Für jede Bestellung wird angezeigt:
 - **Abholung**: ab wann kann ich die Artikel dieser Bestellung in der Foodcoop abholen 	
 - **Endet am**:  bis wann kann ich diese Bestellung bearbeiten 	
-- **Wer hat bestellt?**: wer aus deiner [Bestellgruppe](/de/Teil-1/Bestellgruppe) hat zuletzt die Bestellung bearbeitet?
+- **Wer hat bestellt?**: wer aus deiner [Bestellgruppe](./Bestellgruppe) hat zuletzt die Bestellung bearbeitet?
 - **Bestellsumme**: wieviel macht diese Bestellung in Summe aus
 
 Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen. 
