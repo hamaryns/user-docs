@@ -2,11 +2,13 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-29T17:27:52.434Z
+date: 2021-09-30T06:50:56.374Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
 ---
+
+# Benutzerinnen und Bestellgruppen
 
 Jede Foodsoft-Benutzerin (Account) verfügt über ein eigenes Profil mit den folgenden Informationen:
 - Vor- und Nachname
@@ -21,7 +23,7 @@ Bestellt wird innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutz
 
 Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, erfahrst du unter "Profil bearbeiten".
 
-<h1 id="profil-bearbeiten" class="toc-header"><a class="toc-anchor" href="#profil-bearbeiten"></a>Profil bearbeiten: meine Kontaktdaten </h1>
+# Profil bearbeiten: meine Kontaktdaten
 
 Um dein Profil zu bearbeiten klicke im Menü rechts-oben auf deinen Namen und "Profil bearbeiten": 
 
@@ -32,40 +34,42 @@ Hier kannst du nun folgende Daten eingeben bzw. Einstellungen vornehmen. Wenn du
 
 ![profildaten1.png](/profildaten1.png)
 
-<h2 id="vor-nachname" class="toc-header"><a class="toc-anchor" href="#vor-nachname"></a>Vor- und Nachname</h2>
+## Vor- und Nachname
 
 Bitte gib deinen vollständigen Namen ein.
 
-<h2 id="e-mail" class="toc-header"><a class="toc-anchor" href="#e-mail"></a>E-Mail Adresse</h2>
+## E-Mail Adresse
 
 Wird benötigt für
 - Anmelden in der Foodsoft
 - Benachrichtigungen für Foodsoft-Nachrichten
 - Benachrichtigungen im IG Forum
 
-<h2 id="passwort-neu" class="toc-header"><a class="toc-anchor" href="#passwort-neu"></a>Passwort neu setzen</h2>
+## Passwort neu setzen
 
 Nach deinem ersten Login solltest du hier ein neues Passwort setzen.
 
-<h2 id="telefon" class="toc-header"><a class="toc-anchor" href="#telefon"></a>Telefon</h2>
+
+
+## Telefon
 
 Hier solltest du deine Telefonnummer eingeben, damit du für andere innerhalb der Foodcoop erreichbar bist. 
 
-<h2 id="iban" class="toc-header"><a class="toc-anchor" href="#iban"></a>IBAN</h2>
+## IBAN
 
 Die IBAN deines Bankkontos. Hilfreich, um Zahlungseingänge am Foodcoop Bankkonto zuordnen zu können.
 
 
-<h2 id="adresse" class="toc-header"><a class="toc-anchor" href="#adresse"></a>Adresse</h2>
+## Adresse
 
 Deine Wohnadresse.
 
-<h2 id="sprache" class="toc-header"><a class="toc-anchor" href="#sprache"></a>Sprache</h2>
+## Sprache
 
-Die Sprache auswählen, in der die Foodsoft angezeigt wird.
+Die Sprache auswählen, in der die Foodsoft angezeigt wird. Das ändert zwar die Sprache der Menüs, Überschriften und Eingabefelder der Foodsoft, nicht jedoch die der Artikelbezeichnungen.
 
 
-<h2 id="privatsphaere" class="toc-header"><a class="toc-anchor" href="#privatsphaere"></a>Privatsphäre</h2>
+## Privatsphäre
 
 Unter Privatsphäre kannst du selbst einstellen, ob deine Telefonnummer und Emailadresse für andere Mitglieder sichtbar sind. Wenn nicht aktiviert, sind sie nur für Foodsoft Administratorinnen sichtbar. 
 
@@ -73,7 +77,7 @@ Unter Privatsphäre kannst du selbst einstellen, ob deine Telefonnummer und Emai
 {.is-info}
 
 
-<h2 id="nachrichten" class="toc-header"><a class="toc-anchor" href="#nachrichten"></a>Nachrichten (Benachrichtigungen)</h2>
+## Nachrichten (Benachrichtigungen)
 
 Hier kannst du einstellen, welche Art von Foodsoft-Nachrichten du bekommst:
 - Informiere mich über meine Bestellergebnisse (nach Ende der Bestellung).
@@ -93,7 +97,7 @@ Hier kannst du einstellen, welche Art von Foodsoft-Nachrichten du bekommst:
 {.is-warning}
 
 
-<h2 id="personen-bestellgruppe-einladen" class="toc-header"><a class="toc-anchor" href="#personen-bestellgruppe-einladen"></a>Neue Mitglieder zur eigenen Bestellgruppe einladen</h2>
+## Neue Mitglieder zur eigenen Bestellgruppe einladen
 
 Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner Bestellgruppe. Über „Neues Mitglied einladen“ kannst du andere Personen wie Familienmitglieder, WG-KollegInnen, NachbarInnen einladen, Teil deiner Bestellgruppe zu werden, indem du ihre Email eingibst. Sie bekommen dann einen eigenen Zugang zur Foodsoft.
 
@@ -103,7 +107,7 @@ Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner
 ![profildaten2.png](/profildaten2.png)
 
 
-<h2 id="personen-ag" class="toc-header"><a class="toc-anchor" href="#personen-ag"></a>Mitgliedschaft in Arbeitsgruppen beenden</h2>
+## Mitgliedschaft in Arbeitsgruppen beenden
 
 Falls du Mitglied in Arbeitsgruppen bist (nur Administratorinnen können dich zum Mitglied einer Arbeitsgruppe machen), kannst du hier selbst deine Mitgliedschaft in den Arbeitsgruppen beenden. 
 
@@ -116,7 +120,7 @@ Falls du Mitglied in Arbeitsgruppen bist (nur Administratorinnen können dich zu
 
 
 
-<h1 id="meine-bestellgruppe" class="toc-header"><a class="toc-anchor" href="#meine-bestellgruppe"></a>Meine Bestellgruppe: Kontostand und Kontoauszug einsehen</h1>
+# Meine Bestellgruppe: Kontostand und Kontoauszug einsehen
 
 In der Foodsoft hast du ein virtuelles Konto mit Guhaben. Im Kasten links siehst du 
 
@@ -137,7 +141,10 @@ Im rechten Bereich siehst du einen Kontoauszug. Nur abgerechnete Bestellungen sc
 
 Wird in deiner Foodcoop die Abrechnung nicht über die Foodsoft durchgeführt, steht beim Kontostand ein „fiktiver“, stets gleich bleibender Wert. Das ist notwendig, damit du in der Foodsoft überhaupt bestellen kannst. Erkundige dich in diesem Fall in deiner Foodcoop, wie du dein Guthaben verwaltest, und wie die Abrechnung funktioniert.
 
-<h1 id="zahlungsreferenz-rechner" class="toc-header"><a class="toc-anchor" href="#zahlungsreferenz-rechner"></a>Zahlungsreferenz-Rechner</h1>
+
+
+
+# Zahlungsreferenz-Rechner
 
 Wenn es in deiner Foodcoop eingerichtet ist, kannst du für Überweisungen für Foodsoft Guthaben und Foodcoop Mitgliedsbeiträge auf das Bankkonto bzw. die Bankkonten deiner Foodcoop einen Zahlungsreferenz-Code verwenden. Damit werden deine Überweisungen automatisch deiner Bestellgruppe zugeordnet, und dein Guthaben in der Foodsoft aufgeladen.
 
@@ -150,7 +157,7 @@ Nur bei bestimmten Banken kann sich die Foodsoft zweimal täglich automatisch di
 > Wenn mehrere Zugänge zu deiner Bestellgruppe angelegt sind, unterscheiden sich die Codes je nach Zugang, und im Kontoauszug wird dann angezeigt, von welchem Zugang aus ein Guthaben überwiesen wurde. 
 {.is-info}
 
-<h2 id="zahlungsreferenz-rechner-fehler" class="toc-header"><a class="toc-anchor" href="#zahlungsreferenz-rechner-fehler"></a>Häufige Fehler bei Zahlungsreferenzcodes</h2>
+## Häufige Fehler bei Zahlungsreferenzcodes
 
 Wenn du den Code abtippst, statt ihn zu kopieren (grundsätzlich nicht empfohlen weil zu fehleranfällig), achte bitte ganz genau darauf, dass jedes einzelne Zeichen korrekt ist: 
 
@@ -169,7 +176,7 @@ Wenn du den Code abtippst, statt ihn zu kopieren (grundsätzlich nicht empfohlen
 > Wenn der Code fehlerhaft ist, wird er von der Foodsoft nicht erkannt und dein Guthaben wird nicht automatisch aufgeladen. Ein Mitglied deiner Foodcoop mit Zugriff auf die <span id="anchor-20"></span>Finanzverwaltung muss das händisch erledigen. Bitte erspare dir die Verzögerung und der Finanzverwaltung deiner Foodcoop den Aufwand, indem du dich um korrekte Zahlungsreferenzcodes bemühst.
 {.is-danger}
 
-<h2 id="zahlungsreferenzcode-beispiele" class="toc-header"><a class="toc-anchor" href="#zahlungsreferenzcode-beispiele"></a>Beispiele für Zahlungsreferenzcodes</h2>
+## Beispiele für Zahlungsreferenzcodes
 
 Folgendes Beispiel ist für die Transaktionskürzel M für Mitgliedsbeitrag und G für Guthaben. Die Buchstaben M und G können von den AdministratorInnen deiner Foodcoop frei definiert werden, M und G sind lediglich Empfehlungen. Der Code enthält zum einen deinen Benutzer und deine Bestellgruppe FSxxx.xxx, und zum anderen einen Betrag für Mitgliedsbeitrag (M…) und/oder Guthaben (G…): 
 
