@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:36:11.934Z
+date: 2021-09-30T06:37:08.433Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -15,18 +15,18 @@ Die Kernfunktion der Foodsoft ist eine Art Webshop, um die Bestellungen der Food
 
 Während Webshops meist nach Produktkategorien geordnet sind, ist die Foodsoft nach Lieferantinnen gegliedert. Das mag für dich zunächst unübersichtlich sein, weil auf den ersten Blick vielleicht nicht klar ist, bei welcher Lieferantin welche Produkte erhältlich sind. Manchmal gibt es das gleiche oder ähnliche Produkte auch bei verschiedenen Lieferantinnen. Hier ein (fiktives) Beispiel: 
 
->   - Lieferantin "Apfelhof Adam" hat die Artikel
+>   - Lieferantin **Apfelhof Adam** hat die Artikel
 >     - Äpfel 
 >     - Most
 >     - Roggenbrot
->   - Lieferantin "Bäckerei Backgut" hat die Artikel
+>   - Lieferantin **Bäckerei Backgut** hat die Artikel
 >     - Weizenbrot
 >     - Roggenbrot
->   - Lieferantin "Gemüsehof Goldkürbis"  hat die Artikel
+>   - Lieferantin **Gemüsehof Goldkürbis**  hat die Artikel
 >     - Hokkaido Kürbis
 >     - Karotten
 >     - Äpfel Jonagold
->   - Foodcoop-Lager bietet
+>   - **Foodcoop-Lager** bietet
 >     - Kaffee
 >     - Schokolade
 
