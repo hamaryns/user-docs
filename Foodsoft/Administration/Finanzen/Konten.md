@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Menü Finanzen > Konten verwalten
 published: true
-date: 2021-05-14T23:05:58.730Z
+date: 2021-09-30T15:09:01.053Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -12,7 +12,7 @@ Jede Bestellgruppe hat in der Foodsoft automatisch ein virtuelles Konto, das ein
 
 Auch die Foodccoop selbst hat ein Konto, auf das z.B. die Mitgliedsbeiträge, die von den Bestellgruppen abgeucht werden, gutgeschrieben werden können.
 
-<h1 id="tkktkt" class="toc-header"><a class="toc-anchor" href="#tkktkt"></a>Transaktionsklassen und Transaktionstypen</h1>
+# Transaktionsklassen und Transaktionstypen
 
 Das Guthaben der Foodsoftkonten der einzelen Bestellgruppen kann über **Transaktionsklassen** in mehrere Teilguthaben aufgeteilt werden, zum Beispiel für Bestellungen und für Mitgliedsbeitrag. Diese können getrennt aufgeladen werden (siehe auch Zahlungsreferenz-Rechner), und Kontostände werden auch für die Mitglieder separat angezeigt. In den Transaktionslisten (Foodsoft-Kontoauszüge) gibt es für jede Klasse eine eigene Spalte.
 
@@ -30,7 +30,7 @@ Ist eine neue Foodcoop entstanden, gibt es standardmäßig (default) eine Klasse
 
 Administration \> Finanzen: 
 
-<h2 id="tkktkt-empfehlungen" class="toc-header"><a class="toc-anchor" href="#tkktkt-empfehlungen"></a>Empfehlungen für Transaktionsklassen und -typen anlegen:</h2>
+## Empfehlungen für Transaktionsklassen und -typen 
 
 - Transaktionsklasse “Guthaben Bestellungen”
   - Transaktionstyp “Überweisung Guthaben”, Kürzel G für Aufbuchung Guthaben durch Mitglieder
@@ -54,7 +54,7 @@ Forumsbeiträge zum Thema:
   - [*https://forum.foodcoops.at/t/bank-anbindung-verstehen-und-richtig-konfigueren/471*](https://forum.foodcoops.at/t/bank-anbindung-verstehen-und-richtig-konfigueren/471)
   - [*https://forum.foodcoops.at/t/neue-funktionen-in-der-foodsoft/4847/2*](https://forum.foodcoops.at/t/neue-funktionen-in-der-foodsoft/4847/2)
   
-<h1 id="kontoauszanz" class="toc-header"><a class="toc-anchor" href="#kontoauszanz"></a>Kontoauszüge anzeigen</h1>
+# Kontoauszüge anzeigen
 
 Finanzen \> Konten verwalten 
 - Liste Bestellgruppen: Kontoauszug \> Kontoauszug der Bestellgruppe anzeigen
@@ -63,9 +63,9 @@ Finanzen \> Konten verwalten
   - <span id="anchor-140"></span>Kontoauszug von gelöschter Bestellgruppe rekonstruieren: Transaktion der Bestellgruppe suchen, in Spalte „Bestellgruppe“ auf Link klicken: alle Kontotrasnaktionen und End-Kontostand werden angezeigt
 - Foodcoop Transaktionen: eigenes Konto für Foodsoft, wo z.B. Mitgliedsbeiträge hingebucht werden können, siehe [Sammeltransaktionen manuell durchführen](#anchor-141).
 
-<h1 id="transaktionen" class="toc-header"><a class="toc-anchor" href="#transaktionen"></a>Transaktionen durchführen</h1>
+# Transaktionen durchführen
 
-<h2 id="transaktionen-manuell" class="toc-header"><a class="toc-anchor" href="#transaktionen-manuell"></a>Transaktionen einzeln manuell durchführen</h2>
+## Transaktionen einzeln manuell durchführen
 
 Finanzen \> Konten verwalten
 - Bestellgruppe suchen über Suchfeld, blättern oder Anzahl der dargstellten Einträge erhöhen
@@ -73,33 +73,27 @@ Finanzen \> Konten verwalten
 - Positiver Betrag: Guthaben erhöht sich, negativer Betrag: Guthaben verringert sich.
 - Cent-Betrag mit Komma oder Punkt als Dezimaltrenner eingeben: 1,25 oder 1.25 möglich.
 
-<h2 id="transaktionen-auto" class="toc-header"><a class="toc-anchor" href="#transaktionen-auto"></a>Transaktionen automatisch durchführen</h2>
+## Transaktionen automatisch durchführen
 
 Bei Zahlungseingang am Foodcoop Bankkonto Guthaben für Bestellgruppe aufladen: siehe [Bankkonto mit Foodsoft verknüpfen](#anchor-19). 
 
-<h2 id="transaktionen-sammelman" class="toc-header"><a class="toc-anchor" href="#transaktionen-sammelman"></a>Sammeltransaktionen manuell durchführen</h2>
+## Sammeltransaktionen manuell durchführen
 
-Wenn mehreren Bestellgruppen unterschiedliche Beträge (egal ob positiv oder negativ) aber mit gleichem Text und gleichem Transaktionstyp zu buchen sind. Zum Beispiel für:
-- Gewichtsabweichungen einer Bestellung: bestellt wurde z.B. ein Stück mit ungefährem Gewicht 500 g, abgerechnet wird nach tatsächlichem Gewicht, da jeder Artikel ein individuelles Gewicht und damit einen individuellen Preis hat. Verrechnet bzw. gutgeschrieben werden nur die Differenzen zum Preis, der in der Foodsoft hinterlegt ist, Beispiel für 500 g und 10€/kg, also Foodsoft Preis 5,00 €: 
-  - tatsächliches Gewicht 550 g: +50 g Differenz, Buchung: -0.50 (Mitglied werden 50 Cent abgezogen weil Stück mehr gekostet hat)
-  - tatsächliches Gewicht 450 g: -50 g Differenz, Buchung: 0.50 (Mitglied werden 50 Cent gutgeschrieben weil Stück weniger gekostet hat)
+Wenn mehreren Bestellgruppen unterschiedliche Beträge (egal ob positiv oder negativ) aber mit gleichem Text und gleichem Transaktionstyp zu buchen sind. 
+Insbesondere für die Abbuchung von Mitgliedsbeiträgen, siehe unten eigener Abschnitt.
 
-Eine Funktion der Foodsoft, die es ermöglicht, Gewichtsabweichungen auf direktere Art abzurechnen, ist in Planung (Stand Juli 2020).
-
-- Abbuchung von Mitgliedsbeiträgen, siehe unten eigener Abschnitt.
-
-Finanzen \> Konten verwalten \> Neue Überweisungen eingeben
+*Finanzen \> Konten verwalten \> Neue Überweisungen eingeben*
 - **Cent-Beträge: Punkt statt Komma** als Dezimaltrenner verwenden\! 
 Also z.B. **1.25** für 1,25 € = 1 € 25 Cent. Sonst wird der Cent-Betrag abgeschnitten, also 1,25 ergibt 1,00 €.
 - Foodcoop Transaktion erstellen: Die Summe aller eingegeben Beträge wird mit umgekehrten Vorzeichen dem Foodsoft-Konto “Foodcoop” gegengebucht (siehe [Foodsoft-Kontoauszüge anzeigen](#anchor-139)). 
 - Finanzlink erstellen: ...
 
-<h2 id="transaktionen-bestabbuchen" class="toc-header"><a class="toc-anchor" href="#transaktionen-bestabbuchen"></a>Bestellungen abbuchen</h2>
+## Bestellungen abbuchen
 
-Siehe [Bestellung abrechnen](/de/Foodsoft/Administration/Bestellungen).
+Wie Mitgliedern das Guthaben für Bestellungen abgebucht werden kann, findest du unter [Bestellung abrechnen](../Bestellungen).
 
 
-<h2 id="transaktionen-beitrabbuchen" class="toc-header"><a class="toc-anchor" href="#transaktionen-beitrabbuchen"></a>Mitgliedsbeiträge abbuchen</h2>
+## Mitgliedsbeiträge abbuchen
 
 Empfohlene Vorgehensweise:
 - Administration \> Finanzen: Transaktionsklassen anlegen wie oben beschrieben:
@@ -108,13 +102,13 @@ Empfohlene Vorgehensweise:
   - Der Kontostand aller Transaktionsklassen wirkt sich grundsätzlich auf das verfügbare Guthaben für Bestellungen aus, solange bei einzelnen Transaktionsklassen nicht die Option *Für Kontostand ignorieren* aktiviert ist. Daher sollte diese Optiion für die Transaktionsklasse der Mitgliedsbeiträge aktiviert werden (neu März 2021). 
 
 
-<h3 id="transaktionen-beitrabbuchen-akt" class="toc-header"><a class="toc-anchor" href="#transaktionen-beitrabbuchen-akt"></a>Aktivierung und Vorbereitung</h3>
+### Aktivierung und Vorbereitung
 
 - Administration \> Einstellungen \> ...
 - Einmalig erforderlich: Alle Bestellgruppen über *Administration \> Bestellgruppen* einzeln bearbeiten: Mitgliedsbeitrag mit minus eingeben, also z.B. -10 für 10 € Mitgliedsbeitrag
 - Wenn neue Bestellgruppen angelegt werden: Mitgliedsbeitrag eintragen\!
 
-<h3 id="transaktionen-beitrabbuchen-abb" class="toc-header"><a class="toc-anchor" href="#transaktionen-beitrabbuchen-abb"></a>Abbuchung von Mitgliedsbeiträgen</h3>
+### Abbuchung von Mitgliedsbeiträgen
 
 - Finanzen \> Konten verwalten \> Neue Überweisungen eingeben
 - Kontotransaktionstyp: empfohlen, eine Kategorie “Mitgliedsbeitrag” wie oben beschrieben anzulegen und auszuwählen
