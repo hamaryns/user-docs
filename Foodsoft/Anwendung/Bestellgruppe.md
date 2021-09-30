@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-30T07:00:13.814Z
+date: 2021-09-30T07:04:00.393Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -232,3 +232,7 @@ betrag</td>
 
 > Bei unpassenden Zahlungscodes wird kein Guthaben aufgeladen, und es verursacht für das Finanzteam deiner Foodcoop einen Extra-Aufwand, den du vermeiden kannst, indem du schaust, dass der Code vollständig ist und zum Überweisungsbetrag passt.
 {.is-danger}
+
+# Abmelden
+
+Ausloggen aus der Foodsoft, z.B. um sicherzustellen, dass niemand Fremder zugreifen kann, oder um sich als eine andere Benutzerin anzumelden. 
