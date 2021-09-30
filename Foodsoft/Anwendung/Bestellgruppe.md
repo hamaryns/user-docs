@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-09-30T06:50:56.374Z
+date: 2021-09-30T06:57:37.880Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -122,7 +122,7 @@ Falls du Mitglied in Arbeitsgruppen bist (nur Administratorinnen können dich zu
 
 # Meine Bestellgruppe: Kontostand und Kontoauszug einsehen
 
-In der Foodsoft hast du ein virtuelles Konto mit Guhaben. Im Kasten links siehst du 
+In der Foodsoft hast du ein virtuelles Konto mit Guhaben. Im **Kasten links** siehst du 
 
   - **Kontostand** deiner Bestellgruppe: dieses Guthaben besitzt deine
     Bestellgruppe aktuell.
@@ -136,10 +136,13 @@ In der Foodsoft hast du ein virtuelles Konto mit Guhaben. Im Kasten links siehst
     sein dass dein Kontostand noch in einzelne Teilbereiche
     aufgegliedert ist, z.B. für Bestellungen und Mitgliedsbeitrag. Die
     Summe der Teilbereiche sollten immer den Kontostand ergeben.
+  - Die **Mitglieder deiner Bestellgruppe** und auch hier die Möglichkeit, mit **neue Person einladen** jemanden hinzuzufügen, z.B. deine Partnerin oder WG-Kollegin.
 
-Im rechten Bereich siehst du einen Kontoauszug. Nur abgerechnete Bestellungen scheinen hier auf. 
+Im rechten Bereich siehst du einen **Kontoauszug**. Nur abgerechnete Bestellungen scheinen hier auf. 
+> 
+> Wird in deiner Foodcoop die Abrechnung nicht über die Foodsoft durchgeführt, steht beim Kontostand ein „fiktiver“, stets gleich bleibender Wert. Das ist notwendig, damit du in der Foodsoft überhaupt bestellen kannst. Erkundige dich in diesem Fall in deiner Foodcoop, wie du dein Guthaben verwaltest, und wie die Abrechnung funktioniert.
+{.is-info}
 
-Wird in deiner Foodcoop die Abrechnung nicht über die Foodsoft durchgeführt, steht beim Kontostand ein „fiktiver“, stets gleich bleibender Wert. Das ist notwendig, damit du in der Foodsoft überhaupt bestellen kannst. Erkundige dich in diesem Fall in deiner Foodcoop, wie du dein Guthaben verwaltest, und wie die Abrechnung funktioniert.
 
 
 
