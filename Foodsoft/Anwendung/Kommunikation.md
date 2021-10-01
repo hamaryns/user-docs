@@ -2,13 +2,13 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-09-29T17:06:08.913Z
+date: 2021-10-01T10:21:11.655Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
 ---
 
-<h1 id="foodsoft-nachrichten" class="toc-header"><a class="toc-anchor" href="#foodsoft-nachrichten"></a>Foodsoft Nachrichten</h1>
+# Foodsoft Nachrichten
 
 Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](Bestellgruppe)). 
 
@@ -16,9 +16,9 @@ Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail z
 > Manche Foodcoops verwenden die Nachrichtenfunktion der Foodsoft nicht, sondern stattdessen ein anderes System. Um Missverständnisse vorzbeugen, solltest du in diesem Fall die Nachrichtenfunktionen der Foodsoft nicht verwenden (selbst wenn sie nicht ausgeblendet ist).
 {.is-warning}
 
-<h2 id="nachrichten-lesen-beantworten" class="toc-header"><a class="toc-anchor" href="#nachrichten-lesen-beantworten"></a>Nachrichten empfangen, lesen und beantworten</h2>
+## Nachrichten empfangen, lesen und beantworten</h2>
 
-<h3 id="nachrichten-per-email" class="toc-header"><a class="toc-anchor" href="#nachrichten-per-email"></a>Per Email</h3>
+### Per Email
 
 Wenn nicht anders eingestellt (siehe [Mein Profil](Bestellgruppe)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
 
@@ -35,7 +35,7 @@ Es ist in der zugestellten Email nicht ersichtlich, wer außer dir noch aller di
 
 Über den Link **Nachrichten-Einstellungen** kannst du einstellen, welche Art von Nachrichten du bekommen möchtest (siehe [Meine Bestellgruppe](Bestellgruppe)).
 
-<h3 id="ueber-die-foodsoft" class="toc-header"><a class="toc-anchor" href="#ueber-die-foodsoft"></a>Über die Foodsoft</h3>
+### Über die Foodsoft
 
 In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](Navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
 
@@ -50,13 +50,13 @@ Hier gibt es zwei Ansichten, die über die Schaltflächen ausgewählt werden kö
 
   - **Als Liste Anzeigen** (rechte Schaltfläche): nur in dieser Ansicht wird angezeigt, an wen einzelne         Nachrichten alle geschickt wurden
 
-<h2 id="nachrichten-empfangen" class="toc-header"><a class="toc-anchor" href="#nachrichten-empfangen"></a>Nachrichten Verfassen in der Foodsoft</h2>
+## Nachrichten Verfassen in der Foodsoft
 
 Über *Foodcoop > Nachrichten > neue Nachricht*:
 
 ![nachricht-neu.png](/nachricht-neu.png)
 
-<h3 id="empfangende-auswaehlen" class="toc-header"><a class="toc-anchor" href="#empfangende-auswaehlen"></a>Empfängerinnen auswählen</h3>
+### Empfängerinnen auswählen
 
 Versuche, Nachrichten nur an jene zu schicken, die es auch wirklich betrifft. Die Foodsoft unterstützt dich dabei, indem sie dir folgende Möglichkeiten bietet:
 
@@ -72,14 +72,14 @@ Versuche, Nachrichten nur an jene zu schicken, die es auch wirklich betrifft. Di
 > Foodsoft Nachrichten sind in der Foodsoft unter *Foodcoop \> Nachrichten* grundsätzlich für alle Mitglieder einsehbar (außer beim Versenden wird „privat“ angeklickt). Daher kann es vorkommen, dass du von einem anderen (nicht adressierten) Mitglied eine Antwort erhältst, das deine Nachricht in der Foodsoft gesehen hat.
 {.is-info}
 
-<h3 id="betreff" class="toc-header"><a class="toc-anchor" href="#betreff"></a>Betreff</h3>
+### Betreff
 
 Versuche, einen möglichst treffenden Betreff für deine Nachricht zu wählen. Wenn du auf eine andere Nachricht antwortest, prüfe, ob der Betreff noch zu deinem Text passt.
 
 > Vor den vor dir eingegeben Betreff wird in der zugstellten Email noch der Name deiner Foodcoop in eckigen Klammern eingefügt: `[meine Foodcoop] ... Betreff...`
 {.is-info}
 
-<h3 id="nachrichtentext-verfassen" class="toc-header"><a class="toc-anchor" href="#nachrichtentext-verfassen"></a>Nachrichtentext verfassen</h3>
+### Nachrichtentext verfassen
 
 Foodsoft Nachrichten können nur aus **reinem (unformattiertem) Text** bestehen. Textformattierungen wie fett oder kursiv gedruckter Text, Listen, Tabellen oder eingefügte Grafiken sind nicht möglich bzw. werden ignoriert. 
 
@@ -95,7 +95,7 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 
 
 
-<h1 id="telefonnummern-emailadressen" class="toc-header"><a class="toc-anchor" href="#telefonnummern-emailadressen"></a>Telefonnummern und Emailadressen</h1>
+# Telefonnummern und Emailadressen
 
 Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](Navigation)  *Foodcoop \> Mitglieder*: 
 
@@ -115,14 +115,14 @@ Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, o
 
 
       
-<h1 id="umfragen" class="toc-header"><a class="toc-anchor" href="#umfragen"></a>Umfragen</h1>
+# Umfragen
 
 Umfragen ermöglichen es, sehr übersichtliche und klare Rückmeldungen zu bekommen, ohne dass eine Flut von Antwort-Nachrichten ausgewertet werden muss. Auch du kannst selbst eine Umfrage erstellen. 
 
 > Umfragen müssen durch eine Foodsoft-Administratorin deiner Foodcoop aktiviert werden (siehe [Einstellungen](/de/Foodsoft/Administration/Einstellungen)), sonst ist diese Funktion nicht sichtbar.
 {.is-info}
 
-<h2 id="umfragen-ausfuellen" class="toc-header"><a class="toc-anchor" href="#umfragen-ausfuellen"></a>Umfrage ausfüllen</h2>
+## Umfrage ausfüllen
 
 ...
 > Bestellgruppen: nur eine (gemeinsame) Antwort möglich?
@@ -132,7 +132,7 @@ Umfragen ermöglichen es, sehr übersichtliche und klare Rückmeldungen zu bekom
 {.is-warning}
 
 
-<h2 id="umfragen-erstellen" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen"></a>Umfrage erstellen</h2>
+## Umfrage erstellen
 
 Ein Umfrage kann immer nur eine Frage und verschiedene Antwortmöglichkeiten darauf enthalten.
 
@@ -145,34 +145,34 @@ Ein Umfrage kann immer nur eine Frage und verschiedene Antwortmöglichkeiten dar
 > Du kannst die Umfrage speichern und später weiter bearbeiten. Sobald jedoch jemand die Umfrage ausgefüllt hat, können die Antwortmöglichkeiten der Umfrage allerdings nicht mehr bearbeitet werden. In diesem Fall musst du die Umfrage neu erstellen. 
 {.is-warning}
 
-<h3 id="umfragen-erstellen-name" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-name"></a>Name</h3>
+### Name
 
 Ein sprechender Name für die Umfrage, z.B. "Terminfindung Plenum März 2025".
 
-<h3 id="umfragen-erstellen-zeitraum" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-zeitraum"></a>Zeitraum: läuft von ... bis</h3>
+### Zeitraum: läuft von ... bis
 
 
 Zeitraum, in dem die Umfrage ausgefüllt werden kann. Leer lassen, wenn es keine Beschränkung geben soll.
 
-<h3 id="umfragen-erstellen-beschreibung" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-beschreibung"></a>Beschreibung</h3>
+### Beschreibung
 
 Formuliere hier deine Frage, auf die du eine Antwort möchtest, z.B. "Wann hast du Zeit für ...?"
 
-<h3 id="umfragen-erstellen-umfragetyp" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-umfragetyp"></a>Umfragetyp</h3>
+### Umfragetyp
 
-<h4 id="umfragen-erstellen-termin" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-termin"></a>Terminumfrage</h4>
+#### Terminumfrage
 
 ![umfrage-termin.png](/umfrage-termin.png)
 
-<h4 id="umfragen-erstellen-einzelauswahl" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-einzelauswahl"></a>Einzelauswahl</h4>
+#### Einzelauswahl
 
 ![umfrage-einzelauswahl.png](/umfrage-einzelauswahl.png)
 
-<h4 id="umfragen-erstellen-mehrfachauswahl" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-mehrfachauswahl"></a>Mehrfachauswahl</h4>
+#### Mehrfachauswahl
 
 ![umfrage-mehrfachauswahl.png](/umfrage-mehrfachauswahl.png)
 
-<h4 id="umfragen-erstellen-punkte" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-punkte"></a>Punkte</h4>
+#### Punkte
 
 ![umfrage-punkte.png](/umfrage-punkte.png)
 
@@ -183,17 +183,17 @@ Formuliere hier deine Frage, auf die du eine Antwort möchtest, z.B. "Wann hast 
 ![umfrage-teilnahme.png](/umfrage-teilnahme.png)
 
 
-<h4 id="umfragen-erstellen-wiederstandspunkte" class="toc-header"><a class="toc-anchor" href="#umfragen-erstellen-wiederstandspunkte"></a>Wiederstandspunkte</h4>
+#### Wiederstandspunkte
 
 Diese Methode kommt vom Prinzip der Entscheidungsfindung durch "systemisches Konsensieren". Die Theorie dahinter ist, dass es zu besseren, Konsens-orientierteren Entscheidungen führt, wenn Widerstände anstelle von Bevorzugungen abgefragt werden, und die Variante mit den geringsten Widerstandspunkten ausgewählt wird.
 
 ![umfrage-widerstandspunkte.png](/umfrage-widerstandspunkte.png)
 
-<h1 id="externe-hilfsmittel" class="toc-header"><a class="toc-anchor" href="#externe-hilfsmittel"></a>Externe Hilfsmittel</h1>
+# Externe Hilfsmittel
 
 Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, zu finden unter https://fcoop.at/
 
-<h2 id="externe-hilfsmittel-termin" class="toc-header"><a class="toc-anchor" href="#externe-hilfsmittel-termin"></a>Terminumfrage</h2>
+## Terminumfrage
 
 "Doodle"-Alternative https://tools.foodcoops.at/polls/
 
@@ -211,8 +211,7 @@ Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, 
 {.is-warning}
 
 
-
-<h2 id="externe-hilfsmittel-videokonferenz" class="toc-header"><a class="toc-anchor" href="#externe-hilfsmittel-videokonferenz"></a>Videokonferenz</h2>
+## Videokonferenz
 
 - **Jitsi** https://meet.foodcoops.at
 - **Nextcloud Talk** https://cloud.foodcoops.at/apps/spreed/
@@ -222,14 +221,14 @@ Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, 
 {.is-warning}
 
 
-<h2 id="externe-hilfsmittel-kollabtexte" class="toc-header"><a class="toc-anchor" href="#externe-hilfsmittel-kollabtexte"></a>Gemeinsam Texte schreiben</h2>
+## Gemeinsam Texte schreiben
 
 https://tools.foodcoops.at/pads/
 
 > Keine Anmeldung oder Registrierung erforderlich, ist auch spontan innerhalb von wenigen Sekunden einsatzbereit!
 {.is-info}
 
-<h2 id="externe-hilfsmittel-kollabdoctab" class="toc-header"><a class="toc-anchor" href="#externe-hilfsmittel-kollabdoctab"></a>Gemeinsam Textdokumente und Tabellen erstellen</h2>
+## Gemeinsam Textdokumente und Tabellen erstellen
 
 Eine Plattform, wo ihr Text- und Tabellendokumente ähnlich wie in Google Drive erstellen und gemeinsam bearbeiten könnt, findet ihr außerhalb der Foodsoft im [Forum der IG](https://forum.foodcoops.at/) über die Nextcloud oder direkt via https://cloud.foodcoops.at/. 
 
@@ -243,7 +242,7 @@ Eine Plattform, wo ihr Text- und Tabellendokumente ähnlich wie in Google Drive 
 
 Alternative für Tabellendokumente: Ethercalc (ohne Registrierung): https://calc.foodcoops.at/
 
-<h2 id="externe-hilfsmittel-forum" class="toc-header"><a class="toc-anchor" href="#externe-hilfsmittel-forum"></a>Forum: Mit anderen Foodcoops in Österreich kommunizieren</h2>
+## Forum: Mit anderen Foodcoops in Österreich kommunizieren
 
 https://forum.foodcoops.at/
 
