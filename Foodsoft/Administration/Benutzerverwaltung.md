@@ -2,20 +2,20 @@
 title: Benutzerinnenverwaltung 
 description: Foodsoft Menü "Administration": Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen
 published: true
-date: 2021-05-14T22:50:45.766Z
+date: 2021-10-01T10:31:39.226Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
 ---
 
 
-<h1 id="benutzendeverwaltung-uebersicht" class="toc-header"><a class="toc-anchor" href="#benutzendeverwaltung-uebersicht"></a>Übersicht</h1>
+# Übersicht
 
-<h1 id="benutzendeverwaltung" class="toc-header"><a class="toc-anchor" href="#benutzendeverwaltung"></a>Benutzerinnen</h1>
+# Benutzerinnen
 
-<h1 id="bestellgruppen" class="toc-header"><a class="toc-anchor" href="#bestellgruppen"></a>Bestellgruppen</h1>
+# Bestellgruppen
 
-<h2 id="bestellgruppen-erstellen" class="toc-header"><a class="toc-anchor" href="#bestellgruppen-erstellen"></a>Bestellgruppe erstellen und bearbeiten</h2>
+## Bestellgruppe erstellen und bearbeiten
 
 Mitgliedsbeitrag: negative Zahl eingeben. Siehe eigener Abschnitt “Mitgliedsbeiträge”.
 
@@ -27,38 +27,38 @@ Mitglieder entfernen aus Bestellgruppe:
 3. Notierte Benutzer löschen
 
 
-<h2 id="bestellgruppen-loeschen" class="toc-header"><a class="toc-anchor" href="#bestellgruppen-loeschen"></a>Bestellgruppe löschen</h2>
+## Bestellgruppe löschen
 
 …
 
 Kontoauszug und Kontostand einer gelöschten Bestellgruppe anzeigen:
 siehe [Foodsoft-Kontoauszüge anzeigen](#anchor-139)
 
-<h1 id="bestellgruppenberecht" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht"></a>Berechtigungen</h1>
+# Berechtigungen
 
-<h2 id="bestellgruppenberecht-setzen" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-setzen"></a>Berechtigungen setzen</h2>
+## Berechtigungen setzen
 
 Berechtigungen können entweder über Adminstration \> Arbeitsgruppen oder pauschal für alle Mitglieder über Administration \> Einstellungen \> Sicherheit \> Zugriff auf gesetzt werden. Es ist nicht möglich, Berechtigungen nur für einzelne Mitglieder zu setzen, sondern es ist immer erforderlich, eine Arbeitsgruppe anzulegen, dieser Berechtigungen zu vergeben, und anschließend dieser Arbeitsgruppe Mitglieder zuzuweisen. Eine Arbeitsgruppe kann kein, eines oder beliebig viele Mitglieder enthalten. Mitglieder können in beliebig vielen Arbeitsgruppen Mitglied sein. Beispiele siehe ...
 
-<h2 id="bestellgruppenberecht-anzeigen" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-anzeigen"></a>Berechtigungen anzeigen</h2>
+## Berechtigungen anzeigen
 
 - Adminstration \> Arbeitsgruppen \> Arbeitsgruppe auswählen, um Mitglieder anzuzeigen
 - Adminstration \> Benutzer/innen: für jede Benutzerin werden die Berechtigungen durch entsprechende Symbole angezeigt. Für die Bedeutung der Symbole mit der Maus über das Symbol fahren, es wird der entsprechene Text eingeblendet.
 
-<h2 id="bestellgruppenberecht-arten" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten"></a>Arten von Berechtigungen</h2>
+## Arten von Berechtigungen
 
-<h3 id="bestellgruppenberecht-arten-lieferanten" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten-lieferanten"></a>Lieferanten</h3>
+### Lieferanten
 
 Menü „Artikel“ wird angezeigt, kann Lieferanten, Lager und Lagerartikel einsehen und bearbeiten, jedoch nicht die Artikel der Lieferanten einsehen: Link auf Artikel bei Lieferanten scheint zwar auf, aber beim Anklicken kommt Hinweis: keine Berechtigung
 
-<h3 id="bestellgruppenberecht-arten-artikeldb" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten-artikeldb"></a>Artikeldatenbank (Artikel)</h3>
+### Artikeldatenbank (Artikel)
 
 Wird als Berechtigung „Artikel“ angezeigt, beim Einstellen heißt die Berechtigung „Artikeldatenbank“. Menü „Artikel“ wird angezeigt, alle Unterpunkte können eingesehen und bearbeitet werden, auf Lieferanten (schließt Berechtigung Lieferanten mit ein).
 
 ...
 
 
-<h3 id="bestellgruppenberecht-arten-bestverw" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten-bestverw"></a>Bestellverwaltung (Bestellung)</h3>
+### Bestellverwaltung (Bestellung)
 
 Wird als Berechtigung „Bestellung“ angezeigt, beim Einstellen heißt die Berechtigung „Bestellverwaltung“.
 
@@ -66,14 +66,14 @@ Kann Bestellungen anlegen, bearbeiten und in Empfang nehmen.
 
 Achtung, für das Anlegen einer Lagerbestellung ist zumindest die Berechtigung „Lieferanten“ erforderlich, oder „Artikel(datenbank)“.
 
-<h3 id="bestellgruppenberecht-arten-abholtage" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten-abholtage"></a>Abholtage</h3>
+### Abholtage
 
 Mitglieder mit Abholtage Berechtigung können im _Menü \> Bestellungen \> Abholtage wählen. Dort kannst du bei der jeweiligen Bestellung auf den _Download_*-Schalter drücken und zb. _Gruppen PDF_ wählen. Freischalten der Funktion Abholtage für eine FoodCoop (Untermenü Bestellungen)
 - Es gibt unter _Menü \> Administration \> Arbeitsgruppen_die Möglichkeit einer Arbeitsgruppe die Berechtigung Abholtage zu erteilen. Bitte beachte dass Berechtigungen nur von Admins vergeben werden können. 
 - Alternativ kann die Berechtigung über Administration \> Einstellungen \> Sicherheit \> Jedes Mitglied der Foodcoop hat automatisch Zugriff auf folgende Bereiche: Abholtage auch für alle Mitglieder gesetzt werden.
 
 
-<h3 id="bestellgruppenberecht-arten-finanzen" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten-finanzen"></a>Finanzen</h3>
+### Finanzen
 
 Zeigt das gesamte Menü Finaznen an, schließt Rechnungen mit ein.
 
@@ -83,13 +83,13 @@ Berechtigt zu:
 - Bestellungen abrechnen
 
 
-<h3 id="bestellgruppenberecht-arten-rechnungen" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten-rechnungen"></a>Rechnungen</h3>
+### Rechnungen
 
 Zeigt den Menüpunkt „Finanzen \> Rechnungen“ an. Ohne die zusätzliche Berechtigung „Finanzen“ wird sonst kein Menüpunkt des Finanzen-Menüs angezeigt.
 
 Rechnungen zu Bestellungen können angelegt werden, aber Bestellungen können nicht angepasst oder abgerechnet werden.
 
-<h3 id="bestellgruppenberecht-arten-administration" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-arten-administration"></a>Administration</h3>
+### Administration
 
 Zeigt das Menü „Adminstration“ an.
 
@@ -108,7 +108,7 @@ Berechtigt zu:
 
 Dieses Berechtigung sollte aufgeteilt werden in „Mitgliederverwaltung“ und „Einstellungen“, siehe auch: [*https://github.com/foodcoops/foodsoft/issues/825*](https://github.com/foodcoops/foodsoft/issues/825)
 
-<h2 id="bestellgruppenberecht-beispiele" class="toc-header"><a class="toc-anchor" href="#bestellgruppenberecht-beispiele"></a>Beispiele für typische Aufgaben und Berechtigungen</h2>
+## Beispiele für typische Aufgaben und Berechtigungen
 - Regelmäßig wiederkehrende Bestellungen anlegen: 
   - Bestellungen 
   - Für Lagerbestellungen: Lieferanten oder Artikeldatenbank
@@ -125,8 +125,8 @@ Dieses Berechtigung sollte aufgeteilt werden in „Mitgliederverwaltung“ und �
   - Finanzen: Bankkontodaten importieren, Rechnungen bezahlen,
         manuelle Transkationen Guthaben Bestellgruppen 
 
-<h1 id="benutzverwarbeitsgruppen" class="toc-header"><a class="toc-anchor" href="#benutzverwarbeitsgruppen"></a>Arbeitsgruppen</h1>
+# Arbeitsgruppen
 
-<h1 id="benutzverwnachrgruppen" class="toc-header"><a class="toc-anchor" href="#benutzverwnachrgruppen"></a>Nachrichtengruppen</h1>
+# Nachrichtengruppen
 
 
