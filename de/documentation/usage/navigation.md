@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T16:16:16.740Z
+date: 2021-10-01T16:19:01.529Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -78,15 +78,14 @@ und die über das Menü über den Eintrag „Dashboard“ erreichbar ist,
 beinhaltet folgende Bereiche, von oben nach unten:
 
   - gegebenenfalls Infos deiner Foodcoop (siehe administrativer Teil,     wie das eingerichtet werden kann)
-
-  - [Offene Aufgaben](tasks-cooperate): wo wird meine Mitarbeit benötigt? - falls die
+  - [Offene Aufgaben](/de/documentation/usage/tasks-cooperate): wo wird meine Mitarbeit benötigt? - falls die
     Aufgaben-Funktion verwendet wird
 
-  - [Laufende Bestellungen](order): was kann ich aktuell bestellen?
+  - [Laufende Bestellungen](/de/documentation/usage/order): was kann ich aktuell bestellen?
 
-  - [Neueste Nachrichten](communication) – falls Nachrichten verwendet werden
+  - [Neueste Nachrichten](/de/documentation/usage/communication) – falls Nachrichten verwendet werden
 
-  - [Meine Bestellgruppe](profile-ordergroup): Guthaben, Letzte Transaktionen, Kontoauszug   anzeigen
+  - [Meine Bestellgruppe](/de/documentation/usage/profile-ordergroup): Guthaben, Letzte Transaktionen, Kontoauszug   anzeigen
 
 
 
@@ -132,29 +131,29 @@ Das Menü hat folgende Struktur. Erklärungen zu den Menupunkten sind über die 
 
   - Foodcoop
     
-      - [Mitglieder](communication)
-      - [Arbeitsgruppen](communication)
-      - [Bestellgruppen](communication)
-      - *[Nachrichten](communication) (falls in deiner Foodcoop aktiviert)*
-      - *[Dokumente](shareddocuments) (falls in deiner Foodcoop aktiviert)*
-      - *[Umfragen](communication) (falls in deiner Foodcoop aktiviert)*
-      - [Aufgaben](tasks-cooperate)
+      - [Mitglieder](/de/documentation/usage/communication)
+      - [Arbeitsgruppen](/de/documentation/usage/communication)
+      - [Bestellgruppen](/de/documentation/usage/communication)
+      - *[Nachrichten](/de/documentation/usage/communication) (falls in deiner Foodcoop aktiviert)*
+      - *[Dokumente](/de/documentation/usage/shareddocuments) (falls in deiner Foodcoop aktiviert)*
+      - *[Umfragen](/de/documentation/usage/communication) (falls in deiner Foodcoop aktiviert)*
+      - [Aufgaben](/de/documentation/usage/tasks-cooperate)
 
-  - [Wiki](shareddocuments)
+  - [Wiki](/de/documentation/usage/shareddocuments)
     
       - Startseite
       - alle Seiten
 
-  - [Bestellungen](order)
+  - [Bestellungen](/de/documentation/usage/order)
     
       - Bestellen!
       - Meine Bestellungen
       - *Abholtage (falls in deiner Foodcoop aktiviert)*
 
-  - Links: Die Einträge in diesem Menü können von den Administratorinnen deiner Foodcoop beliebig gestaltet werden (siehe [Einstellungen > Links](../admin/settings#einstellungen-links).
+  - Links: Die Einträge in diesem Menü können von den Administratorinnen deiner Foodcoop beliebig gestaltet werden (siehe [Einstellungen > Links](/de/documentation/admin/settings#einstellungen-links).
 
 
-> Wenn du besondere Berechtigungen hast, können auch mehr Menüs da sein, die im [administrativen Teil der Dokumentation](../admin) beschrieben sind.
+> Wenn du besondere Berechtigungen hast, können auch mehr Menüs da sein, die im [administrativen Teil der Dokumentation](/de/documentation/admin/) beschrieben sind.
 {.is-info}
 
 
@@ -167,7 +166,7 @@ Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Log
 ![menu1breit.png](/menu1breit.png)
 
 
-  - [(Dein Name) – hier kannst du dein Profil und deine Bestellgruppe verwalten](profile-ordergroups) 
+  - [(Dein Name) – hier kannst du dein Profil und deine Bestellgruppe verwalten](/de/documentation/usage/profile-ordergroups) 
      (im Bild steht "Max TEST"):
     
       - Profil bearbeiten
