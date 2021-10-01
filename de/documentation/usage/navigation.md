@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T16:19:01.529Z
+date: 2021-10-01T16:29:27.611Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -139,12 +139,12 @@ Das Menü hat folgende Struktur. Erklärungen zu den Menupunkten sind über die 
       - *[Umfragen](/de/documentation/usage/communication) (falls in deiner Foodcoop aktiviert)*
       - [Aufgaben](/de/documentation/usage/tasks-cooperate)
 
-  - [Wiki](/de/documentation/usage/shareddocuments)
+  - [Wiki](/de/documentation/usage/sharedocuments)
     
       - Startseite
       - alle Seiten
 
-  - [Bestellungen](/de/documentation/usage/order)
+  - [Bestellungen](/de/documentation/usage/orders)
     
       - Bestellen!
       - Meine Bestellungen
