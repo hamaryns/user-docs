@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-09-30T06:43:02.284Z
+date: 2021-10-01T12:11:44.233Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -191,7 +191,7 @@ Geht die Anzahl im Moment nicht auf, ist die Zeile rötlich eingefärbt und unte
 {.is-warning}
 
 
-> Beispiel: siehe Werners **Tutorial – Toleranzen.pdf**
+> Beispiel: siehe Werners  [**Tutorial – Toleranzen**](/de/tutorials/toleranz)
 {.is-info}
 
 ## Pfand
