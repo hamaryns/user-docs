@@ -2,7 +2,7 @@
 title: Communicate
 description: 
 published: true
-date: 2021-10-01T13:01:19.454Z
+date: 2021-10-01T13:34:41.857Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-25T00:57:27.754Z
