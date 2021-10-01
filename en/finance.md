@@ -2,7 +2,7 @@
 title: Finance
 description: 
 published: true
-date: 2021-03-25T01:09:18.447Z
+date: 2021-10-01T13:02:41.724Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-25T01:09:17.099Z
