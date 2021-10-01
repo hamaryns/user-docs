@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-10-01T15:21:07.128Z
+date: 2021-10-01T16:49:38.905Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -174,7 +174,7 @@ Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachste
 - sind dort Nettopreise angegeben, übernimmst du diese und gibst den Mehrwersteuer Prozentsatz ein; die Foodsoft berechnet automatisch den Bruttopreis und zeigt das Ergebnis auch gleich unter "Endpreis" an. 
 - sind dort Bruttopreise angegeben, übernimmst du diese und gibst für  Mehrwersteuer 0 ein. Der "Endpreis" ist gleich der Nettopreis. 
 
-> Siehe auch grundlegende Infos zur [Mehrwertsteuer](Finanzen/Mehrwertsteuer).
+> Siehe auch grundlegende Infos zur [Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax).
 {.is-info}
 
 
@@ -182,7 +182,7 @@ Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachste
 
 [Pfand](Finanzen/Pfand) wird im Bestellpreis inkludiert, und ist für Bestellerinnen nicht separat einsehbar. Daher ist es empfehlenswert, es bei der Artikelbezeichnung dazuzuschreiben, z.B.: **Joghurt im Glas (inkl. 50 ct Pfand)**. 
 
-> Mehr dazu, wie Pfand ein einer Foodcoop gehandhabt werde kann unter [Pfand](Finanzen/Pfand).
+> Mehr dazu, wie Pfand ein einer Foodcoop gehandhabt werde kann unter [Pfand](/de/documentation/admin/finances/deposit).
 {.is-info}
 
 
