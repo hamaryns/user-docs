@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-10-01T15:15:34.025Z
+date: 2021-10-01T16:34:26.463Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -40,8 +40,7 @@ Im folgenden Abschnitt siehst du, wie die Bestellungen dieses Beispiels in der F
 
 # Bestellungen Überblicksseite
 
-Die Bestellungen Überblicksseite erreichst du über das [Menü Bestellungen > Bestellen!](./Navigation). 
-
+Die Bestellungen Überblicksseite erreichst du über das [Menü Bestellungen > Bestellen!](/de/documentation/usage/navigation). 
 
 ![bestellen.png](/bestellen.png)
 
@@ -58,7 +57,7 @@ Das Feld "Guthaben" zeigt dir an, wie viel Guthaben du für deine Bestellunge no
 
 Dein Guthaben wird wie folgt aufgeschlüsselt:
 
-- **Kontostand**: Dein gesamtes Guthaben in der Foodsoft. Erkundige dich in deiner Foodcoop, wie du Guthaben aufladen kannst. Eine Möglichkeit mit Banküberweisung und Zahlungsreferenzcode ist unter [Meine Bestellgruppe](./Bestellgruppe) beschrieben. Abgerechnete Bestellungen wurden von diesem Guthaben bereits abgebucht. Wie du dir deinen Kontoauszug für dein Foodsoft Guthaben anschauen kannst, ist auch unter [Meine Bestellgruppe](./Bestellgruppe) beschrieben.
+- **Kontostand**: Dein gesamtes Guthaben in der Foodsoft. Erkundige dich in deiner Foodcoop, wie du Guthaben aufladen kannst. Eine Möglichkeit mit Banküberweisung und Zahlungsreferenzcode ist unter [Meine Bestellgruppe](/de/documentation/usage/order-group) beschrieben. Abgerechnete Bestellungen wurden von diesem Guthaben bereits abgebucht. Wie du dir deinen Kontoauszug für dein Foodsoft Guthaben anschauen kannst, ist auch unter [Meine Bestellgruppe](/de/documentation/usage/order-group) beschrieben.
 - **Laufende Bestellungen**: diesen Betrag machen deine laufenden Bestellungen aus.
 - **nicht abgerechnete Bestellungen**: diesen Betrag machen Bestellungen aus, die schon abgeschlossen sind, die aber nicht abgerechnet wurden.  
 - **Verfügbares Guthaben**: nur dieser Teil deines Guthabens steht dir aktuell noch für Bestellungen zur Verfügung. Er berechnet sich deinem Kontostand minus den Beträgen für laufende und noch nicht abgerechnete Bestellungen. 
@@ -76,7 +75,7 @@ Laufende Bestellungen sind jene, wo du im Moment bestellen kannst, indem du sie 
 Für jede Bestellung wird angezeigt:
 - **Abholung**: ab wann kann ich die Artikel dieser Bestellung in der Foodcoop abholen 	
 - **Endet am**:  bis wann kann ich diese Bestellung bearbeiten 	
-- **Wer hat bestellt?**: wer aus deiner [Bestellgruppe](./Bestellgruppe) hat zuletzt die Bestellung bearbeitet?
+- **Wer hat bestellt?**: wer aus deiner [Bestellgruppe](/de/documentation/usage/order-group) hat zuletzt die Bestellung bearbeitet?
 - **Bestellsumme**: wieviel macht diese Bestellung in Summe aus
 
 Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen. 
