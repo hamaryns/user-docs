@@ -2,15 +2,15 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T06:09:58.585Z
+date: 2021-10-01T06:45:58.797Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
 ---
 
-<h1 id="bestellungen-einleitung" class="toc-header"><a class="toc-anchor" href="#bestellungen-einleitung"></a>Einleitung</h1>
+# Einleitung
 
-<h2 id="bestellungen-lebenszyklus" class="toc-header"><a class="toc-anchor" href="#bestellungen-lebenszyklus"></a>Lebenszyklus von Bestellungen</h2>
+## Lebenszyklus von Bestellungen
 
 Bestellungen durchlaufen in der Regel folgende Stadien, wobei eine Änderung meist nur vorwärts möglich ist:
 
@@ -22,7 +22,7 @@ Bestellungen durchlaufen in der Regel folgende Stadien, wobei eine Änderung mei
 Die folgende Skizze stellt diesen Lebenszyklus dar. Der blaue Pfeil in der Mitte deutet die Zeitachse an: 
 ![bestellung.png](/bestellung.png =400x)
 
-<h2 id="bestellungen-abrechnen" class="toc-header"><a class="toc-anchor" href="#bestellungen-abrechnen"></a>Bestellungen abrechnen und Rechnungen anlegen</h2>
+## Bestellungen abrechnen und Rechnungen anlegen
 
 Beim Bestellen werden die Beträge den Bestellgruppen noch nicht von ihren Konten abgebucht, es verringern sich zunächst nur die verfügbaren Guthaben. Erst beim Abrechnen einer Bestellung werden die Beträge für diese Bestellung den Bestellgruppen von ihren Foodsoft-Konten abgebucht.
 Nur vorher können noch Anpassungen durchgeführt werden, wenn es z.B. bei der Lieferung Abweichungen zur Bestellung gibt. Weiters sollte die Rechnung des Produzenten angelegt und mit der Bestellung verknüpft werden, um vergleichen zu können, ob sich die Geldbeträge von Rechnung und Bestellung decken.
@@ -39,7 +39,7 @@ Daher sollte folgende Reihenfolge strikt eingehalten werden:
 5. Bankdaten importieren und zuordnen: Rechnung wird in der Foodsoft als bezahlt gekennzeichnet 
 6. Bestellung abrechnen 
 
-<h2 id="bestellungen-berechtigungen" class="toc-header"><a class="toc-anchor" href="#bestellungen-berechtigungen"></a>Erforderliche Berechtigungen für Bestellverwaltung</h2>
+## Erforderliche Berechtigungen für Bestellverwaltung
 
 - Bestellungen anlegen, bearbeiten, beenden, anpassen, Lieferungen entgegenehmen, Rechnungen anlegen: **Bestellungen**
 - Lagerbestellungen anlegen: **Lieferanten** oder **Artikeldatenbank**
@@ -59,7 +59,7 @@ Es gibt folgende zwei Arten von Bestellungen, die an unterschiedlichen Stellen e
 
 ![lagerbestellung3.png](/lagerbestellung3.png =400x)
 
-<h2 id="bestellungenanlegen1" class="toc-header"><a class="toc-anchor" href="#bestellungenanlegen1"></a>Bestellung bei Lieferant</h2>
+## Bestellung bei Lieferant
 
 Bestellung bei Lieferantin anlegen: **Bestellungen > Bestellverwaltung > neue Bestellung anlegen** > Lieferant auswählen (Berechtigung Bestellen erforderlich)
 
@@ -74,16 +74,16 @@ Bestellung bei Lieferantin anlegen: **Bestellungen > Bestellverwaltung > neue Be
 {.is-info}
 
 
-<h2 id="bestellungenanlegen2" class="toc-header"><a class="toc-anchor" href="#bestellungenanlegen2"></a>Bestellung aus Lager</h2>
+## Bestellung aus Lager
 
-Bestellung für Foodcoop-Mitglieder aus dem Lager anlegen: 
+Bestellung für Foodcoop-Mitglieder aus dem Foodcoop [Lager](./Lager) anlegen: 
 **Artikel > Lager > Lagerbestellung online stellen** (Berechtigung Lieferanten oder Artikeldatenbank erforderlich)
 
 ![lagerbestellung.png](/lagerbestellung.png)
 
 
 
-<h2 id="bestellungenanlegen3" class="toc-header"><a class="toc-anchor" href="#bestellungenanlegen3"></a>Details für Bestellung </h2>
+## Details für Bestellung
 
 ![bestellung-anlegen.png](/bestellung-anlegen.png)
 
@@ -136,7 +136,7 @@ Mit "Bestellung erstellen" wird die Bestellung gespeichert und kann, solange sie
 
 
 
-<h1 id="bestellungbearbeiten" class="toc-header"><a class="toc-anchor" href="#bestellungbearbeiten"></a> Bestellungen bearbeiten</h1>
+# Bestellungen bearbeiten
 
 Beide Arten von Bestellungen (Lieferantin und Lager) können unter **Bestellungen > Bestellverwaltung > Bearbeiten** bearbeitet werden, solange sie noch nicht beendet sind. Es können Beginn und Ende der Bestellung, Endaktion, Notiz und die verfügbaren Artikel bearbeitet werden. 
 
@@ -147,7 +147,7 @@ Wenn Bestellungen beendet sind, können sie nur mehr an die Lieferung angepasst 
 
 
 
-<h1 id="bestellunganzeigen" class="toc-header"><a class="toc-anchor" href="#bestellunganzeigen"></a> Bestellungen anzeigen</h1>
+# Bestellungen anzeigen
 
 Beide Arten von Bestellungen (Lieferantin und Lager) können unter **Bestellungen > Bestellverwaltung > Anzeigen** angezeigt werden. Dabei wird der aktuelle Status der Bestellung angezeigt, also welche und wieviele Artikel von den Foodcoop Mitgliedern bisher bestellt wurden. 
 
@@ -160,14 +160,14 @@ Komplette Artikelliste der Lieferantin wird angezeigt, nicht bestellte Artikel g
 ## Sortiert nach Artikeln
 Überschrift für jeden Artikel (sofern mindestens 1 Einheit bestellt wurde), darunter die Bestellgruppen und die von ihnen jeweils bestellten Einheiten.
 
-<h2 id="bestellungenanlegen-lagerbestellung" class="toc-header"><a class="toc-anchor" href="#bestellungenanlegen-lagerbestellung"></a>Lagerbestellung bei Lieferantin</h2>
+## Lagerbestellung bei Lieferantin
 
 Zusätzlich zu den direkten Bestellungen der Mitglieder kann bei einer Bestellung bei der Lieferantin eine Lagerbestellung (Foodcoop bestellt bei Lieferant um Lagerbestand aufzufüllen) hinzugefügt werden, solange die Bestellung noch offen ist. Diese Artikel scheinen dann in der Bestellliste, die an den Lieferanten geht, auch auf, nicht aber in der Abrechnung und bei “Bestellung annehmen”(?). Wenn die Artikel geliefert sind, ist fürs Lager nochmal extra eine Lieferung für diese Artikel anzulegen, damit sie in den Lagerbestand aufgenommen werden. Für die Rechnung sind dann sowohl Bestellung und (Lager-)Lieferung anzugeben.
 
 ![lagerbestellung2.png](/lagerbestellung2.png)
 
 
-<h1 id="bestellungenbeenden" class="toc-header"><a class="toc-anchor" href="#bestellungenbeenden"></a>Bestellung beenden </h1>
+# Bestellung beenden
 
 Eine Bestellung endet automatisch, wenn dies vorher so eingestellt wurde (siehe oben), kann aber jederzeit auch manuell (vorzeitig) über "Beenden" beendet werden.
 
@@ -175,7 +175,7 @@ Eine Bestellung endet automatisch, wenn dies vorher so eingestellt wurde (siehe 
 {.is-warning}
 
 
-<h1 id="bestellungenschicken" class="toc-header"><a class="toc-anchor" href="#bestellungenschicken"></a>Bestelllisten für Lieferantinnen </h1>
+# Bestelllisten für Lieferantinnen
 
 - **Automatisch** (siehe oben beim Anlegen einer Bestellung: Endeaktion ...  an Lieferantin schicken) über die Foodsoft: Foodsoft versendet Email an Lieferantin mit automatisch erstellter Bestellliste als PDF und CSV Datei im Anhang, CC an FC Mitglied, das die Bestellung erstellt hat.
 - **Manuell**:
@@ -212,7 +212,7 @@ In diesem Beispiel wurden bei den Artikel der Lieferantin keine Bestellnummern e
 {.is-info}
 
 
-<h1 id="bestelllisten" class="toc-header"><a class="toc-anchor" href="#bestelllisten"></a>Bestelllisten für die Foodcoop</h1>
+# Bestelllisten für die Foodcoop
 
 Die Foodcoop benötigt Bestelllisten für die Aufteilung der eingegangenn Lieferungen auf die Bestellgruppen.
 - Für einzelne Bestellungen über Bestellungen > Bestellverwaltung > Bestellung anzeigen > Download > Gruppen/Artikel/Matrix PDF" 
@@ -234,7 +234,7 @@ Die Foodcoop benötigt Bestelllisten für die Aufteilung der eingegangenn Liefer
 {.is-danger}
 
 
-<h1 id="bestellungsollist" class="toc-header"><a class="toc-anchor" href="#bestellungsollist"></a>Bestellungen an Lieferung Anpassen</h1>
+# Bestellungen an Lieferung Anpassen
 
 Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel nicht mehr oder nur beschränkt verfügbar, oder die Lieferanten irrt sich - so können sowohl mehr als auch weniger Artikel als bestellt geliefert werden. Nur wenn ihr die Foodsoft auch zum Abrechnen verwendet, ist es wichtig, die Bestellungen an die tatsächliche Lieferung anzupassen, damit
 - die Rechnung der Lieferantin mit der Bestellsumme in der Foodsoft zusammenstimmt, und
@@ -243,7 +243,7 @@ Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel n
 > Wenn ihr die Foodsoft nicht zum Abrechnen verwendet, könnt ihr diesen Schritt überspringen, und die Bestellung sofort abrechnen. Dieser Schritt ist wichtig, damit Bestellungen als abgeschlossen gelten und von der Foodsoft auch also solche (nicht mehr) dargestellt werden können. Auch wenn ihr euch zu einem späteren Zeitpunkt entscheidet, die Foodsoft doch für die Abrechnung zu verwenden, habt ihr dann einen sauberen Umstieg - sonst müsstet ihr nachträglich alle bisherigen Bestellungen abrechnen.
 {.is-info}
 
-<h2 id="bestellungsollist-empfang" class="toc-header"><a class="toc-anchor" href="#bestellungsollist-empfang"></a>Bestellungen in Empfang nehmen</h2>
+## Bestellungen in Empfang nehmen
 
 Die Funktion "In Empfang nehmen" ist so, dass du bei Artikeln, wo eine Anzahl abweichend von der bestellten geliefert wurde, die tatsächlich gelieferte Anzahl in das leere Feld schreibst. Es können auch Dezimalzahlen mit Punkt eingegeben werden (z.B: 3.5 für dreieinhalb Einheiten), wenn die gelieferte Menge von der bestellten abweicht.
 
@@ -255,15 +255,16 @@ Dann klickst du auf "Bestellung in Empfang nehmen".
 
 Man sieht die bestellten, aber nicht gelieferten Artikel dann nur mehr in der Gruppen-PDF Ansicht.
 
-
-<h2 id="bestellungsollist-anpassen" class="toc-header"><a class="toc-anchor" href="#bestellungsollist-anpassen"></a>Mitglieder-Bestellungen anpassen </h2>
+## Mitglieder-Bestellungen anpassen
 
 Der Vorgang „Bestellung abrechnen“ erfolgt in zwei Stufen, die – leider etwas verwirrend – gleich heißen:
 
 1. **Bestellung zur Abrechnung vorbereiten**: In der Liste “Finanzen \> Bestellung abrechnen” bei der entsprechenden Bestellung auf „abrechnen“ oder den Datumslink klicken. In diesem Schritt bereitest du die Bestellung zur Abrechnung vor, indem du  noch Änderungen an der     Bestellung vornehmen kannst, wie unten beschrieben. Alle Änderungen an der Bestellung werden automatisch gespeichert (keine „Abbrechen“ Funktion\!), es wird aber das Guthaben der Bestellgruppen noch nicht belastet. Du kannst auch öfters zurückkehren und weitere Änderungen vornehmen, solange du nicht den 2. Schritt ausgeführt hast.
 2. **Bestellung endgültig abrechnen**: Auf der Seite von Schritt 1 gibt es nochmals die Schattfläche „Bestellung abrechnen“, mit der die Bestellung dann endgültig abgerechnet wird. Damit werden den Bestellgruppen die entsprechenden Beträge von ihrem Guthaben endgültig abgezogen, die Bestellung kann nicht mehr verändert werden, und diese Bestellung kann auch keiner Rechnung mehr zugeordnet werden. 
 
-*Folgende Schritte überarbeiten...*
+> *Folgende Schritte überarbeiten...*
+{.is-danger}
+
 
 - Siehe oben Bestellung in Empfang nehmen, oder
 - unter “Finanzen \> Bestellung abrechnen”: 
@@ -286,9 +287,12 @@ Bestellte Anzahl an gelieferte anpassen (mehr oder weniger Artikel als bestellt 
 > - Preis wird automatisch zu 1,86 \* 10,00 € = 18,60 € berechnet
 {.is-info}
 
+> Zusätzlich muss über *Lieferug in Empfang nehmen* die Gesamtmenge angepasst werden, damit die Abrechnung stimmt.
+{.is-info}
 
 
-<h2 id="bestellungsollist-eigenschaftanpassen" class="toc-header"><a class="toc-anchor" href="#bestellungsollist-eigenschaftanpassen"></a>Artikeleigenschaften anpassen</h2>
+
+## Artikeleigenschaften anpassen
 
 Manchmal ändern sich z.B. Artikelpreise zwischen Bestellung und Lieferung und müssen in der bereits abgeschlossenen, aber noch nicht abgerechneten Bestellung korrigiert werden, damit sie der Rechnung entsprechen. Unter Finanzen \> Bestellungen abrechnen kannst du jeden Artikel bearbeiten:
 
@@ -300,7 +304,7 @@ Manchmal ändern sich z.B. Artikelpreise zwischen Bestellung und Lieferung und m
 Nur wenn Artikel mit veränderten Eigenschaften in der Artikelliste der Lieferantin als neue Artikel angelegt werden (anstatt die bestehenden zu bearbeiten), werden die Eigenschaften der Artikel in früheren Bestellungen nicht beeinflusst. Die veränderten Artikel sind dann allerdings auch erst bei zukünftig neu angelegten Bestellungen verfügbar. 
 
 
-<h2 id="bestellungsollist-transportkosten" class="toc-header"><a class="toc-anchor" href="#bestellungsollist-transportkosten"></a>Transportkosten hinzufügen</h2>
+## Transportkosten hinzufügen
 
 Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch abhängig von der Bestellsumme. So können die tatsächlich angefallenen Transportkosten für jede Bestellung im Nachhinein gerecht auf alle Bestellgruppen aufgeteilt werden:
 
@@ -318,15 +322,15 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
 
 8. Solange die Bestellung noch nicht abgerechnet wurde, kann der Vorgang ab Schritt 3 wiederholt werden, um Korrekturen vorzunehmen, nachdem die Ansichtsoption wieder auf “Bestellung bearbeiten” zurückgesetzt wurde.
 
-> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden.
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden. (**Github Issue anlegen!**)
 {.is-danger}
 
 
-<h1 id="bestellungabrechnen" class="toc-header"><a class="toc-anchor" href="#bestellungabrechnen"></a>Bestellung abrechnen</h1>
+# Bestellung abrechnen
 
 Beim Bestellen werden die Beträge den Bestellgruppen noch nicht von ihren Konten abgebucht, es verringern sich zunächst nur die verfügbaren Guthaben. Erst beim Abrechnen einer Bestellung werden die Beträge für diese Bestellung den Bestellgruppen von ihren Foodsoft-Konten abgebucht. Nur vorher können noch Anpassungen durchgeführt werden, wenn es z.B. bei der Lieferung Abweichungen zur Bestellung gibt. Weiters sollte die Rechnung des Produzenten angelegt und mit der Bestellung verknüpft werden, um vergleichen zu können, ob sich die Geldbeträge von Rechnung und Bestellung decken.
 
-Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](Rechnungen) angelegt und idealerweise auch bezahlt oder zumindest zur Bezahlung freigegeben wurde.
+Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](Finanzen/Rechnungen) angelegt und idealerweise auch bezahlt oder zumindest zur Bezahlung freigegeben wurde.
 
 > Sobald eine Bestellung abgerechnet wurde, kann keine Rechnung mehr für
 > diese Bestellung angelegt werden. Es kann zwar eine Rechnung erstellt
@@ -334,7 +338,7 @@ Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](Rechnung
 {.is-warning}
 
 
-<h2 id="bestellungabrechnen-abrechnen" class="toc-header"><a class="toc-anchor" href="#-abrechnen"></a>Eine Bestellung abrechnen</h2>
+## Eine Bestellung abrechnen
 
 1. Menü Finanzen > Bestellungen abrechnen
 1. Abzurechnedne Bestellung aus der Liste suchen, in dieser Zeile den Link der Lieferantin oder "abrechnen" anklicken
