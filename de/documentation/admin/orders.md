@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T16:27:19.895Z
+date: 2021-10-01T16:53:50.785Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -45,7 +45,7 @@ Daher sollte folgende Reihenfolge strikt eingehalten werden:
 - Lagerbestellungen anlegen: **Lieferanten** oder **Artikeldatenbank**
 - Bestellungen abrechnen: **Finanzen**
 
-Berechtigungen vergeben siehe [Benutzerverwaltung](/de/Foodsoft/Administration/Benutzerverwaltung).
+Berechtigungen vergeben siehe [Benutzerverwaltung](/de/documentation/admin/users).
 
 # Bestellungen anlegen
 
@@ -76,7 +76,7 @@ Bestellung bei Lieferantin anlegen: **Bestellungen > Bestellverwaltung > neue Be
 
 ## Bestellung aus Lager
 
-Bestellung für Foodcoop-Mitglieder aus dem Foodcoop [Lager](./Lager) anlegen: 
+Bestellung für Foodcoop-Mitglieder aus dem Foodcoop [Lager](/de/documentation/admin/storage) anlegen: 
 **Artikel > Lager > Lagerbestellung online stellen** (Berechtigung Lieferanten oder Artikeldatenbank erforderlich)
 
 ![lagerbestellung.png](/lagerbestellung.png)
@@ -111,7 +111,7 @@ Empfehlung, Bestellungen erst mit einem Enddatum zu versehen bzw. zu beenden, we
 - **Bestellung beenden**: die Bestellung wird automatisch beendet, und kann dann auch nicht mehr geöffnet werden.
 - **Bestellung beenden und an Lieferantin schicken:** die Bestellliste wird von der Foodsoft automatisch als PDF Anhang per Email an die Lieferantin und an das Foodsoft Mitglied geschickt. 
 - **Bestellung beenden und an Lieferantin schicken sofern die Mindestbestellmenge erreicht wurde**: bei jeder Lieferantin kann eine Mindestbestellmenge als Geldbetrag angegeben werden. Dieser Mindestbetrag und wieviel davon schon erreicht wurde, wird den Bestellgruppen beim Bestellen angezeigt. Wenn die Bestellung nicht zustande kommt, sollte
-  - Eine Nachricht an die Bestellgruppen geschickt werden (Funktion „An die Mitglieder schicken, die bei einer Bestellung etwas bestellt haben“, siehe [Kommunikation](/de/Foodsoft/Anwendung/Kommunikation)). Diese Funktion kann auch direkt über das Brief Symbol beim Bearbeiten der Bestellung ausgelöst werden.
+  - Eine Nachricht an die Bestellgruppen geschickt werden (Funktion „An die Mitglieder schicken, die bei einer Bestellung etwas bestellt haben“, siehe [Kommunikation](/de/documentation/usage/communication)). Diese Funktion kann auch direkt über das Brief Symbol beim Bearbeiten der Bestellung ausgelöst werden.
   - Bestellen \> Bestellverwaltung \> Beendet \> Bestellung (Zeile mit der betroffenen Bestellung suchen)... \> in Empfang nehmen, Alle auf Null setzen, Bestellung in Empfang nehmen. Damit wird dann auch nichts abgerechnet, und die auf den Bestelllisten (Bestellen \> Abholtage) scheint bestellt: x, erhalten: 0 auf, in grau statt schwarz. Das sollte idealerweise möglichst rasch nachdem die Bestellung gescheitert ist, passieren, damit es bei den ausgedruckten Bestelllisten (siehe unten) berücksichtigt ist. 
   - Vorschlag für Automatisierung: [*https://github.com/foodcoops/foodsoft/issues/858*](https://github.com/foodcoops/foodsoft/issues/858)
        
@@ -215,7 +215,7 @@ In diesem Beispiel wurden bei den Artikel der Lieferantin keine Bestellnummern e
 
 Die Foodcoop benötigt Bestelllisten für die Aufteilung der eingegangenn Lieferungen auf die Bestellgruppen.
 - Für einzelne Bestellungen über Bestellungen > Bestellverwaltung > Bestellung anzeigen > Download > Gruppen/Artikel/Matrix PDF" 
-- Für die gesamten Bestellungen eines Abholtags besser über Bestellungen > [Abholtage](../Anwendung/Bestellen)
+- Für die gesamten Bestellungen eines Abholtags besser über Bestellungen > [Abholtage](/de/documentation/usage/order)
 
 > Die Funktion "Abholtage" muss für dich freigegeben sein - bitte eine Administratorin deiner Foodsoft darum
 {.is-warning}
@@ -333,7 +333,7 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
 
 Beim Bestellen werden die Beträge den Bestellgruppen noch nicht von ihren Konten abgebucht, es verringern sich zunächst nur die verfügbaren Guthaben. Erst beim Abrechnen einer Bestellung werden die Beträge für diese Bestellung den Bestellgruppen von ihren Foodsoft-Konten abgebucht. Nur vorher können noch Anpassungen durchgeführt werden, wenn es z.B. bei der Lieferung Abweichungen zur Bestellung gibt. Weiters sollte die Rechnung des Produzenten angelegt und mit der Bestellung verknüpft werden, um vergleichen zu können, ob sich die Geldbeträge von Rechnung und Bestellung decken.
 
-Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](./Finanzen/Rechnungen) angelegt und idealerweise auch bezahlt oder zumindest zur Bezahlung freigegeben wurde.
+Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](/de/documentation/admin/finances/invoices) angelegt und idealerweise auch bezahlt oder zumindest zur Bezahlung freigegeben wurde.
 
 > Sobald eine Bestellung abgerechnet wurde, kann keine Rechnung mehr für
 > diese Bestellung angelegt werden. Es kann zwar eine Rechnung erstellt
