@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T06:45:58.797Z
+date: 2021-10-01T06:46:30.530Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -330,7 +330,7 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
 
 Beim Bestellen werden die Beträge den Bestellgruppen noch nicht von ihren Konten abgebucht, es verringern sich zunächst nur die verfügbaren Guthaben. Erst beim Abrechnen einer Bestellung werden die Beträge für diese Bestellung den Bestellgruppen von ihren Foodsoft-Konten abgebucht. Nur vorher können noch Anpassungen durchgeführt werden, wenn es z.B. bei der Lieferung Abweichungen zur Bestellung gibt. Weiters sollte die Rechnung des Produzenten angelegt und mit der Bestellung verknüpft werden, um vergleichen zu können, ob sich die Geldbeträge von Rechnung und Bestellung decken.
 
-Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](Finanzen/Rechnungen) angelegt und idealerweise auch bezahlt oder zumindest zur Bezahlung freigegeben wurde.
+Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](./Finanzen/Rechnungen) angelegt und idealerweise auch bezahlt oder zumindest zur Bezahlung freigegeben wurde.
 
 > Sobald eine Bestellung abgerechnet wurde, kann keine Rechnung mehr für
 > diese Bestellung angelegt werden. Es kann zwar eine Rechnung erstellt
