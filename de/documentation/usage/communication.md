@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-01T16:07:20.363Z
+date: 2021-10-01T16:36:21.888Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -10,8 +10,7 @@ dateCreated: 2021-04-02T21:03:25.476Z
 
 # Foodsoft Nachrichten
 
-Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](../profile-ordergroup).
-
+Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](/de/documentation/usage/profile-ordergroup).
 
 
 > Manche Foodcoops verwenden die Nachrichtenfunktion der Foodsoft nicht, sondern stattdessen ein anderes System. Um Missverständnisse vorzbeugen, solltest du in diesem Fall die Nachrichtenfunktionen der Foodsoft nicht verwenden (selbst wenn sie nicht ausgeblendet ist).
@@ -21,7 +20,7 @@ Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail z
 
 ### Per Email
 
-Wenn nicht anders eingestellt (siehe [Mein Profil](../profile-ordergroup)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
+Wenn nicht anders eingestellt (siehe [Mein Profil](/de/documentation/usage/profile-ordergroup)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
 
 Am Ende jeder dieser Emails findest du folgende  Links, die dich in die Foodsoft führen:
 ![nachrichten-links.png](/nachrichten-links.png)
@@ -34,11 +33,11 @@ Um auf Nachrichten zu antworten, gibt es 2 Möglichkeiten:
 
 Es ist in der zugestellten Email nicht ersichtlich, wer außer dir noch aller diese Nachricht bekommen hat. Diese Info findest du nur in der Foodsoft über den Link **Nachricht online einsehen**. 
 
-Über den Link **Nachrichten-Einstellungen** kannst du einstellen, welche Art von Nachrichten du bekommen möchtest (siehe [Meine Bestellgruppe](../profile-ordergroup)).
+Über den Link **Nachrichten-Einstellungen** kannst du einstellen, welche Art von Nachrichten du bekommen möchtest (siehe [Meine Bestellgruppe](/de/documentation/usage/profile-ordergroup)).
 
 ### Über die Foodsoft
 
-In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](../navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
+In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](/de/documentation/usage/navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
 
 
 ![nachrichten.png](/nachrichten.png)
@@ -63,9 +62,9 @@ Versuche, Nachrichten nur an jene zu schicken, die es auch wirklich betrifft. Di
 
 - **An alle Mitglieder schicken**:  Nur in gut begründeten Fällen, Gefahr der Informationsüberforderung!
 - **An ausgewählte Mitglieder schicken** (Standartoption): Unter *Empfänger_innen* Teil des Namens (nicht Bestellgruppe) eingeben, Vorschläge abwarten (Bestellgruppe wird in Klammern angezeigt), auswählen. Mehrere Empfängerinnen können eingegeben werden. 
-- **An die Mitglieder einer Arbeitsgruppe schicken**: Arbeitsgruppen und deren Mitglieder können nur von Foodsoft-AdministratorInnen deiner Foodcoop eingerichtet und bearbeitet werden (siehe [Benutzerinnenverwaltung](../admin/users).
+- **An die Mitglieder einer Arbeitsgruppe schicken**: Arbeitsgruppen und deren Mitglieder können nur von Foodsoft-AdministratorInnen deiner Foodcoop eingerichtet und bearbeitet werden (siehe [Benutzerinnenverwaltung](/de/documentation/admin/users).
 - **An die Mitglieder einer Bestellgruppe schicken** 
-- **An die Mitglieder einer Nachrichtengruppe schicken**: Mitglieder einer Nachrichtengruppe: jede kann sich in den     Nachrichtengruppen selbst ein- und austragen. Neue    Nachrichtengruppen können nur von Foodsoft-AdministratorInnen deiner    Foodcoop eingerichtet werden (siehe [Benutzerinnenverwaltung](../admin/users).
+- **An die Mitglieder einer Nachrichtengruppe schicken**: Mitglieder einer Nachrichtengruppe: jede kann sich in den     Nachrichtengruppen selbst ein- und austragen. Neue    Nachrichtengruppen können nur von Foodsoft-AdministratorInnen deiner    Foodcoop eingerichtet werden (siehe [Benutzerinnenverwaltung](/de/documentation/admin/users).
 - **An die Mitglieder schicken, die bei einer Bestellung etwas bestellt haben**: wähle die Bestellung anhand von Lieferantin und Datum aus. Es sind nur die neuesten Bestellungen auswählbar.
 - **Privat - Nachricht erscheint nicht im Foodsoft Posteingang**: wähle diese Option an, wenn du möchtest, dass deine Nachricht für andere in der Foodsoft nicht gesehen werden können. Wenn du diese Option nicht anwählst, können alle Foodcoop Mitglieder deine Nachricht sehen, egal an wen du sie geschickt hast. 
 
@@ -89,7 +88,7 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 > **Links** beginnend mit http:// oder https:// werden von den    meisten E-Mailprogrammen automatisch erkannt und anklickbar dargestellt. Wird die Nachricht in der Foodsoft betrachtet, sind Links allerdings nicht anklickbar - du kannst sie in diesem Fall kopieren und in der Adresszeile deines Webbrowsers einfügen.
 {.is-info}
 
-> Foodsoft Nachrichten können **keine Anhänge** (Attachments) enthalten. Grafiken und PDF-Dokumente können jedoch z.B. im Bereich [Foodcoop \>  Dokumente](../sharedocuments) hochgeladen werden, und der Link darauf vesendet werden.
+> Foodsoft Nachrichten können **keine Anhänge** (Attachments) enthalten. Grafiken und PDF-Dokumente können jedoch z.B. im Bereich [Foodcoop \>  Dokumente](/de/documentation/usage/sharedocuments) hochgeladen werden, und der Link darauf vesendet werden.
 {.is-info}
 
 
@@ -98,7 +97,7 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 
 # Telefonnummern und Emailadressen
 
-Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](../navigation)  *Foodcoop \> Mitglieder*: 
+Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](/de/documentation/usage/navigation)  *Foodcoop \> Mitglieder*: 
 
 ![mitglieder.png](/mitglieder.png)
 
@@ -108,7 +107,7 @@ Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, o
 
 Über das Brief-Symbol kannst du dem Mitglied eine Foodsoft-Nachricht schicken.
 
-> Nur wenn das Mitglied seine Telefonnummer eingegeben hat, ist sie hier sichtbar. Außerdem können Mitglieder es in ihren [Profileinstellungen](../profile-ordergroup) festlegen, ob ihre Telefonnummer  und E-Mail  für andere Mitglieder sichtbar ist. In diesem Fall kannst du eineN Foodsoft AdministratorIn deiner Foodcoop fragen. 
+> Nur wenn das Mitglied seine Telefonnummer eingegeben hat, ist sie hier sichtbar. Außerdem können Mitglieder es in ihren [Profileinstellungen](/de/documentation/usage/profile-ordergroup) festlegen, ob ihre Telefonnummer  und E-Mail  für andere Mitglieder sichtbar ist. In diesem Fall kannst du eineN Foodsoft AdministratorIn deiner Foodcoop fragen. 
 {.is-info}
 
 
@@ -120,7 +119,7 @@ Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, o
 
 Umfragen ermöglichen es, sehr übersichtliche und klare Rückmeldungen zu bekommen, ohne dass eine Flut von Antwort-Nachrichten ausgewertet werden muss. Auch du kannst selbst eine Umfrage erstellen. 
 
-> Umfragen müssen durch eine Foodsoft-Administratorin deiner Foodcoop aktiviert werden (siehe [Einstellungen](../admin/settings), sonst ist diese Funktion nicht sichtbar.
+> Umfragen müssen durch eine Foodsoft-Administratorin deiner Foodcoop aktiviert werden (siehe [Einstellungen](/de/documentation/admin/settings), sonst ist diese Funktion nicht sichtbar.
 {.is-info}
 
 ## Umfrage ausfüllen
