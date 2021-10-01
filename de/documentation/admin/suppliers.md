@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-10-01T16:49:38.905Z
+date: 2021-10-01T16:50:49.927Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -21,9 +21,8 @@ Artikel \> Lieferanten/Artikel \> Neue Lieferantin anlegen
 
 Weitere Infos siehe "Bearbeiten".
 
-> Da eine Lieferantin nur mit Schwierigkeiten wieder gelöscht werden kann (siehe unten), bitte nur Lieferantinnen anlegen, wenn das auch wirklich benötigt wird. Zum Herumprobieren am Besten eine [Foodsoft Demoversion](Demo-Installationen) verwenden.
+> Da eine Lieferantin nur mit Schwierigkeiten wieder gelöscht werden kann (siehe unten), bitte nur Lieferantinnen anlegen, wenn das auch wirklich benötigt wird. Zum Herumprobieren am Besten eine [Foodsoft Demoversion](/de/documentation/admin/foodsoft-demo) verwenden.
 {.is-warning}
-
 ![lieferantin-neu.png](/lieferantin-neu.png)
 
 
@@ -182,7 +181,7 @@ Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachste
 
 [Pfand](Finanzen/Pfand) wird im Bestellpreis inkludiert, und ist für Bestellerinnen nicht separat einsehbar. Daher ist es empfehlenswert, es bei der Artikelbezeichnung dazuzuschreiben, z.B.: **Joghurt im Glas (inkl. 50 ct Pfand)**. 
 
-> Mehr dazu, wie Pfand ein einer Foodcoop gehandhabt werde kann unter [Pfand](/de/documentation/admin/finances/deposit).
+> Mehr dazu, wie Pfand ein einer Foodcoop gehandhabt werde kann unter [Pfand](/de/documentation/admin/finances/deposits).
 {.is-info}
 
 
