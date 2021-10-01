@@ -2,7 +2,7 @@
 title: Einstellungen
 description: Foodsoft Menü "Administration" - alles was nicht mit Benutzerinnenverwaltung zu tun hat
 published: true
-date: 2021-10-01T15:24:05.483Z
+date: 2021-10-01T16:57:49.796Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:20:52.701Z
@@ -10,7 +10,7 @@ dateCreated: 2021-04-21T00:20:52.701Z
 
 # BenutzerInnen, Bestell-, Arbeits- und Nachrichtengruppen
 
-Siehe [Benutzerinnenverwaltung](Benutzerverwaltung).
+Siehe [Benutzerinnenverwaltung](/de/documentation/admin/users).
 
 # E-Mail Probleme
 
@@ -21,12 +21,12 @@ Wenn Emails an Mitglieder oder Lierantinnen nicht zugestellt werden können, leg
 
 ## Kontotransaktionsklassen und -typen
 
-Siehe auch  [Konten](Konten).
+Siehe auch  [Konten](/de/documentation/admin/finances/accounts).
 
 
 ## Bankkonten und Gateways
 
-Siehe auch [Bankkonto](Finanzen/Bankkonto).
+Siehe auch [Bankkonto](/de/documentation/admin/finances/bank-accounts).
 
 
 # Links
