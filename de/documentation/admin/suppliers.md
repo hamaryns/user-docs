@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-10-01T16:50:49.927Z
+date: 2021-10-01T16:51:28.708Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -179,7 +179,7 @@ Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachste
 
 ### Pfand
 
-[Pfand](Finanzen/Pfand) wird im Bestellpreis inkludiert, und ist für Bestellerinnen nicht separat einsehbar. Daher ist es empfehlenswert, es bei der Artikelbezeichnung dazuzuschreiben, z.B.: **Joghurt im Glas (inkl. 50 ct Pfand)**. 
+[Pfand](/de/documentation/admin/finances/deposits) wird im Bestellpreis inkludiert, und ist für Bestellerinnen nicht separat einsehbar. Daher ist es empfehlenswert, es bei der Artikelbezeichnung dazuzuschreiben, z.B.: **Joghurt im Glas (inkl. 50 ct Pfand)**. 
 
 > Mehr dazu, wie Pfand ein einer Foodcoop gehandhabt werde kann unter [Pfand](/de/documentation/admin/finances/deposits).
 {.is-info}
