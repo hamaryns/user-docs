@@ -2,7 +2,7 @@
 title: Structure
 description: 
 published: true
-date: 2021-03-25T01:01:58.621Z
+date: 2021-10-01T13:03:14.711Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-25T01:01:57.369Z
