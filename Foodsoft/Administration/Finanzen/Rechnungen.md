@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-01T06:49:05.938Z
+date: 2021-10-01T09:15:13.670Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -191,7 +191,7 @@ Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von 
 
 # Rechungen als bezahlt kennzeichnen
 
-Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
+Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, indem bei "bezahlt am" das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
 
 > Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](./Bankkonto)
 {.is-info}
