@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-01T15:08:33.177Z
+date: 2021-10-01T15:08:44.911Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
