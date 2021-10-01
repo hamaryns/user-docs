@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-10-01T15:07:21.719Z
+date: 2021-10-01T15:07:33.293Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
