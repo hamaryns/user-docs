@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T11:21:08.725Z
+date: 2021-10-01T12:08:02.775Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -217,20 +217,24 @@ Die Foodcoop benötigt Bestelllisten für die Aufteilung der eingegangenn Liefer
 - Für einzelne Bestellungen über Bestellungen > Bestellverwaltung > Bestellung anzeigen > Download > Gruppen/Artikel/Matrix PDF" 
 - Für die gesamten Bestellungen eines Abholtags besser über Bestellungen > [Abholtage](../Anwendung/Bestellen)
 
+> Die Funktion "Abholtage" muss für dich freigegeben sein - bitte eine Administratorin deiner Foodsoft darum
+{.is-warning}
+
 ## Beispiel Gruppen PDF
 
-> Beispiel Screenshot
-{.is-danger}
+![admin-bestellungen-gruppenpdf.png](/admin-bestellungen-gruppenpdf.png)
 
 ## Beispiel Artikel PDF
 
-> Beispiel Screenshot
-{.is-danger}
+![admin-bestellungen-artikelpdf.png](/admin-bestellungen-artikelpdf.png)
 
 ## Beispiel Matrix PDF
 
-> Beispiel Screenshot
-{.is-danger}
+![admin-bestellungen-matrixpdf.png](/admin-bestellungen-matrixpdf.png)
+
+## Beispiel Fax PDF
+
+![admin-bestellungen-faxpdf.png](/admin-bestellungen-faxpdf.png)
 
 
 # Bestellungen an Lieferung Anpassen
