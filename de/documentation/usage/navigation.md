@@ -2,8 +2,8 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T16:31:33.231Z
-tags: menü, foodcoop, navigation
+date: 2021-10-01T20:32:45.813Z
+tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
 ---
