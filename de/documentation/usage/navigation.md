@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T16:15:18.905Z
+date: 2021-10-01T16:16:16.740Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -82,11 +82,11 @@ beinhaltet folgende Bereiche, von oben nach unten:
   - [Offene Aufgaben](tasks-cooperate): wo wird meine Mitarbeit benötigt? - falls die
     Aufgaben-Funktion verwendet wird
 
-  - [Laufende Bestellungen](../order): was kann ich aktuell bestellen?
+  - [Laufende Bestellungen](order): was kann ich aktuell bestellen?
 
-  - [Neueste Nachrichten](../communication) – falls Nachrichten verwendet werden
+  - [Neueste Nachrichten](communication) – falls Nachrichten verwendet werden
 
-  - [Meine Bestellgruppe](../profile-ordergroup): Guthaben, Letzte Transaktionen, Kontoauszug   anzeigen
+  - [Meine Bestellgruppe](profile-ordergroup): Guthaben, Letzte Transaktionen, Kontoauszug   anzeigen
 
 
 
@@ -132,29 +132,29 @@ Das Menü hat folgende Struktur. Erklärungen zu den Menupunkten sind über die 
 
   - Foodcoop
     
-      - [Mitglieder](../communication)
-      - [Arbeitsgruppen](../communication)
-      - [Bestellgruppen](../communication)
-      - *[Nachrichten](../communication) (falls in deiner Foodcoop aktiviert)*
-      - *[Dokumente](../shareddocuments) (falls in deiner Foodcoop aktiviert)*
-      - *[Umfragen](../communication) (falls in deiner Foodcoop aktiviert)*
-      - [Aufgaben](../tasks-cooperate)
+      - [Mitglieder](communication)
+      - [Arbeitsgruppen](communication)
+      - [Bestellgruppen](communication)
+      - *[Nachrichten](communication) (falls in deiner Foodcoop aktiviert)*
+      - *[Dokumente](shareddocuments) (falls in deiner Foodcoop aktiviert)*
+      - *[Umfragen](communication) (falls in deiner Foodcoop aktiviert)*
+      - [Aufgaben](tasks-cooperate)
 
-  - [Wiki](../shareddocuments)
+  - [Wiki](shareddocuments)
     
       - Startseite
       - alle Seiten
 
-  - [Bestellungen](../order)
+  - [Bestellungen](order)
     
       - Bestellen!
       - Meine Bestellungen
       - *Abholtage (falls in deiner Foodcoop aktiviert)*
 
-  - Links: Die Einträge in diesem Menü können von den Administratorinnen deiner Foodcoop beliebig gestaltet werden (siehe [Einstellungen > Links](../../admin/settings#einstellungen-links).
+  - Links: Die Einträge in diesem Menü können von den Administratorinnen deiner Foodcoop beliebig gestaltet werden (siehe [Einstellungen > Links](../admin/settings#einstellungen-links).
 
 
-> Wenn du besondere Berechtigungen hast, können auch mehr Menüs da sein, die im [administrativen Teil der Dokumentation](../../admin) beschrieben sind.
+> Wenn du besondere Berechtigungen hast, können auch mehr Menüs da sein, die im [administrativen Teil der Dokumentation](../admin) beschrieben sind.
 {.is-info}
 
 
@@ -167,7 +167,7 @@ Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Log
 ![menu1breit.png](/menu1breit.png)
 
 
-  - [(Dein Name) – hier kannst du dein Profil und deine Bestellgruppe verwalten](../profile-ordergroups) 
+  - [(Dein Name) – hier kannst du dein Profil und deine Bestellgruppe verwalten](profile-ordergroups) 
      (im Bild steht "Max TEST"):
     
       - Profil bearbeiten
