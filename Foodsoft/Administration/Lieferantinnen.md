@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-10-01T10:26:53.172Z
+date: 2021-10-01T10:50:05.126Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -137,7 +137,21 @@ Der Name des Artikels muss aus 4 bis 60 Zeichen bestehen.
 
 ### Einheit und Gebinde
 
-Die Bezeichnung der Einheit muss aus  1..15 Zeichen bestehen.
+Die Bezeichnung der Einheit kann frei gewählt werden und muss aus  1 bis 15 Zeichen bestehen. 
+
+Bestellmangen erfolgen immer in Einer-Schritten der Einheit.
+
+#### Mindestbestellmenge definieren
+
+![mindestbestellmenge-definieren.png](/mindestbestellmenge/mindestbestellmenge-definieren.png)
+
+> Die Einheit, rechts der Markierung, gibt die Mengen an, in der Bestellt werden kann.
+>
+> **Beispiel (entspricht Bild oben)**
+> Mindestbestellmenge 2 KG, Bestelleinheiten jeweils 1 KG:
+> "Links"  -> 2
+> "Rechts" -> KG
+{.is-info}
 
 
 ### Notiz
