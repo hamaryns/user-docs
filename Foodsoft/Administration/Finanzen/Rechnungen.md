@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-01T09:15:13.670Z
+date: 2021-10-01T09:20:40.279Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -44,8 +44,8 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 
 ![rechnung-bestellung-lieferung.png](/rechnung-bestellung-lieferung.png =400x)
     
--  **Lieferung**: **bei Rechnung für eine Bestellung leer lassen**. Wenn für diesen Produzenten Lagerartikel über die Funktion “Artikel \> Lager \> neue Lieferung” eingebucht  wurden, die noch keiner Rechnung zugeordnet sind, können diese  hier ausgewählt werden. Mehrere Lieferungen können dabei in  einer gemeinsamen Rechnung ausgewählt werden.
--  **Bestellung**: wenn es für diesen Produzenten abgeschlossene, aber noch nicht abgerechnete Bestellungen gibt, die noch keiner Rechnung zugeordnet sind, können diese hier ausgewählt werden. Mehrere Bestellungen können dabei in einer gemeinsamen  Rechnung ausgewählt werden.
+-  **[Lieferung](./Lager)**: **bei Rechnung für eine Bestellung leer lassen**. Wenn für diesen Produzenten [Lagerartikel](./Lager) über die Funktion *Artikel > Lager > neue Lieferung* eingebucht  wurden, die noch keiner Rechnung zugeordnet sind, können diese  hier ausgewählt werden. Mehrere Lieferungen können dabei in  einer gemeinsamen Rechnung ausgewählt werden.
+-  **[Bestellung](./Bestellung)**: wenn es für diesen Produzenten abgeschlossene, aber noch nicht abgerechnete Bestellungen gibt, die noch keiner Rechnung zugeordnet sind, können diese hier ausgewählt werden. Mehrere Bestellungen können dabei in einer gemeinsamen  Rechnung ausgewählt werden.
     
 > Angezeigter **Betrag** für Bestellung(en) und Lieferung(en)
 > ist der Bruttobetrag (inkl. Mwst und Pfand)
