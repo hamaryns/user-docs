@@ -2,13 +2,13 @@
 title: Lager
 description: Menü Artikel > Lager
 published: true
-date: 2021-09-29T15:10:15.049Z
+date: 2021-10-01T10:29:29.260Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:55:48.199Z
 ---
 
-<h1 id="lagerfunktion" class="toc-header"><a class="toc-anchor" href="#lagerfunktion"></a>Lager Funktionsweise</h1>
+# Lager Funktionsweise
 
 Das Lager dient für die Verwaltung von Artikeln, die von der Foodcoop auf Vorrat beschafft und im Lagerraum der Foodcoop gelagert werden. Für das Lager können so wie die Bestellungen bei den Lieferantinnen eigene Lagerbestellungen angelegt werden, wo Bestellgruppen der Foodcoop Artikel bestellen können.  Die Foodsoft verwaltet den Lagerstand dieser Artikel und reduziert ihn bei Bestellungen entsprechend. Wenn der Lagerstand eines Artikels erschöpft ist, ist auch keine Bestellung dieses Artikels mehr möglich. Lagerartikel können entweder einfach direkt beim Hersteller ohne die Foodsoft bestellt werden, oder im Zuge einer normalen Foodsoft-Bestellung zusätzlich zu den Bestellungen der Mitglieder (auch diese Bestellung heißt in der Foodsoft „Lagerbestellung“).
 
@@ -34,7 +34,7 @@ Auch für Lagerartikel braucht es immer eine Lieferantin in der Foodsoft. Eine L
 {.is-warning}
 
 
-<h2 id="lagerfunktion-ablauf" class="toc-header"><a class="toc-anchor" href="#lagerfunktion-ablauf"></a>Ablauf</h2>
+## Ablauf
 
 Der Ablauf für Lagerartikel ist wie folgt:
 
@@ -48,7 +48,7 @@ Der Ablauf für Lagerartikel ist wie folgt:
 5. Lagerbestellung anpassen (falls bestellte Artikel nicht verfügbar waren) und abrechnen
 6. zurück zu Punkt 3. oder 4.
 
-<h1 id="lagerartikelliste" class="toc-header"><a class="toc-anchor" href="#lagerartikelliste"></a>Lager Artikelliste</h1>
+# Lager Artikelliste
 
 Menü **Artikel > Lager**
 
@@ -58,7 +58,7 @@ Artikel sind nach Lieferant gruppiert dargestellt. Für schnelleres Auffinden vo
 {.is-warning}
 
 
-<h2 id="lagerartikelliste-spalten" class="toc-header"><a class="toc-anchor" href="#lagerartikelliste-spalten"></a>Bedeutung der Spalten</h2>
+## Bedeutung der Spalten
 
 - **Artikel**: Bezeichnung des Artikels, hinterlegt mit einem Link auf die Detailseite zum Artikel  
 - **im Lager**: entspricht der Anzahl der Artikel, die sich im Lager befinden sollten, wenn laufende Lagerbestellungen noch nicht abgeholt wurden, und bereits beendete Lagerbestellungen abgeholt und abgerechnet wurden.
@@ -69,12 +69,11 @@ Artikel sind nach Lieferant gruppiert dargestellt. Für schnelleres Auffinden vo
 
 Verbesserungsvorschlag: …
 
-
-<h2 id="lagerartikelliste-detailansicht" class="toc-header"><a class="toc-anchor" href="#lagerartikelliste-detailansicht"></a>Detailansicht Lagerartikel</h2>
+## Detailansicht Lagerartikel
 
 Unter **Artikel > Lager** auf die Bezeichnung eines Artikels klicken, um zur Detailansicht zu gelangen.
 
-<h3 id="lagerartikelliste-detailansicht-infos" class="toc-header"><a class="toc-anchor" href="#lagerartikelliste-detailansicht-infos"></a>Artikelinfos</h3>
+### Artikelinfos
 
 - Lieferantin
 - Name
@@ -89,12 +88,12 @@ Unter **Artikel > Lager** auf die Bezeichnung eines Artikels klicken, um zur Det
 - Verfügbarer Bestand
 
 
-<h3 id="lagerartikelliste-detailansicht-bearbeiten" class="toc-header"><a class="toc-anchor" href="#lagerartikelliste-detailansicht-bearbeiten"></a>Artikel Bearbeiten</h3>
+### Artikel Bearbeiten
 
 Nur Name, Einheit, Kategorie und Notiz können bearbeitet werden. Preis, Mwst und Pfand können nicht bearbeitet werden, dazu muss eine Kopie des Artikels angelegt werden. Der Lagerstand eines Artikels kann ebenfalls nicht bearbeitet werden, aber durch eine Inventur angepassst werden. 
 
 
-<h3 id="lagerartikelliste-detailansicht-verlauf" class="toc-header"><a class="toc-anchor" href="#lagerartikelliste-detailansicht-verlauf"></a>Verlauf des Lagerbestands</h3>
+### Verlauf des Lagerbestands
 
 Der Verlauf des Lagerstands wird angezeigt, wobei berücksichtigt werden:
 - Lagerbestellungen: nur bereits abgerechntete  
@@ -102,16 +101,16 @@ Der Verlauf des Lagerstands wird angezeigt, wobei berücksichtigt werden:
 - Inventuren
 
 
-<h2 id="lagerartikelliste-neu" class="toc-header"><a class="toc-anchor" href="#lagerartikelliste-neu"></a>Lagerartikel neu anlegen</h2>
+## Lagerartikel neu anlegen
 
 Lieferantin und Artikel anlegen: siehe [Lieferantinnen](Lieferantinnen). 
 
 > Lagerartikel können erst neu angelegt oder von der Lieferantin in die Lagerartikelliste übernommen werden, wenn eine konkrete Lieferung erfolgt, siehe unten.
 {.is-info}
 
-<h1 id="lagerartikelbestellen" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen"></a>Lagerartikel bei Lieferantin bestellen</h1>
+# Lagerartikel bei Lieferantin bestellen
 
-<h2 id="lagerartikelbestellen-foodsoft" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen-foodsoft"></a>Variante 1: Bestellen über die Foodsoft</h2>
+## Variante 1: Bestellen über die Foodsoft
 
 Wenn eine Bestellung für die Mitglieder bei einer Lieferantin angelegt ist, können auch Artikel fürs Lager bei dieser Lieferantin mitbestellt werden: 
 
@@ -133,7 +132,7 @@ Der Vorteil ist, dass bei dieser Bestellliste auch die in der Foodsoft hinterleg
 
 
 
-<h2 id="lagerartikelbestellen-manuell" class="toc-header"><a class="toc-anchor" href="#lagerartikelbestellen-manuell"></a>Variante 2: Bestellung Lagerartikel ohne Foodsoft</h2>
+## Variante 2: Bestellung Lagerartikel ohne Foodsoft
 
 Alternativ kann eine Bestellung fürs Lager auch direkt bei der Lieferantin z.B. per Telefon, Email oder über einen Webshop erfolgen, ohne die Foodsoft zu verwenden. 
 
@@ -144,7 +143,7 @@ Alternativ kann eine Bestellung fürs Lager auch direkt bei der Lieferantin z.B.
 > Wichtig ist auch in diesem Fall der nächste Schritt, nämlich über eine Lieferung die Artikel ins Lager einzubringen.
 {.is-warning}
 
-<h1 id="lieferungeinbringen" class="toc-header"><a class="toc-anchor" href="#lieferungeinbringen"></a>Lieferung: Artikel ins Lager einbringen</h1>
+# Lieferung: Artikel ins Lager einbringen
 
 **Artikel \> Lager \> neue Lieferung.. \> Lieferantin**
 
@@ -163,14 +162,14 @@ Details siehe **Tutorial - Lagerartikel anlegen und einbringen.pdf**
 > Preise von Lagerartikeln können nicht geändert werden. Wenn eine neue Lieferung mit einem anderen Preis ankommt, muss der Lagerbestand der alten Artikel Null sein, damit dieser Lagerrtikel gelöscht werden und mit einem anderen Preis neu angelegt werden kann. Ansonsten muss für die neuen Artikel ein weiterer Lagerartikel mit dem neuen Preis unter einer anderen Artikelbezeichnung angelegt wrrden, z.B. "Rosinen" (Altbestand) und "Rosinen 2021-05" für die neuen). 
 {.is-warning}
 
-<h1 id="lagerbestellungrechnung" class="toc-header"><a class="toc-anchor" href="#lagerbestellungrechnung"></a>Rechnung für Lieferung anlegen</h1>
+# Rechnung für Lieferung anlegen
 
 Anlegen möglich 
 1. direkt nach Eingabe der Lieferung, oder
 1. jederzeit (auch später) über Rechnung > neue Rechnung anlegen > Lieferant > Lieferung anhand Datum auswählen
 
 
-<h1 id="lagerbestellunganlegen" class="toc-header"><a class="toc-anchor" href="#lagerbestellunganlegen"></a>Lagerbestellung für Mitglieder anlegen</h1>
+# Lagerbestellung für Mitglieder anlegen
 
 Die Lagerbestellung ermöglich es den Foocoop Mitgliedern, Artikel aus dem Lager zu bestellen. Diese Bestellung scheint dann für Mitglieder bei den anderen Bestellungen mit dem Lieferantinnenname **Lager** auf. 
 
@@ -186,7 +185,7 @@ Tipps:
 
 
 
-<h1 id="inventuranlegen" class="toc-header"><a class="toc-anchor" href="#inventuranlegen"></a>Inventur anlegen</h1>
+# Inventur anlegen
 
 Erfahrungsgemäß stimmt dnach einger Zeit er tatsächliche Lagerstand oft nicht mit dem in der Foodsoft zusammen, weil Artikel bestellt, aber nicht abgeholt werden, oder umgekehrt. Daher ist es von Zeit zu Zeit notwendig, eine Inventur durchzuführen, um den Lagerbestand in der Foodsoft dem tatsächlichen anzupassen, siehe unten. Eine Inventur ist aber nur sinnvoll, wenn gerade keine laufende Lagerbestellung offen ist, und alle bisher bestellten Lagerartikel auch schon abgeholt wurden. 
 
