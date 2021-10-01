@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-10-01T16:45:16.250Z
+date: 2021-10-01T16:46:53.101Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -125,15 +125,15 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 
 ## Notwendige Schritte
 
-1. IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](./Neue_Foodsoft_Instanz) 
-1. [Allgemeine Einstellungen](/de/documentation/admin/finances/settings) 
-1. [Benutzerinnenverwaltung](/de/documentation/admin/finances/users) BenutzerInnen und Bestellgruppen anlegen, Arbeitsgruppen und Berechtigungen setzen
+1. IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](/de/documentation/admin/request-foodsoftinstance) 
+1. [Allgemeine Einstellungen](/de/documentation/admin/settings) 
+1. [Benutzerinnenverwaltung](/de/documentation/admin/users) BenutzerInnen und Bestellgruppen anlegen, Arbeitsgruppen und Berechtigungen setzen
 1. [Lieferantinnen, Artikel und Kategorien anlegen](/de/documentation/admin/suppliers)
 
 ## Optionale Schritte
 
 - [Dokumente, Infos und Anleitungen für Foodcoop Mitglieder anlegen](/de/documentation/usage/sharedocuments)
-- [Bankkonto mit Foodsoft verbinden](/de/documentation/admin/finances/bank-account)
+- [Bankkonto mit Foodsoft verbinden](/de/documentation/admin/finances/bank-accounts)
 - ...
 
 
@@ -141,7 +141,7 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 
 - [Bestellungen](/de/documentation/admin/orders)
 - [Lager](/de/documentation/admin/storage)
-- [Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/account)
+- [Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)
 - [Rechnungen](/de/documentation/admin/finances/invoices)
 {.links-list}
 
