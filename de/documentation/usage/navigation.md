@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T16:30:46.677Z
+date: 2021-10-01T16:31:33.231Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -166,7 +166,7 @@ Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Log
 ![menu1breit.png](/menu1breit.png)
 
 
-  - [(Dein Name) – hier kannst du dein Profil und deine Bestellgruppe verwalten](/de/documentation/usage/profile-ordergroups) 
+  - [(Dein Name) – hier kannst du dein Profil und deine Bestellgruppe verwalten](/de/documentation/usage/profile-ordergroup) 
      (im Bild steht "Max TEST"):
     
       - Profil bearbeiten
