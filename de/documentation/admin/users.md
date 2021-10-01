@@ -2,7 +2,7 @@
 title: Benutzerinnenverwaltung 
 description: Foodsoft Menü "Administration": Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen
 published: true
-date: 2021-10-01T15:23:38.540Z
+date: 2021-10-01T16:57:04.983Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -32,7 +32,7 @@ Mitglieder entfernen aus Bestellgruppe:
 …
 
 Kontoauszug und Kontostand einer gelöschten Bestellgruppe anzeigen:
-siehe [Foodsoft-Kontoauszüge anzeigen](#anchor-139)
+siehe [Foodsoft-Kontoauszüge anzeigen TODO FIX LINK](#anchor-139)
 
 # Berechtigungen
 
