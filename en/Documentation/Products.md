@@ -1,8 +1,8 @@
 ---
-title: Products
+title: Suppliers & Products
 description: 
 published: true
-date: 2021-10-01T13:03:53.449Z
+date: 2021-10-01T13:32:43.138Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-25T01:03:03.240Z
