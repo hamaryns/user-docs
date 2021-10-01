@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-10-01T16:51:28.708Z
+date: 2021-10-01T16:51:45.546Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
