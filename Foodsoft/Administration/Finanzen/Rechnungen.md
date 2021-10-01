@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-01T09:20:40.279Z
+date: 2021-10-01T09:22:28.798Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -69,7 +69,7 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 ## Nummer
 
 Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Banküberweisung von der Foodsoft (oder von der Person, die in der Foodcoop die Rechnungen via Ebanking manuell bezahlt) in den Verwendungszweck eingetragen, und dient sowohl der Foodsoft als auch der Lieferantin zur eindeutigen Zuordnung der Rechnung. 
-> Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521`. 
+> Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521`. Im Gegensatz zum Feld *Rechnungsdatum* ist hier das Datumsformat egal. 
 {.is-info}
 
 
