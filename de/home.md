@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-10-01T16:25:13.737Z
+date: 2021-10-01T16:26:29.510Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -10,7 +10,7 @@ dateCreated: 2021-03-17T13:41:15.075Z
 
 # Foodsoft Dokumentation
 
-Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/Foodsoft/videos) zu ausgewählten Funktionen. Sie wird, genauso wie die Foodsoft-Software, von freiwilligen Foodcoop-EnthusiastInnen unentgeltlich in ihrer Freizeit erstellt. 
+Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/documentation/ressources/videos) zu ausgewählten Funktionen. Sie wird, genauso wie die Foodsoft-Software, von freiwilligen Foodcoop-EnthusiastInnen unentgeltlich in ihrer Freizeit erstellt. 
 
 
 > Obwohl wir uns Mühe geben, wird diese Dokumentation wohl nie perfekt sein. Wenn dir etwas auffällt, schreib mit der Kommentarfunktion einen Kommentar, wie wir es besser beschreiben könnten! 
@@ -18,7 +18,7 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 {.is-warning}
 
 
-> Diese Dokumentation ist in einem  [Wiki.js](wiki) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
+> Diese Dokumentation ist in einem  [Wiki.js](https://js.wiki/) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
 {.is-info}
 
 ## Foodsoft Anwendung
