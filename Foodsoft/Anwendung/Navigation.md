@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T14:28:17.047Z
+date: 2021-10-01T14:29:07.770Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -15,7 +15,7 @@ Personen und Haushalten, die selbstorganisiert bevorzugt biologische
 Produkte direkt von lokalen Bauernhöfen, Gärtnereien, Bäckereien,
 Imkereien etc. beziehen. Viele der Foodcoops sind Mitglied der IG
 Foodcoops, mehr Infos dazu auf 
-[*https://foodcoops.at*](https://foodcoops.net/).
+[*https://foodcoops.net*](https://foodcoops.net/).
 
 Die **Foodsoft** dient dazu, die Verwaltungsaufgaben für Foodcoops zu
 vereinfachen und zu automatisieren. Mit der Foodsoft können
@@ -45,7 +45,7 @@ wer, der euch dabei helfen kann.
 
 Die Foodsoft wird über einen Web-Browser wie Firefox,
 Chrome, Internet-Explorer o.ä. aufgerufen über die Webadresse
-> [*https://app.foodcoops.at/*](https://app.foodcoops.net/)\<foodcoopname\> 
+> [*https://app.foodcoops.net/*](https://app.foodcoops.net/)\<foodcoopname\> 
 
 > <foodcoopname\> ist dabei der Name deiner Foodcoop. Üblicherweise bekommst du die vollständige Webadresse von deiner Foodcoop mit den Zugangsdaten.
 {.is-info}
