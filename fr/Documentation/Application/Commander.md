@@ -2,7 +2,7 @@
 title: Commander
 description: 
 published: true
-date: 2021-10-01T14:12:47.561Z
+date: 2021-10-01T14:21:03.016Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:37:28.787Z
