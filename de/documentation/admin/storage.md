@@ -2,7 +2,7 @@
 title: Lager
 description: Menü Artikel > Lager
 published: true
-date: 2021-10-01T15:22:18.328Z
+date: 2021-10-01T16:54:57.241Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:55:48.199Z
@@ -38,8 +38,8 @@ Auch für Lagerartikel braucht es immer eine Lieferantin in der Foodsoft. Eine L
 
 Der Ablauf für Lagerartikel ist wie folgt:
 
-1. Lieferantin anlegen, falls noch nicht existiert (einmalig), siehe [Lieferantinnen](Lieferantinnen)
-2. Artikel anlegen (einmalig, bzw. wenn neu), siehe [Lieferantinnen](Lieferantinnen) 
+1. Lieferantin anlegen, falls noch nicht existiert (einmalig), siehe [Lieferantinnen](/de/documentation/admin/suppliers)
+2. Artikel anlegen (einmalig, bzw. wenn neu), siehe [Lieferantinnen](/de/documentation/admin/suppliers) 
 3. Lager-Lieferungen für Lieferantinnen anlegen, um Artikel ins Lager einzubringen. Das ist normal dann der Fall, wenn Lieferungen von Lieferantinnen im Lagerraum angekommen sind, oder am Anfang, wenn das Lager in der Foodsoft eingerichtet wird, und schon Artikel im Lagerraum vorhanden sind.
    1.  Dazu einmalig entweder Artikel der Lieferantin als Lagerartikel kopieren 
    2.  oder neu erstellen.
@@ -103,7 +103,7 @@ Der Verlauf des Lagerstands wird angezeigt, wobei berücksichtigt werden:
 
 ## Lagerartikel neu anlegen
 
-Lieferantin und Artikel anlegen: siehe [Lieferantinnen](Lieferantinnen). 
+Lieferantin und Artikel anlegen: siehe [Lieferantinnen](/de/documentation/admin/suppliers). 
 
 > Lagerartikel können erst neu angelegt oder von der Lieferantin in die Lagerartikelliste übernommen werden, wenn eine konkrete Lieferung erfolgt, siehe unten.
 {.is-info}
@@ -152,7 +152,7 @@ Alternativ kann eine Bestellung fürs Lager auch direkt bei der Lieferantin z.B.
    -  Lagerartikel neu anlegen (ohne vorher Artikel bei Lieferantin angelegt zu haben; Nachteil: Lagerartikel kann bei Änderungen nur gelöscht und neu angelegt werden)
 1. Lagerartikel auswählen und jeweils gelieferte Stückzahl eingeben
 1. Im Notizfeld deinen Namen eingeben
-1. [Rechnung](Finanzen/Rechnungen) anlegen
+1. [Rechnung](/de/documentation/admin/finances/invoices) anlegen
 
 Details siehe **Tutorial - Lagerartikel anlegen und einbringen.pdf**
 
