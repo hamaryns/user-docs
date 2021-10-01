@@ -2,15 +2,17 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-09-30T10:51:09.442Z
+date: 2021-10-01T06:47:58.083Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
 ---
 
+Die Funktion “Rechnung” dient dazu, Rechnungen von ProdzentInnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen scheinen zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Rechnungen können in Papierform oder digital als PDF vorliegen. 
+
+
 # Rechnung anlegen
 
-Die Funktion “Rechnung anlegen” dient dazu, Rechnungen von ProdzentInnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen scheinen zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Rechnungen können in Papierform oder digital als PDF vorliegen. 
 
 Eine neue Rechnung kann angelegt werden unter
 - Finanzen \> Rechnungen \> Neue Rechnung anlegen
