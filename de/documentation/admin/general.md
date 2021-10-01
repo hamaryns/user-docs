@@ -2,14 +2,14 @@
 title: Überblick
 description: 
 published: true
-date: 2021-10-01T15:29:01.920Z
+date: 2021-10-01T16:45:16.250Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
 ---
 
 # Einleitung
-In diesem Teil der Dokumentationen sind Funktionen der Foodsoft beschrieben, die zur Einrichtung und Administration erforderlich sind. Diese Funktionen sind nur für Foodsoft Benutzerinnen mit entsprechenden Zugriffsrechten verfügbar (siehe [Benutzerinnenverwaltung](./Benutzerverwaltung)).
+In diesem Teil der Dokumentationen sind Funktionen der Foodsoft beschrieben, die zur Einrichtung und Administration erforderlich sind. Diese Funktionen sind nur für Foodsoft Benutzerinnen mit entsprechenden Zugriffsrechten verfügbar (siehe [Benutzerinnenverwaltung](/de/documentation/admin/users)).
 
 Die Funktionen der Foodsoft werden ständig erweitert, machmal kann es sein, dass eine neue Funktion noch nicht hier dokumentiert ist. Bitte trag selbst etwas bei, indem du eine Beschreibung, oder zumindest an der passenden Stelle eine Überschrift hinzufügst.
 
@@ -99,24 +99,24 @@ wenn sie nicht benötigt werden, sodass sie gar nicht aufscheinen:
 
 # Menüs für Administration
 
-Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechten (siehe [Benutzerinnenverwaltung](./Benutzerverwaltung)) erweitert:
+Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechten (siehe [Benutzerinnenverwaltung](/de/documentation/admin/users)) erweitert:
 
 ![menues-admin.gif](/menues-admin.gif)
 
 
-| Menü                | Untermenü | [Berechtigung(en)](./Benutzerverwaltung) |
+| Menü                | Untermenü | [Berechtigung(en)](/de/documentation/admin/users) |
 | ------------------- | --------- | --------------- | 
-| Bestellungen | [Bestellverwaltung](./Bestellungen) | Bestellungen | 
+| Bestellungen | [Bestellverwaltung](/de/documentation/admin/orders) | Bestellungen | 
 | Artikel | Lieferantinnen |  | 
 | Artikel | Lager |  | 
 | Artikel | Kategorien |  | 
 | Finanzen | Übersicht | Finanzen | 
-| Finanzen | [Bankkonten](./Finanzen/Bankkonto) | Finanzen | 
-| Finanzen | [Konten verwalten](./Finanzen/Konten)| Finanzen | 
-| Finanzen | [Bestellungen abrechnen](./Bestellungen) | Finanzen | 
-| Finanzen | [Rechnungen](./Finanzen/Rechnungen) | Finanzen | 
-| Adminstration | [Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen](./Benutzerverwaltung) | Admin | 
-| Adminstration | [Einstellungen](./Einstellungen) | Admin | 
+| Finanzen | [Bankkonten](/de/documentation/admin/finances/bank-account) | Finanzen | 
+| Finanzen | [Konten verwalten](/de/documentation/admin/finances/account)| Finanzen | 
+| Finanzen | [Bestellungen abrechnen](/de/documentation/admin/orders) | Finanzen | 
+| Finanzen | [Rechnungen](/de/documentation/admin/finances/) | Finanzen | 
+| Adminstration | [Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen](/de/documentation/admin/users) | Admin | 
+| Adminstration | [Einstellungen](/de/documentation/admin/settings) | Admin | 
 
 # Foodsoft einrichten
 
@@ -126,31 +126,31 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 ## Notwendige Schritte
 
 1. IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](./Neue_Foodsoft_Instanz) 
-1. [Allgemeine Einstellungen](./Einstellungen) 
-1. [Benutzerinnenverwaltung](./Benutzerverwaltung) BenutzerInnen und Bestellgruppen anlegen, Arbeitsgruppen und Berechtigungen setzen
-1. [Lieferantinnen, Artikel und Kategorien anlegen](./Lieferantinnen)
+1. [Allgemeine Einstellungen](/de/documentation/admin/finances/settings) 
+1. [Benutzerinnenverwaltung](/de/documentation/admin/finances/users) BenutzerInnen und Bestellgruppen anlegen, Arbeitsgruppen und Berechtigungen setzen
+1. [Lieferantinnen, Artikel und Kategorien anlegen](/de/documentation/admin/suppliers)
 
 ## Optionale Schritte
 
-- [Dokumente, Infos und Anleitungen für Foodcoop Mitglieder anlegen](../Anwendung/Dokumente)
-- [Bankkonto mit Foodsoft verbinden](./Bankkonto)
+- [Dokumente, Infos und Anleitungen für Foodcoop Mitglieder anlegen](/de/documentation/usage/sharedocuments)
+- [Bankkonto mit Foodsoft verbinden](/de/documentation/admin/finances/bank-account)
 - ...
 
 
 # Foodsoft verwenden
 
-- [Bestellungen](./Bestellungen)
-- [Lager](./Lager)
-- [Mitglieder-Konten für Guthaben](./Finanzen/Konten)
-- [Rechnungen](./Finanzen/Rechnungen)
+- [Bestellungen](/de/documentation/admin/orders)
+- [Lager](/de/documentation/admin/storage)
+- [Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/account)
+- [Rechnungen](/de/documentation/admin/finances/invoices)
 {.links-list}
 
 ## Allgemeine Tipps
 
-- [Demoinstallationen der Foodsoft](./Demo-Installationen) Hier kannst du die Foodsoft testen und etwas ausprobieren, ohne etwas in deiner eigenen Foodsoft kaputt zu machen 
+- [Demoinstallationen der Foodsoft](/de/documentation/admin/foodsoft-demo) Hier kannst du die Foodsoft testen und etwas ausprobieren, ohne etwas in deiner eigenen Foodsoft kaputt zu machen 
 {.links-list}
-- [Begriffsklärungen](./Begriffsklärungen) Manche Begriffe in der Foodsoft haben spezielle oder auch mehrfache Bedeutungen
-- [Brutto, Netto und Mehrwertsteuer](./Finanzen/Mehrwertsteuer) Wie wir als Foodcoop mit Mehrwertsteuer umgehen sollen, und wie Mehrwertsteuer in der Foodsoft berücksichtigt werden kann
-- [Foodsoft-Listen](./Listen) Allgemeines zum Umgang mit Listen-Darstellungen in der Foodsoft (Artikel, Bestellungen, Rechnungen, ...), die schnell mal etwas unübersichtlich werden können
+- [Begriffsklärungen](/de/documentation/admin/terms-definitions) Manche Begriffe in der Foodsoft haben spezielle oder auch mehrfache Bedeutungen
+- [Brutto, Netto und Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax) Wie wir als Foodcoop mit Mehrwertsteuer umgehen sollen, und wie Mehrwertsteuer in der Foodsoft berücksichtigt werden kann
+- [Foodsoft-Listen](/de/documentation/admin/lists) Allgemeines zum Umgang mit Listen-Darstellungen in der Foodsoft (Artikel, Bestellungen, Rechnungen, ...), die schnell mal etwas unübersichtlich werden können
 
 
