@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T15:21:43.150Z
+date: 2021-10-01T16:27:19.895Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
