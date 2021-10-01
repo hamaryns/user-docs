@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-10-01T16:46:53.101Z
+date: 2021-10-01T16:47:38.974Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -111,8 +111,8 @@ Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechte
 | Artikel | Lager |  | 
 | Artikel | Kategorien |  | 
 | Finanzen | Übersicht | Finanzen | 
-| Finanzen | [Bankkonten](/de/documentation/admin/finances/bank-account) | Finanzen | 
-| Finanzen | [Konten verwalten](/de/documentation/admin/finances/account)| Finanzen | 
+| Finanzen | [Bankkonten](/de/documentation/admin/finances/bank-accounts) | Finanzen | 
+| Finanzen | [Konten verwalten](/de/documentation/admin/finances/accounts)| Finanzen | 
 | Finanzen | [Bestellungen abrechnen](/de/documentation/admin/orders) | Finanzen | 
 | Finanzen | [Rechnungen](/de/documentation/admin/finances/) | Finanzen | 
 | Adminstration | [Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen](/de/documentation/admin/users) | Admin | 
