@@ -1,8 +1,8 @@
 ---
-title: Structure de la boufcoop
+title: Structure
 description: 
 published: true
-date: 2021-03-21T11:40:30.293Z
+date: 2021-10-01T13:44:33.268Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:40:28.872Z
