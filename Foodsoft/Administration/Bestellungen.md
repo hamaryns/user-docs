@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T06:46:30.530Z
+date: 2021-10-01T10:27:40.033Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -47,7 +47,7 @@ Daher sollte folgende Reihenfolge strikt eingehalten werden:
 
 Berechtigungen vergeben siehe [Benutzerverwaltung](/de/Foodsoft/Administration/Benutzerverwaltung).
 
-<h1 id="bestellungenanlegen" class="toc-header"><a class="toc-anchor" href="#bestellungenanlegen"></a>Bestellungen anlegen</h1>
+# Bestellungen anlegen
 
 Es gibt folgende zwei Arten von Bestellungen, die an unterschiedlichen Stellen erstellt werden:
 
@@ -203,10 +203,6 @@ In diesem Beispiel wurden bei den Artikel der Lieferantin keine Bestellnummern e
 
 > Weitere Beispiel Screenshots
 {.is-danger}
-
-
-
-
 
 > Die Download-Optionen "Gruppen/Artikel/Matrix PDF" enthalten Foodcoop-interne Informationen (welche Bestellgruppe hat von welchem Artikel wieviel bestellt), die normalerweise für die Lieferantin nicht relevant sind.
 {.is-info}
