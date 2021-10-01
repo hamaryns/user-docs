@@ -2,7 +2,7 @@
 title: Informationssammlung & Dokumente
 description: 
 published: true
-date: 2021-10-01T15:10:58.279Z
+date: 2021-10-01T15:11:08.776Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:12:37.149Z
