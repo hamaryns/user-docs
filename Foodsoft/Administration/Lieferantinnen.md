@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-10-01T10:50:05.126Z
+date: 2021-10-01T11:07:27.238Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -123,6 +123,8 @@ Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder si
 1. in der entsprechenden Zeile direkt auf "Artikel" 
 1. In der Zeile des Artikels "Bearbeiten" anklicken
 
+![prod-artikel-bearbeiten.png](/prod-artikel-bearbeiten.png)
+
 ### Artikel ist verfügbar?
 
 Falls Artikel nicht verfügbar ist, z.B. weil außerhalb der Saison, Häckchen entfernen. Artikel erscheint dann grau in der Artikelliste und wird in Bestellungen nicht aufgenommen.
@@ -143,14 +145,14 @@ Bestellmangen erfolgen immer in Einer-Schritten der Einheit.
 
 #### Mindestbestellmenge definieren
 
-![mindestbestellmenge-definieren.png](/mindestbestellmenge/mindestbestellmenge-definieren.png)
+![prod-artikel-mindestbestellmenge.png](/prod-artikel-mindestbestellmenge.png)
 
 > Die Einheit, rechts der Markierung, gibt die Mengen an, in der Bestellt werden kann.
 >
 > **Beispiel (entspricht Bild oben)**
-> Mindestbestellmenge 2 KG, Bestelleinheiten jeweils 1 KG:
-> "Links"  -> 2
-> "Rechts" -> KG
+> Mindestbestellmenge 6 Einheiten je 500g, Bestelleinheiten jeweils 500g KG:
+> "Links"  -> 6
+> "Rechts" -> 500g
 {.is-info}
 
 
