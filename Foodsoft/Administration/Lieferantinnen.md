@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-06-06T17:46:58.015Z
+date: 2021-10-01T10:26:53.172Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -10,12 +10,12 @@ dateCreated: 2021-04-20T21:50:56.992Z
 
 In der Foodsoft werden ProduzentInnen und LieferantInnen generell als „Lieferantin“ oder „Lieferanten“ bezeichnet, und Produkte als "Artikel". Übergreifend über Lieferantinnen können Artikeln Kategorien (z.B. Gemüse, Saft, Obst, ...) zugeordnet werden.
 
-<h1 id="liefernde" class="toc-header"><a class="toc-anchor" href="#liefernde"></a>Lieferanten</h1>
+# Lieferanten
 
 "Lieferanten" können Produzierende, aber auch z.B. Handelnde oder Großhandelnde sein. 
 
 
-<h2 id="liefernde-anlegen" class="toc-header"><a class="toc-anchor" href="#liefernde-anlegen"></a>Anlegen</h2>
+## Anlegen
 
 Artikel \> Lieferanten/Artikel \> Neue Lieferantin anlegen
 
@@ -27,7 +27,7 @@ Weitere Infos siehe "Bearbeiten".
 ![lieferantin-neu.png](/lieferantin-neu.png)
 
 
-<h2 id="liefernde-bearbeiten" class="toc-header"><a class="toc-anchor" href="#liefernde-bearbeiten"></a>Bearbeiten</h2>
+## Bearbeiten
 
 Artikel \> Lieferanten/Artikel \> Name anklicken
 
@@ -77,7 +77,7 @@ Dieses Feld kann auf zwei Arten benutzt werden:
 
 
 
-<h2 id="liefernde-liefernddeloeschen" class="toc-header"><a class="toc-anchor" href="#liefernde-lieferndeloeschen"></a>Lieferantin löschen</h2>
+## Lieferantin löschen
 
 > Die Funktion „Löschen“ sollte mit besonderer Vorsicht verwendet werden! Besser Lieferantinnen umbenennen, statt neue zu erstellen und alte zu löschen.
 {.is-warning}
@@ -92,10 +92,10 @@ Da mit einer Lieferantin Bestellungen und Rechnungen verknüpft sein können, wi
 
 
 
-<h1 id="artikel" class="toc-header"><a class="toc-anchor" href="#artikel"></a>Artikel</h1>
+# Artikel
 
 
-<h2 id="artikel-anlegen" class="toc-header"><a class="toc-anchor" href="#artikel-anlegen"></a>Artikel anlegen</h2>
+## Artikel anlegen
 
 1. Lieferantin auswählen unter "Artikel > Lieferanten/Artikel"
 1. auf Name der Lieferantin und dann auf Artikel oder 
@@ -116,7 +116,7 @@ Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder si
 
 
 
-<h2 id="artikel-bearbeiten" class="toc-header"><a class="toc-anchor" href="#artikel-bearbeiten"></a>Artikel bearbeiten</h2>
+## Artikel bearbeiten
 
 1. Lieferantin auswählen unter "Artikel > Lieferanten/Artikel"
 1. auf Name der Lieferantin und dann auf Artikel oder 
@@ -205,7 +205,7 @@ Kann von Lieferantin übernommen, selbst gewählt oder auch leer gelassen werden
 {.is-info}
 
 
-<h2 id="artikel-importieren" class="toc-header"><a class="toc-anchor" href="#artikel-importieren"></a>Artikel importieren</h2>
+## Artikel importieren
 
 Artikel \> Lieferanten \> Artikel \> Artikel hochladen
 
@@ -220,7 +220,7 @@ Vorhandene Preisliste im Excel-Format (oder ähnlich) importieren:
 
 - Artikel: ...
 
-<h2 id="artikel-exportieren" class="toc-header"><a class="toc-anchor" href="#artikel-exportieren"></a>Artikel exportieren</h2>
+## Artikel exportieren
 
 Alle Artikel der Produzentin werden in eine Textdatei im CSV Format gespeichert, können bei Bedarf mit einem Tabellenprogramm wie Excel oder Calc (LibreOffice) bearbeitet und mit der Import Funktion auch wieder bei einer anderen Produzentin oder in der Foodsoft einer anderen Foodcoop importiert werden.
 
@@ -229,7 +229,7 @@ Wird die CSV Datei in einer deutschen Office Version bearbeitet, kann es sein, d
 ~~Wenn die Datei im ODS Format gespeichert wird, fehlt die Beschriftung der ersten Spalte „Status“ in der ersten Zeile und muss ergänzt werden.~~
 [*Behoben 2021-03*](https://github.com/foodcoops/foodsoft/commit/07c8393c8c81888b2853d8eca7ef4774fe06fde3)
 
-<h2 id="artikel-loeschen" class="toc-header"><a class="toc-anchor" href="#artikel-loeschen"></a>Artikel löschen</h2>
+## Artikel löschen
 
 > Saisonal bzw. vorübergehend nicht verfügbare Artikel sollten besser als nicht verfügbar gekennzeichnet statt gelöscht werden. Sie können dann jederzeit wieder verfügbar gemacht werden.
 {.is-info}
@@ -248,7 +248,7 @@ Aie Anzahl der angezeigten Artikel erhöhen, sodass alle angezeigt werden, am En
 {.is-warning}
 
 
-<h2 id="artikel-artikelaktualisieren" class="toc-header"><a class="toc-anchor" href="#artikel-aktualisieren"></a>Artikel aktualisieren</h2>
+## Artikel aktualisieren
 
 Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ändern. Hier wird beschrieben, wie diese Anpassungen durchgeführt werden können, und wie sich diese Änderungen auf bereits abgschelossene oder aktuelle Bestellungen auswirken.
 
@@ -258,13 +258,13 @@ Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ände
 
 - Eine weitere Möglichkeit, insbesondere wenn keine Bestellnummern vergeben wurden, ist es, **Artikel zu löschen, und dann die Artikel neu hochzuladen**. Das geht jedoch nur, solange keine Bestellung offen ist. Die Daten von bereits abgeschlossenen oder abgerechneten Bestellungen (Artikelname, Einheit, Preis, …) werden dabei nicht verändert. Das mag in bestimmten Fällen auch so erwünscht sein.
 
-<h1 id="artikel-kategorien" class="toc-header"><a class="toc-anchor" href="#artikel-kategorien"></a>Kategorien</h1>
+# Kategorien
 
 Kategorien ermöglichen es, Artikel zu gruppieren. In der Bestellansicht wird für jede Kategorie eine Überschrift angelegt und dann die Artikel dieser Kategorie. Kategorien sind global, das heißt jede Kategorie  ist für alle Lieferantinnen gleichermaßen gültig und auswählbar. 
 
 In einer neu angelegten Foodsoft-Instanz gibt es zunächst nur die Kategorie "other". Sie kann z.B. in "sonstiges" umbenannt werden. Andere Kategorien müsst ihr für eure Foodcoop selbst erstellen.
 
-<h2 id="artikel-kategorien-bsp" class="toc-header"><a class="toc-anchor" href="#artikel-kategorien-bsp"></a>Beispiele</h2>
+## Beispiele
 
 
 ### Beispiel Gemüselieferantin
@@ -299,11 +299,11 @@ Da aus den Namen der Weine oft nicht hervorgeht, ob es sich um einen Weiß- oder
    - Riesling
    - Zweigelt rosé
 
-<h2 id="artikel-kategorien-liste" class="toc-header"><a class="toc-anchor" href="#artikel-kategorien-liste"></a>Kategorien anzeigen</h2>
+## Kategorien anzeigen
 
 Artikel > Kategorien
 
-<h2 id="artikel-kategorien-neu" class="toc-header"><a class="toc-anchor" href="#artikel-kategorien-neu"></a>Neue Kategorie anlegen</h2>
+## Neue Kategorie anlegen
 
 Artikel > Kategorien > Neue Kategorie anlegen
 
@@ -322,11 +322,11 @@ Wird angezeigt:
 Wird nicht angezeigt:
 - Bestellen Artikelliste
 
-<h2 id="artikel-kategorien-bearbeiten" class="toc-header"><a class="toc-anchor" href="#artikel-kategorien-bearbeiten"></a>Kategorie bearbeiten</h2>
+## Kategorie bearbeiten
 
 Hier kannst du Name und Beschreibung einer Kategorie anpassen. Die interne Zuordnung von Artikeln und Kategorien erfolgt über eine ID (eine eindeutige Zahl, die die Foodsoft automatisch für jede neue erstellte Kategorie vergibt), sodass Zuordnungen erhalten bleiben, auch wenn du die Bezeichnung der Kategorie änderst. 
 
-<h2 id="artikel-kategorien-loeschen" class="toc-header"><a class="toc-anchor" href="#artikel-kategorien-loeschen"></a>Kategorie löschen</h2>
+## Kategorie löschen
 
 > Unklar, ob es möglich ist, Kategorien zu löschen, die in Verwendung sind, bzw. was dann passiert. Info ergänzen!
 {.is-danger}
