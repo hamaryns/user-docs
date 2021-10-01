@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-01T16:03:01.198Z
+date: 2021-10-01T16:04:09.432Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -10,7 +10,7 @@ dateCreated: 2021-04-02T21:03:25.476Z
 
 # Foodsoft Nachrichten
 
-Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](profile-ordergroup).
+Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](../profile-ordergroup).
 
 
 
