@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-01T15:16:03.087Z
+date: 2021-10-01T16:03:01.198Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -10,17 +10,18 @@ dateCreated: 2021-04-02T21:03:25.476Z
 
 # Foodsoft Nachrichten
 
-Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](Bestellgruppe)). 
+Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail zu verschicken. Das erspart der Foodcoop den Aufwand, extra eine Emailadressliste der Foodcoop Mitglieder zu führen. Ausserdem gibt es hilfreiche Funktionen wie z.B. eine Nachricht an jene Foodcoop Mitglieder zu schreiben, die bei einer bestimmten Bestellung etwas bestellt haben.  Nachrichten, die in der Foodsoft verfasst werden, sind in der Foodsoft einsehbar, und werden den Mitgliedern auch per Email zugestellt, wenn die Mitglieder es eingestellt haben (siehe [Meine Bestellgruppe](profile-ordergroup).
+
 
 
 > Manche Foodcoops verwenden die Nachrichtenfunktion der Foodsoft nicht, sondern stattdessen ein anderes System. Um Missverständnisse vorzbeugen, solltest du in diesem Fall die Nachrichtenfunktionen der Foodsoft nicht verwenden (selbst wenn sie nicht ausgeblendet ist).
 {.is-warning}
 
-## Nachrichten empfangen, lesen und beantworten</h2>
+## Nachrichten empfangen, lesen und beantworten
 
 ### Per Email
 
-Wenn nicht anders eingestellt (siehe [Mein Profil](Bestellgruppe)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
+Wenn nicht anders eingestellt (siehe [Mein Profil](profile-ordergroup)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
 
 Am Ende jeder dieser Emails findest du folgende  Links, die dich in die Foodsoft führen:
 ![nachrichten-links.png](/nachrichten-links.png)
@@ -33,11 +34,11 @@ Um auf Nachrichten zu antworten, gibt es 2 Möglichkeiten:
 
 Es ist in der zugestellten Email nicht ersichtlich, wer außer dir noch aller diese Nachricht bekommen hat. Diese Info findest du nur in der Foodsoft über den Link **Nachricht online einsehen**. 
 
-Über den Link **Nachrichten-Einstellungen** kannst du einstellen, welche Art von Nachrichten du bekommen möchtest (siehe [Meine Bestellgruppe](Bestellgruppe)).
+Über den Link **Nachrichten-Einstellungen** kannst du einstellen, welche Art von Nachrichten du bekommen möchtest (siehe [Meine Bestellgruppe](profile-ordergroup)).
 
 ### Über die Foodsoft
 
-In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](Navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
+In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
 
 
 ![nachrichten.png](/nachrichten.png)
@@ -88,7 +89,7 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 > **Links** beginnend mit http:// oder https:// werden von den    meisten E-Mailprogrammen automatisch erkannt und anklickbar dargestellt. Wird die Nachricht in der Foodsoft betrachtet, sind Links allerdings nicht anklickbar - du kannst sie in diesem Fall kopieren und in der Adresszeile deines Webbrowsers einfügen.
 {.is-info}
 
-> Foodsoft Nachrichten können **keine Anhänge** (Attachments) enthalten. Grafiken und PDF-Dokumente können jedoch z.B. im Bereich [Foodcoop \>  Dokumente](Dokumente) hochgeladen werden, und der Link darauf vesendet werden.
+> Foodsoft Nachrichten können **keine Anhänge** (Attachments) enthalten. Grafiken und PDF-Dokumente können jedoch z.B. im Bereich [Foodcoop \>  Dokumente](sharedocuments) hochgeladen werden, und der Link darauf vesendet werden.
 {.is-info}
 
 
@@ -97,7 +98,7 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 
 # Telefonnummern und Emailadressen
 
-Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](Navigation)  *Foodcoop \> Mitglieder*: 
+Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](navigation)  *Foodcoop \> Mitglieder*: 
 
 ![mitglieder.png](/mitglieder.png)
 
@@ -107,7 +108,7 @@ Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, o
 
 Über das Brief-Symbol kannst du dem Mitglied eine Foodsoft-Nachricht schicken.
 
-> Nur wenn das Mitglied seine Telefonnummer eingegeben hat, ist sie hier sichtbar. Außerdem können Mitglieder es in ihren [Profileinstellungen](Bestellgruppe) festlegen, ob ihre Telefonnummer  und E-Mail  für andere Mitglieder sichtbar ist. In diesem Fall kannst du eineN Foodsoft AdministratorIn deiner Foodcoop fragen. 
+> Nur wenn das Mitglied seine Telefonnummer eingegeben hat, ist sie hier sichtbar. Außerdem können Mitglieder es in ihren [Profileinstellungen](profile-ordergroup) festlegen, ob ihre Telefonnummer  und E-Mail  für andere Mitglieder sichtbar ist. In diesem Fall kannst du eineN Foodsoft AdministratorIn deiner Foodcoop fragen. 
 {.is-info}
 
 
@@ -119,7 +120,7 @@ Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, o
 
 Umfragen ermöglichen es, sehr übersichtliche und klare Rückmeldungen zu bekommen, ohne dass eine Flut von Antwort-Nachrichten ausgewertet werden muss. Auch du kannst selbst eine Umfrage erstellen. 
 
-> Umfragen müssen durch eine Foodsoft-Administratorin deiner Foodcoop aktiviert werden (siehe [Einstellungen](/de/Foodsoft/Administration/Einstellungen)), sonst ist diese Funktion nicht sichtbar.
+> Umfragen müssen durch eine Foodsoft-Administratorin deiner Foodcoop aktiviert werden (siehe [Einstellungen](../admin/settings), sonst ist diese Funktion nicht sichtbar.
 {.is-info}
 
 ## Umfrage ausfüllen
@@ -195,7 +196,7 @@ Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, 
 
 ## Terminumfrage
 
-"Doodle"-Alternative https://tools.foodcoops.at/polls/
+"Doodle"-Alternative https://tools.foodcoops.net/polls/
 
 > Anmelden ist derzeit nicht möglich und auch nicht erforderlich.
 {.is-info}
@@ -213,8 +214,8 @@ Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, 
 
 ## Videokonferenz
 
-- **Jitsi** https://meet.foodcoops.at
-- **Nextcloud Talk** https://cloud.foodcoops.at/apps/spreed/
+- **Jitsi** https://meet.foodcoops.net
+- **Nextcloud Talk** https://cloud.foodcoops.net/apps/spreed/
 {.links-list}
 
 > Beide Plattformen haben bekannte Probleme, an einer besseren Lösung wird gearbeitet! (Stand März 2021)
@@ -223,28 +224,28 @@ Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, 
 
 ## Gemeinsam Texte schreiben
 
-https://tools.foodcoops.at/pads/
+https://tools.foodcoops.net/pads/
 
 > Keine Anmeldung oder Registrierung erforderlich, ist auch spontan innerhalb von wenigen Sekunden einsatzbereit!
 {.is-info}
 
 ## Gemeinsam Textdokumente und Tabellen erstellen
 
-Eine Plattform, wo ihr Text- und Tabellendokumente ähnlich wie in Google Drive erstellen und gemeinsam bearbeiten könnt, findet ihr außerhalb der Foodsoft im [Forum der IG](https://forum.foodcoops.at/) über die Nextcloud oder direkt via https://cloud.foodcoops.at/. 
+Eine Plattform, wo ihr Text- und Tabellendokumente ähnlich wie in Google Drive erstellen und gemeinsam bearbeiten könnt, findet ihr außerhalb der Foodsoft im [Forum der IG](https://forum.foodcoops.net/) über die Nextcloud oder direkt via https://cloud.foodcoops.net/. 
 
 > Der Zugang bzw. die Registrierung ist (nur) über deine Foodsoft Zugangsdaten möglich.
 {.is-info}
 
 
 
-> Nutzung erfordert einmalige Registrierung im Forum (https://forum.foodcoops.at/) notwendig.
+> Nutzung erfordert einmalige Registrierung im Forum (https://forum.foodcoops.net/) notwendig.
 {.is-info}
 
-Alternative für Tabellendokumente: Ethercalc (ohne Registrierung): https://calc.foodcoops.at/
+Alternative für Tabellendokumente: Ethercalc (ohne Registrierung): https://calc.foodcoops.net/
 
 ## Forum: Mit anderen Foodcoops in Österreich kommunizieren
 
-https://forum.foodcoops.at/
+https://forum.foodcoops.net/
 
 > Zugang mit eigenen Foodsoft-Kontodaten: Anmeldung bzw. einmalige Registrierung über deine Foodcoop notwendig. Freischaltung abwarten.
 {.is-info}
