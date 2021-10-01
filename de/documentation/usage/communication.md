@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-01T16:04:09.432Z
+date: 2021-10-01T16:05:28.462Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -21,7 +21,7 @@ Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail z
 
 ### Per Email
 
-Wenn nicht anders eingestellt (siehe [Mein Profil](profile-ordergroup)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
+Wenn nicht anders eingestellt (siehe [Mein Profil](../profile-ordergroup)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
 
 Am Ende jeder dieser Emails findest du folgende  Links, die dich in die Foodsoft führen:
 ![nachrichten-links.png](/nachrichten-links.png)
@@ -34,11 +34,11 @@ Um auf Nachrichten zu antworten, gibt es 2 Möglichkeiten:
 
 Es ist in der zugestellten Email nicht ersichtlich, wer außer dir noch aller diese Nachricht bekommen hat. Diese Info findest du nur in der Foodsoft über den Link **Nachricht online einsehen**. 
 
-Über den Link **Nachrichten-Einstellungen** kannst du einstellen, welche Art von Nachrichten du bekommen möchtest (siehe [Meine Bestellgruppe](profile-ordergroup)).
+Über den Link **Nachrichten-Einstellungen** kannst du einstellen, welche Art von Nachrichten du bekommen möchtest (siehe [Meine Bestellgruppe](../profile-ordergroup)).
 
 ### Über die Foodsoft
 
-In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
+In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](../navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
 
 
 ![nachrichten.png](/nachrichten.png)
@@ -89,7 +89,7 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 > **Links** beginnend mit http:// oder https:// werden von den    meisten E-Mailprogrammen automatisch erkannt und anklickbar dargestellt. Wird die Nachricht in der Foodsoft betrachtet, sind Links allerdings nicht anklickbar - du kannst sie in diesem Fall kopieren und in der Adresszeile deines Webbrowsers einfügen.
 {.is-info}
 
-> Foodsoft Nachrichten können **keine Anhänge** (Attachments) enthalten. Grafiken und PDF-Dokumente können jedoch z.B. im Bereich [Foodcoop \>  Dokumente](sharedocuments) hochgeladen werden, und der Link darauf vesendet werden.
+> Foodsoft Nachrichten können **keine Anhänge** (Attachments) enthalten. Grafiken und PDF-Dokumente können jedoch z.B. im Bereich [Foodcoop \>  Dokumente](../sharedocuments) hochgeladen werden, und der Link darauf vesendet werden.
 {.is-info}
 
 
@@ -98,7 +98,7 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 
 # Telefonnummern und Emailadressen
 
-Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](navigation)  *Foodcoop \> Mitglieder*: 
+Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](../navigation)  *Foodcoop \> Mitglieder*: 
 
 ![mitglieder.png](/mitglieder.png)
 
@@ -108,7 +108,7 @@ Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, o
 
 Über das Brief-Symbol kannst du dem Mitglied eine Foodsoft-Nachricht schicken.
 
-> Nur wenn das Mitglied seine Telefonnummer eingegeben hat, ist sie hier sichtbar. Außerdem können Mitglieder es in ihren [Profileinstellungen](profile-ordergroup) festlegen, ob ihre Telefonnummer  und E-Mail  für andere Mitglieder sichtbar ist. In diesem Fall kannst du eineN Foodsoft AdministratorIn deiner Foodcoop fragen. 
+> Nur wenn das Mitglied seine Telefonnummer eingegeben hat, ist sie hier sichtbar. Außerdem können Mitglieder es in ihren [Profileinstellungen](../profile-ordergroup) festlegen, ob ihre Telefonnummer  und E-Mail  für andere Mitglieder sichtbar ist. In diesem Fall kannst du eineN Foodsoft AdministratorIn deiner Foodcoop fragen. 
 {.is-info}
 
 
@@ -192,7 +192,7 @@ Diese Methode kommt vom Prinzip der Entscheidungsfindung durch "systemisches Kon
 
 # Externe Hilfsmittel
 
-Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, zu finden unter https://fcoop.at/
+Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, zu finden unter https://fcoop.net/
 
 ## Terminumfrage
 
