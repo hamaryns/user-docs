@@ -2,7 +2,7 @@
 title: Finanzen
 description: Menü Finanzen
 published: true
-date: 2021-10-01T15:40:13.866Z
+date: 2021-10-01T15:40:23.825Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:45:06.246Z
