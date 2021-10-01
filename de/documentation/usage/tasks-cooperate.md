@@ -2,7 +2,7 @@
 title: Mitmachen
 description: 
 published: true
-date: 2021-10-01T15:16:37.064Z
+date: 2021-10-01T16:37:17.206Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:06:37.853Z
@@ -16,11 +16,11 @@ Foodcoops funktionieren meist nur durch die freiwillige und untentgeltliche Mita
 
 # Aufgaben
 
-Wenn diese Funktion von deiner Foodcoop verwendet wird, findest du eine Liste der aktuell anstehenden Aufgaben in der Foodsoft [am Dashboard unter *Offene Aufgaben*](/de/Teil-1/Navigation):
+Wenn diese Funktion von deiner Foodcoop verwendet wird, findest du eine Liste der aktuell anstehenden Aufgaben in der Foodsoft [am Dashboard unter *Offene Aufgaben*](/de/documentation/usage/navigation):
 
 ![aufgaben-offen.png](/aufgaben-offen.png)
 
-sowie dort unter *Alle Aufgaben anzeigen* oder im Menü [Foodcoop \> Aufgaben](/de/Teil-1/Navigation):
+sowie dort unter *Alle Aufgaben anzeigen* oder im Menü [Foodcoop \> Aufgaben](/de/documentation/usage/navigation):
 
 ![aufgaben1.png](/aufgaben1.png)
 
@@ -31,7 +31,7 @@ Bitte unterstütze deine Foodcoop, indem du Aufgaben übernimmst.  Du erkennst, 
 Der Titel der Aufgabe sollte von deinen Kolleginnen der Foodcoop, die die Aufgaben angelegt haben, selbst erklärend gewählt worden sein. In Klammer ist der geschätzte Zeitaufwand in Stunden (h) angegeben. 
   
 Klicke auf *Aufgabe übernehmen*, wenn du dich beteiligen möchtest. 
-Du kommst auf die Seite *Meine Aufgaben*. Hier kannst du jederzeit nachschauen, welche Aufgaben du übernommen hast (erreichbar über das Menü [Foodcoop > Aufgaben](/de/Teil-1/Navigation)).
+Du kommst auf die Seite *Meine Aufgaben*. Hier kannst du jederzeit nachschauen, welche Aufgaben du übernommen hast (erreichbar über das Menü [Foodcoop > Aufgaben](/de/documentation/usage/navigation)).
 
 > Wenn du neu in deiner Foodcoop bist, trag dich am besten für eine Aufgabe ein, wo sich schon ein anderes Mitglied eingetragen hat, oder bitte ein erfahrened Mitglied, sich mit dir gemeinsam einzutragen.
 {.is-info}
@@ -63,7 +63,7 @@ Du hast dich z.B. versehentlich für eine Aufgabe gemeldet, und möchtest dich w
 
 Wenn du Unterstützung von Kolleginnen deiner Foodcoop brauchst, kannst du auch selbst eine Aufgabe anlegen unter Foodcoop \> Aufgaben \> neue Aufgabe erstellen. 
     
-> Damit sich auch wer einträgt, ist es meistens erforderlich, auch eine [Nachricht an alle  auszuschicken](/de/Teil-1/Kommunikation), und auf die Aufgabe hinzuweisen.
+> Damit sich auch wer einträgt, ist es meistens erforderlich, auch eine [Nachricht an alle  auszuschicken](/de/documentation/usage/communication), und auf die Aufgabe hinzuweisen.
 {.is-info}
 
 
