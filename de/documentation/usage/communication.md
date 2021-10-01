@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-01T16:05:28.462Z
+date: 2021-10-01T16:07:20.363Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -63,9 +63,9 @@ Versuche, Nachrichten nur an jene zu schicken, die es auch wirklich betrifft. Di
 
 - **An alle Mitglieder schicken**:  Nur in gut begründeten Fällen, Gefahr der Informationsüberforderung!
 - **An ausgewählte Mitglieder schicken** (Standartoption): Unter *Empfänger_innen* Teil des Namens (nicht Bestellgruppe) eingeben, Vorschläge abwarten (Bestellgruppe wird in Klammern angezeigt), auswählen. Mehrere Empfängerinnen können eingegeben werden. 
-- **An die Mitglieder einer Arbeitsgruppe schicken**: Arbeitsgruppen und deren Mitglieder können nur von Foodsoft-AdministratorInnen deiner Foodcoop eingerichtet und bearbeitet werden (siehe [Benutzerinnenverwaltung](/de/Foodsoft/Administration/Benutzerverwaltung)).
+- **An die Mitglieder einer Arbeitsgruppe schicken**: Arbeitsgruppen und deren Mitglieder können nur von Foodsoft-AdministratorInnen deiner Foodcoop eingerichtet und bearbeitet werden (siehe [Benutzerinnenverwaltung](../admin/users).
 - **An die Mitglieder einer Bestellgruppe schicken** 
-- **An die Mitglieder einer Nachrichtengruppe schicken**: Mitglieder einer Nachrichtengruppe: jede kann sich in den     Nachrichtengruppen selbst ein- und austragen. Neue    Nachrichtengruppen können nur von Foodsoft-AdministratorInnen deiner    Foodcoop eingerichtet werden (siehe [Benutzerinnenverwaltung](/de/Foodsoft/Administration/Benutzerverwaltung)).
+- **An die Mitglieder einer Nachrichtengruppe schicken**: Mitglieder einer Nachrichtengruppe: jede kann sich in den     Nachrichtengruppen selbst ein- und austragen. Neue    Nachrichtengruppen können nur von Foodsoft-AdministratorInnen deiner    Foodcoop eingerichtet werden (siehe [Benutzerinnenverwaltung](../admin/users).
 - **An die Mitglieder schicken, die bei einer Bestellung etwas bestellt haben**: wähle die Bestellung anhand von Lieferantin und Datum aus. Es sind nur die neuesten Bestellungen auswählbar.
 - **Privat - Nachricht erscheint nicht im Foodsoft Posteingang**: wähle diese Option an, wenn du möchtest, dass deine Nachricht für andere in der Foodsoft nicht gesehen werden können. Wenn du diese Option nicht anwählst, können alle Foodcoop Mitglieder deine Nachricht sehen, egal an wen du sie geschickt hast. 
 
