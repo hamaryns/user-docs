@@ -2,16 +2,16 @@
 title: Informationssammlung & Dokumente
 description: 
 published: true
-date: 2021-05-14T20:39:09.641Z
+date: 2021-10-01T10:23:42.135Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:12:37.149Z
 ---
 
 
-<h1 id="wiki-infosammlung" class="toc-header"><a class="toc-anchor" href="#wiki-infosammlung"></a>Foodsoft-Wiki Seiten für Informationssammlung</h1>
+# Foodsoft-Wiki Seiten für Informationssammlung
 
-<h2 id="wiki-wozu" class="toc-header"><a class="toc-anchor" href="#wiki-wozu"></a>Wozu ein Wiki?</h2>
+## Wozu ein Wiki?
 
 Das Foodsoft-Wiki ist eine Sammlung von Textseiten innerhalb der Foodsoft, die von allen Mitgliedern gelesen und auch bearbeitet werden können. Es eignet sich dazu, um Foodcoop-spezifische Informationen festzuhalten und strukturiert zu sammeln, sodass auch später hinzukommende Mitglieder sich einen Überblick verschaffen können, und es eine für alle leicht
 zugängliche, strukturierte Dokumentation der Foodcoop-spezifischen Informationen gibt. 
@@ -35,7 +35,7 @@ Beispiele für möglich Inhalte sind:
 
 Für das Wiki gibt es ein eigenes Menü mit einem Link zur Startseite und einer Übersicht über alle Wiki-Seiten
 
-<h2 id="wiki-startseite-bearbeiten" class="toc-header"><a class="toc-anchor" href="#wiki-startseite-bearbeiten"></a>Wiki Startseite bearbeiten</h2>
+## Wiki Startseite bearbeiten
 
 Menü **Wiki > Startseite > bearbeiten**.
 
@@ -65,7 +65,7 @@ Wird zu
 * Punkt 3
 
 
-<h2 id="wiki-seite-anlegen" class="toc-header"><a class="toc-anchor" href="#wiki-seite-anlegen"></a>Neue Wiki Seite anlegen</h2>
+## Neue Wiki Seite anlegen
 
 Seite (z.B. Startseite) bearbeiten und Seitentitel in eckigen Klammern erstellen, für Seitentitel "Getreidemühle" also z.B. `[[Getreidemühle]].` Dadurch erzeugst du einen Link auf eine Seite, die es noch nicht gibt. Wenn du die aktuelle Seite speicherst, und diesen Link anklickst, kannst du die neue Seite anlegen und bearbeiten. 
 
@@ -73,13 +73,13 @@ Seite (z.B. Startseite) bearbeiten und Seitentitel in eckigen Klammern erstellen
 {.is-info}
 
 
-<h2 id="wiki-struktur" class="toc-header"><a class="toc-anchor" href="#wiki-struktur"></a>Wiki Struktur</h2>
+## Wiki Struktur
 
 Baumstruktur durch Auswahl einer Oberseite
 - Pfad Anzeige ermöglicht zurück gehen
 - Übersichtsseite zeigt Unterseiten eingerückt unter den Oberseiten an
 
-<h1 id="dokumentenablage" class="toc-header"><a class="toc-anchor" href="#dokumentenablage"></a>Dokumentenablage in der Foodsoft</h1>
+# Dokumentenablage in der Foodsoft
 
 Hier können Dokumente hochgeladen und zum Download bereit gestellt
 werden, jedoch nicht bearbeitet werden (dafür eigent sich das Wiki
