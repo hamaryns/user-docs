@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-09-30T11:18:39.481Z
+date: 2021-10-01T10:24:17.807Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -82,7 +82,7 @@ sollten:
 - Guthaben aus Ebanking manuell in Foodsoft übertragen
 - Rechnungen händisch als bezahlt markieren
 
-<h3 id="funktionsueberblick-anwendungsvarianten-voll" class="toc-header"><a class="toc-anchor" href="#funktionsueberblick-anwendungsvarianten-voll"></a>Variante 4: Vollnutzung</h3>
+### Variante 4: Vollnutzung
 
 Wie beschrieben unter *Funktionsüberblick*.
 
