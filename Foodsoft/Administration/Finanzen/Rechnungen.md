@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-01T09:22:28.798Z
+date: 2021-10-01T09:44:47.633Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -25,8 +25,9 @@ Eine neue Rechnung kann angelegt werden unter
 > Empfehlung: Rechnungen, die in Papierform vorliegen, gehen einfacher mit einem Smartphone oder Tablet mit Kamerafunktion einzugeben. Sobald ein Rechnungsdatum eingegeben ist, kann die Eingabe jederzeit unterbrochen, die Rechnung unfertig gespeichert werden, um auf einem anderen Gerät fortgesetzt werden. Wichtig ist es, vor dem Speichern bei **Rechnungsdatum** das Datum der Rechnung (oder zumindest das aktuelle Datum) einzugeben, weil sie sonst schwer auffindbar ist. 
 {.is-info}
 
-![neue-rechnung.png](/neue-rechnung.png)
+Hier ein Beispiel für eine Papierrechnung und die entsprechenden Eingaben in der Foodsoft, wie im Folgenden im Detail beschrieben.
 
+![rechnung-beispiel-fs.png](/rechnung-beispiel-fs.png)
 
 In der neuen Rechnung ist anzugeben:
 
