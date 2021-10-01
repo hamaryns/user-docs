@@ -2,7 +2,7 @@
 title: Listen in der Foodsoft
 description: Tipps für Foodsoft Administratorinnen im Umgang mit Listen
 published: true
-date: 2021-10-01T15:51:14.566Z
+date: 2021-10-01T16:43:45.581Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-02T10:46:10.173Z
