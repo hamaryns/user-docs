@@ -2,7 +2,7 @@
 title: Mitmachen
 description: 
 published: true
-date: 2021-05-14T20:29:06.535Z
+date: 2021-10-01T10:22:39.955Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:06:37.853Z
@@ -14,7 +14,7 @@ Foodcoops funktionieren meist nur durch die freiwillige und untentgeltliche Mita
 {.is-info}
 
 
-<h1 id="aufgaben" class="toc-header"><a class="toc-anchor" href="#aufgaben"></a>Aufgaben</h1>
+# Aufgaben
 
 Wenn diese Funktion von deiner Foodcoop verwendet wird, findest du eine Liste der aktuell anstehenden Aufgaben in der Foodsoft [am Dashboard unter *Offene Aufgaben*](/de/Teil-1/Navigation):
 
@@ -24,7 +24,7 @@ sowie dort unter *Alle Aufgaben anzeigen* oder im Menü [Foodcoop \> Aufgaben](/
 
 ![aufgaben1.png](/aufgaben1.png)
 
-<h2 id="aufgaben-uebernehmen" class="toc-header"><a class="toc-anchor" href="#aufgaben-uebernehmen"></a>Aufgabe übernehmen</h2>
+## Aufgabe übernehmen
 
 Bitte unterstütze deine Foodcoop, indem du Aufgaben übernimmst.  Du erkennst, ob für eine Aufgabe noch jemand benötigt wird, indem in der Spalte *Wer machts? (Wie viele werden noch benötigt?)* ein rotes Feld mit einer Zahl aufscheint, wie viele Personen noch benötigt werden. Grün dargestellte Personen haben sich selbst für die Aufgabe gemeldet, rot dargstellte sind von jemand anderem eingetragen worden, und haben dies noch nicht bestätigt.
 
@@ -48,7 +48,7 @@ Du kommst auf die Seite *Meine Aufgaben*. Hier kannst du jederzeit nachschauen, 
 > Du kannst auch jemand anderen eintragen, indem du auf *Bearbeiten* gehst und dort unter *Verantworliche* den Namen dieser Person eingibst. Diese Person muss es dann allerdings bestätigen, so lange sie das nicht gemacht hat, wird ihr Name rot angezeigt.
 {.is-info}
 
-<h2 id="aufgaben-abgeben" class="toc-header"><a class="toc-anchor" href="#aufgaben-abgeben"></a>Aufgabe abgeben</h2>
+## Aufgabe abgeben
 
 Du hast dich z.B. versehentlich für eine Aufgabe gemeldet, und möchtest dich wieder austragen? 
     
@@ -59,7 +59,7 @@ Du hast dich z.B. versehentlich für eine Aufgabe gemeldet, und möchtest dich w
 
 ![aufgabe2.png](/aufgabe2.png)
 
-<h2 id="aufgaben-anlegen" class="toc-header"><a class="toc-anchor" href="#aufgaben-anlegen"></a>Aufgabe selbst anlegen</h2>
+## Aufgabe selbst anlegen
 
 Wenn du Unterstützung von Kolleginnen deiner Foodcoop brauchst, kannst du auch selbst eine Aufgabe anlegen unter Foodcoop \> Aufgaben \> neue Aufgabe erstellen. 
     
@@ -67,7 +67,7 @@ Wenn du Unterstützung von Kolleginnen deiner Foodcoop brauchst, kannst du auch 
 {.is-info}
 
 
-<h2 id="aufgabenliste" class="toc-header"><a class="toc-anchor" href="#aufgabenliste"></a>Aufgabenlisten</h2>
+## Aufgabenlisten
 
 Es gibt verschieden Ansichten der Aufgebenliste, wo jeweils eine etwas andere Auswahl der Ansichten dargesellt wird:
 - **Offene Aufgaben** (Dashboard): zukünftige Aufgaben, wo noch Personen benötigt werden. Sobald die erforderliche Personenzahl erreicht ist, oder das Datum der Aufgabe in der Vergangenheit liegt, werden Aufgaben nicht mehr angezeigt.
@@ -75,17 +75,17 @@ Es gibt verschieden Ansichten der Aufgebenliste, wo jeweils eine etwas andere Au
 - **Meine Aufgaben** (Foodcoop > Aufgaben > Meine Aufgaben): bevorstehende Aufgaben, die ich übernommen habe
 - **Erledigte Aufgaben** (Archiv) (Foodcoop > Aufgaben > Erledigte Aufgaben) 
 
-<h2 id="gruppenaufgaben" class="toc-header"><a class="toc-anchor" href="#gruppenaufgaben"></a>Gruppenaufgaben</h2>
+## Gruppenaufgaben
 
 ...
 
-<h2 id="aufgabe-loeschen" class="toc-header"><a class="toc-anchor" href="#aufgabe-loeschen"></a>Aufgabe löschen</h2>
+## Aufgabe löschen
 
 > Lösche bitte keine Aufgabe, die du nicht selbst angelegt hast! Es gibt keine Undo-Funktion. Wie du dich von einer Aufgabe austrägst, ist weiter oben unter "Aufgabe abgeben" beschrieben.
 {.is-warning}
 
 
-<h1 id="apfelpunkte" class="toc-header"><a class="toc-anchor" href="#apfelpunkte"></a>Apfel Punktesystem</h1>
+# Apfel Punktesystem
 
 Wenn das Apfel Punktesystem aktiviert ist, ist es erforderlich, dass Mitglieder Aufgaben erledigen, um bestellen zu können: du kannst nur bestellen, wenn du mindestens eine gewisse Anzahl von Apfel-Punkten hast. Für jede erledigte Aufgabe bekommst du Apfelpunkte.
 
