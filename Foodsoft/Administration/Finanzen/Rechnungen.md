@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-01T10:07:17.009Z
+date: 2021-10-01T10:15:55.747Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -117,9 +117,10 @@ Leer lassen, falls in den Artikeln der Foodsoft ein Pfandbetrag bereits inkludie
 ### Beispiele
 
 Für 3 Flaschen und 50 Cent Pfand pro Flasche:
-- Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet ebenfalls 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 3 \* 0,50 = 0 €
-- Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet nur 10 Cent pro Flasche, Differenz = 3 \* 0,10 - 3 \* 0,50 = 3 \* (0,10-0,50) = -1,20 €
-- Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet kein Pfand, Differenz = 0 - 3 \* 0,50 = -1,50 € Foodsoft-Artikel enthält kein Pfand, Produzent verrechnet 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 0 = +1,50 €
+- Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet ebenfalls 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 3 \* 0,50 = **0 €**
+- Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet nur 10 Cent pro Flasche, Differenz = 3 \* 0,10 - 3 \* 0,50 = 3 \* (0,10-0,50) = **-1,20 €**
+- Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet kein Pfand, Differenz = 0 - 3 \* 0,50 = **-1,50 €** 
+- Foodsoft-Artikel enthält kein Pfand, Produzent verrechnet 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 0 = **+1,50 €**
 
 Siehe auch [Pfand in Foodcoops](./Pfand).
 
