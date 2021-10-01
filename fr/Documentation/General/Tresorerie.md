@@ -2,7 +2,7 @@
 title: Trésorier
 description: 
 published: true
-date: 2021-10-01T13:45:33.909Z
+date: 2021-10-01T14:19:44.040Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:42:04.483Z
