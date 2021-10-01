@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T16:13:29.798Z
+date: 2021-10-01T16:15:18.905Z
 tags: menü, foodcoop, navigation
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -79,7 +79,7 @@ beinhaltet folgende Bereiche, von oben nach unten:
 
   - gegebenenfalls Infos deiner Foodcoop (siehe administrativer Teil,     wie das eingerichtet werden kann)
 
-  - [Offene Aufgaben](../tasks-cooperate): wo wird meine Mitarbeit benötigt? - falls die
+  - [Offene Aufgaben](tasks-cooperate): wo wird meine Mitarbeit benötigt? - falls die
     Aufgaben-Funktion verwendet wird
 
   - [Laufende Bestellungen](../order): was kann ich aktuell bestellen?
