@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T10:27:40.033Z
+date: 2021-10-01T11:21:08.725Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -85,9 +85,9 @@ Bestellung für Foodcoop-Mitglieder aus dem Foodcoop [Lager](./Lager) anlegen:
 
 ## Details für Bestellung
 
-![bestellung-anlegen.png](/bestellung-anlegen.png)
+![admin-bestellung-neu-details.png](/admin-bestellung-neu-details.png)
 
-### Bestellzeitraum: läuft vom, endet am
+### Bestellzeitraum: "Läuft vom", "Endet am"
 
 Eine Bestellung ist im festgelegten Zeitraum „offen“, d.h. dass Bestellgruppen bestellen können bzw. ihre Bestellung verändern können. 
 - Beginndatum und Zeit ("Läuft vom"): aktuelles Datum und Uhrzeit, bearbeitbar
@@ -105,6 +105,8 @@ Empfehlung, Bestellungen erst mit einem Enddatum zu versehen bzw. zu beenden, we
 
 ### Endeaktion: Optionen für Aktionen beim Bestellende
 
+![bestellung-anlegen.png](/bestellung-anlegen-endaktion.png)
+
 - **keine automatische Aktion:** die Bestellung bleibt offen. Sinnvoll, wenn eine Mindestbestellmenge erreicht werden soll, und die Bestellung so lange hinausgezögert werden soll, bis sie erreicht wird. Oder wenn unklar ist, wann die Lieferung genau erfolgen wird (Abholdatum unbekannt).
 - **Bestellung beenden**: die Bestellung wird automatisch beendet, und kann dann auch nicht mehr geöffnet werden.
 - **Bestellung beenden und an Lieferantin schicken:** die Bestellliste wird von der Foodsoft automatisch als PDF Anhang per Email an die Lieferantin und an das Foodsoft Mitglied geschickt. 
@@ -115,9 +117,10 @@ Empfehlung, Bestellungen erst mit einem Enddatum zu versehen bzw. zu beenden, we
        
 ### Notiz
 
-Kommentar zur Bestellung, wird den Mitgliedern beim Bestellen angezeigt 
-> Ergänzen: wo genau?
-{.is-danger}
+Kommentar zur Bestellung, wird den Mitgliedern im Bestellfenster angezeigt.
+
+![admin-bestellung-neu-details-notiz.png](/admin-bestellung-neu-details-notiz.png)
+
 
 
 ### Artikel für Bestellung auswählen
