@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-01T09:44:47.633Z
+date: 2021-10-01T10:07:17.009Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -106,7 +106,7 @@ Falls die Rechnung schon bezahlt wurde, das Datum eintragen, an dem dies erledig
 
 ## Betrag
 
-Rechnungsbetrag (inklusive [Mehrwertsteuer](./Mehrwertsteuer)) von Rechnung übernehmen.
+Rechnungsbetrag (inklusive [Mehrwertsteuer](./Mehrwertsteuer)) von der Rechnung übernehmen. Als Dezimaltrennzeichen kann dabei Komma oder Punkt verwendet werden, also für eine Rechnugssumme von z.B. 1.257,87 € entweder `1257,87` oder `1257.87` - angezeigt wird der Betrag dann in Folge mit einem Punkt als Dezimaltrennzeichen.
 
 ## Pfand berechnet
 
@@ -125,7 +125,11 @@ Siehe auch [Pfand in Foodcoops](./Pfand).
 
 ## Pfand gutgeschrieben
 
-Pfandgutschrift des Produzenten Brutto (inkl. Mwst) als positiven Wert eintragen wie auf der Rechnung ausgewiesen, sofern im Rechnungsendbetrag berücksichtigt.
+Pfandgutschrift des Produzenten Brutto (inkl. Mwst) **als positiven Wert** eintragen wie auf der Rechnung ausgewiesen, sofern im Rechnungsendbetrag berücksichtigt.
+
+> Manche Lieferantinnen führen die Pfandgutschrift netto an. In diesem Fall musst du die Mehrwertsteuer noch dazurechnen. 
+{.is-warning}
+
 
 > Kann auch  für andere Gutschriften (z.B. Skonto) verwendet werden, die in den   Foodsoft-Bestellungen nicht berücksichtigt sind.
 {.is-info}
@@ -133,9 +137,17 @@ Pfandgutschrift des Produzenten Brutto (inkl. Mwst) als positiven Wert eintragen
 
 ## Anhang
 
-Foto der Papierrechnung oder PDF-Rechnungsdatei hochladen. 
+Foto der Papierrechnung im JPEG Format oder PDF-Rechnungsdatei hochladen. Es kann nur eine Datei pro Rechnung hochgeladen werden. 
+
+Falls die Rechnung aus mehreren Seiten bzw. Dokumenten besteht, müssen diese vorher zu einer Datei zusammengfügt werden. Tipps für Programme, mit denen das geht:
+- PDF-Dateien 
+  - https://pdfsam.org/
+- JPEG-Bilder 
+  - alle Seiten auf einmal fotografieren
+  - im Bildbetrachter mehrer Bilder in eine PDF-Datei drucken (Drucker *in Datei drucken* auswählen)
+  - https://imagemagick.org/ Kommandozeilenbefehl Beispiel für Zusammenfügen von 3 Bildern nebeneinander (3x1) in Originalgröße (100%): `montage -geometry 100% -tile 3x1 img1.jpg img2.jpg img3.jpg merged.jpg`
     
-> Auf Smartphones oder Tablets kann hier direkt die Kamera das Geräts ausgewählt und eine Foto der Rechnung aufgenommen und hochgeladen werden.
+> Auf Smartphones oder Tablets kann oft direkt die Kamera das Geräts ausgewählt und eine Foto der Rechnung aufgenommen und hochgeladen werden. 
 {.is-info}
 
 
