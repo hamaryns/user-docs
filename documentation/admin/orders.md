@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-02T21:45:50.215Z
+date: 2021-10-02T21:50:13.745Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -14,7 +14,7 @@ dateCreated: 2021-04-20T22:03:00.312Z
 
 Bestellungen durchlaufen in der Regel folgende Stadien, wobei eine Änderung meist nur vorwärts möglich ist:
 
-1. Bestellung ist noch nicht offen, weil sie erst in der Zukunft startet
+1. Bestellung ist noch nicht offen, weil sie erst in der Zukunft startet (optional)
 2. Bestellung ist offen: Bestellgruppen können ihre Bestellungen erstellen und bearbeiten
 3. Bestellung ist beendet: Bestellgruppen können ihre Bestellungen nicht mehr bearbeiten, Bestellungen werden an Lieferantinnen geschickt; Bestellung kann nicht mehr wieder geöffnet werden, um von Bestellgruppen bearbeitet zu werden. Nach der Lieferung kann die Bestellung grundsätzlich nur noch mit spezieller Berechtigung  angepasst werden (z.B. wenn nicht alles geliefert wurde, was bestellt wurde)
 4. Bestellung ist abgrechnet: Bestellung kann nicht mehr verändert werden
