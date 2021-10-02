@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: 
 published: true
-date: 2021-10-02T18:31:40.903Z
+date: 2021-10-02T18:37:03.613Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -22,3 +22,6 @@ dateCreated: 2021-10-01T12:20:11.258Z
 
 > [Foodsoft setup Docker](https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md)
 {.is-info}
+
+
+bli
