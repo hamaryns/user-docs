@@ -2,7 +2,7 @@
 title: Foodsoft Administration
 description: Überblicksseite
 published: true
-date: 2021-10-02T16:33:11.189Z
+date: 2021-10-02T16:33:30.919Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T10:45:20.515Z
@@ -14,7 +14,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 
 - [Überblick](/de/documentation/admin/general)
 - [Lieferantinnen, Artikel und Kategorien](/de/documentation/admin/suppliers)
-- [Bestellungen](/de/documentation/admin/general/orders)
+- [Bestellungen](/de/documentation/admin/orders)
 - [Lager](/de/documentation/admin/storage)
 - [Finanzen](/de/documentation/admin/finances) 
 - [Benutzerinnen (Menü Administration)](/de/documentation/admin/users)
