@@ -2,7 +2,7 @@
 title: Foodsoft Administration
 description: Überblicksseite
 published: true
-date: 2021-10-02T16:45:15.286Z
+date: 2021-10-02T16:45:31.425Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T10:45:20.515Z
