@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: 
 published: true
-date: 2021-10-02T18:33:35.108Z
+date: 2021-10-02T18:33:46.961Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
