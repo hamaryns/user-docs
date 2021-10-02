@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-10-02T21:01:27.581Z
+date: 2021-10-02T21:07:04.877Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -143,7 +143,7 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 - [Lieferantinnen und Artikel anlegen](/de/documentation/admin/suppliers)
 - [Lager anlegen](/de/documentation/admin/storage)
 - [Bestellungen anlegen](/de/documentation/admin/orders)
-- [Mitglieder-Konten für Guthaben anlegen](/de/documentation/admin/finances/accounts)
+- [Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)
 - [Rechnungen anlegen](/de/documentation/admin/finances/invoices)
 {.links-list}
 
