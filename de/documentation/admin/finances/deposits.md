@@ -2,7 +2,7 @@
 title: Pfand
 description: Wie Pfand in Foodcoops gehandhabt werden kann
 published: true
-date: 2021-10-01T15:32:19.937Z
+date: 2021-10-03T09:55:54.575Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
@@ -38,8 +38,8 @@ Mögliche Fehlerquellen:
 
 # Pfand in der Foodsoft
 
-- [Lieferantinnen](/de/Foodsoft/Administration/Lieferantinnen) > Artikel anlegen/bearbeiten: Pfand für Artikel festlegen
-- [Rechnungen](/de/Foodsoft/Administration/Finanzen/Rechnungen): Pfand-Gutschriften und unterschiedliche Pfandberechnung Foodcoop/Lieferantin berücksichtigen
+- [Lieferantinnen](/de/documentation/admin/suppliers) > Artikel anlegen/bearbeiten: Pfand für Artikel festlegen
+- [Rechnungen](/de/documentation/admin/finances/invoices): Pfand-Gutschriften und unterschiedliche Pfandberechnung Foodcoop/Lieferantin berücksichtigen
 
 # Ökologischer Hintergrund
 
