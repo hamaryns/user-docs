@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellverwaltung, Abholtage; Finanzen: Bestellungen abrechnen
 published: true
-date: 2021-10-01T16:53:50.785Z
+date: 2021-10-03T09:45:42.962Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -14,13 +14,13 @@ dateCreated: 2021-04-20T22:03:00.312Z
 
 Bestellungen durchlaufen in der Regel folgende Stadien, wobei eine Änderung meist nur vorwärts möglich ist:
 
-1. Bestellung ist noch nicht offen, weil sie erst in der Zukunft startet
+1. Bestellung ist noch nicht offen, weil sie erst in der Zukunft startet (optional)
 2. Bestellung ist offen: Bestellgruppen können ihre Bestellungen erstellen und bearbeiten
 3. Bestellung ist beendet: Bestellgruppen können ihre Bestellungen nicht mehr bearbeiten, Bestellungen werden an Lieferantinnen geschickt; Bestellung kann nicht mehr wieder geöffnet werden, um von Bestellgruppen bearbeitet zu werden. Nach der Lieferung kann die Bestellung grundsätzlich nur noch mit spezieller Berechtigung  angepasst werden (z.B. wenn nicht alles geliefert wurde, was bestellt wurde)
 4. Bestellung ist abgrechnet: Bestellung kann nicht mehr verändert werden
 
 Die folgende Skizze stellt diesen Lebenszyklus dar. Der blaue Pfeil in der Mitte deutet die Zeitachse an: 
-![bestellung.png](/bestellung.png =400x)
+![bestellung.png](/uploads-de/admin_orders_bestellung.png =400x)
 
 ## Bestellungen abrechnen und Rechnungen anlegen
 
@@ -57,13 +57,13 @@ Es gibt folgende zwei Arten von Bestellungen, die an unterschiedlichen Stellen e
 
 
 
-![lagerbestellung3.png](/lagerbestellung3.png =400x)
+![lagerbestellung3.png](/uploads-de/admin_orders_lagerbestellung3.png =400x)
 
 ## Bestellung bei Lieferant
 
 Bestellung bei Lieferantin anlegen: **Bestellungen > Bestellverwaltung > neue Bestellung anlegen** > Lieferant auswählen (Berechtigung Bestellen erforderlich)
 
-![bestellung-anlegen1.png](/bestellung-anlegen1.png)
+![bestellung-anlegen1.png](/uploads-de/admin_orders_bestellung-anlegen1.png)
 
 
 > *Bestellung kopieren* erspart bei regelmäßigen Bestellungen Aufwand. Allerdings werden dabei zunächst nur die Artikel der kopierten Bestellung übernommen. 
@@ -79,13 +79,13 @@ Bestellung bei Lieferantin anlegen: **Bestellungen > Bestellverwaltung > neue Be
 Bestellung für Foodcoop-Mitglieder aus dem Foodcoop [Lager](/de/documentation/admin/storage) anlegen: 
 **Artikel > Lager > Lagerbestellung online stellen** (Berechtigung Lieferanten oder Artikeldatenbank erforderlich)
 
-![lagerbestellung.png](/lagerbestellung.png)
+![lagerbestellung.png](/uploads-de/admin_orders_lagerbestellung.png)
 
 
 
 ## Details für Bestellung
 
-![admin-bestellung-neu-details.png](/admin-bestellung-neu-details.png)
+![admin-bestellung-neu-details.png](/uploads-de/admin_orders_neu-details.png)
 
 ### Bestellzeitraum: "Läuft vom", "Endet am"
 
@@ -105,7 +105,7 @@ Empfehlung, Bestellungen erst mit einem Enddatum zu versehen bzw. zu beenden, we
 
 ### Endeaktion: Optionen für Aktionen beim Bestellende
 
-![bestellung-anlegen.png](/bestellung-anlegen-endaktion.png)
+![bestellung-anlegen.png](/uploads-de/admin_orders_bestellung-anlegen-endaktion.png)
 
 - **keine automatische Aktion:** die Bestellung bleibt offen. Sinnvoll, wenn eine Mindestbestellmenge erreicht werden soll, und die Bestellung so lange hinausgezögert werden soll, bis sie erreicht wird. Oder wenn unklar ist, wann die Lieferung genau erfolgen wird (Abholdatum unbekannt).
 - **Bestellung beenden**: die Bestellung wird automatisch beendet, und kann dann auch nicht mehr geöffnet werden.
@@ -119,7 +119,7 @@ Empfehlung, Bestellungen erst mit einem Enddatum zu versehen bzw. zu beenden, we
 
 Kommentar zur Bestellung, wird den Mitgliedern im Bestellfenster angezeigt.
 
-![admin-bestellung-neu-details-notiz.png](/admin-bestellung-neu-details-notiz.png)
+![admin-bestellung-neu-details-notiz.png](/uploads-de/admin_orders_neu-details-notiz.png)
 
 
 
@@ -167,7 +167,7 @@ Komplette Artikelliste der Lieferantin wird angezeigt, nicht bestellte Artikel g
 
 Zusätzlich zu den direkten Bestellungen der Mitglieder kann bei einer Bestellung bei der Lieferantin eine Lagerbestellung (Foodcoop bestellt bei Lieferant um Lagerbestand aufzufüllen) hinzugefügt werden, solange die Bestellung noch offen ist. Diese Artikel scheinen dann in der Bestellliste, die an den Lieferanten geht, auch auf, nicht aber in der Abrechnung und bei “Bestellung annehmen”(?). Wenn die Artikel geliefert sind, ist fürs Lager nochmal extra eine Lieferung für diese Artikel anzulegen, damit sie in den Lagerbestand aufgenommen werden. Für die Rechnung sind dann sowohl Bestellung und (Lager-)Lieferung anzugeben.
 
-![lagerbestellung2.png](/lagerbestellung2.png)
+![lagerbestellung2.png](/uploads-de/admin_orders_lagerbestellung2.png)
 
 
 # Bestellung beenden
@@ -185,7 +185,7 @@ Eine Bestellung endet automatisch, wenn dies vorher so eingestellt wurde (siehe 
     - Über die Funktion Bestellverwaltung > Bestellung anzeigen > **an Lieferantin schicken**: ...
     -  Bestelllisten herunterladen (Bestellungen > Bestellverwaltung > Bestellung anzeigen > **Download > Fax PDF/Text/CSV**) und z.B. per Email versenden
 
-![bestellung-download.png](/bestellung-download.png)
+![bestellung-download.png](/uploads-de/admin_orders_bestellung-download.png)
 
 > Die Funktion "Download" ist nur für beendete Bestellungen verügbar.
 {.is-warning}
@@ -199,7 +199,7 @@ Eine Bestellung endet automatisch, wenn dies vorher so eingestellt wurde (siehe 
 In diesem Beispiel wurden bei den Artikel der Lieferantin keine Bestellnummern eingegeben, sodass die erste Spalte leer ist. 
 > Die Liefarantin druckt diese Liste aus und vermerkt in der ersten Spalte händisch die tatsächlich gelieferte Menge, falls es Abweichungen gibt. So wird die Bestellliste zum Lieferschein und kommt mit der Lieferung in die Foodcoop zurück.
 
-![bestellliste-faxpdf.png](/bestellliste-faxpdf.png) 
+![bestellliste-faxpdf.png](/uploads-de/admin_orders_bestellliste-faxpdf.png) 
 
 > Die Artikel sind alphabetisch nach Artikelname und im Gegensatz zu den Bestelllisten bei Bestellen auch nicht nach Kategorien sortiert. Achtung z.B. bei ähnlichen Produkten in verschiedenen Kategorien, z.B. Salat (Kategorie Gemüse) und Salat (Kategorie Pflanze).  
 {.is-warning}
@@ -222,19 +222,19 @@ Die Foodcoop benötigt Bestelllisten für die Aufteilung der eingegangenn Liefer
 
 ## Beispiel Gruppen PDF
 
-![admin-bestellungen-gruppenpdf.png](/admin-bestellungen-gruppenpdf.png)
+![admin-bestellungen-gruppenpdf.png](/uploads-de/admin_orders_gruppenpdf.png)
 
 ## Beispiel Artikel PDF
 
-![admin-bestellungen-artikelpdf.png](/admin-bestellungen-artikelpdf.png)
+![admin-bestellungen-artikelpdf.png](/uploads-de/admin_orders_artikelpdf.png)
 
 ## Beispiel Matrix PDF
 
-![admin-bestellungen-matrixpdf.png](/admin-bestellungen-matrixpdf.png)
+![admin-bestellungen-matrixpdf.png](/uploads-de/admin_orders_matrixpdf.png)
 
 ## Beispiel Fax PDF
 
-![admin-bestellungen-faxpdf.png](/admin-bestellungen-faxpdf.png)
+![admin-bestellungen-faxpdf.png](/uploads-de/admin_orders_faxpdf.png)
 
 
 # Bestellungen an Lieferung Anpassen
@@ -340,10 +340,13 @@ Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](/de/docu
 > werden, aber die bereits abgrechnete Bestellung kann nicht mehr ausgewählt werden, um mit der Rechnung verknüpft zu werden.
 {.is-warning}
 
+> In der .at-Testinstanz [foodsoft-demo](/de/documentation/admin/foodsoft-demo) ist möglich, auch nach abgerechneter Bestellung noch eine  Rechnung dazu anzulegen (2.10.2021 Mirko)
+{.is-success}
+
 
 ## Eine Bestellung abrechnen
 
 1. Menü Finanzen > Bestellungen abrechnen
-1. Abzurechnedne Bestellung aus der Liste suchen, in dieser Zeile den Link der Lieferantin oder "abrechnen" anklicken
+1. Abzurechnende Bestellung aus der Liste suchen, in dieser Zeile den Link der Lieferantin oder "abrechnen" anklicken
 1. Bestellung abrechnen
 1. Bestätigen (kein Zurück!)
