@@ -2,7 +2,7 @@
 title: Einstellungen
 description:  Erklärung zu globalen/administrativen Einstellungen der Foodsoft (Menü: "Administration")
 published: true
-date: 2021-10-03T11:09:19.645Z
+date: 2021-10-03T19:44:43.466Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:20:52.701Z
@@ -139,9 +139,9 @@ Die Login-Seite der Foodsoft kann individuell an deine Foodsoft angepast werden,
 > === Foodcoop XY ===
 > Bitte melde dich mit deinen Zugangsdaten an, um Zugang zu unserer Foodsoft zu erhalten. 
 >
-> Der Zugang ist nur für Mitglieder der Foodcoop Franckkistl möglich. 
+> Der Zugang ist nur für Mitglieder der Foodcoop XY möglich. 
 >
-> Wenn du noch kein Mitglied bist, kannst du über ... Probemitglied werden  und damit einen Zugang bekommen.
+> Wenn du noch kein Mitglied bist, kannst du über ...(Weblink)... Probemitglied werden  und damit einen Zugang bekommen.
 
 ## Adaptierung des Dashboards (Startseite)
 
