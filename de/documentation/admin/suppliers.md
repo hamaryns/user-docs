@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Menü "Artikel"
 published: true
-date: 2021-10-03T08:40:14.869Z
+date: 2021-10-03T09:17:46.642Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -24,7 +24,7 @@ Weitere Infos siehe "Bearbeiten".
 > Da eine Lieferantin nur mit Schwierigkeiten wieder gelöscht werden kann (siehe unten), bitte nur Lieferantinnen anlegen, wenn das auch wirklich benötigt wird. Zum Herumprobieren am Besten eine [Foodsoft Demoversion](/de/documentation/admin/foodsoft-demo) verwenden.
 {.is-warning}
 
-![lieferantin-neu.png](/lieferantin-neu.png)
+![lieferantin-neu.png](/uploads-de/admin_suppliers_lieferantin-neu.png)
 
 
 ## Bearbeiten
@@ -103,10 +103,10 @@ Da mit einer Lieferantin Bestellungen und Rechnungen verknüpft sein können, wi
 1. "Neuer Artikel" anklicken
 1. Weitere Infos siehe "Artikel bearbeiten"
 
-![neuer-artikel-1.png](/neuer-artikel-1.png)
+![neuer-artikel-1.png](/uploads-de/admin_suppliers_neuer-artikel-1.png)
 
 Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder sichtbar zu machen:
-![neuer-artikel-2.png](/neuer-artikel-2.png)
+![neuer-artikel-2.png](/uploads-de/admin_suppliers_neuer-artikel-2.png)
 
 > Wenn du ins Dunkle außerhalb des Eingabefeldes klickst, bewirkt es das gleiche wie wenn du auf "Schließen" drückst, und alle Änderungen sind verloren.
 {.is-warning}
@@ -123,7 +123,7 @@ Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder si
 1. in der entsprechenden Zeile direkt auf "Artikel" 
 1. In der Zeile des Artikels "Bearbeiten" anklicken
 
-![prod-artikel-bearbeiten.png](/prod-artikel-bearbeiten.png)
+![prod-artikel-bearbeiten.png](/uploads-de/admin_suppliers_prod-artikel-bearbeiten.png)
 
 ### Artikel ist verfügbar?
 
@@ -145,7 +145,7 @@ Bestellmangen erfolgen immer in Einer-Schritten der Einheit.
 
 #### Mindestbestellmenge definieren
 
-![prod-artikel-mindestbestellmenge.png](/prod-artikel-mindestbestellmenge.png)
+![prod-artikel-mindestbestellmenge.png](/uploads-de/admin_suppliers_prod-artikel-mindestbestellmenge.png)
 
 > Die Einheit, rechts der Markierung, gibt die Mengen an, in der Bestellt werden kann.
 >
@@ -296,7 +296,7 @@ Kategorien
 
 Die Bestellliste sieht dann beispielsweise so aus (dargestellte Kategorien Eingemachtes, Essig und Gemüse):
 
-![bestellung-kategorien.png](/bestellung-kategorien.png)
+![bestellung-kategorien.png](/uploads-de/admin_suppliers_bestellung-kategorien.png)
 
 ### Beispiel Weinlieferantin
 - Rotwein
