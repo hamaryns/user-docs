@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: 
 published: true
-date: 2021-10-01T15:54:56.381Z
+date: 2021-10-03T10:24:07.250Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
@@ -16,14 +16,14 @@ Bedeutungen:
 1. Foodcoop bestellt Lagerartikel bei Lieferantin im Rahmen einer Foodsoft-Bestellung 
 1. Bestellung für Bestellgruppen der Foodcoop, um Artikel aus dem Lager bestellen zu können.
 
-Siehe [Bestellungen](Bestellungen) und [Lager](Lager).
+Siehe [Bestellungen](/de/documentation/admin/orders) und [Lager](/de/documentation/admin/storage).
 
 ## Bestellung abrechnen
 Vorgang besteht aus 2 Schritten: 
 1. Bestellung an Lieferung anpassen und damit zur Abrechnung vorbereiten (beliebig oft bearbeitbar) 
 2. Bestellbeträge von Bestellgruppen-Konten abbuchen (endgültig, danach nicht mehr bearbeitbar)
 
-Siehe [Bestellung](Bestellungen) abrechnen.
+Siehe [Bestellung](/de/documentation/admin/orders) abrechnen.
 
 ## Konto/Konten
 Bedeutungen:
@@ -41,14 +41,14 @@ Bestellung (und dazugehörende Lieferung der Artikel) von Lieferantin an Bestell
 
 ## Lieferung 
 Bedeutungen:
-- Einbringen von Lagerartikeln ins [Lager](/de/Foodsoft/Administration/Lager)
-- Bei der Foocoop angekommene [Bestellung](/de/Foodsoft/Administration/Bestellungen)
+- Einbringen von Lagerartikeln ins [Lager](/de/documentation/admin/storage)
+- Bei der Foocoop angekommene [Bestellung](/de/documentation/admin/orders)
 
 ## Inventur
 Angleichung des Lagerstands in der Foodsoft an jene im Lagerraum der Foodcoop, siehe [Lager](/de/Foodsoft/Administration/Lager)
 
 ## Brutto, Netto, Mehrwersteuer
-Siehe [Mehrwertsteuer](/de/Foodsoft/Administration/Finanzen/Mehrwertsteuer)...
+Siehe [Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax)...
 
 ## Pfand 
-Siehe [Lieferantinnen](/de/Foodsoft/Administration/Lieferantinnen)
+Siehe [Lieferantinnen](/de/documentation/admin/finances/suppliers)
