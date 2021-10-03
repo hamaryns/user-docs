@@ -2,7 +2,7 @@
 title: Einstellungen
 description: Foodsoft Menü "Administration" - alles was nicht mit Benutzerinnenverwaltung zu tun hat
 published: true
-date: 2021-10-01T16:57:49.796Z
+date: 2021-10-03T09:57:56.557Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:20:52.701Z
@@ -18,6 +18,8 @@ Wenn Emails an Mitglieder oder Lierantinnen nicht zugestellt werden können, leg
 
 # Finanzen
 
+> Hier fehlt noch ein Text.
+{.is-info}
 
 ## Kontotransaktionsklassen und -typen
 
@@ -33,9 +35,12 @@ Siehe auch [Bankkonto](/de/documentation/admin/finances/bank-accounts).
 
 Links im Foodsoft-Menü "Links" verwalten.
 
-![links-menue.png](/links-menue.png)
+![links-menue.png](/uploads-de/admin_settings_links-menue.png)
 
 # Einstellungen
+
+> Hier fehlt noch eine detaillierte Beschreibung der einzelnen Einstellungen.
+{.is-info}
 
 ## Foodcoop
 
