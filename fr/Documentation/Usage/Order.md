@@ -2,7 +2,7 @@
 title: Commander
 description: 
 published: true
-date: 2021-10-03T10:13:07.478Z
+date: 2021-10-03T10:15:31.005Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:37:28.787Z
@@ -35,7 +35,7 @@ Une fois sur la page *Passer une commande*, accessible sous l’onglet *Commande
 - le crédit disponible de ta cellule.
 
 ### Choisir des produits
-Tu trouveras en dessous de cet encart la liste des produits proposés pour cette commande. Il ne s’agit par forcément de tous les produits du-de la fournisseur-e, puisque la personne qui crée la liste de commande a eu la possibilité d’en sélectionner seulement un sous-ensemble (voir [Gestion des commandes](/fr/Documentation/Administration/Products)).
+Tu trouveras en dessous de cet encart la liste des produits proposés pour cette commande. Il ne s’agit par forcément de tous les produits du-de la fournisseur-e, puisque la personne qui crée la liste de commande a eu la possibilité d’en sélectionner seulement un sous-ensemble (voir [Gestion des commandes](/fr/Documentation/Administration/Products#gestion-des-commandes)).
 
 Pour chaque produit, il te faut choisir le nombre d’unités que tu souhaites commander. L’unité varie suivant le produit (1kg, 75cl, ...), et est donc indiquée dans la colonne *unité* du tableau (4ème colonne). Le prix d’une unité est indiqué dans la colonne *prix* (3ème colonne). Pour augmenter ou réduire le nombre d’unités que tu souhaites pour ta cellule, utilises les boutons + et - de la 6ème colonne (quantité).
 
