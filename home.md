@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2021-10-03T11:58:06.835Z
+date: 2021-10-03T12:07:48.797Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-03T11:45:50.778Z
@@ -26,3 +26,7 @@ All content is collectively maintained by Foodsoft's community.
 [Foodsoft: website](https://foodcoops.net/)
 [Foodsoft: sourcecode repository](https://github.com/foodcoops/foodsoft)
 [Foodsoft: documentation repository](https://github.com/foodcoops/user-docs)
+
+---
+
+[This documentation is powered by wiki.js](https://js.wiki )
