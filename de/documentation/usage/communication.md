@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-01T16:36:21.888Z
+date: 2021-10-03T09:05:52.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -23,7 +23,7 @@ Die Foodsoft bietet die Funktion, Nachrichten an Foodcoop-Mitglieder per EMail z
 Wenn nicht anders eingestellt (siehe [Mein Profil](/de/documentation/usage/profile-ordergroup)), bekommst du Foodsoft Nachrichten per Email zugestellt. 
 
 Am Ende jeder dieser Emails findest du folgende  Links, die dich in die Foodsoft führen:
-![nachrichten-links.png](/nachrichten-links.png)
+![nachrichten-links.png](/uploads-de/usage-communication-nachrichten-links.png)
 
 
 Um auf Nachrichten zu antworten, gibt es 2 Möglichkeiten:
@@ -40,11 +40,11 @@ Es ist in der zugestellten Email nicht ersichtlich, wer außer dir noch aller di
 In der Foodsoft kannst du dir alle  Nachrichten ansehen über das [Menü](/de/documentation/usage/navigation) *Foodcoop \> Nachrichten*. Alternativ kannst du auch in einer Email den Link *Nachricht online einsehen anwählen* (siehe oben *per Email*).
 
 
-![nachrichten.png](/nachrichten.png)
+![nachrichten.png](/uploads-de/usage-communication-nachrichten.png)
 
 Hier gibt es zwei Ansichten, die über die Schaltflächen ausgewählt werden können:
 
-![nachrichten2.png](/nachrichten2.png)
+![nachrichten2.png](/uploads-de/usage-communication-nachrichten2.png)
 
   - **Als Verläufe anzeigen** (linke Schaltfläche): Standardansicht
 
@@ -54,7 +54,7 @@ Hier gibt es zwei Ansichten, die über die Schaltflächen ausgewählt werden kö
 
 Über *Foodcoop > Nachrichten > neue Nachricht*:
 
-![nachricht-neu.png](/nachricht-neu.png)
+![nachricht-neu.png](/uploads-de/usage-communication-nachricht-neu.png)
 
 ### Empfängerinnen auswählen
 
@@ -99,11 +99,11 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 
 Von anderen Mitgliedern kannst du Telefonnummern und Emailadressen herausfinden über das [Foodsoft-Menü](/de/documentation/usage/navigation)  *Foodcoop \> Mitglieder*: 
 
-![mitglieder.png](/mitglieder.png)
+![mitglieder.png](/uploads-de/usage-communication-mitglieder.png)
 
 Du kannst nach Namen suchen, indem du einen Teil oder den ganzen Namen suchst, oder aber auch nach einer Bestellgruppe. 
 
-> Beispiel: Suche nach Mitgliedern, deren Bestellgruppen die Buchstaben "WG" enthalten: ![mitglieder-wg.png](/mitglieder-wg.png)
+> Beispiel: Suche nach Mitgliedern, deren Bestellgruppen die Buchstaben "WG" enthalten: ![mitglieder-wg.png](/uploads-de/usage-communication-mitglieder-wg.png)
 
 Über das Brief-Symbol kannst du dem Mitglied eine Foodsoft-Nachricht schicken.
 
@@ -136,7 +136,7 @@ Umfragen ermöglichen es, sehr übersichtliche und klare Rückmeldungen zu bekom
 
 Ein Umfrage kann immer nur eine Frage und verschiedene Antwortmöglichkeiten darauf enthalten.
 
-![umfrage-erstellen.png](/umfrage-erstellen.png)
+![umfrage-erstellen.png](/uploads-de/usage-communication-umfrage-erstellen.png)
 
 > Versuche, immer für alle Möglichkeiten eine Antwort vorzusehen, z.B. "nehme mit 0, 1, 2, ... Personen teil" (0 = nehme nicht teil), oder "habe Interesse, habe kein Interesse", und bitte deine Foodcoop Mitglieder, in jedem Fall die Umfrage auszufüllen (z.B. auch wenn kein Interesse) - du weißt sonst nicht, ob jene, die die Umfrage nicht ausgefüllt haben, kein Interesse haben, oder von der Umfrage vielleicht einfach nichts mitbekommen haben. 
 {.is-info}
@@ -162,32 +162,32 @@ Formuliere hier deine Frage, auf die du eine Antwort möchtest, z.B. "Wann hast 
 
 #### Terminumfrage
 
-![umfrage-termin.png](/umfrage-termin.png)
+![umfrage-termin.png](/uploads-de/usage-communication-umfrage-termin.png)
 
 #### Einzelauswahl
 
-![umfrage-einzelauswahl.png](/umfrage-einzelauswahl.png)
+![umfrage-einzelauswahl.png](/uploads-de/usage-communication-umfrage-einzelauswahl.png)
 
 #### Mehrfachauswahl
 
-![umfrage-mehrfachauswahl.png](/umfrage-mehrfachauswahl.png)
+![umfrage-mehrfachauswahl.png](/uploads-de/usage-communication-umfrage-mehrfachauswahl.png)
 
 #### Punkte
 
-![umfrage-punkte.png](/umfrage-punkte.png)
+![umfrage-punkte.png](/uploads-de/usage-communication-umfrage-punkte.png)
 
 > Du kannst eine Punkte Umfrage auch für die Anmeldung zu Veranstaltungen verwenden. Du siehst dann jederzeit, wieviel Personen sich schon angemeldet haben.
 {.is-info}
 
 
-![umfrage-teilnahme.png](/umfrage-teilnahme.png)
+![umfrage-teilnahme.png](/uploads-de/usage-communication-umfrage-teilnahme.png)
 
 
 #### Wiederstandspunkte
 
 Diese Methode kommt vom Prinzip der Entscheidungsfindung durch "systemisches Konsensieren". Die Theorie dahinter ist, dass es zu besseren, Konsens-orientierteren Entscheidungen führt, wenn Widerstände anstelle von Bevorzugungen abgefragt werden, und die Variante mit den geringsten Widerstandspunkten ausgewählt wird.
 
-![umfrage-widerstandspunkte.png](/umfrage-widerstandspunkte.png)
+![umfrage-widerstandspunkte.png](/uploads-de/usage-communication-umfrage-widerstandspunkte.png)
 
 # Externe Hilfsmittel
 
