@@ -1,8 +1,8 @@
 ---
 title: Mein Profil & Bestellgruppe
-description: 
+description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-10-03T09:28:49.157Z
+date: 2021-10-03T11:13:28.580Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
