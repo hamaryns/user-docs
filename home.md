@@ -2,11 +2,16 @@
 title: Welcome
 description: 
 published: true
-date: 2021-10-03T11:45:50.778Z
+date: 2021-10-03T11:57:54.676Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-03T11:45:50.778Z
 ---
+
+
+![fs-logo.png](/assets/fs-logo.png)
+
+
 
 # Available Languages
 
@@ -17,3 +22,7 @@ dateCreated: 2021-10-03T11:45:50.778Z
 ---
 
 All content is collectively maintained by Foodsoft's community.
+
+[Foodsoft: Website](https://foodcoops.net/)
+[Foodsoft: sourcecode repository](https://github.com/foodcoops/foodsoft)
+[Foodsoft: documentation repository](https://github.com/foodcoops/user-docs)
