@@ -2,7 +2,7 @@
 title: Pfand
 description: Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 published: true
-date: 2021-10-03T11:03:43.920Z
+date: 2021-10-03T19:43:23.981Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
@@ -23,13 +23,13 @@ Mögliche Fehlerquellen:
 - falscher Pfandbetrag wird gutgeschrieben.
 
 ## Einheitliches Foodcoop-Pfand
-Alles Leergut, das an die Produzenten zurückkommen soll, hat ein einheitliches Pfand, z.B. 50 Cent, unabhängig vom Pfand des Produzenten. Einfach für Mitglieder, sie brauchen bei der  Rückgabe nicht lange recherchieren, wieviel Pfand sie bekommen; außerdem entsteht dadurch eine Motivation für die ökologisch sinnvolle Wiederverwendung, auch wenn vom Produzenten kein oder nur ein sehr niedriges Pfand verrechnet wird. In der Foodcoop [Franckkistl](https://franckkistl.at) wird das beispielsweise so umgesetzt. 
+Alles Leergut, das an die Produzenten zurückkommen soll, hat ein einheitliches Pfand, z.B. 50 Cent, unabhängig vom Pfand des Produzenten. Einfach für Mitglieder, sie brauchen bei der  Rückgabe nicht lange recherchieren, wieviel Pfand sie bekommen; außerdem entsteht dadurch eine Motivation für die ökologisch sinnvolle Wiederverwendung, auch wenn vom Produzenten kein oder nur ein sehr niedriges Pfand verrechnet wird. 
 
 Mögliche Fehlerquellen: 
 - Pfand wird gutgeschrieben für Leergut, das woanders bezogen wurde und für das keines oder ein geringeres Pfand bezahlt wurde.
 
 ## Kein Pfand in der Foodcoop
-Die Foodcoop übernimmt die Pfandkosten, und vertraut darauf, dass die Mitglieder das Leergut auch wieder zurückbringen. In der Foodcoop [Franckkistl](https://franckkistl.at)  wird das beispielsweise bei den Bierkisten so umgesetzt. 
+Die Foodcoop übernimmt die Pfandkosten, und vertraut darauf, dass die Mitglieder das Leergut auch wieder zurückbringen. 
 
 
 Mögliche Fehlerquellen: 
@@ -58,5 +58,6 @@ Ein Pfand sollte mindestens so hoch wie die Kosten der Produktion des Gebindes s
 
 # Tipps für Lieferantinnen mit Mehrweg-Gebinden
 
+## Österreich
 - [Bio-Weingut H&M Hofer](https://www.weinguthofer.com/) - alle Weinflaschen können zur Wiederverwendung zurück gegeben werden.
 - [Neufeldner Bio-Bier](https://biobrauerei.at/) - alle Bierflaschen, auch 0,33 L, werden zurückgenommen und wiederverwendet. Nur die Limos leider nicht.
