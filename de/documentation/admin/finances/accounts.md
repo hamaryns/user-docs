@@ -1,8 +1,8 @@
 ---
 title: Foodsoft-Konten für Guthaben der Mitglieder
-description: Menü Finanzen > Konten verwalten
+description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2021-10-01T15:31:17.545Z
+date: 2021-10-03T10:58:59.751Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -28,7 +28,12 @@ Bei folgenden Funktionen in der Foodsoft ist jeweils eine Transaktionsklasse aus
 
 Ist eine neue Foodcoop entstanden, gibt es standardmäßig (default) eine Klasse „Other“ mit einem Kontotransaktionstypen (KTT) „**Foodcoop**“. Das ist das Mindestmaß das vom System notwendig ist (und daher angelegt wird) um grundlegende Funktionalität anzubieten. Da alle Foodcoops (FCs) sehr unterschiedlich organisiert sind und arbeiten gibt es keinen Leitfaden für „Die Richtige Einstellung“. Sondern: Von FC zu FC gibt es unterschiedliche Herangehensweisen, Bedürfnisse und somit Einstellungen. Durch Erstellung einiger zusätzlicher Kontotransaktionstypen und der Anbindung des Vereinskontos bietet die Foodsoft zusätzlich zum Bestellen eine vereinfachte (doppelte) Buchführung.
 
-Administration \> Finanzen: 
+## Transaktionsklassen und -typen erstellen und bearbeiten
+
+*Administration \> Finanzen*
+
+> Hier fehlt noch eine detaillierte Beschreibung.
+{.is-info}
 
 ## Empfehlungen für Transaktionsklassen und -typen 
 
@@ -66,7 +71,8 @@ Forumsbeiträge zum Thema:
 
 ## Summe aller Guthaben ermitteln
 
-...
+> Hier fehlt noch eine detaillierte Beschreibung.
+{.is-info}
 
 # Transaktionen durchführen
 
@@ -80,7 +86,7 @@ Finanzen \> Konten verwalten
 
 ## Transaktionen automatisch durchführen
 
-Bei Zahlungseingang am Foodcoop Bankkonto Guthaben für Bestellgruppe aufladen: siehe [Bankkonto mit Foodsoft verknüpfen](#anchor-19). 
+Bei Zahlungseingang am Foodcoop Bankkonto Guthaben für Bestellgruppe aufladen: siehe [Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts). 
 
 ## Sammeltransaktionen manuell durchführen
 
