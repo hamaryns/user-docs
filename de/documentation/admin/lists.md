@@ -2,7 +2,7 @@
 title: Listen in der Foodsoft
 description: Tipps für Foodsoft Administratorinnen im Umgang mit Listen
 published: true
-date: 2021-10-01T16:43:45.581Z
+date: 2021-10-03T19:32:39.297Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-02T10:46:10.173Z
@@ -34,7 +34,7 @@ Tabellenblatt einfügen. Dann kannst du dort z.B. einen Filter
 aktivieren, um am Beispiel der Rechnungen nur jene einer Lieferantin
 anzuzeigen.
 
-> Forum/Github Link zu Feature Request/Filterfunktion einfügen.
+> **Github Link** zu Feature Request/Filterfunktion einfügen.
 {.is-danger}
 
 > Ein paar Beispiele mit Screenshots einfügen.
