@@ -1,8 +1,8 @@
 ---
 title: Bestellungen
-description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen":"Bestellverwaltung", "Abholtage" und "Finanzen": "Bestellungen abrechnen")
+description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-10-03T10:52:31.044Z
+date: 2021-10-03T10:55:12.902Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
