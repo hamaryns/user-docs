@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-10-03T08:59:35.190Z
+date: 2021-10-03T09:29:38.125Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -42,7 +42,7 @@ Im folgenden Abschnitt siehst du, wie die Bestellungen dieses Beispiels in der F
 
 Die Bestellungen Überblicksseite erreichst du über das [Menü Bestellungen > Bestellen!](/de/documentation/usage/navigation). 
 
-![bestellen.png](/uploads-de/usage-order-bestellen.png)
+![bestellen.png](/uploads-de/usage_order_bestellen.png)
 
 
  
