@@ -1,8 +1,8 @@
 ---
 title: Überblick
-description: 
+description: Funktionsüberblick und Einsatzmöglichkeiten der Foodsoft
 published: true
-date: 2021-10-03T09:35:47.922Z
+date: 2021-10-03T10:48:21.058Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
