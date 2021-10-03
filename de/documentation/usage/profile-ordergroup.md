@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: 
 published: true
-date: 2021-10-01T15:14:57.663Z
+date: 2021-10-03T08:57:33.333Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -19,7 +19,7 @@ Jede Foodsoft-Benutzerin (Account) verfügt über ein eigenes Profil mit den fol
 
 Bestellt wird innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutzerinnen befinden können (Familie, WG, etc.).
 
-![bestellgruppen.png](/bestellgruppen.png =400x)
+![bestellgruppen.png](/uploads-de/usage-profileordergroup-bestellgruppen.png =400x)
 
 Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, erfahrst du unter "Profil bearbeiten".
 
@@ -27,12 +27,12 @@ Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der 
 
 Um dein Profil zu bearbeiten klicke im Menü rechts-oben auf deinen Namen und "Profil bearbeiten": 
 
-![meine-bestellgruppe.png](/teil-1/meine-bestellgruppe.png)
+![meine-bestellgruppe.png](/uploads-de/usage-profileordergroup-meine-bestellgruppe.png)
 
 
 Hier kannst du nun folgende Daten eingeben bzw. Einstellungen vornehmen. Wenn du fertig bist, schließe mit "Speichern" ganz unten ab.
 
-![profildaten1.png](/profildaten1.png)
+![profildaten1.png](/uploads-de/usage-profileordergroup-profildaten1.png)
 
 ## Vor- und Nachname
 
@@ -104,7 +104,7 @@ Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner
 > Es kann sein, das neue Mitglieder durch eure Foodsoft-Administration freigegeben werden müssen. Wende dich bitte dazu an euren Administrator-Mensch oder Administratoren.
 {.is-warning}
 
-![profildaten2.png](/profildaten2.png)
+![profildaten2.png](/uploads-de/usage-profileordergroup-profildaten2.png)
 
 
 ## Mitgliedschaft in Arbeitsgruppen beenden
