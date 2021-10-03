@@ -1,8 +1,8 @@
 ---
-title: Benutzerinnenverwaltung 
+title: Benutzendenverwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-03T11:06:08.655Z
+date: 2021-10-03T11:06:31.240Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
