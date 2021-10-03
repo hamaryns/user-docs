@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-03T09:33:06.095Z
+date: 2021-10-03T19:31:39.921Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -183,7 +183,7 @@ Formuliere hier deine Frage, auf die du eine Antwort möchtest, z.B. "Wann hast 
 ![umfrage-teilnahme.png](/uploads-de/usage_communication_umfrage-teilnahme.png)
 
 
-#### Wiederstandspunkte
+#### Widerstandspunkte
 
 Diese Methode kommt vom Prinzip der Entscheidungsfindung durch "systemisches Konsensieren". Die Theorie dahinter ist, dass es zu besseren, Konsens-orientierteren Entscheidungen führt, wenn Widerstände anstelle von Bevorzugungen abgefragt werden, und die Variante mit den geringsten Widerstandspunkten ausgewählt wird.
 
@@ -213,6 +213,8 @@ Außerhalb der Foodsoft gibt es noch einige hilfreiche Kommunikationswerkzeuge, 
 
 ## Videokonferenz
 
+### Österreich
+
 - **Jitsi** https://meet.foodcoops.net
 - **Nextcloud Talk** https://cloud.foodcoops.net/apps/spreed/
 {.links-list}
@@ -230,20 +232,20 @@ https://tools.foodcoops.net/pads/
 
 ## Gemeinsam Textdokumente und Tabellen erstellen
 
+
+### Österreich
+
 Eine Plattform, wo ihr Text- und Tabellendokumente ähnlich wie in Google Drive erstellen und gemeinsam bearbeiten könnt, findet ihr außerhalb der Foodsoft im [Forum der IG](https://forum.foodcoops.net/) über die Nextcloud oder direkt via https://cloud.foodcoops.net/. 
 
-> Der Zugang bzw. die Registrierung ist (nur) über deine Foodsoft Zugangsdaten möglich.
-{.is-info}
-
-
-
-> Nutzung erfordert einmalige Registrierung im Forum (https://forum.foodcoops.net/) notwendig.
+> Der Zugang bzw. die Registrierung ist nur für Mitglieder österreichischer Foodcoops über ihre Foodsoft Zugangsdaten möglich.
+Die Nutzung erfordert einmalige Registrierung im Forum (https://forum.foodcoops.net/) notwendig.
 {.is-info}
 
 Alternative für Tabellendokumente: Ethercalc (ohne Registrierung): https://calc.foodcoops.net/
 
-## Forum: Mit anderen Foodcoops in Österreich kommunizieren
+## Mit anderen Foodcoops kommunizieren
 
+### Österreich
 https://forum.foodcoops.net/
 
 > Zugang mit eigenen Foodsoft-Kontodaten: Anmeldung bzw. einmalige Registrierung über deine Foodcoop notwendig. Freischaltung abwarten.
