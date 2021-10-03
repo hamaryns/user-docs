@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-10-03T11:13:28.580Z
+date: 2021-10-03T19:37:39.354Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -43,7 +43,7 @@ Bitte gib deinen vollständigen Namen ein.
 Wird benötigt für
 - Anmelden in der Foodsoft
 - Benachrichtigungen für Foodsoft-Nachrichten
-- Benachrichtigungen im IG Forum
+- Benachrichtigungen im IG Forum (nur Österreich)
 
 ## Passwort neu setzen
 
