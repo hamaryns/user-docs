@@ -1,8 +1,8 @@
 ---
-title: Tutorial - How to do Toleranzen
-description: 
+title: How to do: Toleranzen
+description: Verwaltung der Toleranzen bei Mindestbestellmengen
 published: true
-date: 2021-10-03T10:42:40.276Z
+date: 2021-10-03T11:11:02.468Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-25T01:33:06.077Z
