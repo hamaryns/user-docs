@@ -2,7 +2,7 @@
 title: Trésorier
 description: 
 published: true
-date: 2021-10-01T14:19:44.040Z
+date: 2021-10-03T10:06:03.753Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:42:04.483Z
@@ -28,7 +28,7 @@ Sur la page de décompte, l'encart en haut à droite résume le prix de la comma
 - produits qui n'ont pas été livrés, ou dont le prix a changé
 - produits refusés, en mauvais état.
 
-Finalement, la dernière ligne indique le gain de la boufcoop en tenant compte du [Supplément mutualisé](#supplement) si il a été configuré.
+Finalement, la dernière ligne indique le gain de la boufcoop en tenant compte du [Supplément mutualisé](#Décompte des commandes) si il a été configuré.
 
 Si l'état des lieux ne correspond pas à ce qui est souhaité, il va falloir réajuster les choses à l'aide du tableau de droite. Ce tableau récapitule l'ensemble des produits livrés. Tout d'abord, si un produit manque dans le tableau, il faut l'ajouter à l'aide du bouton *Ajouter un produit* en haut à droite. Ensuite, pour chaque produit, en cliquant sur le nom, la répartition entre les cellules telle qu'elle avait été demandée lors de la commande s'affiche. Les quantités peuvent être ajustées en cliquant sur les boutons + et - pour les faire correspondre à ce qui a effectivement été recu par les cellules. Pour cela, il peut être utile de s'aider des commentaires (encart tout en bas à gauche de l'écran), où les cellules ont pu laisser des informations ou des réclamations concernant ce qu'elles ont recu. Si une cellule a récupéré des produits alors qu'elle n'en avait pas commandé, tu peux l'ajouter à la liste grâce au bouton *Ajouter une cellule*.
 
