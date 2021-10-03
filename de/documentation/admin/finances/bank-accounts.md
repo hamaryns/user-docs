@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-03T19:35:35.529Z
+date: 2021-10-03T19:36:26.635Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -68,7 +68,7 @@ Bankkontobuchungen können verknüpft werden mit
 
 Diese Links werden großteils automatisch von der Foodsoft erstellt, in Einzelfällen kann es sinnvoll/notwendig sein, sie händisch zu erstellen bzw. zu bearbeiten.
 
-<## Zahlungsreferenzcodes
+## Zahlungsreferenzcodes
 
 Jedes Mitglied findet seinen Zahlungsreferenz-Rechner im Dropdownmenü des Profilnamens. Der Menüpunkt wird aber erst angezeigt, sobald [*Kontotransaktion Klassen und Typen*](/de/documentation/admin/finances/accounts) mit zumindest einem Kürzel eines Transaktionstyps angelegt wurden, mindestens ein Bankkonto hinzugefügt wurde, und du danach aus der Foodsoft aussteigst und wieder neu einloggst. Der Zahlungsreferenz-Rechner verwendet die Kürzel der Transaktionstypen für die Generierung des Codes, indem für jedes Kürzel ein Feld für einen Geldbetrag angezeigt wird.
 
