@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2021-10-03T10:58:59.751Z
+date: 2021-10-03T19:45:59.366Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -40,7 +40,7 @@ Ist eine neue Foodcoop entstanden, gibt es standardmäßig (default) eine Klasse
 - Transaktionsklasse “Guthaben Bestellungen”
   - Transaktionstyp “Überweisung Guthaben”, Kürzel G für Aufbuchung Guthaben durch Mitglieder
   - Transaktionstyp ”Foodsoft” für Abbuchungen für Bestellungen durch Foodcoop 
-  - Vorschläge für weitere Transaktionstypen (Franckkistl): Anfangsbuchstaben im Alphabet hinter F wichtig damit “Foodsoft” als Standard bei Auswahllisten an erster Stelle steht):
+  - Vorschläge für weitere Transaktionstypen: Anfangsbuchstaben im Alphabet hinter F wichtig damit “Foodsoft” als Standard bei Auswahllisten an erster Stelle steht):
     - Spende 
     - Lieferung (wenn Foodcoop Mitglied Ware liefert und mit Foodsoft Guthaben bezahlt wird)
     - Zuschuss Fahrtkosten
