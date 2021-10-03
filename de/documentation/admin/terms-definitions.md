@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: 
 published: true
-date: 2021-10-03T10:24:07.250Z
+date: 2021-10-03T10:25:09.875Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
@@ -45,10 +45,10 @@ Bedeutungen:
 - Bei der Foocoop angekommene [Bestellung](/de/documentation/admin/orders)
 
 ## Inventur
-Angleichung des Lagerstands in der Foodsoft an jene im Lagerraum der Foodcoop, siehe [Lager](/de/Foodsoft/Administration/Lager)
+Angleichung des Lagerstands in der Foodsoft an jene im Lagerraum der Foodcoop, siehe [Lager](/de/documentation/admin/storage)
 
 ## Brutto, Netto, Mehrwersteuer
 Siehe [Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax)...
 
-## Pfand 
-Siehe [Lieferantinnen](/de/documentation/admin/finances/suppliers)
+## Pfand
+Siehe [Lieferantinnen](/de/documentation/admin/suppliers)
