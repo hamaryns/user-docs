@@ -1,8 +1,8 @@
 ---
 title: Pfand
-description: Wie Pfand in Foodcoops gehandhabt werden kann
+description: Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 published: true
-date: 2021-10-03T09:55:54.575Z
+date: 2021-10-03T11:03:43.920Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
