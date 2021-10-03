@@ -2,7 +2,7 @@
 title: Cooperate
 description: 
 published: true
-date: 2021-10-01T13:34:11.386Z
+date: 2021-10-03T10:01:03.088Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-25T00:59:33.089Z
@@ -12,7 +12,7 @@ dateCreated: 2021-03-25T00:59:33.089Z
 Foodsoft integrates a shared job manager, which can be useful so that the tasks necessary for the smooth operation of a boomcoop are carried out, and that each one can evaluate its level of investment compared to others.
 
 ## To do a job
-Your calendar is accessible under the *Boufcoop* tab of the main menu. The jobs that are proposed to you depend on the teams of which you are a member (see [structure](structure)). For each of them, the table includes the following information
+Your calendar is accessible under the *Boufcoop* tab of the main menu. The jobs that are proposed to you depend on the teams of which you are a member (see [structure](/en/Documentation/General/Structure)). For each of them, the table includes the following information
 - the due date
 - the job title
 - people already registered (in green), as well as the number of people still to be filled (in red),
