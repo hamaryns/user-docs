@@ -2,7 +2,7 @@
 title: Trésorier
 description: 
 published: true
-date: 2021-10-03T10:07:48.992Z
+date: 2021-10-03T10:08:32.204Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:42:04.483Z
@@ -28,11 +28,11 @@ Sur la page de décompte, l'encart en haut à droite résume le prix de la comma
 - produits qui n'ont pas été livrés, ou dont le prix a changé
 - produits refusés, en mauvais état.
 
-Finalement, la dernière ligne indique le gain de la boufcoop en tenant compte du [Supplément mutualisé](#Supplément-mutualisé) si il a été configuré.
+Finalement, la dernière ligne indique le gain de la boufcoop en tenant compte du [Supplément mutualisé](#supplément-mutualisé) si il a été configuré.
 
 Si l'état des lieux ne correspond pas à ce qui est souhaité, il va falloir réajuster les choses à l'aide du tableau de droite. Ce tableau récapitule l'ensemble des produits livrés. Tout d'abord, si un produit manque dans le tableau, il faut l'ajouter à l'aide du bouton *Ajouter un produit* en haut à droite. Ensuite, pour chaque produit, en cliquant sur le nom, la répartition entre les cellules telle qu'elle avait été demandée lors de la commande s'affiche. Les quantités peuvent être ajustées en cliquant sur les boutons + et - pour les faire correspondre à ce qui a effectivement été recu par les cellules. Pour cela, il peut être utile de s'aider des commentaires (encart tout en bas à gauche de l'écran), où les cellules ont pu laisser des informations ou des réclamations concernant ce qu'elles ont recu. Si une cellule a récupéré des produits alors qu'elle n'en avait pas commandé, tu peux l'ajouter à la liste grâce au bouton *Ajouter une cellule*.
 
-Une fois tous les produits contrôlés de cette facon, tu peux à ton tour laisser des commentaires dans l'encart *Notes/Remarques* afin de garder traces des éventuels arbitrages que tu as du faire. Tu peux aussi saisir les informations sur la facture payée au-à la fournisseur-e (voir [Factures](#Factures). Finalement, clique sur le bouton bleu *Terminer la commande*. Les crédits des cellules seront alors immédiatement débités, et la commande sera définitivement terminée.
+Une fois tous les produits contrôlés de cette facon, tu peux à ton tour laisser des commentaires dans l'encart *Notes/Remarques* afin de garder traces des éventuels arbitrages que tu as du faire. Tu peux aussi saisir les informations sur la facture payée au-à la fournisseur-e (voir [Factures](#factures). Finalement, clique sur le bouton bleu *Terminer la commande*. Les crédits des cellules seront alors immédiatement débités, et la commande sera définitivement terminée.
 
 ## Factures
 Foodsoft intègre aussi un outil d'archivage des factures qui peut servir deux objectifs principaux:
@@ -40,4 +40,4 @@ Foodsoft intègre aussi un outil d'archivage des factures qui peut servir deux o
 - payer les fournisseur-e-s de facon différée en utilisant un compte en banque mutualisé,
 - faciliter la comptabilité de la boufcoop, c'est-à-dire le contrôle des recettes et des dépenses pour éviter les détournements et évaluer la viabilité de la coopérative à long terme (par opposition à la trésorerie qui concerne les opérations courantes de paiement et de recettes).
 
-La liste des *factures* est accessible sous l'onglet *Trésorerie* du menu principal. Pour ajouter une facture, le mieux est de le faire au moment du [Décompte des commandes](#Décompte-des-commandes), de sorte que la facture reste associée à la commande qui lui correspond. Si cela a été oubliée, ou bien si il y a une facture qui ne correspond pas à une commande (achat de matériel par exemple), tu peux *ajouter une facture* directement en cliquant sur le bouton bleu en haut à droite. Saisis alors les informations concernant la facture. Si elle n'a pas encore été payée, laisse vide le champ *Payée le*.
+La liste des *factures* est accessible sous l'onglet *Trésorerie* du menu principal. Pour ajouter une facture, le mieux est de le faire au moment du [Décompte des commandes](#décompte-des-commandes), de sorte que la facture reste associée à la commande qui lui correspond. Si cela a été oubliée, ou bien si il y a une facture qui ne correspond pas à une commande (achat de matériel par exemple), tu peux *ajouter une facture* directement en cliquant sur le bouton bleu en haut à droite. Saisis alors les informations concernant la facture. Si elle n'a pas encore été payée, laisse vide le champ *Payée le*.
