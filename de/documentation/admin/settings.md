@@ -1,8 +1,8 @@
 ---
 title: Einstellungen
-description: Foodsoft Menü "Administration" - alles was nicht mit Benutzerinnenverwaltung zu tun hat
+description:  Erklärung zu globalen/administrativen Einstellungen der Foodsoft (Menü: "Administration")
 published: true
-date: 2021-10-03T09:57:56.557Z
+date: 2021-10-03T11:09:19.645Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:20:52.701Z
