@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2021-10-03T20:20:54.502Z
+date: 2021-10-03T20:25:39.630Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -57,6 +57,10 @@ In der Ansicht **Finanzen \> Konten verwalten** sind die Transaktionsklassen als
 ## Transaktionsklassen von der Berechnung des verfügbaren Guthabens ausschließen (*Für Kontostand ignorieren*)
 
 Das verfügbare Guthaben eines Mitglieds bestimmt, ob das Mitglied noch weitere Bestellungen tätigen kann: wird das minimale verfügbare Guthaben kleiner Null, kann nicht mehr bestellt werden. Grundsätzlich wird das verfügbare Guthaben für jede Bestellgruppe nach der Formel `(Summe der Guthaben in allen Transaktionsklassen) MINUS (noch nicht abgerechnete Bestellungen)` berechnet. Die Option *Für Kontostand ignorieren* bewirkt, dass die jeweilige Transaktionsklasse nicht zur Berechnung des verfügbaren Guthabens herangezogen wird. Das ist z.B. für die Transaktionsklasse der Mitgliedsbeiträge sinnvoll.
+
+> Zu erledigen: Inhalt noch einpflegen oder eventuell eigenes Tutorial? 
+> https://forum.foodcoops.at/t/bank-anbindung-verstehen-und-richtig-konfigueren/4712/2
+{.is-warning}
 
   
 # Kontoauszüge anzeigen
