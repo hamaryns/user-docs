@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Menü Bestellungen: Bestellen!, Abholtage
 published: true
-date: 2021-10-03T11:18:19.240Z
+date: 2021-10-03T11:18:29.551Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
