@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-01T20:32:45.813Z
+date: 2021-10-03T08:53:10.124Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -101,7 +101,7 @@ Je nach Breite deines Displays bzw. Browser-Fensters sieht das Menü unterschied
 
 Bei einem breiten Display wie z.B. am PC oder Laptop sieht es so aus:
 
-![menues-standard.gif](/menues-standard.gif)
+![menues-standard.gif](/uploads-de/usage-navigate-menues-standard.gif)
 
 
 
@@ -110,15 +110,15 @@ Bei einem breiten Display wie z.B. am PC oder Laptop sieht es so aus:
 
 Bei einem schmalen Display wie z.B. am Smartphone, oder wenn du am Computer dein Browserfenster schmal machst;
 
-![menu2schmal.png](/menu2schmal.png)
+![menu2schmal.png](/uploads-de/usage-navigate-menu2schmal.png)
 
 Hier klappt das Menü erst auf, wenn du auf den eingekreisten Button klickst:
 
-![menu3schmal-ausgeklappt.png](/menu3schmal-ausgeklappt.png)
+![menu3schmal-ausgeklappt.png](/uploads-de/usage-navigate-menu3schmal-ausgeklappt.png)
 
 Hier noch das ganze in animierter Form:
 
-![menues-standard-schmal.gif](/menues-standard-schmal.gif)
+![menues-standard-schmal.gif](/uploads-de/usage-navigate-menues-standard-schmal.gif)
 
 
 
@@ -163,7 +163,7 @@ Das Menü hat folgende Struktur. Erklärungen zu den Menupunkten sind über die 
 
 Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Logos (bei schmalem Display) gibt es noch die blau hinterlegten Links:
 
-![menu1breit.png](/menu1breit.png)
+![menu1breit.png](/uploads-de/usage-navigate-menu1breit.png)
 
 
   - [(Dein Name) – hier kannst du dein Profil und deine Bestellgruppe verwalten](/de/documentation/usage/profile-ordergroup) 
@@ -186,7 +186,7 @@ Rechts oberhalb des Menüs (bei breitem Display) oder unterhalb des foodsoft Log
 
 ## Direkt zu...
 
-![direkt-zu.png](/direkt-zu.png)
+![direkt-zu.png](/uploads-de/usage-navigate-direkt-zu.png)
 
 Der graue Kasten enthält eine Auswahl der Menüpunkte. Falls du hier eine gewünschte Funktion nicht findest, solltest du sie im Menü finden.
 
@@ -203,7 +203,7 @@ Der graue Kasten enthält eine Auswahl der Menüpunkte. Falls du hier eine gewü
 
 An vielen Stellen in der Foodsoft werden Informationen in Form von Listen dargestellt. Wenn die Listen länger sind, gibt es verschiedene Möglichkeiten, sich darin zurechtzufinden:
 
-![listen-navigation.png](/listen-navigation.png)
+![listen-navigation.png](/uploads-de/usage-navigate-listen-navigation.png)
 
 - Blättern: 
   - Seite 1, 2, 3, ..., akztelle Seitenummer ist grau hinterlegt 
@@ -222,4 +222,4 @@ An vielen Stellen in der Foodsoft werden Informationen in Form von Listen darges
 
 Um dich abzumelden und die Sitzung zu beenden, klicke im Menu rechts-oben auf einen Namen und "Abmelden".
 
-![abmelden.png](/abmelden.png)
+![abmelden.png](/uploads-de/usage-navigate-abmelden.png)
