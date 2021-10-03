@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2021-10-03T19:45:59.366Z
+date: 2021-10-03T20:12:38.163Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -54,10 +54,6 @@ Ist eine neue Foodcoop entstanden, gibt es standardmäßig (default) eine Klasse
 
 In der Ansicht **Finanzen \> Konten verwalten** sind die Transaktionsklassen als Spalten abgebildet und ermöglichen einen Überblick der ev. noch nicht erfolgten Einzahlungen (zb. Mitgliedsbeitrag).
 
-Forumsbeiträge zum Thema:
-
-  - [*https://forum.foodcoops.at/t/bank-anbindung-verstehen-und-richtig-konfigueren/471*](https://forum.foodcoops.at/t/bank-anbindung-verstehen-und-richtig-konfigueren/471)
-  - [*https://forum.foodcoops.at/t/neue-funktionen-in-der-foodsoft/4847/2*](https://forum.foodcoops.at/t/neue-funktionen-in-der-foodsoft/4847/2)
   
 # Kontoauszüge anzeigen
 
