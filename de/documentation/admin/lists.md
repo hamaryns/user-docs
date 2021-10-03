@@ -2,7 +2,7 @@
 title: Listen in der Foodsoft
 description: Tipps für Foodsoft Administratorinnen im Umgang mit Listen
 published: true
-date: 2021-10-03T19:32:39.297Z
+date: 2021-10-03T19:33:24.615Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-02T10:46:10.173Z
@@ -42,6 +42,12 @@ anzuzeigen.
 
 ## Beispiele
 ### Nur Bestellungen einer Lieferantin anzeigen
-...
+
+> Hier fehlt noch Info.
+{.is-info}
+
+
 ### Nur Rechnungen einer Lieferantin anzeigen
-...
+
+> Hier fehlt noch Info.
+{.is-info}
