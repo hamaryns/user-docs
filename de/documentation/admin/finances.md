@@ -1,8 +1,8 @@
 ---
 title: Finanzen
-description: Menü Finanzen
+description: Überblicksseite zu Finanzfunktionen sowie Verwendung (Menü: "Finanzen")
 published: true
-date: 2021-10-01T16:55:48.137Z
+date: 2021-10-03T10:56:16.850Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:45:06.246Z
