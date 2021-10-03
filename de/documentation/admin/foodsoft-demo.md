@@ -2,7 +2,7 @@
 title: Foodsoft Demoinstallationen 
 description: Zum Ausprobieren der Foodsoft
 published: true
-date: 2021-10-01T15:57:10.417Z
+date: 2021-10-03T10:21:29.607Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T13:23:54.170Z
@@ -12,8 +12,8 @@ In den folgenden Demo-Versionen kannst du die Foodsoft ausprobieren. Das ist auc
 
 # foodcoops .net
 - Link: https://foodcoops.net/demo/
-- Benutzer: ...
-- Passwort: ...
+- Admin-Benutzer: "admin", Passwort: "secret"
+- normaler Benutzer: "member", Passwort: "secret"
 
 > Viele der angelegten Testdaten sind auf Englisch. Du kannst die Sprache für die Menüs und Überschriften  auf Deutsch umstellen.
 {.is-info}
@@ -22,8 +22,8 @@ In den folgenden Demo-Versionen kannst du die Foodsoft ausprobieren. Das ist auc
 # foodcoops .at
 
 - Link: https://app.foodcoops.at/demo/
-- Benutzer: ...
-- Passwort: ...
+- Admin-Benutzer: "admin", Passwort: "secret"
+- normaler Benutzer: "member", Passwort: "secret"
 
-> Das Anlegen von Bestellungen klappt derzeit leider nicht!
-{.is-danger}
+> Das Anlegen von Bestellungen funktioniert nun wieder (September 2021).
+{.is-success}
