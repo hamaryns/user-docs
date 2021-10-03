@@ -2,7 +2,7 @@
 title: Order
 description: 
 published: true
-date: 2021-10-03T10:02:26.351Z
+date: 2021-10-03T10:18:09.252Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-25T01:14:36.928Z
@@ -35,7 +35,7 @@ You will find below this insert the list of products offered for this order. It'
 
 For each product, you must choose the number of units you want to order. The unit varies according to the product (1kg, 75cl, ...), and is therefore indicated in the column *unit* of the table (4th column). The price of a unit is shown in the column *price* (3rd column). To increase or decrease the number of units you want for your cell, use the + and - buttons of the 6th column (quantity).
 
-As the products are offered by the supplier-e in the form of lots (see [Units and lots](/en/Documentation/Administration/Products)), as long as it is missing units to complete the current batch, you are not sure to receive the product. This number is displayed in the 5th column (*Missing*). The number of units you are not sure to receive appears in red, while the number that appears in green is safe.
+As the products are offered by the supplier-e in the form of lots (see [Units and lots](/en/Documentation/Administration/Products#units-and-lots)), as long as it is missing units to complete the current batch, you are not sure to receive the product. This number is displayed in the 5th column (*Missing*). The number of units you are not sure to receive appears in red, while the number that appears in green is safe.
 
 ### Tolerance
 The quantity that you indicate as *tolerance* is a maximum that you are ready to receive, in addition to the quantity ordered normally, in case it allows to complete a lot at the time of the closing of the order. If there is no lot to complete, this quantity will simply be ignored. Putting a non-zero tolerance when your orders is beneficial for all of the boufcoop, as this increases the chances of completing some lots that otherwise could not be ordered. Moreover, it can even encourage other people who need more of the product than you to order, because you will give them more hope that the lot is completed.
