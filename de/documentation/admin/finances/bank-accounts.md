@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-03T11:01:27.219Z
+date: 2021-10-03T19:35:35.529Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -25,7 +25,7 @@ Die Foodcoop bietet die Option einer Bankanbindung. Wenn eingerichtet, ermöglic
 {.is-info}
 
 
-## Unterstützte Banken
+## Unterstützte Banken (Österreich)
 
 Die Bankkontozeilen werden je nach Bank und Unterstütztung der Bankanbindung händisch/halbautomatisch oder automatisiert importiert. 
 
