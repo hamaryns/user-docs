@@ -1,8 +1,8 @@
 ---
 title: Rechnungen
-description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
+description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-03T09:50:23.926Z
+date: 2021-10-03T10:59:52.400Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
