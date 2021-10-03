@@ -2,7 +2,7 @@
 title: Mitmachen
 description: 
 published: true
-date: 2021-10-01T16:37:17.206Z
+date: 2021-10-03T09:09:50.860Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:06:37.853Z
@@ -18,11 +18,11 @@ Foodcoops funktionieren meist nur durch die freiwillige und untentgeltliche Mita
 
 Wenn diese Funktion von deiner Foodcoop verwendet wird, findest du eine Liste der aktuell anstehenden Aufgaben in der Foodsoft [am Dashboard unter *Offene Aufgaben*](/de/documentation/usage/navigation):
 
-![aufgaben-offen.png](/aufgaben-offen.png)
+![aufgaben-offen.png](/uploads-de/usage-taskscooperate-aufgaben-offen.png)
 
 sowie dort unter *Alle Aufgaben anzeigen* oder im Menü [Foodcoop \> Aufgaben](/de/documentation/usage/navigation):
 
-![aufgaben1.png](/aufgaben1.png)
+![aufgaben1.png](/uploads-de/usage-taskscooperate-aufgaben1.png)
 
 ## Aufgabe übernehmen
 
@@ -57,7 +57,7 @@ Du hast dich z.B. versehentlich für eine Aufgabe gemeldet, und möchtest dich w
 1. Unter **Verantwortlichen** entferne deinen Namen aus der Liste, indem du auf das x rechts neben deinem Namen bzw. deiner Bestellgruppe klickst
 1. Speichern mit „Aufgabe aktualisieren“
 
-![aufgabe2.png](/aufgabe2.png)
+![aufgabe2.png](/uploads-de/usage-taskscooperate-aufgabe2.png)
 
 ## Aufgabe selbst anlegen
 
