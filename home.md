@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-09-29T21:29:16.180Z
+date: 2021-10-03T07:13:42.873Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -10,7 +10,7 @@ dateCreated: 2021-03-17T13:41:15.075Z
 
 # Foodsoft Dokumentation
 
-Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/Foodsoft/videos) zu ausgewählten Funktionen. Sie wird, genauso wie die Foodsoft-Software, von freiwilligen Foodcoop-EnthusiastInnen unentgeltlich in ihrer Freizeit erstellt. 
+Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/documentation/ressources/videos) zu ausgewählten Funktionen. Sie wird, genauso wie die Foodsoft-Software, von freiwilligen Foodcoop-EnthusiastInnen unentgeltlich in ihrer Freizeit erstellt. 
 
 
 > Obwohl wir uns Mühe geben, wird diese Dokumentation wohl nie perfekt sein. Wenn dir etwas auffällt, schreib mit der Kommentarfunktion einen Kommentar, wie wir es besser beschreiben könnten! 
@@ -18,34 +18,34 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 {.is-warning}
 
 
-> Diese Dokumentation ist in einem  [Wiki.js](wiki) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
+> Diese Dokumentation ist in einem  [Wiki.js](https://js.wiki/) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
 {.is-info}
 
 ## Foodsoft Anwendung
 
 Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen kennenlernen möchtest, bist du hier richtig. 
-- [Starten und Navigieren](/de/Foodsoft/Anwendung/Navigation)
-- [Meine Bestellgruppe](/de/Foodsoft/Anwendung/Bestellgruppe)
-- [Bestellen](/de/Foodsoft/Anwendung/Bestellen)
-- [Kommunikation](/de/Foodsoft/Anwendung/Kommunikation)
-- [Mitmachen](/de/Foodsoft/Anwendung/Mitmachen)
-- [Dokumente](/de/Foodsoft/Anwendung/Dokumente)
+- [Starten und Navigieren](/de/documentation/usage/navigation)
+- [Meine Bestellgruppe](/de/documentation/usage/profile-ordergroup)
+- [Bestellen](/de/documentation/usage/order)
+- [Kommunikation](/de/documentation/usage/communication)
+- [Mitmachen](/de/documentation/usage/tasks-cooperate)
+- [Dokumente](/de/documentation/usage/sharedocuments)
 {.links-list}
 
 ## Foodsoft Administration
 
 Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann, und wir ihr sie einrichten könnt. Auch im laufenden Betrieb der Foodcoop braucht die Foodsoft  Administratorinnen, die sich im Hintergrund darum kümmern, dass es regelmäßig etwas zu Bestellen gibt, Artikel in der Foodsoft aktuell sind, und auch die Bestellungen abgrechnet werden. 
 
-- [Überblick](/de/Foodsoft/Administration/Überblick)
-- [Lieferantinnen, Artikel und Kategorien](/de/Foodsoft/Administration/Lieferantinnen)
-- [Bestellungen](/de/Foodsoft/Administration/Bestellungen)
-- [Lager](/de/Foodsoft/Administration/Lager)
-- [Finanzen](/de/Foodsoft/Administration/Finanzen)
-- Finanzen: [Foodsoft-Konten](/de/Foodsoft/Administration/Finanzen/Konten) 
-- Finanzen: [Foodcoop-Bankkonto](/de/Foodsoft/Administration/Finanzen/Bankkonto)
-- Finanzen: [Rechnungen](/de/Foodsoft/Administration/Finanzen/Rechnungen)
-- [Benutzerinnen (Menü Administration)](/de/Foodsoft/Administration/Benutzerverwaltung)
-- [Einstellungen (Menü Administration)](/de/Foodsoft/Administration/Einstellungen)
+- [Überblick](/de/documentation/admin/general)
+- [Lieferantinnen, Artikel und Kategorien](/de/documentation/admin/suppliers)
+- [Bestellungen](/de/documentation/admin/orders)
+- [Lager](/de/documentation/admin/storage)
+- [Finanzen](/de/documentation/admin/finances)
+- Finanzen: [Foodsoft-Konten](/de/documentation/admin/finances/accounts) 
+- Finanzen: [Foodcoop-Bankkonto](/de/documentation/admin/finances/bank-accounts)
+- Finanzen: [Rechnungen](/de/documentation/admin/finances/invoices)
+- [Benutzerinnen (Menü Administration)](/de/documentation/admin/users)
+- [Einstellungen (Menü Administration)](/de/documentation/admin/settings)
 {.links-list}
 
 
@@ -53,7 +53,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 
 Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du etwas dazu beitragen möchtest, bist du hier am richtigen Platz.
 
-> Dieser Teil ist noch nicht hierher übertragen. Schau mal auf https://github.com/foodcoops/foodsoft 
+> Dieser Teil ist noch nicht hierher übertragen. Externe Links findest du [hier](/de/documentation/development/first-steps)
 {.is-danger}
 
 ## Andere Foodsoft Dokumentationen
