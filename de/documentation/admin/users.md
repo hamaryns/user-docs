@@ -1,8 +1,8 @@
 ---
 title: Benutzerinnenverwaltung 
-description: Foodsoft Menü "Administration": Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Nachrichtengruppen
+description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-01T16:57:04.983Z
+date: 2021-10-03T11:06:08.655Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -11,17 +11,29 @@ dateCreated: 2021-04-21T00:39:19.334Z
 
 # Übersicht
 
+> Hier fehlt noch ein Text.
+{.is-info}
+
+
 # Benutzerinnen
+
+> Hier fehlt noch eine Beschreibung, wie Benutzerinnen verwaltet werden.
+{.is-info}
+
 
 # Bestellgruppen
 
+
 ## Bestellgruppe erstellen und bearbeiten
 
-Mitgliedsbeitrag: negative Zahl eingeben. Siehe eigener Abschnitt “Mitgliedsbeiträge”.
+> Hier fehlt noch ein Text.
+{.is-info}
 
-Pausieren von/bis: hat nur Notiz-Charakter, d.h. es kann jeweils ein Datum eingegeben werden, es verändert sich dadurch aber nichts für das Mitglied (z.B. kann das Mitglied auch in der Pause Guthaben aufladen und bestellen, und es wird ihm ein Mitgliedsbeitrag verrechnet, wenn dieser nicht während der Pause händisch auf 0 gesetzt wird).
+**Mitgliedsbeitrag**: negative Zahl eingeben. Siehe eigener Abschnitt “Mitgliedsbeiträge”.
 
-Mitglieder entfernen aus Bestellgruppe: 
+**Pausieren von/bis**: hat nur Notiz-Charakter, d.h. es kann jeweils ein Datum eingegeben werden, es verändert sich dadurch aber nichts für das Mitglied (z.B. kann das Mitglied auch in der Pause Guthaben aufladen und bestellen, und es wird ihm ein Mitgliedsbeitrag verrechnet, wenn dieser nicht während der Pause händisch auf 0 gesetzt wird).
+
+### Mitglieder entfernen aus Bestellgruppe: 
 1. Benutzername(n) notieren
 2. Benutzer aus Bestellgruppe entfernen 
 3. Notierte Benutzer löschen
@@ -29,21 +41,23 @@ Mitglieder entfernen aus Bestellgruppe:
 
 ## Bestellgruppe löschen
 
-…
+> Hier fehlt noch ein Text.
+{.is-info}
+
 
 Kontoauszug und Kontostand einer gelöschten Bestellgruppe anzeigen:
-siehe [Foodsoft-Kontoauszüge anzeigen TODO FIX LINK](#anchor-139)
+siehe [Finanzen > Kontostand abfragen](/de/documentation/admin/finances/accounts).
 
 # Berechtigungen
 
 ## Berechtigungen setzen
 
-Berechtigungen können entweder über Adminstration \> Arbeitsgruppen oder pauschal für alle Mitglieder über Administration \> Einstellungen \> Sicherheit \> Zugriff auf gesetzt werden. Es ist nicht möglich, Berechtigungen nur für einzelne Mitglieder zu setzen, sondern es ist immer erforderlich, eine Arbeitsgruppe anzulegen, dieser Berechtigungen zu vergeben, und anschließend dieser Arbeitsgruppe Mitglieder zuzuweisen. Eine Arbeitsgruppe kann kein, eines oder beliebig viele Mitglieder enthalten. Mitglieder können in beliebig vielen Arbeitsgruppen Mitglied sein. Beispiele siehe ...
+Berechtigungen können entweder über *Adminstration \> Arbeitsgruppen* oder pauschal für alle Mitglieder über *Administration \> Einstellungen \> Sicherheit \> Zugriff auf* gesetzt werden. Es ist nicht möglich, Berechtigungen nur für einzelne Mitglieder zu setzen, sondern es ist immer erforderlich, eine Arbeitsgruppe anzulegen, dieser Berechtigungen zu vergeben, und anschließend dieser Arbeitsgruppe Mitglieder zuzuweisen. Eine Arbeitsgruppe kann kein, eines oder beliebig viele Mitglieder enthalten. Mitglieder können in beliebig vielen Arbeitsgruppen Mitglied sein. Beispiele siehe ...
 
 ## Berechtigungen anzeigen
 
-- Adminstration \> Arbeitsgruppen \> Arbeitsgruppe auswählen, um Mitglieder anzuzeigen
-- Adminstration \> Benutzer/innen: für jede Benutzerin werden die Berechtigungen durch entsprechende Symbole angezeigt. Für die Bedeutung der Symbole mit der Maus über das Symbol fahren, es wird der entsprechene Text eingeblendet.
+- *Adminstration \> Arbeitsgruppen \> Arbeitsgruppe* auswählen, um Mitglieder anzuzeigen
+- *Adminstration \> Benutzer/innen*: für jede Benutzerin werden die Berechtigungen durch entsprechende Symbole angezeigt. Für die Bedeutung der Symbole mit der Maus über das Symbol fahren, es wird der entsprechene Text eingeblendet.
 
 ## Arten von Berechtigungen
 
@@ -75,7 +89,7 @@ Mitglieder mit Abholtage Berechtigung können im _Menü \> Bestellungen \> Abho
 
 ### Finanzen
 
-Zeigt das gesamte Menü Finaznen an, schließt Rechnungen mit ein.
+Zeigt das gesamte Menü Finanzen an, schließt Rechnungen mit ein.
 
 Berechtigt zu:
 - Foodsoft Transaktionen erstellen
@@ -91,7 +105,7 @@ Rechnungen zu Bestellungen können angelegt werden, aber Bestellungen können ni
 
 ### Administration
 
-Zeigt das Menü „Adminstration“ an.
+Zeigt das Menü „Administration“ an.
 
 Berechtigt zu:
 - Mitgliederverwaltung
@@ -127,6 +141,12 @@ Dieses Berechtigung sollte aufgeteilt werden in „Mitgliederverwaltung“ und �
 
 # Arbeitsgruppen
 
+> Hier fehlt noch ein Text.
+{.is-info}
+
+
 # Nachrichtengruppen
 
+> Hier fehlt noch ein Text.
+{.is-info}
 
