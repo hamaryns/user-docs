@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-10-03T09:11:30.117Z
+date: 2021-10-03T09:35:47.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -101,7 +101,7 @@ wenn sie nicht benötigt werden, sodass sie gar nicht aufscheinen:
 
 Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechten (siehe [Benutzerinnenverwaltung](/de/documentation/admin/users)) erweitert:
 
-![menues-admin.gif](/uploads-de/admin-general-menues-admin.gif)
+![menues-admin.gif](/uploads-de/admin_general_menues-admin.gif)
 
 
 | Menü                | Untermenü | [Berechtigung(en)](/de/documentation/admin/users) |
