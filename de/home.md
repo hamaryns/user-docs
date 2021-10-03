@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-10-01T16:26:29.510Z
+date: 2021-10-03T11:14:06.464Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -16,7 +16,6 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 > Obwohl wir uns Mühe geben, wird diese Dokumentation wohl nie perfekt sein. Wenn dir etwas auffällt, schreib mit der Kommentarfunktion einen Kommentar, wie wir es besser beschreiben könnten! 
 >Oder, noch besser:
 {.is-warning}
-
 
 > Diese Dokumentation ist in einem  [Wiki.js](https://js.wiki/) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
 {.is-info}
@@ -53,7 +52,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 
 Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du etwas dazu beitragen möchtest, bist du hier am richtigen Platz.
 
-> Dieser Teil ist noch nicht hierher übertragen. Externe Links findest du [hier](/de/documentation/dev/first-steps)
+> Dieser Teil ist noch nicht hierher übertragen. Externe Links findest du [hier](/de/documentation/development/first-steps)
 {.is-danger}
 
 ## Andere Foodsoft Dokumentationen
