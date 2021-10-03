@@ -2,13 +2,13 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Wie Foodcoops mit damit umgehen und wie es in der Foodsoft zu berücksichtigen ist
 published: true
-date: 2021-10-03T09:55:04.126Z
+date: 2021-10-03T19:48:46.082Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
 ---
 
-# Mehrwertsteuer
+# Mehrwertsteuer (Österreich)
 
 > Die Mehrwertsteuer (abgekürzt Mwst, auch Umsatzsteuer) ist eine Steuer für Lieferungen oder Leistungen, die nur bei der Letztverbraucherin/dem Letztverbraucher zum Tragen kommt. Der Mehrwertsteuersatz beträgt **grundsätzlich 20 Prozent** (sogenannter "Normalsteuersatz"). Für einige Waren/Dienstleistungen gilt ein ermäßigter Mehrwertsteuersatz z.B. für **Lebensmittel von 10 Prozent**, Details siehe unten. Der ermäßigte Steuersatz von **13 Prozent** kann z.B. unter bestimmten Voraussetzunen für landwirtschafliche Direktvermarktung herangezogen werden.
 
@@ -59,13 +59,13 @@ Durch folgende unterschiedliche Berechnungsarten der Mehrwertsteuer bei Bestellu
 > Die Differenz aufgrund von Rundungsfehlern kann maximal 1 Cent pro Artikel ausmachen. Wenn also z.B. insgesamt 60 Artikel bestellt wurden, kann der Fehler nur 60 Cent sein. Eine größere Differenz muss ihre Ursache woanders haben.
 {.is-info}
 
-# Mehrwertsteuersätze
+## Mehrwertsteuersätze
 
-## 20% Mehrwertsteuersatz
+### 20% Mehrwertsteuersatz
 
 Der normale Mehrwertsteuersatz beträgt 20 %, ausgenommen die im Folgenden angeführten Lebensmittel und landwirtschaftlichen Produkte.
 
-## 10% Mehrwertsteuersatz
+### 10% Mehrwertsteuersatz
 
 Auszug aus dem Anhang 1 des [Umsatzsteuergesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004873):
 - genießbare **Waren tierischen Ursprungs**: 
@@ -107,7 +107,7 @@ Auszug aus dem Anhang 1 des [Umsatzsteuergesetz](https://www.ris.bka.gv.at/Gelte
 {.is-warning}
 
 
-## 13% Mehrwertsteuersatz
+### 13% Mehrwertsteuersatz
 
 Manche Landwirte verrechnen einen Einheitssteuersatz von 13 %. 
 
