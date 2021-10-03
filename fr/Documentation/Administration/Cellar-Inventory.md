@@ -2,7 +2,7 @@
 title: Cellier
 description: 
 published: true
-date: 2021-10-01T14:24:29.002Z
+date: 2021-10-03T10:14:39.961Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:34:06.826Z
@@ -18,12 +18,12 @@ Foodsoft offre la possibilité de gérer un cellier, c'est-à-dire un espace de 
 ## Commandes
 Dans Foodsoft, le cellier est vu comme une sorte de fournisseur un peu particulier. Pour que les cellules puissent y prendre des produits, il faut donc d'abord *Définir une commande à partir du cellier*, en utilisant le bouton sur la page *Gestion du cellier* accessible sous l'onglet *Articles* du menu principal.
 
-La création de la commande se passe alors exactement comme pour les commandes aux fournisseur-e-s (voir [Gestion des commandes](commandes#gestion)). La commande apparaît ensuite comme les autres dans la liste des commandes ouvertes. La seule différence est qu'il n'y a pas de notion de tolérance.
+La création de la commande se passe alors exactement comme pour les commandes aux fournisseur-e-s (voir [Gestion des commandes](/fr/Documentation/Administration/Products#gestion-des-commandes)). La commande apparaît ensuite comme les autres dans la liste des commandes ouvertes. La seule différence est qu'il n'y a pas de notion de tolérance.
 
 ## Approvisionnement
 Pour approvisionner le cellier, commence par commander les produits manquants chez un-e fournisseur-e de la boufcoop. Cela peut se faire par exemple en créant une cellule spéciale "Cellier", lors d'une commande normale de la boufcoop, ou bien manuellement sans passer par foodsoft. Une fois les produits livrés, sélectionne le-la fournisseur-e dans la liste déroulante *Réapprovisionner le cellier*, sur la page *Gestion du cellier* accessible sous l'onglet *Articles* du menu principal. Pour chaque article, clique ensuite sur le bouton bleu *Approvisionner* à droite de son nom, et entre la quantité livrée. Si un article n'apparaît pas dans la liste, c'est qu'il ne faisait pas encore partie du cellier: sélectionne alors son nom dans la liste déroulante *Ajouter un article au cellier*, puis procède comme précédemment. Vérifie ensuite les quantités listées dans le tableau suivant, et finalement valide l'approvisionnement en cliquant sur le bouton bleu en bas de la page. Les quantités en stock seront alors immédiatement mises à jour.
 
-Si la commande des articles approvisionnés a été passée manuellement en dehors de foodsoft, tu peux aussi ajouter la facture correspondante (voir [Trésorier](tresorerie)).
+Si la commande des articles approvisionnés a été passée manuellement en dehors de foodsoft, tu peux aussi ajouter la facture correspondante (voir [Trésorier](/fr/Documentation/General/Finance)).
 
 ## Inventaire
 De temps en temps il peut s'avérer nécessaire d'inventorier le contenu réel du cellier, et de mettre à jour les quantités enregistrées dans Foodsoft pour qu'elles correspondent à la réalité. Pour cela, clique sur *Inventorier le cellier* depuis la page *Gestion du cellier* accessible sous l'onglet *Produits* du menu principal. Puis, pour chaque produit, saisis la différence entre le nombre d'unités inventorié et le nombre d'unités enregistré. Par exemple, si Foodsoft croit qu'il y a 10kg de farine alors qu'il n'en reste que 8.5kg, et que l'unité de farine est 500g, saisis "-3".
