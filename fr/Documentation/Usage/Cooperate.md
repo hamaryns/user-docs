@@ -2,7 +2,7 @@
 title: Coopérer
 description: 
 published: true
-date: 2021-10-01T14:22:13.977Z
+date: 2021-10-03T10:10:14.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-21T11:31:34.345Z
@@ -12,7 +12,7 @@ dateCreated: 2021-03-21T11:31:34.345Z
 Foodsoft intègre un gestionnaire de boulots partagés, qui peut être utile pour que les tâches nécessaires au bon fonctionnement d'une boufcoop soient effectuées, et que chacun-e puisse évaluer son niveau d'investissement par rapport aux autres.
 
 ## Effectuer un boulot
-Ton agenda est accessible sous l'onglet *Boufcoop* du menu principal. Les boulots qui te sont proposés dépendent des équipes dont tu es membre (voir [Structure de la boufcoop](structure)). Pour chacun d'entre eux, le tableau regroupe les informations suivantes
+Ton agenda est accessible sous l'onglet *Boufcoop* du menu principal. Les boulots qui te sont proposés dépendent des équipes dont tu es membre (voir [Structure de la boufcoop](/fr/Documentation/General/Structure)). Pour chacun d'entre eux, le tableau regroupe les informations suivantes
 
 - la date d'échéance
 - l'intitulé du boulot
