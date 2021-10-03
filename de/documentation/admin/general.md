@@ -2,7 +2,7 @@
 title: Überblick
 description: 
 published: true
-date: 2021-10-01T16:47:38.974Z
+date: 2021-10-03T09:11:30.117Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -101,7 +101,7 @@ wenn sie nicht benötigt werden, sodass sie gar nicht aufscheinen:
 
 Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechten (siehe [Benutzerinnenverwaltung](/de/documentation/admin/users)) erweitert:
 
-![menues-admin.gif](/menues-admin.gif)
+![menues-admin.gif](/uploads-de/admin-general-menues-admin.gif)
 
 
 | Menü                | Untermenü | [Berechtigung(en)](/de/documentation/admin/users) |
@@ -139,10 +139,12 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 
 # Foodsoft verwenden
 
-- [Bestellungen](/de/documentation/admin/orders)
-- [Lager](/de/documentation/admin/storage)
+- [Benutzerinnen und Bestellgruppen anlegen](/de/documentation/admin/users)
+- [Lieferantinnen und Artikel anlegen](/de/documentation/admin/suppliers)
+- [Lager anlegen](/de/documentation/admin/storage)
+- [Bestellungen anlegen](/de/documentation/admin/orders)
 - [Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)
-- [Rechnungen](/de/documentation/admin/finances/invoices)
+- [Rechnungen anlegen](/de/documentation/admin/finances/invoices)
 {.links-list}
 
 ## Allgemeine Tipps
