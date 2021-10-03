@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen an die FC in der Foodsoft digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-01T15:30:33.216Z
+date: 2021-10-03T09:50:23.926Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -27,7 +27,7 @@ Eine neue Rechnung kann angelegt werden unter
 
 Hier ein Beispiel für eine Papierrechnung und die entsprechenden Eingaben in der Foodsoft, wie im Folgenden im Detail beschrieben.
 
-![rechnung-beispiel-fs.png](/rechnung-beispiel-fs.png)
+![rechnung-beispiel-fs.png](/uploads-de/admin_finances_invoices_rechnung-beispiel-fs.png)
 
 In der neuen Rechnung ist anzugeben:
 
@@ -43,7 +43,7 @@ Lieferantin auswählen.
 
 In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung(en) und/oder jene Bestellung(en) auswählen, für die die Rechnung ausgestellt wurde. Damit ist klar, ob die Lieferantin für eine Lieferung/Bestellung eine Rechnung ausgestellt hat, und der Rechnungsberag kann mit dem Guthaben, das den Mitgliedern abgebucht wird (bzw. das als Warenwert ins Lager eingegangen ist), verglichen werden. Dies ist die einzige echte Kontrollmöglichkeit, um zu schauen, dass die Foodcoop keinen Verlust, aber auch keinen unerwünschten Gewinn macht - daher ist dieser Schritt sehr wichtig.
 
-![rechnung-bestellung-lieferung.png](/rechnung-bestellung-lieferung.png =400x)
+![rechnung-bestellung-lieferung.png](/uploads-de/admin_finances_invoices_rechnung-bestellung-lieferung.png =400x)
     
 -  **[Lieferung](./Lager)**: **bei Rechnung für eine Bestellung leer lassen**. Wenn für diesen Produzenten [Lagerartikel](./Lager) über die Funktion *Artikel > Lager > neue Lieferung* eingebucht  wurden, die noch keiner Rechnung zugeordnet sind, können diese  hier ausgewählt werden. Mehrere Lieferungen können dabei in  einer gemeinsamen Rechnung ausgewählt werden.
 -  **[Bestellung](./Bestellung)**: wenn es für diesen Produzenten abgeschlossene, aber noch nicht abgerechnete Bestellungen gibt, die noch keiner Rechnung zugeordnet sind, können diese hier ausgewählt werden. Mehrere Bestellungen können dabei in einer gemeinsamen  Rechnung ausgewählt werden.
@@ -63,7 +63,7 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 > Eine Bestellung oder Lieferung kann nur einmal einer Rechnung zugeordnet werden. Wenn schon eine Rechnung angelegt und Bestellungen und/oder Lieferungen zugeordnet wurden, daher unbedingt diese suchen (siehe Rechnungsdatum) und bearbeiten, statt sie nochmal neu anzulegen. 
 {.is-warning}
 
-> Wenn eine Bestellung neben den Bestellungen für die Foodcoop Mitglieder auch eine Lagerbestellung enthält, und diese Lagerartikel dann mit einer Lieferung in den Lagerstand eingebracht werden, und sowohl die Bestellung als auch die Lieferung der Rechnung korrekter weise zugeordnet wird, würden sie bei der Rechnungsbilanz doppelt berücksichtigt - siehe [Lager](../Lager).
+> Wenn eine Bestellung neben den Bestellungen für die Foodcoop Mitglieder auch eine Lagerbestellung enthält, und diese Lagerartikel dann mit einer Lieferung in den Lagerstand eingebracht werden, und sowohl die Bestellung als auch die Lieferung der Rechnung korrekter weise zugeordnet wird, würden sie bei der Rechnungsbilanz doppelt berücksichtigt - siehe [Lager](/de/documentation/admin/storage)
 {.is-danger}
 
 
@@ -106,7 +106,7 @@ Falls die Rechnung schon bezahlt wurde, das Datum eintragen, an dem dies erledig
 
 ## Betrag
 
-Rechnungsbetrag (inklusive [Mehrwertsteuer](./Mehrwertsteuer)) von der Rechnung übernehmen. Als Dezimaltrennzeichen kann dabei Komma oder Punkt verwendet werden, also für eine Rechnugssumme von z.B. 1.257,87 € entweder `1257,87` oder `1257.87` - angezeigt wird der Betrag dann in Folge mit einem Punkt als Dezimaltrennzeichen.
+Rechnungsbetrag (inklusive [Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax)) von der Rechnung übernehmen. Als Dezimaltrennzeichen kann dabei Komma oder Punkt verwendet werden, also für eine Rechnugssumme von z.B. 1.257,87 € entweder `1257,87` oder `1257.87` - angezeigt wird der Betrag dann in Folge mit einem Punkt als Dezimaltrennzeichen.
 
 ## Pfand berechnet
 
@@ -122,7 +122,7 @@ Für 3 Flaschen und 50 Cent Pfand pro Flasche:
 - Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet kein Pfand, Differenz = 0 - 3 \* 0,50 = **-1,50 €** 
 - Foodsoft-Artikel enthält kein Pfand, Produzent verrechnet 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 0 = **+1,50 €**
 
-Siehe auch [Pfand in Foodcoops](./Pfand).
+Siehe auch [Pfand in Foodcoops](/de/documentation/admin/finances/deposits)
 
 ## Pfand gutgeschrieben
 
@@ -207,7 +207,7 @@ Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von 
 
 Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, indem bei "bezahlt am" das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
 
-> Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](./Bankkonto)
+> Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](/de/documentation/admin/finances/bank-accounts)
 {.is-info}
 
 
