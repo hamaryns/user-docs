@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-03T10:59:52.400Z
+date: 2021-10-05T22:14:27.140Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -64,6 +64,7 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 {.is-warning}
 
 > Wenn eine Bestellung neben den Bestellungen für die Foodcoop Mitglieder auch eine Lagerbestellung enthält, und diese Lagerartikel dann mit einer Lieferung in den Lagerstand eingebracht werden, und sowohl die Bestellung als auch die Lieferung der Rechnung korrekter weise zugeordnet wird, würden sie bei der Rechnungsbilanz doppelt berücksichtigt - siehe [Lager](/de/documentation/admin/storage)
+**Anschauen in Demoinstanz**: Bestellung, Bestellung+Lager,  Bestellung+Lager+Lieferung, Bestellung+Lieferung, Lieferung - was wird jeweils bei *Total* berücksichtigt und was bei der Differenz in *Unbezahlte Rechnungen?*
 {.is-danger}
 
 
