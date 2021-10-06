@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden für Beiträge zur Foodosoft Dokumentation
 published: true
-date: 2021-10-06T14:02:07.403Z
+date: 2021-10-06T14:04:35.906Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -15,7 +15,7 @@ Dieser Leitfaden bezieht sich auf alle Teile der Dokumentation und soll helfen, 
 
 Neue Seiten anlegen und/oder Inhalte von einer auf die andere Seite verschieben bitte nur in Absprache mit dem aktuellen Kernteam.
 
-> Für neue Seiten bitte [Markdown](https://docs.requarks.io/editors/markdown) verwenden. Unter dem Link findest du auch Infos, welche Markdown Syntex-Elemente in Wiki JS verwendet werden können.
+> Für neue Seiten bitte [Markdown](https://docs.requarks.io/editors/markdown) verwenden. Unter dem Link findest du auch Infos, welche Markdown Syntax-Elemente in Wiki JS verwendet werden können.
 {.is-info}
 
 
