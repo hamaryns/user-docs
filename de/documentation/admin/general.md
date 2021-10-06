@@ -2,7 +2,7 @@
 title: Überblick
 description: Funktionsüberblick und Einsatzmöglichkeiten der Foodsoft
 published: true
-date: 2021-10-03T10:48:21.058Z
+date: 2021-10-06T11:23:32.234Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -125,7 +125,9 @@ Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, un
 
 ## Notwendige Schritte
 
-1. IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](/de/documentation/admin/request-foodsoftinstance) 
+1. Auf einem Webserver eine Foodsoft-Instanz installieren
+     a. Foodcoops in Österreich: IG Foodcoop kontaktieren für die [Erzeugung einer eigenen Foodsoft-Instanz für eure Foodcoop am Server der IG](/de/documentation/admin/request-foodsoftinstance)
+     b. Foodcoops anderswo: (Infos bitte ergänzen)
 1. [Allgemeine Einstellungen](/de/documentation/admin/settings) 
 1. [Benutzerinnenverwaltung](/de/documentation/admin/users) BenutzerInnen und Bestellgruppen anlegen, Arbeitsgruppen und Berechtigungen setzen
 1. [Lieferantinnen, Artikel und Kategorien anlegen](/de/documentation/admin/suppliers)
