@@ -2,7 +2,7 @@
 title: Informationssammlung & Dokumente
 description: 
 published: true
-date: 2021-10-06T13:08:48.100Z
+date: 2021-10-06T13:11:50.474Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:12:37.149Z
@@ -43,6 +43,18 @@ Wiki Seiten bestehen nur aus Text, aber es gibt spezielle Textzeichenanordnungen
 
 > Tipp: Verwende Überschriften und Listen mit Links, um auf der Startseite ein Art Inhaltsverzeichnis des Wikis zu erzeugen.
 {.is-info}
+
+```
+== Überschrift Abschnitt 1 ==
+* [[Thema 1]]
+* [[Thema 2]]
+```
+Wird angezeigt als
+
+### Überschrift Abschnitt 1
+- [Thema 1]()
+- [Thema 2]()
+
 
 Ein Textabsatz wird durch eine Leerzeile erreicht. Eine neue Zeile ohne Leerzeile wird ignoriert. Für Aufzählungen verwende am besten eine Liste, wie folgendes Beispiel zeigt:
 
