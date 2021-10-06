@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden für Beiträge zur Foodosoft Dokumentation
 published: true
-date: 2021-10-06T13:57:49.630Z
+date: 2021-10-06T14:02:07.403Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -21,8 +21,14 @@ Neue Seiten anlegen und/oder Inhalte von einer auf die andere Seite verschieben 
 
 # Texte
 
-## Verweise auf Menüeinträge
-Kursive Darstellung von *Menüpunkt > Untermenüpunkt*
+## Verweise auf Menüeinträge, Buttons und Links in der Foodsoft
+Kursive Darstellung von *Foodsoft-Menüpunkt > Untermenüpunkt*
+
+Auch für Buttons und Kombination Menü+Buttons/Links verwendet werden: *Foodsoft-Menüpunkt > Untermenüpunkt > Button-Bezeichnung*
+
+Beispiele:
+- *Administration > Benutzer/innen*
+- *Administration > Benutzer/innen > Neue/n Benutzer/in anlegen*
 
 ## Verwendung der Wiki-JS Zitat-Kästen 
 
