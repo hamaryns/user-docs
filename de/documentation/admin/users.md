@@ -2,7 +2,7 @@
 title: Benutzendenverwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-03T11:06:31.240Z
+date: 2021-10-06T09:37:00.005Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -15,10 +15,46 @@ dateCreated: 2021-04-21T00:39:19.334Z
 {.is-info}
 
 
-# Benutzerinnen
+# Benutzer/innen
 
-> Hier fehlt noch eine Beschreibung, wie Benutzerinnen verwaltet werden.
+Menü *Adminsitration > Benutzer/innen*
+
+## Liste anzeigen: Benutzer/innen verwalten 
+
+> Hier fehlt noch eine Beschreibung.
 {.is-info}
+
+## Neue/n Benutzer/in anlegen
+
+Link *Hier kannst du Benutzer/innen **neu anlegen***, oder blaue Schaltfläche *Neue/n Benutzer/in anlegen*.
+
+> Hier fehlt noch eine Beschreibung.
+{.is-info}
+
+## Details anzeigen
+
+Auf Name der Benutzerin klicken.
+
+Mögliche Aktionen:
+  - **Bearbeiten** (siehe unten)
+  - **Löschen** (siehe unten)
+  - **[Nachricht senden](/de/documentation/usage/communication)**
+  - **Als anderer Benutzer anmelden**: Als diese Benutzerin anmelden. So kannst du dich als Administratorin in die Rolle der Benutzerin versetzen, als ob du dich mit ihrem Benutzernamen und Passwort in der Foodosft angemeldet hättest. Zum Beenden aus der Foodsoft abmelden und als Admin neu anmelden.
+
+## Benutzerin bearbeiten
+
+Spalte Aktionen *Bearbeiten* klicken, oder *Details anzeigen (auf Name klicken) > bearbeiten*.
+
+> Hier fehlt noch eine Beschreibung.
+{.is-info}
+
+## Benutzerin löschen
+
+> Hier fehlt noch eine Beschreibung.
+{.is-info}
+
+## CSV Export
+Liste aller Benutzerinnen in [CSV-Tabellenformat](./csv) exportieren.
 
 
 # Bestellgruppen
