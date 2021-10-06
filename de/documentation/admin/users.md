@@ -2,7 +2,7 @@
 title: Benutzendenverwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-06T09:37:00.005Z
+date: 2021-10-06T09:45:26.987Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -21,7 +21,35 @@ Menü *Adminsitration > Benutzer/innen*
 
 ## Liste anzeigen: Benutzer/innen verwalten 
 
-> Hier fehlt noch eine Beschreibung.
+> Hier fehlen noch Beschreibungen.
+{.is-info}
+
+
+
+### Name 	
+
+### E-Mail 	
+
+### Zugriff auf 	
+
+### Letzte Aktivität 	
+
+### Aktionen
+
+  - Bearbeiten
+  - Löschen
+
+### Suchfeld
+
+Zeige nur Benutzerinnen, deren Name den eingegenen Text enthält. 
+
+> Ermöglich keine Suche nach Emailadressen oder Bestellgruppen.
+{.is-warning}
+
+
+### Gelöschte Benutzer anzeigen
+
+> Hier fehlen noch eine Beschreibung.
 {.is-info}
 
 ## Neue/n Benutzer/in anlegen
