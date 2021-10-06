@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden für Beiträge zur Foodosoft Dokumentation
 published: true
-date: 2021-10-06T10:35:36.615Z
+date: 2021-10-06T10:38:52.399Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -24,8 +24,16 @@ Kursive Darstellung von *Menüpunkt > Untermenüpunkt*
 
 ## Links zu externen Seiten
 
-- möglich: github, ...
-- nicht erwünscht/zu vermeiden: Seiten, die nicht für alle deutssprachigen Benutzerinnen zugägnlich sind wie z.B. IG-spezifische Seiten (Österreich). 
+möglich/erwünscht: 
+- github, ...
+
+nicht erwünscht/zu vermeiden: 
+- Seiten, die nicht für alle deutschsprachigen Benutzerinnen zugänglich sind wie z.B. IG-spezifische Seiten  (nur für Foodcoops in Österreich) wie 
+      - Forum
+      - Nexcloud
+      - ...
+- Foodcoops
+- Lieferantinnen
 
 ## Geschlechterspezifische Begriffe
 
@@ -36,5 +44,6 @@ Aus Gründen der Lesbarkeit wird bei geschlechtsspezifischen Begriffen nur die w
 ## Foodsoft Screenshots
   - Foodsoft Instanz: ...
   - Breite des Browserfensters: ...?
+  - Namen von realen Benutzerinnen, Lieferantinnen: ...
 
 
