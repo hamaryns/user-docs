@@ -2,7 +2,7 @@
 title: Informationssammlung & Dokumente
 description: 
 published: true
-date: 2021-10-01T15:17:42.006Z
+date: 2021-10-06T11:30:20.098Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:12:37.149Z
@@ -37,7 +37,7 @@ Für das Wiki gibt es ein eigenes Menü mit einem Link zur Startseite und einer 
 
 ## Wiki Startseite bearbeiten
 
-Menü **Wiki > Startseite > bearbeiten**.
+Menü *Wiki > Startseite > bearbeiten*.
 
 Wiki Seiten bestehen nur aus Text, aber es gibt spezielle Textzeichenanordnungen, die eine Formattierung bewirken. Die wichtigsten sind während des Bearbeitens rechts angezeigt.
 
