@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-10-06T10:18:15.140Z
+date: 2021-10-06T10:26:01.873Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -17,10 +17,10 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 >Oder, noch besser:
 {.is-warning}
 
-> Diese Dokumentation ist in einem  [Wiki.js](https://js.wiki/) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. 
+> Diese Dokumentation ist in einem  [Wiki.js](https://js.wiki/) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. Bitte beachte dazu den [Leitfaden](/de/documentation/howtowrite)
 {.is-info}
 
-> Dieses Handbuch richtet sich an alle Menschen, die Interesse an der Foodsoft haben. Aus Gründen der Lesbarkeit wird bei geschlechtsspezifischen Begriffen jedoch nur die weibliche Form verwendet - außer dort, wo Begriffe in der Foodsoft anders hinterlegt sind (z.B. "Benutzer/innen", "Lieferanten"- hier werden im Sinne der Klarheit die Begriffe der Foodsoft verwendet).
+> Dieses Handbuch richtet sich an alle Menschen, die Interesse an der Foodsoft haben. Aus Gründen der Lesbarkeit wird bei **geschlechtsspezifischen Begriffen** jedoch nur die weibliche Form verwendet - außer dort, wo Begriffe in der Foodsoft anders hinterlegt sind (z.B. "Benutzer/innen", "Lieferanten"- hier werden im Sinne der Klarheit die Begriffe der Foodsoft verwendet).
 {.is-info}
 
 
