@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-10-06T09:01:05.152Z
+date: 2021-10-06T09:12:17.197Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -80,20 +80,14 @@ Unter Privatsphäre kannst du selbst einstellen, ob deine Telefonnummer und Emai
 ## Nachrichten (Benachrichtigungen)
 
 Hier kannst du einstellen, welche Art von Foodsoft-Nachrichten du bekommst:
-- Informiere mich über meine Bestellergebnisse (nach Ende der Bestellung).
-- Informiere mich über Lieferdetails (nachdem die Ware entgegengenommen wurde).
-- Informiere mich, falls meine Bestellgruppe ins Minus rutscht.
-- Erinnere mich an anstehende [Aufgaben](/de/documentation/usage/tasks-cooperate).
-- Bekomme [Nachrichten](/de/documentation/usage/communication) (Nachrichten an alle, individuelle Nachrichten von anderen Foodcoop Mitgliedern, Arbeitsgruppen oder Nachrichtengruppen) als E-Mails.
-
-> Solange du in deiner Foodcoop aktiv bist, und in deiner Foodcoop Foodsoft Nachrichten verwendet werden, solltest du „Bekomme Nachrichten als E-Mails“ unbedingt aktiviert haben, damit du z.B. erfährst, wann es was zu bestellen gibt, wo Mithilfe benötigt wird, wann es Treffen gibt wo du dabei sein solltest. 
-{.is-info}
-
-> Sobald du „Bekomme Nachrichten als E-Mails“ deaktivierst, bekommst du von deiner Foodcoop keine Emails mehr, und bist damit quasi nicht mehr ansprechbar, außer du schaust regelmäßig in die Foodsoft, ob Nachrichten für dich eingelangt sind. 
-{.is-warning}
+- **Informiere mich über meine [Bestellergebnisse](/de/documentation/usage/order) (nach Ende der Bestellung).**
+- **Informiere mich über Lieferdetails (nachdem die Ware entgegengenommen wurde)**.
+- **Informiere mich, falls** das Guthaben meiner **Bestellgruppe ins Minus rutscht**.
+- **Erinnere mich an anstehende [Aufgaben](/de/documentation/usage/tasks-cooperate)**.
+- **Bekomme [Nachrichten](/de/documentation/usage/communication) als E-Mails**: (Nachrichten an alle, individuelle Nachrichten von anderen Foodcoop Mitgliedern, Arbeitsgruppen oder Nachrichtengruppen). Solange du in deiner Foodcoop aktiv bist, und in deiner Foodcoop Foodsoft Nachrichten verwendet werden, solltest du diese Option unbedingt aktiviert haben, damit du z.B. erfährst, wann es was zu bestellen gibt, wo Mithilfe benötigt wird, wann es Treffen gibt wo du dabei sein solltest. Sobald du „Bekomme Nachrichten als E-Mails“ deaktivierst, bekommst du von deiner Foodcoop keine Emails mehr, und bist damit quasi nicht mehr ansprechbar, außer du schaust regelmäßig in die Foodsoft, ob Nachrichten für dich eingelangt sind. 
 
 
-> Manche Foodcoops verwenden eine anderes Nachrichtensystem anstelle der Foodsoft-Nachrichten.
+> Manche Foodcoops verwenden eine anderes Nachrichtensystem  anstelle der [Foodsoft-Nachrichten](/de/documentation/usage/communication).
 {.is-warning}
 
 
@@ -101,7 +95,7 @@ Hier kannst du einstellen, welche Art von Foodsoft-Nachrichten du bekommst:
 
 Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner Bestellgruppe. Über „Neues Mitglied einladen“ kannst du andere Personen wie Familienmitglieder, WG-KollegInnen, NachbarInnen einladen, Teil deiner Bestellgruppe zu werden, indem du ihre Email eingibst. Sie bekommen dann einen eigenen Zugang zur Foodsoft.
 
-> Es kann sein, das neue Mitglieder durch eure Foodsoft-Administration freigegeben werden müssen. Wende dich bitte dazu an euren Administrator-Mensch oder Administratoren.
+> Es kann sein, das neue Mitglieder durch eure Foodsoft-Administration freigegeben werden müssen (Option "Einladungen deaktivieren", siehe [Einstellungen](/de/documentation/admin/settings)). Wende dich bitte dazu an euren Administrator-Mensch oder Administratoren.
 {.is-warning}
 
 ![profildaten2.png](/uploads-de/usage_profile-ordergroup_profildaten2.png)
