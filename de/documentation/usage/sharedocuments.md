@@ -2,7 +2,7 @@
 title: Informationssammlung & Dokumente
 description: 
 published: true
-date: 2021-10-06T13:11:50.474Z
+date: 2021-10-06T13:27:52.925Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:12:37.149Z
@@ -35,26 +35,8 @@ Beispiele für möglich Inhalte sind:
 
 Für das Wiki gibt es ein eigenes Menü mit einem Link zur Startseite und einer Übersicht über alle Wiki-Seiten
 
-## Wiki Startseite bearbeiten
 
-Menü *Wiki > Startseite > bearbeiten*.
-
-Wiki Seiten bestehen nur aus Text, aber es gibt spezielle Textzeichenanordnungen, die eine Formattierung bewirken. Die wichtigsten sind während des Bearbeitens rechts angezeigt.
-
-> Tipp: Verwende Überschriften und Listen mit Links, um auf der Startseite ein Art Inhaltsverzeichnis des Wikis zu erzeugen.
-{.is-info}
-
-```
-== Überschrift Abschnitt 1 ==
-* [[Thema 1]]
-* [[Thema 2]]
-```
-Wird angezeigt als
-
-### Überschrift Abschnitt 1
-- [Thema 1]()
-- [Thema 2]()
-
+## Wiki Listen
 
 Ein Textabsatz wird durch eine Leerzeile erreicht. Eine neue Zeile ohne Leerzeile wird ignoriert. Für Aufzählungen verwende am besten eine Liste, wie folgendes Beispiel zeigt:
 
@@ -64,7 +46,7 @@ Punkt 2
 Punkt 3
 ```
 
-wird angezeigt als 
+wird unerwünschterweise angezeigt als 
 > Punkt 1 Punkt 2 Punkt 3
 
 Besser in Form einer Liste mit einem `*` am Anfang jeder Zeile:
@@ -80,6 +62,20 @@ Wird angezeigt als
 * Punkt 1
 * Punkt 2
 * Punkt 3
+
+## Wiki Startseite bearbeiten
+
+Menü *Wiki > Startseite > bearbeiten*.
+
+Wiki Seiten bestehen nur aus Text, aber es gibt spezielle Textzeichenanordnungen, die eine Formattierung bewirken. Die wichtigsten sind während des Bearbeitens rechts angezeigt.
+
+> Tipp: Verwende Überschriften und Listen mit Links, um auf der Startseite ein Art Inhaltsverzeichnis des Wikis zu erzeugen.
+{.is-info}
+
+![usage_sharedocuments_wiki_example1_source.png](/uploads-de/usage_sharedocuments_wiki_example1_source.png)
+Wird angezeigt als:
+![usage_sharedocuments_wiki_example1_result.png](/uploads-de/usage_sharedocuments_wiki_example1_result.png)
+
 
 
 ## Neue Wiki Seite anlegen
