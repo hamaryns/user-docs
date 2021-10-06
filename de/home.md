@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-10-06T11:27:24.248Z
+date: 2021-10-06T11:27:44.375Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -21,7 +21,7 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 {.is-info}
 
 > Dieses Handbuch richtet sich an alle Menschen, die Interesse an der Foodsoft haben. Aus Gründen der Lesbarkeit wird bei **geschlechtsspezifischen Begriffen** jedoch nur die weibliche Form verwendet - außer dort, wo Begriffe in der Foodsoft anders hinterlegt sind (z.B. "Benutzer/innen", "Lieferanten"- hier werden im Sinne der Klarheit die Begriffe der Foodsoft verwendet).
-{.is-info}
+{.is-success}
 
 
 ## Foodsoft Anwendung
