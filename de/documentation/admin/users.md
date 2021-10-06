@@ -2,7 +2,7 @@
 title: Benutzendenverwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-06T10:00:03.747Z
+date: 2021-10-06T10:00:23.633Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -30,7 +30,7 @@ Menü *Adminsitration > Benutzer/innen*
 ### Name 	
 
 ### E-Mail 	
-Die Benutzerin meldet sich mit ihrer Emailadresse und Passwort in der Foodosft an, solange die [Einstellung](/de/documentation/admin/settings) *Benutzernamen verwenden* inaktiv ist. Weiters wird die Emailadresse für das versenden von Foodsoft Nachrichten per Email verwendet (siehe [Profileinstellungen: Benachrichtigungen](/de/documentation/usage/profile-ordergroup), [Nachrichten](/de/documentation/usage/communication)). 
+Die Benutzerin meldet sich mit ihrer Emailadresse und Passwort in der Foodosft an, solange die [Einstellung](/de/documentation/admin/settings) *Benutzernamen verwenden* inaktiv ist. Weiters wird die Emailadresse für das Versenden von Foodsoft Nachrichten per Email verwendet (siehe [Profileinstellungen: Benachrichtigungen](/de/documentation/usage/profile-ordergroup), [Nachrichten](/de/documentation/usage/communication)). 
 
 ### Zugriff auf 	
 
