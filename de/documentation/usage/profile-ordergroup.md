@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-10-06T09:12:17.197Z
+date: 2021-10-06T09:14:23.795Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -95,7 +95,7 @@ Hier kannst du einstellen, welche Art von Foodsoft-Nachrichten du bekommst:
 
 Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner Bestellgruppe. Über „Neues Mitglied einladen“ kannst du andere Personen wie Familienmitglieder, WG-KollegInnen, NachbarInnen einladen, Teil deiner Bestellgruppe zu werden, indem du ihre Email eingibst. Sie bekommen dann einen eigenen Zugang zur Foodsoft.
 
-> Es kann sein, das neue Mitglieder durch eure Foodsoft-Administration freigegeben werden müssen (Option "Einladungen deaktivieren", siehe [Einstellungen](/de/documentation/admin/settings)). Wende dich bitte dazu an euren Administrator-Mensch oder Administratoren.
+> Es kann sein, das neue Mitglieder durch eure Foodsoft-Administration freigegeben werden müssen (Option "Einladungen deaktivieren", siehe [Einstellungen](/de/documentation/admin/settings)). Wende dich bitte dazu an die Foodsoft-Administratorinnen deiner Foodcoop.
 {.is-warning}
 
 ![profildaten2.png](/uploads-de/usage_profile-ordergroup_profildaten2.png)
