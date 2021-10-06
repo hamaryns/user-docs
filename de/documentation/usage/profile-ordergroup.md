@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-10-03T19:37:39.354Z
+date: 2021-10-06T09:01:05.152Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -83,8 +83,8 @@ Hier kannst du einstellen, welche Art von Foodsoft-Nachrichten du bekommst:
 - Informiere mich über meine Bestellergebnisse (nach Ende der Bestellung).
 - Informiere mich über Lieferdetails (nachdem die Ware entgegengenommen wurde).
 - Informiere mich, falls meine Bestellgruppe ins Minus rutscht.
-- Erinnere mich an anstehende Aufgaben.
-- Bekomme Nachrichten als E-Mails.
+- Erinnere mich an anstehende [Aufgaben](/de/documentation/usage/tasks-cooperate).
+- Bekomme [Nachrichten](/de/documentation/usage/communication) (Nachrichten an alle, individuelle Nachrichten von anderen Foodcoop Mitgliedern, Arbeitsgruppen oder Nachrichtengruppen) als E-Mails.
 
 > Solange du in deiner Foodcoop aktiv bist, und in deiner Foodcoop Foodsoft Nachrichten verwendet werden, solltest du „Bekomme Nachrichten als E-Mails“ unbedingt aktiviert haben, damit du z.B. erfährst, wann es was zu bestellen gibt, wo Mithilfe benötigt wird, wann es Treffen gibt wo du dabei sein solltest. 
 {.is-info}
