@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T20:29:04.796Z
+date: 2021-10-07T20:33:50.694Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -93,6 +93,13 @@ Um ein Bankkonto zu Verknüpfen ist eine Berechtigung als Administrator erforder
 
 
 Mit *Bank account erstellen* wird das Bankkonto in der Foodsoft angelegt. 
+
+> Die E-Banking Zugangsdaten fürs Bankkonto musst du erst beim Importieren der Bankdaten angeben, siehe unten.
+{.is-info}
+
+
+> Falls noch nicht geschehen, sollten noch [Transaktionsklassen und -typen](/de/documentation/admin/finances/accounts) eingerichtet werden.
+{.is-info}
 
 # Bankkontozeilen importieren und weiterverarbeiten
 
