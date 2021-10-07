@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T19:38:19.448Z
+date: 2021-10-07T19:48:34.811Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -146,10 +146,10 @@ Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres
 
 Angenommen, es gibt Rechnungen mit folgenden Rechnungsnummer:
 
-a. "1"
-b. "3"
-c. "2020-10"
-d. "\#789"
++ a. "1"
++ b. "3"
++ c. "2020-10"
++ d. "\#789"
 
 Die folgende Verwendungszwecke würde folgende Rechnungen matchen:
 
@@ -178,7 +178,9 @@ Oft handelt es sich hier um Einzieher, das heißt es werden monatlich, quartalsw
 - Bank für quartalsweisen Abzug der Kontoführungsgebühren
 - Sonstiges für nicht regelmäßge Aufgaben 
 
-**Beispiel**: die Wohungsgenossenschaft, die den Lagerraum vermietet, bucht monatlich 200 Euro Miete vom Bankkonto der Foodcoop ab. 
+### Beispiel
+
+Die Wohungsgenossenschaft, die den Lagerraum vermietet, bucht monatlich 200 Euro Miete vom Bankkonto der Foodcoop ab. 
 
 1. In der Foodsoft wird eine **Lieferantin** „Wohnungsgenossenschaft“ angelegt der Kategorie „Betriebskosten“.
 2. Nach Ablauf eines Jahres erstellt die FC in der Foodsoft eine (fiktive) Jahres-**Rechnung** für die Lieferantin „Wohnungsgenossenschaft“ über 12 x 200 = 2.400 Euro mit Rechnungsdatum = bezahlt-am-Datum = Enddatum des Rechnungszeitraums sowie einer Rechnungsbetreff z.B. für den Zeitraum („Oktober 2019 bis September 2020). Noch besser wäre es, die Jahresabrechnung und deren Zeitraum zu verwenden. 
