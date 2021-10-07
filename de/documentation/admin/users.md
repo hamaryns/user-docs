@@ -2,7 +2,7 @@
 title: Benutzerinnen-Verwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-07T18:47:06.257Z
+date: 2021-10-07T18:57:52.710Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -138,11 +138,11 @@ Berechtigungen können entweder über *Adminstration \> Arbeitsgruppen* oder pau
 
 ### Lieferanten
 
-Menü „Artikel“ wird angezeigt, kann Lieferanten, Lager und Lagerartikel einsehen und bearbeiten, jedoch nicht die Artikel der Lieferanten einsehen: Link auf Artikel bei Lieferanten scheint zwar auf, aber beim Anklicken kommt Hinweis: keine Berechtigung
+Menü *Artikel* wird angezeigt, kann Lieferanten, Lager und Lagerartikel einsehen und bearbeiten, jedoch nicht die Artikel der Lieferanten einsehen: Link auf Artikel bei Lieferanten scheint zwar auf, aber beim Anklicken kommt Hinweis: keine Berechtigung
 
 ### Artikeldatenbank (Artikel)
 
-Wird als Berechtigung „Artikel“ angezeigt, beim Einstellen heißt die Berechtigung „Artikeldatenbank“. Menü „Artikel“ wird angezeigt, alle Unterpunkte können eingesehen und bearbeitet werden, auf Lieferanten (schließt Berechtigung Lieferanten mit ein).
+Wird als Berechtigung „Artikel“ angezeigt, beim Einstellen heißt die Berechtigung „Artikeldatenbank“. Menü *Artikel* wird angezeigt, alle Unterpunkte können eingesehen und bearbeitet werden, auch *Lieferanten* (schließt Berechtigung Lieferanten mit ein).
 
 ...
 
@@ -157,14 +157,16 @@ Achtung, für das Anlegen einer Lagerbestellung ist zumindest die Berechtigung �
 
 ### Abholtage
 
-Mitglieder mit Abholtage Berechtigung können im _Menü \> Bestellungen \> Abholtage wählen. Dort kannst du bei der jeweiligen Bestellung auf den _Download_*-Schalter drücken und zb. _Gruppen PDF_ wählen. Freischalten der Funktion Abholtage für eine FoodCoop (Untermenü Bestellungen)
-- Es gibt unter _Menü \> Administration \> Arbeitsgruppen_die Möglichkeit einer Arbeitsgruppe die Berechtigung Abholtage zu erteilen. Bitte beachte dass Berechtigungen nur von Admins vergeben werden können. 
-- Alternativ kann die Berechtigung über Administration \> Einstellungen \> Sicherheit \> Jedes Mitglied der Foodcoop hat automatisch Zugriff auf folgende Bereiche: Abholtage auch für alle Mitglieder gesetzt werden.
+Mitglieder mit Abholtage Berechtigung können im Menü *Bestellungen > Abholtage* sehen. Dort können sie bei der jeweiligen Bestellung auf  *Download* drücken und z.B. Gruppen PDF wählen. 
+
+Freischalten der Funktion Abholtage:
+- Es gibt unter *Administration > Arbeitsgruppen* die Möglichkeit, einer oder mehreren Arbeitsgruppen die Berechtigung Abholtage zu erteilen.  
+- Alternativ kann die Berechtigung über *Administration > Einstellungen > Sicherheit > Jedes Mitglied der Foodcoop hat automatisch Zugriff auf folgende Bereiche* die Berechtigung "Abholtage" auch pauschal für alle Mitglieder gesetzt werden.
 
 
 ### Finanzen
 
-Zeigt das gesamte Menü Finanzen an, schließt Rechnungen mit ein.
+Zeigt das gesamte Menü *Finanzen* an, schließt das Untermenü *Rechnungen* mit ein.
 
 Berechtigt zu:
 - Foodsoft Transaktionen erstellen
@@ -174,7 +176,7 @@ Berechtigt zu:
 
 ### Rechnungen
 
-Zeigt den Menüpunkt „Finanzen \> Rechnungen“ an. Ohne die zusätzliche Berechtigung „Finanzen“ wird sonst kein Menüpunkt des Finanzen-Menüs angezeigt.
+Zeigt den Menüpunkt *Finanzen > Rechnungen* an. Ohne die zusätzliche Berechtigung „Finanzen“ wird sonst kein Menüpunkt des Finanzen-Menüs angezeigt.
 
 Rechnungen zu Bestellungen können angelegt werden, aber Bestellungen können nicht angepasst oder abgerechnet werden.
 
@@ -195,22 +197,24 @@ Berechtigt zu:
   - Links
   - Einstellungen: 
 
-Dieses Berechtigung sollte aufgeteilt werden in „Mitgliederverwaltung“ und „Einstellungen“, siehe auch: [*https://github.com/foodcoops/foodsoft/issues/825*](https://github.com/foodcoops/foodsoft/issues/825)
+> Dieses Berechtigung sollte aufgeteilt werden in „Mitgliederverwaltung“ und „Einstellungen“, siehe auch: [https://github.com/foodcoops/foodsoft/issues/825](https://github.com/foodcoops/foodsoft/issues/825)
+{.is-danger}
+
 
 ## Beispiele für typische Aufgaben und Berechtigungen
-- Regelmäßig wiederkehrende Bestellungen anlegen: 
+- Regelmäßig wiederkehrende **Bestellungen anlegen**: 
   - Bestellungen 
   - Für Lagerbestellungen: Lieferanten oder Artikeldatenbank
-- LieferantInnen Betreuung durch FC Mitglieder: Lieferantin und Artikel anlegen/aktualisieren, Bestellungen anlegen und annehmen (anpassen an tatsächlich gelieferte Mengen), Rechnungen der Lieferantin in die Foodsoft eingeben
+- **Lieferantinnen Betreuung** durch FC Mitglieder: Lieferantin und Artikel anlegen/aktualisieren, Bestellungen anlegen und annehmen (anpassen an tatsächlich gelieferte Mengen), Rechnungen der Lieferantin in die Foodsoft eingeben
   - Lieferanten, Artikel, Bestellung, Abholtage, Rechnungen 
-- ProduzentInnen, die selber Zugriff auf die Foodsoft haben sollen, um dort ihre Artikel zu aktualisieren und Bestellungen anzulegen: 
+- **Produzentinnen**, die selber Zugriff auf die Foodsoft haben sollen, um dort ihre Artikel zu aktualisieren und Bestellungen anzulegen: 
   - Lieferanten, Artikel, Bestellung
-- Bestellungen abrechnen: Bestellungen anpassen an tatsächlich gelieferte Mengen, Ausgleichstransaktionen bei abweichenden Gewichten/Preisen
+- **Bestellungen abrechnen**: Bestellungen anpassen an tatsächlich gelieferte Mengen, Ausgleichstransaktionen bei abweichenden Gewichten/Preisen
   - Finanzen
-- Mitglieder Betreuung
-  - Administration: Mitglieder und Bestellgruppen Verwalten
+- **Mitglieder Betreuung**
+  - Administration: Mitglieder und Bestellgruppen anlegen und verwalten
   - Finanzen: Guthaben manuell aufladen bei Neumitgliedern, Guthaben entleeren bei Austritten, Mitgliedsbeiträge abbuchen
-- Finanzteam mit Zugriff aus Foodcoop-Bankkonto
+- **Finanzteam** mit Zugriff aus Foodcoop-Bankkonto
   - Finanzen: Bankkontodaten importieren, Rechnungen bezahlen,
         manuelle Transkationen Guthaben Bestellgruppen 
 
