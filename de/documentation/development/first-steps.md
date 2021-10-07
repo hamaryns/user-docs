@@ -2,15 +2,17 @@
 title: Erste Schritte
 description: 
 published: true
-date: 2021-10-07T22:02:21.677Z
+date: 2021-10-07T22:07:05.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
 ---
 
+Die Foodsoft ist eine frei zugängliche Software, geschrieben in der Sprache Ruby basierend auf Rails. Die Quelltexte dafür sind auf der Web-Plattform Github öffentlich zugänglich. 
+
 # Github Repositories
 
-Die Foodsoft ist eine frei zugängliche Software. Die Quelltexte dafür sind auf der Web-Plattform Github öffentlich zugänglich. Über diese Plattform kannst du 
+Über diese Plattform kannst du 
 - die Foodsoft herunterladen, um sie 
   - auf deinem Rechner lokal zu installieren, um sie dort auszuprobieren oder auch Änderungen im Quelltext durchzuführen und sie zu testen
   - auf einem Webserver zu installieren, um sie den Mitgliedern deiner Foodcoop zugänglich zu machen
@@ -58,3 +60,21 @@ Folgende Links führen zu den Github Repositories:
 ### Github mit SSH-Verbindung einrichten
 1. https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh 
 2. https://docs.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh 
+
+
+# Ruby on Rails 
+Allgemeine Einführungen zum Ruby Framework für Web-Applikationen:
+- https://www.tutorialspoint.com/ruby-on-rails/rails-introduction.htm 
+- Ruby in 20 Minutes: https://www.ruby-lang.org/en/documentation/quickstart/  
+
+# Foodsoft Dateistruktur
+
+https://github.com/foodcoops/foodsoft/ 
+
+Wo ist im Code was zu finden? Hier nur ein Auszug, bitte gerne erweitern!
+- Datenbank Spezifikationen: app/models/...
+  - Zeichenanzahl  Begrenzungen für Eingabefelder
+  - Überprüfungen von Eingaben: z.B. unique (Name darf nur einmal vergeben werden, z.B. bei Artikelnamen)
+- Übersetzungstexte für deutsche Foodsoft Version bearbeitbar über
+  - https://crowdin.com/translate/foodsoft/ - wird nur 1-2 mal im Jahr übernommen, wenn ein „echtes Release“ herauskommt
+  - `config/locales/de.yml` 
