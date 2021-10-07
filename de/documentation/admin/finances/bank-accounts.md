@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T20:20:48.108Z
+date: 2021-10-07T20:22:59.141Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -98,6 +98,8 @@ Mit *Bank account erstellen* wird das Bankkonto in der Foodsoft angelegt.
 
 
 ## Import
+
+Das Importieren der Kontozeilen erfolgt bei den meisten Bankanbindungen nicht automatisch und muss jedesmal nach Eingang neuer Banktransaktionen in der Foodsoft durchgeführt werden. 
 1.  *Finanzen \> Bankkonten \> Importieren*: Ebanking Zugangsdaten bei Disposer-Nr. und PIN eingeben;  Mit der Option „Remember“ merkt sich der Browser deine Zugangsdaten, und du brauchst sie beim nächsten Mal nicht mehr einzugeben.
 2.  Es sollte in deiner Bank-App am Smartphone eine Anfrage für eine Freigabe mit einem 4-stelligen Buchstaben/Zahlencode erscheinen, der auch in der Foodsoft angezeigt wird. Diese Freigabe bitte im Bank-App erteilen durch Eingabe deines Codes, Fingerabdrucks oder ähnlichem.
 3.  Neue Kontozeilen werden in die Foodsoft importiert. Die Buchungszeilen werden zunächst noch nicht bearbeitet, es finden während des Imports keine Foodsoft-Transaktionen für Mitglieder statt, es werden keine Rechnungen als bezahlt markiert, und noch keine Finanzlinks erstellt, erkennbar an den grünen Schaltflächen in der Spalte Finanzlink „Hinzufügen“.
