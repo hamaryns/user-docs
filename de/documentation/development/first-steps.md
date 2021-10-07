@@ -1,8 +1,8 @@
 ---
 title: Erste Schritte
-description: 
+description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-10-07T22:07:05.681Z
+date: 2021-10-07T22:09:49.346Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
