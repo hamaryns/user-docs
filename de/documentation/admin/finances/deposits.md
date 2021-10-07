@@ -2,7 +2,7 @@
 title: Pfand
 description: Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 published: true
-date: 2021-10-07T17:25:14.541Z
+date: 2021-10-07T17:44:25.239Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
@@ -10,30 +10,30 @@ dateCreated: 2021-06-06T17:40:08.481Z
 
 # Pfand in der Foodcoop
 
-Es gibt unterschiedliche Philosophien, wie Pfand in einer Foodcoop gehandhabt werden kann.
- 
- 
-> Bei allen Varianten braucht es das Vertrauen zu den Mitgliedern der Foodcoop, damit die Foodcoop keinen finanziellen Schaden erleidet. Dazu ist es wichtig, die Mitglieder gut zu informieren. 
+Viele Prodzentinnen nehmen Leergebinde zurück, um es wiederzuverwenden. Manche verrechnen ein Pfand, um die Kosten für das Gebinde im Fall eines Verlusts abzudecken und die Rückgabe zu fördern, anderen ist dieser Aufwand zu hoch und sie vertrauen darauf, dass das Leergebinde auch ohne Pfand zurück kommt.
+
+Es gibt unterschiedliche Philosophien, wie Pfand in einer Foodcoop gehandhabt werden kann, wie im Folgenden erläutert wird.
+  
+> Bei allen Varianten braucht es das Vertrauen zu den Mitgliedern der Foodcoop, damit die Foodcoop keinen finanziellen Schaden erleidet. Dazu ist es wichtig, die Mitglieder gut zu informieren. Je einfacher das System, desto höher die Chancen, dass es klappt und niemand draufzahlt.
 {.is-warning}
  
-## Weitergabe des Produzenten-Pfands
-Eine 1:1 Weitergabe des Produzenten-Pfands ist für die Foodcoop die sicherste Variante, bedeutet aber für die Pfandauszahlung einen erhöhten Aufwand (für welche Artikel bekomme ich wieviel Pfand gutgeschrieben)? 
+## Weitergabe des Produzentinnen-Pfands
+Eine 1:1 Weitergabe des Produzentinnen-Pfands ist für die Foodcoop die sicherste Variante, bedeutet aber für die Pfandauszahlung einen erhöhten Aufwand (für welches Gebinde bekomme ich wieviel Pfand gutgeschrieben)? 
 
 Mögliche Fehlerquellen: 
-- falscher Pfandbetrag wird gutgeschrieben.
+- falscher Pfandbetrag wird dem Mitglied von Foodcoop gutgeschrieben.
 
 ## Einheitliches Foodcoop-Pfand
-Alles Leergut, das an die Produzenten zurückkommen soll, hat ein einheitliches Pfand, z.B. 50 Cent, unabhängig vom Pfand des Produzenten. Einfach für Mitglieder, sie brauchen bei der  Rückgabe nicht lange recherchieren, wieviel Pfand sie bekommen; außerdem entsteht dadurch eine Motivation für die ökologisch sinnvolle Wiederverwendung, auch wenn vom Produzenten kein oder nur ein sehr niedriges Pfand verrechnet wird. 
+Alles Leergut, das an die Produzentinnen zurückkommen soll, hat ein einheitliches Pfand, z.B. 50 Cent, unabhängig vom Pfand das die Produzentin verrechnet, oder ob sie überhaupt eines verrechnet. Einfach für Mitglieder, sie brauchen bei der  Rückgabe nicht lange recherchieren, wieviel Pfand sie bekommen; außerdem entsteht dadurch eine Motivation für die ökologisch sinnvolle Wiederverwendung, auch wenn von der Produzentin kein oder nur ein sehr niedriges Pfand verrechnet wird. 
 
 Mögliche Fehlerquellen: 
-- Pfand wird gutgeschrieben für Leergut, das woanders bezogen wurde und für das keines oder ein geringeres Pfand bezahlt wurde.
+- Pfand wird gutgeschrieben für Leergut, das woanders bezogen wurde und für das daher der Foodcoop kein oder ein geringeres Pfand bezahlt wurde.
 
 ## Kein Pfand in der Foodcoop
 Die Foodcoop übernimmt die Pfandkosten, und vertraut darauf, dass die Mitglieder das Leergut auch wieder zurückbringen. 
 
-
 Mögliche Fehlerquellen: 
-- Leergut wird nicht oder woanders (z.B. im Handel) zurückgegeben.
+- Leergut wird nicht oder woanders (z.B. im Handel) zurückgegeben. Das von der Foodcoop an die Lieferantin bezahlte Pfand kommt nicht mehr zur Foodcoop zurück, sondern verbleibt dem Mitglied als Leergut (obwohl Eigentum der Foodcoop, Beispiel-Motivation: *"die Gläser eigenen sich so gut zur Aufbewahrzung von Lebensmitteln"*), oder falls woanders gegen Pfandauszahlung zurückgegeben, als "Gewinn", solange das ausbezahlte Pfand nicht an die Foocoop weitergereicht wird.
 
 
 # Pfand in der Foodsoft
