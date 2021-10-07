@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T21:16:10.817Z
+date: 2021-10-07T21:29:21.763Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -14,9 +14,9 @@ dateCreated: 2021-04-20T23:17:42.160Z
 
 Die Foodcoop bietet die Option einer Bankanbindung. Wenn eingerichtet, ermöglicht dies der Foodsoft einen Zugriff auf die Transaktionshistorie der Vereinskonten. Dies bietet folgende Vorteile:
 - **Überweisungen der Mitglieder** auf das Vereinskonto können von der Foodsoft automatisiert durch die Verwendung von Zahlunsgreferenzcodes automatisch erkannt und den Bestellgruppen zugeordnet werden. So entfällt der manuelle Prozess, z.B. Bestellguthaben oder Mitgliedsbeitrag den Bestellgruppen in der Foodsoft gut zu geschreiben. 
-- **Überweisungen von Rechnungen** an die Lieferantinnen können von der Foodsoft erkannt, zugeornet und als bezahlt („Bezahlt am“-Feld) markiert werden.   Für diese Funktion muss das IBAN-Feld der Lieferanten befüllt sein. Die Foodsoft vergleicht IBAN, Rechnungsnummer und Betrag der Kontotransaktionen mit den Rechnungen.
+- **Überweisungen von Rechnungen** an die Lieferantinnen können von der Foodsoft erkannt, zugeornet und als bezahlt markiert werden.  
 - Es werden interne Querverweise, genannt **Finanzlinks**, (teilweise) automatisch erstellt. Dies ermöglicht es, Buchungen zu verknüpfen, um diese jederzeit nachvollziehbar zu gestalten. Werden alle Banktransaktionen, Kontotransaktionen und Rechnungen mit einem Finanzlink verknüpft, lässt sich eine nachvollziehbare (einfache) doppelte Buchhaltung umsetzten.
-    - Dies spart eine externe Buchungssoftware bzw. redudantes mitschreiben.
+    - Dies spart eine externe Buchungssoftware bzw. redudantes Mitschreiben.
     - In Verknüpfung mit Trennung in Kontotransaktionstypen wie etwa Treuhand und Verein ermöglicht dies eine saubere Buchhaltung mit nur einem Vereinskonto
 - Es werden auch **mehrere Vereinskonten** unterstützt. 
 
@@ -28,12 +28,16 @@ Die Foodcoop bietet die Option einer Bankanbindung. Wenn eingerichtet, ermöglic
 
 Die Bankkontozeilen werden je nach Bank und Unterstütztung der Bankanbindung händisch/halbautomatisch oder automatisiert importiert. 
 
+> Da sich noch kein einheitlicher Standard für die Kommunikation mit E-Banking-Systemen durchgesetzt hat, und die Kommunikation bis auf wenige Ausnahmen nicht dokumentiert bzw. öffentlich ist, muss die Bankanbindung für jede Bank angepasst werden. Dies erfolgt daher meist durch "Abhorchen" der Kommunikation zwischen Webbrowser und E-Banking-Server und erfordert einiges an Spezialwissen. 
+{.is-info}
+
+
 Für folgende Banken unterstützt die Foodsoft eine Bankanbindung:
 
 
 ### Vollautomatisch
 
-> Synchronisation zwei mal Täglich um 08:00 und 18:00
+> Synchronisation zwei mal täglich um 08:00 und 18:00
 {.is-info}
 - Erste Bank Sparkasse (George)
 
