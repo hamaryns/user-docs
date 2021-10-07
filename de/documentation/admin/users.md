@@ -2,7 +2,7 @@
 title: Benutzerinnen-Verwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-07T18:57:52.710Z
+date: 2021-10-07T19:14:45.270Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -93,7 +93,7 @@ Spalte Aktionen *Bearbeiten* klicken, oder *Details anzeigen (auf Name klicken) 
 {.is-danger}
 
 ## CSV Export
-Liste aller Benutzerinnen in [CSV-Tabellenformat](./csv) exportieren.
+Liste aller Benutzerinnen in  [CSV-Tabellenformat](/de/documentation/admin/lists) exportieren.
 
 
 # Bestellgruppen
