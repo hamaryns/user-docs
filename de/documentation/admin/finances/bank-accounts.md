@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T20:44:16.862Z
+date: 2021-10-07T20:49:40.325Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -150,8 +150,9 @@ Was wird genau überprüft und muss ident sein, damit die Überweisung einer Foo
 
 1.  Anhand der **IBAN** der LieferantIn werden offenen Rechnungen gesucht. Die IBAN muss in der Foodsoft unter *Artikel > Lieferanten* bei der jeweiligen Lieferantin unter *Bearbeiten* im Feld *IBAN* eingegeben sein.
 2.  Für jede **Rechnungsnummer** der Rechnung wird geprüft, ob diese im Verwendungszweck vorkommt.
-3.  Wenn die Summe der "passenden" Rechnungen mit dem **Überweisungsbetrag** übereinstimmt, wird eine Finanzlink angelegt und die Rechnungen als bezahlt markiert.
+3.  Die Summe der anhand der Rechnungsnummern "passenden" Rechnungen muss mit dem **Überweisungsbetrag** übereinstimmen.
 
+Wenn alle drei Kriterien zutreffen, wird ein Finanzlink angelegt und die Rechnung(en) als bezahlt markiert.
 
 
 > **Leerzeichen** in der Rechnungsnummer sollten kein Problem sein, z.B. Rechnungsnummer in der Foodsoft "2020-1 bis 3", Überweisung mit Zahlungsreferenz "Rechnungen 2020-1 bis 3" ok.
@@ -164,7 +165,7 @@ Was wird genau überprüft und muss ident sein, damit die Überweisung einer Foo
 
 ### Beispiele zur automatischen Erkennung von Rechnungsnummern
 
-Angenommen, es gibt Rechnungen mit folgenden Rechnungsnummer:
+Angenommen, es gibt Rechnungen mit folgenden Rechnungsnummern:
 
 + a. "1"
 + b. "3"
