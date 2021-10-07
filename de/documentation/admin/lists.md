@@ -2,15 +2,15 @@
 title: Listen in der Foodsoft
 description: Tipps für Foodsoft Administratorinnen im Umgang mit Listen
 published: true
-date: 2021-10-07T19:13:19.659Z
+date: 2021-10-07T19:15:58.796Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-02T10:46:10.173Z
 ---
 
-# Foodsoft Listen
+# Foodsoft Listen (Tabellen)
 
-Vieles wird in der Foodsoft in Form von Listen angezeigt, z.B.:
+Vieles wird in der Foodsoft in Form von Listen (Tabellen) angezeigt, z.B.:
 - Lieferantinnen, Artikel
 - Benutzerinnen, Bestellgruppen
 - Bestellungen
