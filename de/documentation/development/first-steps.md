@@ -2,23 +2,59 @@
 title: Erste Schritte
 description: 
 published: true
-date: 2021-10-03T09:58:25.094Z
+date: 2021-10-07T22:02:21.677Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
 ---
 
-# Quellcode und weitere Informationen
+# Github Repositories
+
+Die Foodsoft ist eine frei zugängliche Software. Die Quelltexte dafür sind auf der Web-Plattform Github öffentlich zugänglich. Über diese Plattform kannst du 
+- die Foodsoft herunterladen, um sie 
+  - auf deinem Rechner lokal zu installieren, um sie dort auszuprobieren oder auch Änderungen im Quelltext durchzuführen und sie zu testen
+  - auf einem Webserver zu installieren, um sie den Mitgliedern deiner Foodcoop zugänglich zu machen
+- Issues einbringen, wenn du auf Fehler (Bugs) draufgekommen bist, oder dir neue Funktionen wünscht, und auch  Issues von anderen einsehen und kommentieren (z.B. in der Art wie: ja das ist für mich auch relevant)
+-  Von dir modifizierte oder neu geschriebene Quellcodes für Änderungs- und Erweiterungsvorschläge hochladen (Pull Requests), die dann hoffentlich von den anderen für gut geheißen werden, sodass sie „commited“ werden und damit offiziell Teil der Foodsoft werden
+
+Folgende Links führen zu den Github Repositories:
+- https://github.com/foodcoops/foodsoft – der Hauptzweig der Foodsoft.
+- https://github.com/foodcoopsat/foodsoft – eine Abspaltung („Fork“) des Hauptzweigs, der den Stand der Foodsoft am IG Foodcoops Server (https://app.foodcoops.at/...) wiederspiegeln sollte. Manche Erweiterungen sind hier für die österreichischen Foodcoops integriert, die für Foodcoops in anderen Ländern nicht „relevant“ sind.
+- Sobald du dich registrierst und selbst Änderungen durchführst, solltest du einen Fork für deine Änderungen anlegen, der dann unter https://github.com/DEIN_GITHUB_BENUTZERNAME/foodsoft erreichbar ist.
+
+# Installation der Foodsoft
+- [Foodsoft setup manuell](https://github.com/foodcoops/foodsoft/blob/master)
+- [Foodsoft setup Docker](https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md)
+{.links-list}
 
 
-> [Foodsoft auf GitHub](https://github.com/foodcoops/foodsoft)
-{.is-info}
+## Anleitung für Ubuntu Linux über Docker
+
+> Diese Anleitung ist möglicherweise unvollständig und wurde schon länger nicht mehr getestet.
+{.is-warning}
 
 
-> [Foodsoft setup manuell](https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT.md)
-{.is-info}
+### Installation
+1. Docker Engine installieren:  https://docs.docker.com/engine/install/ubuntu/ 
+2. Docker Compose installieren: https://docs.docker.com/compose/install/ > Linux (Aktuelle Version 1.28 oder ähnlich ist höher als erforderliche Version 1.4)
+3. Docker so konfigurieren, dass es die nötigen Berechtigungen hat: https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user 
+4. Computer neu starten, damit Änderungen wirksam werden, zum Testem `docker run hello-world` ausführen, es dürfen keine Fehlermeldungen kommen 
+5. Github installieren mit `sudo apt-get install git`, siehe auch https://git-scm.com/download/linux 
+6. Auf Github registrieren: Grundsätzlich kannst du dir den Quelltext mit „Download“ auch einfach herunterladen, um die Foodsoft lokal bei dir zu installieren. Sobald du jedoch veränderte Quellcodes wieder auf Github hochladen möchtest, kommt es zu  Problemen, wenn die Foodsoft in der Zwischenzeit durch andere auf Github verändert wurde. Daher zahlt es sich aus, den Quellcode gleich ordentlich „abzuzweigen“, sodass dann zu einem späteren Zeitunkt auch wieder ein reibungsloses Hochladen von Änderungen (push) möglich ist.
+7. Fork erzeugen
+8. Foodsoft herunterladen mit `git clone https://github.com/foodcoops/foodsoft.git`
+9. Docker Compose aus dem Verzeichnis `foodsoft` aufrufen (dort befindet sich die Datei `docker-compose-dev.yml`), wie unter Setup beschrieben: https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md 
+     - `docker-compose -f docker-compose-dev.yml up -d mariadb`
+     - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle install`
+     - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle exec rake  foodsoft:setup_development_docker`
+     - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle exec rake db:schema:load db:seed:small.en`
 
+### Lokale Instanz starten
+1. Foodsoft „lokalen Server starten“: `docker-compose -f docker-compose-dev.yml up`
+2. Falls es beim ersten Mal nach der Installation zu Fehlermeldungen kommt, den Computer neu starten und Schritt 1 wiederholen
+3. Aufruf der lokalen Instanz im Webbrowser:  http://localhost:3000 
+4. Anmelden mit Benutzer `admin` und Passwort `secret`
 
-
-> [Foodsoft setup Docker](https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md)
-{.is-info}
+### Github mit SSH-Verbindung einrichten
+1. https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh 
+2. https://docs.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh 
