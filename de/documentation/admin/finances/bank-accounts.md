@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T20:22:59.141Z
+date: 2021-10-07T20:29:04.796Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -135,8 +135,10 @@ Folgend Funktionen stehen unter *Finanzen > Bankkonten* in der Spalte *Finanzlin
 ## Foodsoft Rechnungen
 
 Automatisch mit *Finanzen > Bankkonten > Import > Transaktionen* zuordnen:
-- Transaktion wird mit Rechnung verknüpft
-- Rechnung wird als bezahlt mit entsprechendem Datum markiert und verschwindet damit aus der *Liste Finanzen > Übersicht > unbezahlte Rechnungen*
+- Banktransaktion wird über Finanzlink mit [Rechnung](/de/documentation/admin/finances/invoices) verknüpft.
+- Rechnung wird als bezahlt mit entsprechendem Datum markiert und verschwindet damit aus der Liste *Finanzen > Übersicht > unbezahlte Rechnungen*.
+
+### Kriterien für die Zuordnung
 
 Was wird genau überprüft und muss ident sein, damit die Überweisung einer Foodsoft-Rechnung zugeordnet wird:
 
@@ -154,22 +156,16 @@ Was wird genau überprüft und muss ident sein, damit die Überweisung einer Foo
 {.is-info}
 
 
-Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres der oben angeführten Kriterien nicht erfüllt war, sollten ersatzweise folgende Schritte zur **manuellen Zuordnung** durchgeführt werden:
-
-1.  *Finanzen \> Bankkonten \> Buchungszeile für Rechnung \> Finanzlink hinzufügen \> Rechnung(en) hinzufügen* \> entsprechende Rechnung in der Liste auswählen (eventuel Fenster vergrößern oder mit F11 auf Vollbild schalten um „Speichern“ Schaltfläche anzuzeigen); Schritt mehrmals ausführen wenn mehrere Rechnungen zu verknüpfen sind
-2.  *Finanzlink anzeigen \> Rechnung auswählen \> Bearbeiten bezahlt am*: aktuelles Datum  eingeben
-3.  *Finanzen \> Überblick \> unbezahlte Rechnungen*: prüfen, ob die manuell als bezahlt gekennzeichnete Rechnung dort nicht mehr aufscheint 
-
-### Beispiel zur automatischen Erkennung von Rechnungsnummern
+### Beispiele zur automatischen Erkennung von Rechnungsnummern
 
 Angenommen, es gibt Rechnungen mit folgenden Rechnungsnummer:
 
 + a. "1"
 + b. "3"
 + c. "2020-10"
-+ d. "\#789"
++ d. "#789"
 
-Die folgende Verwendungszwecke würde folgende Rechnungen matchen:
+Die folgende Verwendungszwecke würden jeweils folgende Rechnungen zugeordnet:
 
 - "1"         (a)
 - "Rechnung 1" (a)
@@ -178,8 +174,17 @@ Die folgende Verwendungszwecke würde folgende Rechnungen matchen:
 - "ReNr: 1, 3" (a) und (b)
 - "Nr 333"    (b)
 - "2020-10"   (a) und (c)
-- "\#789"      (d)
+- "#789"      (d)
 - "789"       nichts
+
+
+### Manuelle Zuordnung
+
+Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres der oben angeführten Kriterien nicht erfüllt war, sollten ersatzweise folgende Schritte zur manuellen Zuordnung durchgeführt werden:
+
+1.  *Finanzen \> Bankkonten \> Buchungszeile für Rechnung \> Finanzlink hinzufügen \> Rechnung(en) hinzufügen* \> entsprechende Rechnung in der Liste auswählen (eventuel Fenster vergrößern oder mit F11 auf Vollbild schalten um „Speichern“ Schaltfläche anzuzeigen); Schritt mehrmals ausführen wenn mehrere Rechnungen zu verknüpfen sind
+2.  *Finanzlink anzeigen \> Rechnung auswählen \> Bearbeiten bezahlt am*: aktuelles Datum  eingeben
+3.  *Finanzen \> Überblick \> unbezahlte Rechnungen*: prüfen, ob die manuell als bezahlt gekennzeichnete Rechnung dort nicht mehr aufscheint 
 
 
 ## Sonstige Bankkonto-Transaktionen
