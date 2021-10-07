@@ -2,7 +2,7 @@
 title: Einstellungen
 description:  Erklärung zu globalen/administrativen Einstellungen der Foodsoft (Menü: "Administration")
 published: true
-date: 2021-10-07T18:07:08.372Z
+date: 2021-10-07T18:34:41.218Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:20:52.701Z
@@ -18,15 +18,19 @@ Wenn Emails an Mitglieder oder Lierantinnen nicht zugestellt werden können, leg
 
 # Finanzen
 
-> Hier fehlt noch ein Text.
-> {.is-danger}
 
 ## Kontotransaktionsklassen und -typen
+
+> Hier fehlt noch ein Text.
+> {.is-danger}
 
 Siehe auch  [Konten](/de/documentation/admin/finances/accounts).
 
 
 ## Bankkonten und Gateways
+
+> Hier fehlt noch ein Text.
+> {.is-danger}
 
 Siehe auch [Bankkonto](/de/documentation/admin/finances/bank-accounts).
 
