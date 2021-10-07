@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T20:36:14.507Z
+date: 2021-10-07T20:42:26.938Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -13,14 +13,14 @@ dateCreated: 2021-04-20T23:17:42.160Z
 ## Was ermöglicht die Bankanbindung?
 
 Die Foodcoop bietet die Option einer Bankanbindung. Wenn eingerichtet, ermöglicht dies der Foodsoft einen Zugriff auf die Transaktionshistorie der Vereinskonten. Dies bietet folgende Vorteile:
-- **Überweisungen der Mitglieder** auf das Vereinskonto können von der Foodsoft automatisiert durch die Verwendung von Zahlunsgreferenzcodes automatisch erkannt und den Bestellgruppen zugeordnet werden. So entfällt der manuelle Prozess, z.B. Einkaufsguthaben oder Mitgliedsbeitrag den Bestellgruppen in der Foodsoft gut zu geschreiben. 
+- **Überweisungen der Mitglieder** auf das Vereinskonto können von der Foodsoft automatisiert durch die Verwendung von Zahlunsgreferenzcodes automatisch erkannt und den Bestellgruppen zugeordnet werden. So entfällt der manuelle Prozess, z.B. Bestellguthaben oder Mitgliedsbeitrag den Bestellgruppen in der Foodsoft gut zu geschreiben. 
 - **Überweisungen von Rechnungen** an die Lieferantinnen können von der Foodsoft erkannt, zugeornet und als bezahlt („Bezahlt am“-Feld) markiert werden.   Für diese Funktion muss das IBAN-Feld der Lieferanten befüllt sein. Die Foodsoft vergleicht IBAN, Rechnungsnummer und Betrag der Kontotransaktionen mit den Rechnungen.
 - Es werden interne Querverweise, genannt **Finanzlinks**, (teilweise) automatisch erstellt. Dies ermöglicht es, Buchungen zu verknüpfen, um diese jederzeit nachvollziehbar zu gestalten. Werden alle Banktransaktionen, Kontotransaktionen und Rechnungen mit einem Finanzlink verknüpft, lässt sich eine nachvollziehbare (einfache) doppelte Buchhaltung umsetzten.
     - Dies spart eine externe Buchungssoftware bzw. redudantes mitschreiben.
-    - In Verknüpfung mit Trennung in Kontotransaktoionstypen wie etwa Treuhand und Verein ermöglicht dies eine saubere Buchhaltung mit nur einem Vereinskonto
+    - In Verknüpfung mit Trennung in Kontotransaktionstypen wie etwa Treuhand und Verein ermöglicht dies eine saubere Buchhaltung mit nur einem Vereinskonto
 - Es werden auch **mehrere Vereinskonten** unterstützt. 
 
-> Die Foodsoft kann keine Transaktionen am Bankkonto selbst tätigen. Die  hierfür erforderliche Funktionialität wird gerade entwickelt (Stand  16.02.2021). 
+> Dass die Foodsoft Überweisungen am Bankkonto durchführen kann, um Rechnungen zu bezahlen, wird gerade entwickelt und befindet sich in der Testphase (Stand  16.02.2021). 
 {.is-danger}
 
 
