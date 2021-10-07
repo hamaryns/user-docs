@@ -2,7 +2,7 @@
 title: Listen in der Foodsoft
 description: Tipps für Foodsoft Administratorinnen im Umgang mit Listen
 published: true
-date: 2021-10-03T19:33:24.615Z
+date: 2021-10-07T19:13:19.659Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-02T10:46:10.173Z
@@ -51,3 +51,19 @@ anzuzeigen.
 
 > Hier fehlt noch Info.
 {.is-info}
+
+
+# Export und Import über CSV Tabellen
+
+Manche Listen wie z.B. die der [Foodcoop-Mitglieder](/de/documentation/admin/users) können als CSV-Tabellen exportiert oder manchmal auch importiert werden.
+
+CSV ist ein Dateiformat mit der Dateiendung `.csv`, um Tabellendaten im Textformat abzuspeichern können. Die Foodsoft verwendet ein Semikolon `;` um die Werte aus nebeneinanderliegenden Spalten voneinander zu trennen. Jede Tabellenzeile ist eine Textzeile. CSV-Dateien können mit reinen Texteditoren betrachtet und bearbeitet werden, oder empfehlenswerter mit Tabellenprogrammen wie z.B. LibreOffice Calc oder MS Excel.
+
+Tabellenprogramme ermöglichen komplexere Auswertungen und Bearbeitungen von Tabellendaten wie Filterung, Berechnung von Zahlen mit Formeln, Bildung von Summen, automatisierte Erstellung von Texten (z.B. mehrere Infos in Artikelbezeichnung einfügen) und vieles mehr. 
+
+> Hier fehlt noch Info.
+{.is-info}
+
+## Links
+
+- https://de.wikipedia.org/wiki/CSV_(Dateiformat)
