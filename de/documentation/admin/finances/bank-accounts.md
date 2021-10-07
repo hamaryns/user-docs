@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T20:52:24.741Z
+date: 2021-10-07T21:07:33.319Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -97,7 +97,7 @@ Mit *Bank account erstellen* wird das Bankkonto in der Foodsoft angelegt.
 {.is-info}
 
 
-> Falls noch nicht geschehen, sollten noch [Transaktionsklassen und -typen](/de/documentation/admin/finances/accounts) eingerichtet werden.
+> Falls noch nicht geschehen, sollten noch [Transaktionsklassen und -typen](/de/documentation/admin/finances/accounts) eingerichtet werden, um Zahlungsreferencodes verwenden zu können.
 {.is-info}
 
 # Bankkontozeilen importieren und weiterverarbeiten
@@ -105,10 +105,11 @@ Mit *Bank account erstellen* wird das Bankkonto in der Foodsoft angelegt.
 
 ## Import
 
-Das Importieren der Kontozeilen erfolgt bei den meisten Bankanbindungen nicht automatisch und muss jedesmal nach Eingang neuer Banktransaktionen in der Foodsoft durchgeführt werden. 
+Das Importieren der Kontozeilen erfolgt bei den meisten Bankanbindungen nicht automatisch und muss jedesmal nach Eingang neuer Banktransaktionen in der Foodsoft durchgeführt werden. Es werden dabei nur die jeweils neu hinzugekommenen Buchungszeilen importiert.
+
 1.  *Finanzen \> Bankkonten \> Importieren*: Ebanking Zugangsdaten bei Disposer-Nr. und PIN eingeben;  Mit der Option „Remember“ merkt sich der Browser deine Zugangsdaten, und du brauchst sie beim nächsten Mal nicht mehr einzugeben.
 2.  Es sollte in deiner Bank-App am Smartphone eine Anfrage für eine Freigabe mit einem 4-stelligen Buchstaben/Zahlencode erscheinen, der auch in der Foodsoft angezeigt wird. Diese Freigabe bitte im Bank-App erteilen durch Eingabe deines Codes, Fingerabdrucks oder ähnlichem.
-3.  Neue Kontozeilen werden in die Foodsoft importiert. Die Buchungszeilen werden zunächst noch nicht bearbeitet, es finden während des Imports keine Foodsoft-Transaktionen für Mitglieder statt, es werden keine Rechnungen als bezahlt markiert, und noch keine Finanzlinks erstellt, erkennbar an den grünen Schaltflächen in der Spalte Finanzlink „Hinzufügen“.
+3.  Neue Kontozeilen werden in die Foodsoft importiert, die Anzahl der Transaktionen wird angezeigt. Die Buchungszeilen werden zunächst noch nicht bearbeitet, es finden während des Imports keine Foodsoft-Transaktionen für Mitglieder statt, es werden keine Rechnungen als bezahlt markiert, und noch keine Finanzlinks erstellt, erkennbar an den grünen Schaltflächen in der Spalte Finanzlink *Hinzufügen*.
 4.  *Finanzen > Bankkonten > Transaktionen zuordnen*: durch diese Funktion werden Foodsoft Transaktionen auf Basis der Zahlungsreferenzcodes in den Überweisungen durchgeführt, Rechnungen als bezahlt markiert und die neu importierten Kontozeilen mit Finanzlinks den enstprechenden Transaktionen und Rechnungen zugeordnet, wie im Folgenden beschrieben. 
 
 
@@ -125,18 +126,35 @@ In folgenden Fällen wird mit der Funktion „Transaktionen zuordnen“ ein Fina
 - Buchung enthält **Zahlungsreferenzcode**: es wird eine entsprechende Foodsoft Kontotransktion durchgeführt, indem der entsprechenden Bestellgruppe der Betrag / die Beträge gutgeschrieben werden
 - Buchung kann einer Rechnung zugeordnet werden: die **Rechnung wird als bezahlt markiert**, siehe unten. 
 
-Falls eine Buchung nicht erkannt wird (z.B. weil Zahlungsreferenzcode fehlerhaft oder Rechnungsdaten  nicht übereinstimmen), erfolgt keine Aktion, die grüne Schaltfläche „Hinzufügen“ unter Finanzlinks bleibt erhalten. 
+Falls eine Buchung nicht erkannt wird (z.B. weil Zahlungsreferenzcode fehlerhaft oder Rechnungsdaten  nicht übereinstimmen), erfolgt keine Aktion, die grüne Schaltfläche *Hinzufügen* unter Finanzlinks bleibt erhalten. 
 
 
 ## Finanzlinks manuell erstellen oder bearbeiten 
 
-Wenn in einer Buchung kein oder ein fehlerhafter (z.B. Tippfehler, ungültige Modifizierung des Codes durch Mitglied, Überweisung mittels Papier-Zahlschein, ...) Zahlungsreferenzcode vorhanden ist, muss manuell ein Finanzlink erstellt und eine Foodsoft-Kontotransaktion (Aufbuchen des Guthabens auf das entsprechende Foodosoft-Bestellgruppenkonto) erstellt werden. Ebenso kann bei Rechnungen z.B. durch abweichende Rechnungsbeträge, abweichende IBAN oder abweichende Zahlungsreferenz die Zuordnung fehlschlagen, sodass ein Finanzlink manuell erstellt und die Rechnung manuell als bezahlt markiert werden muss. Außerdem kann ein bestehender Finanzlink auch erweitert werden, z.B. falls die Zahlung einer Rechnung in mehreren Überweisungen erfolgte und daher einer Rechnung mehrere Banktransaktionen zuzuordnen sind. 
+Wenn in einer Buchung kein oder ein [fehlerhafter Zahlungsreferenzcode](/de/documentation/usage/profile-ordergroup) (z.B. Tippfehler, ungültige Modifizierung des Codes durch Mitglied, Überweisung mittels Papier-Zahlschein, ...) vorhanden ist, muss manuell ein Finanzlink erstellt und eine Foodsoft-Kontotransaktion (Aufbuchen des Guthabens auf das entsprechende Foodosoft-Bestellgruppenkonto) erstellt werden. 
 
-Folgend Funktionen stehen unter *Finanzen > Bankkonten* in der Spalte *Finanzlink* über die Schaltfläche *Hinzufügen* (oder falls schon ein Link erstelltwurd, über den Link *Anzeigen*) zur Verfügung:
-- **Banktransaktion hinzufügen**: eine weitere Bankkontobuchung verknüpfen, z.B. wenn eine Rechnung in mehreren Teilbeträgen bezahlt wurde. 
-- **Kontotransaktion hinzufügen**: aus der Liste der Kontransaktionen eine auswählen. Der Aufbau der Liste kann etwas länger dauern, wenn es in der Foodcoop schon viele Transaktionen gibt. 
-  - **Neu Kontotransaktion hinzufügen**: es wird eine Foodsoft-Konotransaktion und der Finanzlink dazu erstellt. Anwedung z.B. wenn kein oder ein fehelrhafter Zahlungsreferenzcode vorliegt. Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags. 
-- **Rechnung hinzufügen:** aus der Liste der Rechnungen auswählen
+Ebenso kann bei Rechnungen z.B. durch abweichende Rechnungsbeträge, abweichende IBAN oder abweichende Zahlungsreferenz die Zuordnung fehlschlagen, sodass ein Finanzlink manuell erstellt und die Rechnung manuell als bezahlt markiert werden muss. 
+
+Außerdem kann ein bestehender Finanzlink auch erweitert werden, um einer Rechnung mehrere Banktransaktionen zuzuordnen wie z.B. 
+- falls die Zahlung einer Rechnung in mehreren Überweisungen erfolgte
+- falls von der Lieferantin im Nachhein eine Gutschrift überweisen wurde 
+
+Folgend Funktionen stehen unter *Finanzen > Bankkonten* in der Spalte *Finanzlink* über die Schaltfläche *Hinzufügen* (oder falls schon ein Link erstellt wurde, über den Link *Anzeigen*) zur Verfügung:
+
+### Banktransaktion hinzufügen
+
+Eine weitere Bankkontobuchung verknüpfen, z.B. wenn eine Rechnung in mehreren Teilbeträgen bezahlt wurde. 
+
+### Kontotransaktion hinzufügen
+
+Aus der Liste der Kontransaktionen eine auswählen. Der Aufbau der Liste kann etwas länger dauern, wenn es in der Foodcoop schon viele Transaktionen gibt. 
+
+***Neu Kontotransaktion hinzufügen*** (Unterfunktion von *Kontotransaktion hinzufügen*): es wird eine Foodsoft-Kontotransaktion und der Finanzlink dazu erstellt. Anwedung z.B. wenn kein oder ein fehlerhafter Zahlungsreferenzcode vorliegt. Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags.
+
+
+### Rechnung hinzufügen
+
+Aus der Liste der Rechnungen auswählen. Eine Rechnung kann nur einmal einem Finanzlink zugeordnet werden.
 
 ## Foodsoft Rechnungen
 
