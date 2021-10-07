@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-10-07T22:09:49.346Z
+date: 2021-10-07T22:10:43.211Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -71,10 +71,13 @@ Allgemeine Einführungen zum Ruby Framework für Web-Applikationen:
 
 https://github.com/foodcoops/foodsoft/ 
 
-Wo ist im Code was zu finden? Hier nur ein Auszug, bitte gerne erweitern!
+Wo ist im Code was zu finden? 
 - Datenbank Spezifikationen: app/models/...
   - Zeichenanzahl  Begrenzungen für Eingabefelder
   - Überprüfungen von Eingaben: z.B. unique (Name darf nur einmal vergeben werden, z.B. bei Artikelnamen)
 - Übersetzungstexte für deutsche Foodsoft Version bearbeitbar über
   - https://crowdin.com/translate/foodsoft/ - wird nur 1-2 mal im Jahr übernommen, wenn ein „echtes Release“ herauskommt
   - `config/locales/de.yml` 
+
+> Hier nur ein Auszug, bitte gerne erweitern!
+{.is-danger}
