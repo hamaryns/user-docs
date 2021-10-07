@@ -2,7 +2,7 @@
 title: Benutzerinnen-Verwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-06T10:12:37.161Z
+date: 2021-10-07T18:47:06.257Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -11,19 +11,28 @@ dateCreated: 2021-04-21T00:39:19.334Z
 
 # Übersicht
 
-> Hier fehlt noch ein Text.
-{.is-info}
+Menü *Adminstration > Übersicht*
 
+## Neueste Benutzer/innen
+
+> Hier fehlt noch ein Text.
+{.is-danger}
+
+
+## Neueste Gruppen
+
+> Hier fehlt noch ein Text.
+{.is-danger}
 
 # Benutzer/innen
 
-Menü *Adminsitration > Benutzer/innen*
+Menü *Administration > Benutzer/innen*
 
 ## Liste anzeigen: Benutzer/innen verwalten 
 
 
 > Hier fehlen noch Beschreibungen.
-{.is-info}
+{.is-danger}
 
 
 
@@ -52,14 +61,14 @@ Zeige nur Benutzerinnen, deren Name den eingegenen Text enthält.
 ### Gelöschte Benutzer anzeigen
 
 > Hier fehlen noch eine Beschreibung.
-{.is-info}
+{.is-danger}
 
 ## Neue/n Benutzer/in anlegen
 
 Link *Hier kannst du Benutzer/innen **neu anlegen***, oder blaue Schaltfläche *Neue/n Benutzer/in anlegen*.
 
 > Hier fehlt noch eine Beschreibung.
-{.is-info}
+{.is-danger}
 
 ## Details anzeigen
 
@@ -76,12 +85,12 @@ Mögliche Aktionen:
 Spalte Aktionen *Bearbeiten* klicken, oder *Details anzeigen (auf Name klicken) > bearbeiten*.
 
 > Hier fehlt noch eine Beschreibung.
-{.is-info}
+{.is-danger}
 
 ## Benutzerin löschen
 
 > Hier fehlt noch eine Beschreibung.
-{.is-info}
+{.is-danger}
 
 ## CSV Export
 Liste aller Benutzerinnen in [CSV-Tabellenformat](./csv) exportieren.
@@ -93,7 +102,7 @@ Liste aller Benutzerinnen in [CSV-Tabellenformat](./csv) exportieren.
 ## Bestellgruppe erstellen und bearbeiten
 
 > Hier fehlt noch ein Text.
-{.is-info}
+{.is-danger}
 
 **Mitgliedsbeitrag**: negative Zahl eingeben. Siehe eigener Abschnitt “Mitgliedsbeiträge”.
 
@@ -108,7 +117,7 @@ Liste aller Benutzerinnen in [CSV-Tabellenformat](./csv) exportieren.
 ## Bestellgruppe löschen
 
 > Hier fehlt noch ein Text.
-{.is-info}
+{.is-danger}
 
 
 Kontoauszug und Kontostand einer gelöschten Bestellgruppe anzeigen:
@@ -207,12 +216,20 @@ Dieses Berechtigung sollte aufgeteilt werden in „Mitgliederverwaltung“ und �
 
 # Arbeitsgruppen
 
+- Mitglieder zu Arbeitsgruppen können nur durch Administratorinnen hinzugefügt werden. 
+- Mitglieder können selbständig Arbeitsgruppen verlassen ([Profil](/de/documentation/usage/profile-ordergroup))
+- Benutzerrechte (Berechtigungen) können nur für Arbeitsgruppen vergeben werden
+- [Nachrichten](/de/documentation/usage/communication) Verfassen an Mitglieder möglich
+
 > Hier fehlt noch ein Text.
-{.is-info}
+{.is-danger}
 
 
 # Nachrichtengruppen
 
+- Mitglieder können selbständig Arbeitsgruppen beitreten und sie verlassen unter [*Foodcoop > Nachrichten > Nachrichtengruppen beitreten*](/de/documentation/usage/communication)
+- [Nachrichten](/de/documentation/usage/communication) Verfassen an Mitglieder möglich
+
 > Hier fehlt noch ein Text.
-{.is-info}
+{.is-danger}
 
