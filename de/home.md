@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-10-07T21:39:58.721Z
+date: 2021-10-07T21:43:04.765Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -54,7 +54,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 
 ## Foodsoft Programmierung
 
-Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du etwas dazu beitragen möchtest, bist du hier am richtigen Platz.
+Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du selbst eine Foodsoft installieren möchtest oder etwas zur Entwicklung beitragen möchtest, bist du hier am richtigen Platz.
 
 - [Erste Schritte](/de/documentation/development/first-steps)
 {.links-list}
