@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T21:07:33.319Z
+date: 2021-10-07T21:09:18.250Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -61,8 +61,8 @@ Banken, die von FC verwendet werden, wo es noch keine Anbinung gibt:
 ## Finanzlinks
 
 Bankkontobuchungen können verknüpft werden mit
-- Foodsoft Kontotransaktionen
-- Rechnungen
+- [Foodsoft Kontotransaktionen](/de/documentation/admin/finances/accounts)
+- [Rechnungen](/de/documentation/admin/finances/invoices)
 - anderen Bankkontobuchungen
 
 Diese Links werden großteils automatisch von der Foodsoft erstellt, in Einzelfällen kann es sinnvoll/notwendig sein, sie händisch zu erstellen bzw. zu bearbeiten.
@@ -100,8 +100,9 @@ Mit *Bank account erstellen* wird das Bankkonto in der Foodsoft angelegt.
 > Falls noch nicht geschehen, sollten noch [Transaktionsklassen und -typen](/de/documentation/admin/finances/accounts) eingerichtet werden, um Zahlungsreferencodes verwenden zu können.
 {.is-info}
 
-# Bankkontozeilen importieren und weiterverarbeiten
 
+
+# Bankkontozeilen importieren und weiterverarbeiten
 
 ## Import
 
