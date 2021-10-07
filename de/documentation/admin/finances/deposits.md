@@ -2,7 +2,7 @@
 title: Pfand
 description: Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 published: true
-date: 2021-10-03T19:43:23.981Z
+date: 2021-10-07T17:25:14.541Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
@@ -40,6 +40,11 @@ Mögliche Fehlerquellen:
 
 - [Lieferantinnen](/de/documentation/admin/suppliers) > Artikel anlegen/bearbeiten: Pfand für Artikel festlegen
 - [Rechnungen](/de/documentation/admin/finances/invoices): Pfand-Gutschriften und unterschiedliche Pfandberechnung Foodcoop/Lieferantin berücksichtigen
+- [Pfand Gutschriften](/de/documentation/admin/finances/accounts): über Foodsoft Kontotransaktionen kann Pfand von zurückgegebenem Leergut, das die Foodcoop Mitglieder z.B. in einer Papierliste im Lagerraum eintragen, den Mitgliedern gut geschrieben werden. Wenn für diese Transaktionen eine eigene Transaktionsklasse (*Pfandgutschrift* oder ähnlich) verwendet wird, lassen sich im Foodsoft Kontoauszug diese Transaktionen leicht herausfiltern und summieren.
+
+> Leider gibt es derzeit noch keine Funktion, die über einen gewünschten Zeitraum das gesamte den Mitgliedern verrechnete Pfand auswertet, z.B. um es mit der entsprechenden Summe der Pfandgutschriften vergleichen zu können.
+{.is-danger}
+
 
 # Ökologischer Hintergrund
 
