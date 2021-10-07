@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden für Beiträge zur Foodosoft Dokumentation
 published: true
-date: 2021-10-06T14:04:35.906Z
+date: 2021-10-07T18:24:48.297Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -32,16 +32,48 @@ Beispiele:
 
 ## Verwendung der Wiki-JS Zitat-Kästen 
 
+### Zitat
+
+Für Beispiele oder persönliche Empfehlungen.
+
+Beispiel:
+> Wenn du z.B. zwei Einheiten bestellst, und dann eine und noch eine wegnimmst, ist der Gesamtwert der Bestellung Null. 
+
 ### Info
+Beispiel:
+> Die Angabe einer Telefonnummer ist optional.
+{.is-info}
+
 
 ### Erfolg
 
+
+Beispiele:
+> Diese Funktion eignet sich besonders gut, um ...
+{.is-success}
+
+> Diese Funktion wurde ... zur Foodsoft hinzugefügt.
+{.is-success}
+
 ### Warnung
 
+Beispiele:
+> Das Löschen einer Lieferantin kann nicht rückgängig gemacht werden.
+{.is-warning}
+
+
+
 ### Fehler
-- Bekannte Fehler oder Mängel der Foodsoft, idealerweise mit Link zum entsprechenden Guthab Issue.
-- Hinweise auf fehlende oder zu überarbeitende Stellen der Dokumentation
-- In *Erfolg* umwandeln wenn erledigt
+ - Bekannte Fehler oder Mängel der Foodsoft, idealerweise mit Link zum entprechenden Guthab Issue.
+ - Hinweise auf fehlende oder zu überarbeitende Stellen der Dokumentation
+ - In *Erfolg* umwandeln wenn erledigt
+
+Beispiele:
+> Diese Funktion gibt es in der Foodsoft noch nicht (siehe [Github Issue](https://github.com/foodcoops/foodsoft/issues)).
+{.is-danger}
+
+> Hier fehlt noch eine Beschreibung und ein Screenshot.
+{.is-danger}
 
 ## Links zu externen Seiten
 
