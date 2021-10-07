@@ -2,7 +2,7 @@
 title: Einstellungen
 description:  Erklärung zu globalen/administrativen Einstellungen der Foodsoft (Menü: "Administration")
 published: true
-date: 2021-10-03T19:44:43.466Z
+date: 2021-10-07T18:01:54.030Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:20:52.701Z
@@ -36,6 +36,9 @@ Siehe auch [Bankkonto](/de/documentation/admin/finances/bank-accounts).
 Links im Foodsoft-Menü "Links" verwalten.
 
 ![links-menue.png](/uploads-de/admin_settings_links-menue.png)
+
+## Beispiel
+![admin_settings_links-example.png](/uploads-de/admin_settings_links-example.png)
 
 # Einstellungen
 
