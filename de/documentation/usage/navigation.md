@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-03T09:21:34.484Z
+date: 2021-10-07T21:37:57.619Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -215,6 +215,10 @@ An vielen Stellen in der Foodsoft werden Informationen in Form von Listen darges
 
 
 
+# Löschen: bitte Vorsicht!
+
+> Es gibt in der Foodsoft auch für "gewöhnliche" Mitglieder an einigen Stellen  Funktionen, die etwas Löschen. Es gibt in der Foodsoft keine Undo-Funktion, und schnell ist mit einem einzigen Klick unwiederbringlich Information oder Arbeit verloren. Daher bitte lieber mal eine erfahrenes Foodcoop Mitglied fragen, bevor du wo "Löschen" anklickst.
+{.is-warning}
 
 
 
