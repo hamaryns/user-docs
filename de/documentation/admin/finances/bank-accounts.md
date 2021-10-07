@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-03T19:36:26.635Z
+date: 2021-10-07T19:35:05.496Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -114,9 +114,9 @@ Wenn in einer Buchung kein oder ein fehlerhafter (z.B. Tippfehler, ungültige Mo
 
 Folgend Funktionen stehen unter Finanzen \> Bankkonten in der Spalte Finanzlink über die Schaltfläche „Hinzufügen“ oder den Link „Anzeigen“ zur Verfügung:
 - **Banktransaktion hinzufügen**: eine weitere Bankkontobuchung verknüpfen, z.B. wenn eine Rechnung in mehreren Teilbeträgen bezahlt wurde. 
-- **Kontotransaktion hinzufügen**
-  - Neu Kontotransaktion hinzufügen: es wird eine Foodsoft-Konotransakttion und der Finanzlink dazu erstellt. Anwedung z.B. wenn kein oder ein fehelrhafter Zahlungsreferenzcode vorliegt. Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags.
-- **Rechnung hinzufügen: **aus der Liste der Rechnungen auswählen
+- **Kontotransaktion hinzufügen**: aus der Liste der Kontransaktionen eine auswählen. Der Aufbau der Liste kann etwas länger dauern, wenn es in der Foodcoop schon viele Transaktionen gibt. 
+  - Neu Kontotransaktion hinzufügen: es wird eine Foodsoft-Konotransakttion und der Finanzlink dazu erstellt. Anwedung z.B. wenn kein oder ein fehelrhafter Zahlungsreferenzcode vorliegt. Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags. 
+- **Rechnung hinzufügen:** aus der Liste der Rechnungen auswählen
 
 ## Foodsoft Rechnungen
 
@@ -166,7 +166,7 @@ Leerstellen in der Rechnungsnummer sollten kein Problem sein, z.B. Rechnungsnumm
 
 Bei **mehreren unbezahlten Rechnungen desselben Produzenten** wird eine Summe der Rechnungen angezeigt. Diese Summe kann mit einer einzigen Überweisung bezahlt werden, die einzelnen Rechnungsnummern sind beim Verwendungszweck alle anzugeben. Die Rechnungen werden als bezahlt markiert und alle der Sammelüberweisung zugeordnet. 
 
-Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres der oben angeführten Kriterien nicht erfüllt war, sollten ersatzweise folgende Schritte zur **manuellen Zuordnung **durchgeführt werden:
+Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres der oben angeführten Kriterien nicht erfüllt war, sollten ersatzweise folgende Schritte zur **manuellen Zuordnung** durchgeführt werden:
 
 1.  Finanzen \> Bankkonten \> Buchungszeile für Rechnung \> Finanzlink hinzufügen \> Rechnung(en) hinzufügen \> entsprechende Rechnung in der Liste auswählen (eventuel Fenster vergrößern oder mit F11 auf Vollbild schalten um „Speichern“ Schaltfläche anzuzeigen); Schritt mehrmals ausführen wenn mehrere Rechnungen zu verknüpfen sind
 2.  Finanzlink anzeigen \> Rechnung auswählen \> Bearbeiten \> Datum bei bezahlt am“ eingeben
@@ -174,7 +174,7 @@ Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres
 
 ## Sonstige Bankkonto-Transaktionen
 
-Zusätzlich zu den bisher genannten Bankkonto-Transaktionen gibt es noch welche, die weder unter Guthaben Aufladen noch Porduzentinnen Rechnungen fallen, zum Beispiel:
+Zusätzlich zu den bisher genannten Bankkonto-Transaktionen gibt es noch welche, die weder unter Guthaben Aufladen noch Produzentinnen Rechnungen fallen, zum Beispiel:
 
 - Bankspesen
 - Lagerraum: Miete, Strom, Heizung, Internet, Versicherung, …
