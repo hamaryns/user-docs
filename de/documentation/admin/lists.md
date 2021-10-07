@@ -2,7 +2,7 @@
 title: Listen in der Foodsoft
 description: Tipps für Foodsoft Administratorinnen im Umgang mit Listen
 published: true
-date: 2021-10-07T19:15:58.796Z
+date: 2021-10-07T19:20:45.637Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-02T10:46:10.173Z
@@ -27,33 +27,22 @@ Listenzeilen angezeigt werden, die den Suchtext enthalten.
 
 Viele Listen-Funktionen, die in der Foodsoft (noch) nicht möglich sind,
 lassen sich mit Hilfe eines Tabellenproramms wie Excel oder Calc
-(LibreOffice, OpenOffice) lösen. Wenn in der Foodsoft Daten in
-Listenform wie z.B. unter Finanzen \> Rechnungen dargestellt sind,
-kannst du sie kopieren (am besten mit Überschriftenzeile) und in ein
-Tabellenblatt einfügen. Dann kannst du dort z.B. einen Filter
-aktivieren, um am Beispiel der Rechnungen nur jene einer Lieferantin
-anzuzeigen.
+(LibreOffice, OpenOffice) lösen. 
+
 
 > **Github Link** zu Feature Request/Filterfunktion einfügen.
 {.is-danger}
 
-> Ein paar Beispiele mit Screenshots einfügen.
-{.is-danger}
+## Listen in Tabellenprogramm kopieren
 
-## Beispiele
-### Nur Bestellungen einer Lieferantin anzeigen
+Wenn in der Foodsoft Daten in
+Listenform wie z.B. unter *Finanzen > Rechnungen* dargestellt sind,
+kannst du sie markieren, kopieren (am besten mit Überschriftenzeile) und in ein
+Tabellenblatt einfügen. Dann kannst du dort z.B. einen Filter
+aktivieren, um am Beispiel der Rechnungen nur jene einer Lieferantin
+anzuzeigen.
 
-> Hier fehlt noch Info.
-{.is-info}
-
-
-### Nur Rechnungen einer Lieferantin anzeigen
-
-> Hier fehlt noch Info.
-{.is-info}
-
-
-# Export und Import über CSV Tabellen
+## Export und Import über CSV Tabellen
 
 Manche Listen wie z.B. die der [Foodcoop-Mitglieder](/de/documentation/admin/users) können als CSV-Tabellen exportiert oder manchmal auch importiert werden.
 
@@ -61,9 +50,29 @@ CSV ist ein Dateiformat mit der Dateiendung `.csv`, um Tabellendaten im Textform
 
 Tabellenprogramme ermöglichen komplexere Auswertungen und Bearbeitungen von Tabellendaten wie Filterung, Berechnung von Zahlen mit Formeln, Bildung von Summen, automatisierte Erstellung von Texten (z.B. mehrere Infos in Artikelbezeichnung einfügen) und vieles mehr. 
 
-> Hier fehlt noch Info.
-{.is-info}
+> Ein paar Beispiele mit Screenshots einfügen.
+{.is-danger}
 
-## Links
+### Links
 
 - https://de.wikipedia.org/wiki/CSV_(Dateiformat)
+
+
+
+# Beispiele
+## Nur Bestellungen einer Lieferantin anzeigen
+
+> Ein paar Beispiele mit Screenshots einfügen.
+{.is-danger}
+
+
+## Nur Rechnungen einer Lieferantin anzeigen
+
+> Ein paar Beispiele mit Screenshots einfügen.
+{.is-danger}
+
+
+## Gesamtguthaben der Mitglieder berechnen 
+
+> Ein paar Beispiele mit Screenshots einfügen.
+{.is-danger}
