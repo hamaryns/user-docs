@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2021-10-03T20:25:39.630Z
+date: 2021-10-07T18:33:32.826Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -30,29 +30,28 @@ Ist eine neue Foodcoop entstanden, gibt es standardmäßig (default) eine Klasse
 
 ## Transaktionsklassen und -typen erstellen und bearbeiten
 
-*Administration \> Finanzen*
+Siehe [*Administration \> Finanzen*](/de/documentation/admin/settings) 
 
-> Hier fehlt noch eine detaillierte Beschreibung.
-{.is-info}
 
 ## Empfehlungen für Transaktionsklassen und -typen 
 
-- Transaktionsklasse “Guthaben Bestellungen”
-  - Transaktionstyp “Überweisung Guthaben”, Kürzel G für Aufbuchung Guthaben durch Mitglieder
-  - Transaktionstyp ”Foodsoft” für Abbuchungen für Bestellungen durch Foodcoop 
-  - Vorschläge für weitere Transaktionstypen: Anfangsbuchstaben im Alphabet hinter F wichtig damit “Foodsoft” als Standard bei Auswahllisten an erster Stelle steht):
-    - Spende 
-    - Lieferung (wenn Foodcoop Mitglied Ware liefert und mit Foodsoft Guthaben bezahlt wird)
-    - Zuschuss Fahrtkosten
-    - Spesen für Anschaffungen (z.B. Mitglied besorgt und bezahlt aus eigener Tasche Glühbirnen für Lagerraum, bekommt Betrag über Foodsoft gutgeschrieben)
-    - Pfandauszahlung
-    - Vorschuss Guthaben (für Notfälle, wenn die Banktransaktion zu lange dauert, Transaktion soll dann wieder gelöscht werden wenn Guthaben eintrifft; Vorteil: man kann in der exportierten Kontodatei nach diesen Transaktionen suchen und prüfen, ob sie alle storniert wurden.)
-- Transaktionsklasse “Guthaben Mitgliedsbeitrag” 
-  - Transaktionstyp “Überweisung Mitgliedsbeitrag”, Kürzel M für Aufbuchung Mitgliedsbeitrag durch Mitglieder
-  - Transaktionstyp “Mitgliedsbeitrag” für Abbuchung Mitgliedsbeitrag durch Foodcoop
-    - Option *Für Kontostand ignorieren* sollte angewählt werden, damit das Guthaben Mitgliedsbeitrag nicht zum verfügbaren Guthaben hinzugerechnet wird.
+### Transaktionsklasse “Guthaben Bestellungen”
+- Transaktionstyp **Überweisung Guthaben**” Kürzel G für Aufbuchung Guthaben durch Mitglieder
+- Transaktionstyp **Foodsoft** für Abbuchungen für Bestellungen durch Foodcoop 
+- Vorschläge für weitere Transaktionstypen: Anfangsbuchstaben im Alphabet hinter F wichtig damit “Foodsoft” als Standard bei Auswahllisten an erster Stelle steht):
+    - **Spende**: wenn Mitglieder der Foodcoop einen Betrag spenden, der dem Mitlglied abgeuct und der Foodcoop gutgeschrieben wird
+    - **Lieferung**: wenn Foodcoop-Mitglied Ware selbst bezahlte Ware liefert und mit Foodsoft Guthaben bezahlt wird
+    - **Zuschuss Fahrtkosten**
+    - **Spesen** für Anschaffungen (z.B. Mitglied besorgt und bezahlt aus eigener Tasche Glühbirnen für Lagerraum, bekommt Betrag über Foodsoft gutgeschrieben)
+    - **Pfandauszahlung** (siehe auch [Pfand](/de/documentation/admin/finances/deposits))
+    - **Vorschuss Guthaben** (für Notfälle, wenn die Banktransaktion zu lange dauert, Transaktion soll dann wieder gelöscht werden wenn Guthaben eintrifft; Vorteil: man kann in der exportierten Kontodatei nach diesen Transaktionen suchen und prüfen, ob sie alle storniert wurden.)
 
-In der Ansicht **Finanzen \> Konten verwalten** sind die Transaktionsklassen als Spalten abgebildet und ermöglichen einen Überblick der ev. noch nicht erfolgten Einzahlungen (zb. Mitgliedsbeitrag).
+### Transaktionsklasse “Guthaben Mitgliedsbeitrag” 
+  - Transaktionstyp **Überweisung Mitgliedsbeitrag**, Kürzel M für Aufbuchung Guthaben für Mitgliedsbeitrag durch Mitglieder
+  - Transaktionstyp **Mitgliedsbeitrag** für Abbuchung Mitgliedsbeitrag durch Foodcoop
+    - Option *Für Kontostand ignorieren* sollte angewählt werden, damit das Guthaben für Mitgliedsbeitrag nicht zum verfügbaren Guthaben für Bestellungen hinzugerechnet wird.
+
+In der Ansicht *Finanzen \> Konten verwalten* sind die Transaktionsklassen als Spalten abgebildet und ermöglichen einen Überblick der ev. noch nicht erfolgten Einzahlungen (zb. Mitgliedsbeitrag).
 
 ## Transaktionsklassen von der Berechnung des verfügbaren Guthabens ausschließen (*Für Kontostand ignorieren*)
 
