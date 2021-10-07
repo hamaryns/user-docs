@@ -2,7 +2,7 @@
 title: Einstellungen
 description:  Erklärung zu globalen/administrativen Einstellungen der Foodsoft (Menü: "Administration")
 published: true
-date: 2021-10-07T18:01:54.030Z
+date: 2021-10-07T18:07:08.372Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:20:52.701Z
@@ -19,7 +19,7 @@ Wenn Emails an Mitglieder oder Lierantinnen nicht zugestellt werden können, leg
 # Finanzen
 
 > Hier fehlt noch ein Text.
-{.is-info}
+> {.is-danger}
 
 ## Kontotransaktionsklassen und -typen
 
@@ -43,7 +43,7 @@ Links im Foodsoft-Menü "Links" verwalten.
 # Einstellungen
 
 > Hier fehlt noch eine detaillierte Beschreibung der einzelnen Einstellungen.
-{.is-info}
+{.is-danger}
 
 ## Foodcoop
 
@@ -139,21 +139,27 @@ Alle Einstellungen gemeinsam in einer Liste dargestellt
 
 Die Login-Seite der Foodsoft kann individuell an deine Foodsoft angepast werden, indem du eine Wiki-Seite mit dem Titel **Public\_frontpage** erstellst. Der Inhalt dieser Wiki-Seite könnte z.B. sein:
 
-> === Foodcoop XY ===
-> Bitte melde dich mit deinen Zugangsdaten an, um Zugang zu unserer Foodsoft zu erhalten. 
->
-> Der Zugang ist nur für Mitglieder der Foodcoop XY möglich. 
->
-> Wenn du noch kein Mitglied bist, kannst du über ...(Weblink)... Probemitglied werden  und damit einen Zugang bekommen.
 
+```
+=== Foodcoop XY ===
+
+Bitte melde dich mit deinen Zugangsdaten an, um Zugang 
+zu unserer Foodsoft zu erhalten. 
+
+Der Zugang ist nur für Mitglieder der Foodcoop XY möglich. 
+
+Wenn du noch kein Mitglied bist, kannst du über 
+...(Weblink)... Probemitglied werden  und damit einen Zugang bekommen.
+```
 ## Adaptierung des Dashboards (Startseite)
 
 Erstelle eine Wiki-Seite mit dem Titel **Dashboard**, die als erster Block am Dashboard angezeigt wird. 
 
-Damit diese Wiki Seite leichter aufgefunden und bearbeitet werden kann, kannst du am Ende der Seite z.B. folgenden Text einfügen (bitte Link entsprechend deiner Foodcoop anpasssen): 
+Damit diese Wiki-Seite leichter aufgefunden und bearbeitet werden kann, kannst du am Ende der Seite z.B. folgenden Text einfügen (bitte Link entsprechend deiner Foodcoop anpasssen): 
 
-
-> \<p style="font-size:8px">''Text veränderbar über die Wiki Seite 
-> \[https://app.foodcoops.at/...(foodcoop name).../wiki/Dashboard 
-> Dashboard];  \</p>
+```
+<p style="font-size:8px">
+''Text veränderbar über die Wiki-Seite 
+[https://app.foodcoops.at/...(foodcoop name).../wiki/Dashboard Dashboard]''
+</p>
 
