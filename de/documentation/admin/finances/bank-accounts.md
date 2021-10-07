@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T19:48:34.811Z
+date: 2021-10-07T19:57:29.325Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -70,7 +70,18 @@ Diese Links werden großteils automatisch von der Foodsoft erstellt, in Einzelf�
 
 ## Zahlungsreferenzcodes
 
-Jedes Mitglied findet seinen Zahlungsreferenz-Rechner im Dropdownmenü des Profilnamens. Der Menüpunkt wird aber erst angezeigt, sobald [*Kontotransaktion Klassen und Typen*](/de/documentation/admin/finances/accounts) mit zumindest einem Kürzel eines Transaktionstyps angelegt wurden, mindestens ein Bankkonto hinzugefügt wurde, und du danach aus der Foodsoft aussteigst und wieder neu einloggst. Der Zahlungsreferenz-Rechner verwendet die Kürzel der Transaktionstypen für die Generierung des Codes, indem für jedes Kürzel ein Feld für einen Geldbetrag angezeigt wird.
+Wenn bei Banküberweisungen im Feld *Zahlungsreferenz* oder *Verwendungszweck* ein Zahlungsreferenzcode angegeben wird, kann die Foodsoft nach dem Importieren der Bankkonto Buchungszeilen die Zahlungseingänge automatisch den Mitglieder Konten zuordnen und entsprechende Transaktionen anlegen.
+
+> Die Verwendung von Zahlungsreferenzcodes erspart eurer Foodcoop viel Arbeit!
+{.is-success}
+
+
+Jedes Mitglied findet seinen Zahlungsreferenz-Rechner im [Dropdownmenü des Profilnamens](/de/documentation/usage/profile-ordergroup). 
+
+> Der Menüpunkt *Zahlungsreferenz-Rechner* wird erst angezeigt, sobald  bei [*Kontotransaktion Klassen und Typen*](/de/documentation/admin/finances/accounts) mit zumindest einem Kürzel eines Transaktionstyps angelegt wurden, mindestens ein Bankkonto hinzugefügt wurde, und du danach aus der Foodsoft aussteigst und wieder neu einloggst.
+{.is-info}
+
+Der Zahlungsreferenz-Rechner verwendet die Kürzel der Transaktionstypen für die Generierung des Codes, indem für jedes Kürzel ein Feld für einen Geldbetrag angezeigt wird.
 
 
 # Bankkonto einrichten
