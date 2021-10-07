@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T19:35:49.739Z
+date: 2021-10-07T19:38:19.448Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -130,39 +130,9 @@ Was wird genau überprüft und muss ident sein, damit die Überweisung einer Foo
 2.  Für jede **Rechnungsnummer** der Rechnung wird geprüft, ob diese im Verwendungszweck vorkommt.
 3.  Wenn die Summe der "passenden" Rechnungen mit dem **Überweisungsbetrag** übereinstimmt, wird eine Finanzlink angelegt und die Rechnungen als bezahlt markiert.
 
-**Beispiel zur Automatischen Erkennung von Rechnungsnummern** 
 
-Angenommen, es gibt Rechnungen mit folgenden Rechnungsnummer:
 
-a) "1"
-
-b) "3"
-
-c) "2020-10"
-
-d) "\#789"
-
-Die folgende Verwendungszwecke würde folgende Rechnungen matchen:
-
-"1"         (a)
-
-"Rechnung 1" (a)
-
-"Re-Nr. \#1" (a)
-
-"Irgendwas 123" (a) und (b)
-
-"ReNr: 1, 3" (a) und (b)
-
-"Nr 333"    (b)
-
-"2020-10"   (a) und (c)
-
-"\#789"      (d)
-
-"789"       nichts
-
-Leerstellen in der Rechnungsnummer sollten kein Problem sein, z.B. Rechnungsnummer in der Foodsoft "2020-1 bis 3", Überweisung mit Zahlungsreferenz "Rechnungen 2020-1 bis 3" ok.
+**Leerzeichen** in der Rechnungsnummer sollten kein Problem sein, z.B. Rechnungsnummer in der Foodsoft "2020-1 bis 3", Überweisung mit Zahlungsreferenz "Rechnungen 2020-1 bis 3" ok.
 
 Bei **mehreren unbezahlten Rechnungen desselben Produzenten** wird eine Summe der Rechnungen angezeigt. Diese Summe kann mit einer einzigen Überweisung bezahlt werden, die einzelnen Rechnungsnummern sind beim Verwendungszweck alle anzugeben. Die Rechnungen werden als bezahlt markiert und alle der Sammelüberweisung zugeordnet. 
 
@@ -172,6 +142,26 @@ Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres
 2.  Finanzlink anzeigen \> Rechnung auswählen \> Bearbeiten \> Datum bei bezahlt am“ eingeben
 3.  Finanzen \> Überblick \> unbezahlte Rechnungen: prüfen, ob die manuell als bezahlt gekennzeichnete Rechnung dort nicht mehr aufscheint 
 
+### Beispiel zur Automatischen Erkennung von Rechnungsnummern
+
+Angenommen, es gibt Rechnungen mit folgenden Rechnungsnummer:
+
+a. "1"
+b. "3"
+c. "2020-10"
+d. "\#789"
+
+Die folgende Verwendungszwecke würde folgende Rechnungen matchen:
+
+- "1"         (a)
+- "Rechnung 1" (a)
+- "Re-Nr. \#1" (a)
+- "Irgendwas 123" (a) und (b)
+- "ReNr: 1, 3" (a) und (b)
+- "Nr 333"    (b)
+- "2020-10"   (a) und (c)
+- "\#789"      (d)
+- "789"       nichts
 ## Sonstige Bankkonto-Transaktionen
 
 Zusätzlich zu den bisher genannten Bankkonto-Transaktionen gibt es noch welche, die weder unter Guthaben Aufladen noch Produzentinnen Rechnungen fallen, zum Beispiel:
