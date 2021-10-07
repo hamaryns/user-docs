@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-10-07T20:49:40.325Z
+date: 2021-10-07T20:52:24.741Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -148,9 +148,9 @@ Automatisch mit *Finanzen > Bankkonten > Import > Transaktionen* zuordnen:
 
 Was wird genau überprüft und muss ident sein, damit die Überweisung einer Foodsoft-Rechnung zugeordnet wird:
 
-1.  Anhand der **IBAN** der LieferantIn werden offenen Rechnungen gesucht. Die IBAN muss in der Foodsoft unter *Artikel > Lieferanten* bei der jeweiligen Lieferantin unter *Bearbeiten* im Feld *IBAN* eingegeben sein.
-2.  Für jede **Rechnungsnummer** der Rechnung wird geprüft, ob diese im Verwendungszweck vorkommt.
-3.  Die Summe der anhand der Rechnungsnummern "passenden" Rechnungen muss mit dem **Überweisungsbetrag** übereinstimmen.
+1.  Anhand der **IBAN** der LieferantIn werden offenen Rechnungen gesucht. Die IBAN muss in der Foodsoft unter [*Artikel > Lieferanten*](/de/documentation/admin/suppliers) bei der jeweiligen Lieferantin unter *Bearbeiten* im Feld *IBAN* eingegeben sein.
+2.  Für jede **Rechnungsnummer** der [Rechnung](/de/documentation/admin/finances/invoices) wird geprüft, ob diese im Verwendungszweck vorkommt.
+3.  Die Summe der anhand der Rechnungsnummern "passenden" Rechnungen aus Schritt 2 muss mit dem **Überweisungsbetrag** übereinstimmen.
 
 Wenn alle drei Kriterien zutreffen, wird ein Finanzlink angelegt und die Rechnung(en) als bezahlt markiert.
 
