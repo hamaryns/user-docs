@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-12T22:06:06.893Z
+date: 2021-10-12T22:11:12.943Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -172,12 +172,14 @@ Um eine bereits angelegte Rechnung anzuzeigen:
 
 Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben anzeigen und dann “bearbeiten” auswählen. Zusätzlich gibt es noch die Möglichkeit über *Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung bearbeiten*.
 
-# Verschollene Rechnung finden und wiederherstellen
+## Verschollene Rechnung finden und wiederherstellen
 
-Es gibt folgende Möglichkeiten, eine bereits angelegte Rechnung wieder zu finden, die in der Liste der Rechnungen nicht dort aufscheint, wo sie sein sollte:
-1. Wenn sie bereits mit einer Bestellung verknüpft wurde: gehe über *Finanzen > Bestellungen abrechnen* auf die entsprechende Bestellung und klicke hier auf *Rechnung > Rechnung bearbeiten* und gib ein Rechnungsdatum ein. 
-1. Gehe auf die letzte Seite der Rechnungsliste mit der Schaltfläche >>, bearbeite sie und gib ein Rechnungsdatum ein
+Es gibt folgende Möglichkeiten, eine bereits angelegte Rechnung wieder zu finden, die in der Liste der Rechnungen nicht dort aufscheint, wo sie sein sollte: 
+1. Wenn die Rechnung bereits mit einer Bestellung verknüpft wurde: gehe über *Finanzen > Bestellungen abrechnen* (Zugriffsrecht erforderlich) auf die entsprechende Bestellung und klicke hier auf *Rechnung > Rechnung bearbeiten* und gib ein Rechnungsdatum ein. 
+1. Gehe auf die letzte Seite der Rechnungsliste mit der Schaltfläche `>>`, bearbeite sie und gib ein Rechnungsdatum ein
 1. Gehe auf *Finanzen \> Übersicht \> unbezahlte Rechnungen*, wo du die Rechnung findest, wenn sie noch nicht bezahlt wurde.
+> Wenn du die Rechnung gefunden hast, gib bitte das richtige Datum ein und beachte wie oben unter *Rechnung anlegen* beschrieben, dass das Datumsformat richtig ist.
+{.is-info}
 
 # Rechnung prüfen
 
