@@ -2,7 +2,7 @@
 title: Benutzerinnen-Verwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-13T09:28:26.545Z
+date: 2021-10-13T09:36:28.539Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -134,6 +134,25 @@ Liste aller Benutzerinnen in  [CSV-Tabellenformat](/de/documentation/admin/lists
 1. Benutzername(n) notieren
 2. Benutzer aus Bestellgruppe entfernen 
 3. Notierte Benutzer löschen
+
+## Bestellgruppe Details anzeigen
+
+Über
+- Administration > Bestellgruppen > Name der Bestellgruppe
+- Administration > Benutzer/innen > Benutzerin > Gruppenabos
+
+Es werden nur die folgenden Infos angezeigt:
+- Beschreibung:
+- Kontakt:
+- Adresse:
+- Mitglieder: ohne Verlinkung zu den einzelnen Mitgliedern. Diese müssen über *Adminstration > Benutzer/innen* aufgerufen werden.
+
+Die Felder *Mitgliedsbeitrag* und *(Letzte) Pause* werden nur unter *Bearbeiten* angezeigt.
+
+Mögliche Aktionen:
+- Bearbeiten (siehe oben)
+- Löschen (siehe unten)
+- [Nachricht senden](/de/documentation/usage/communication)
 
 
 ## Bestellgruppe löschen
