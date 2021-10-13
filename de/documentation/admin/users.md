@@ -2,7 +2,7 @@
 title: Benutzerinnen-Verwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-13T09:36:28.539Z
+date: 2021-10-13T09:39:24.920Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -157,9 +157,11 @@ Mögliche Aktionen:
 
 ## Bestellgruppe löschen
 
-> Hier fehlt noch ein Text.
+> Besser nicht löschen, wenn du dir nicht sicher bist - es gibt keine Undo Funktion! 
 {.is-danger}
 
+> Hier fehlt noch ein Text. 
+{.is-danger}
 
 Kontoauszug und Kontostand einer gelöschten Bestellgruppe anzeigen:
 siehe [Finanzen > Kontostand abfragen](/de/documentation/admin/finances/accounts).
