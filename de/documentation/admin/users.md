@@ -2,7 +2,7 @@
 title: Benutzerinnen-Verwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-07T19:14:45.270Z
+date: 2021-10-13T09:28:26.545Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -74,7 +74,29 @@ Link *Hier kannst du Benutzer/innen **neu anlegen***, oder blaue Schaltfläche *
 
 Auf Name der Benutzerin klicken.
 
-Mögliche Aktionen:
+### Person (grauer Kasten)
+Mitglied seit 9 Monate
+
+- Name
+- E-Mail
+- Telefon
+- Letzter login
+- Letzte Aktivität
+- **Zugriff auf**: Berechtigungen, die das Mitglied aufgrund seiner Arbeitsgruppen-Mitgliedschaft hat (siehe Abschnitt Berechtigungen).
+
+### Einstellungen (grauer Kasten)
+
+- Sprache 	
+- Telefon ist für Mitglieder sichtbar. 	
+- E-Mail ist für Mitglieder sichtbar. 	
+
+
+### Gruppenabos
+
+- Name und Link zur Bestellgruppe
+- Name und Links sonstiger Arbeitsgruppen (falls Mitglied)
+
+### Mögliche Aktionen
   - **Bearbeiten** (siehe unten)
   - **Löschen** (siehe unten)
   - **[Nachricht senden](/de/documentation/usage/communication)**
