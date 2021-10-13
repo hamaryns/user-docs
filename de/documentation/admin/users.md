@@ -2,7 +2,7 @@
 title: Benutzerinnen-Verwaltung
 description: Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen (Menü "Administration" > "Benutzerinnen", "Bestellgruppen", "Arbeitsgruppen", "Nachrichtengruppen")
 published: true
-date: 2021-10-13T09:46:26.527Z
+date: 2021-10-13T09:47:34.306Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-21T00:39:19.334Z
@@ -108,7 +108,7 @@ Spalte Aktionen *Bearbeiten* klicken, oder *Details anzeigen (auf Name klicken) 
 > Hier fehlt noch eine Beschreibung.
 {.is-danger}
 
-## Benutzerin hat Passwort vergessen
+## Passwort vergessen
 
 Es ist auch für Foodsoft Administratorinnen nicht möglich, die Passwörter von Benutzerinnen nachzusehen, wenn diese es vergessen haben (außer die Administratorin hat es selbst vergeben und kann sich noch erinnern), da die Passwörter in der Foodsoft nur verschlüsselt abgelegt sind. Administratorinnen können in so einem Fall nur das **Passwort neu setzen**.
 
