@@ -2,25 +2,25 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-13T06:26:53.872Z
+date: 2021-10-13T06:46:18.334Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
 ---
 
-Die Funktion “Rechnung” dient dazu, Rechnungen von ProdzentInnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen scheinen zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Rechnungen können in Papierform oder digital als PDF vorliegen. 
+Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen scheinen zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Rechnungen können in Papierform oder digital als PDF oder JPG vorliegen. 
 
 
 # Rechnung anlegen
 
 
 Eine neue Rechnung kann angelegt werden unter
-- Finanzen \> Rechnungen \> Neue Rechnung anlegen
-- Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung anlegen
-- Bestellverwaltung \> beendete Bestellung auswählen \> Rechnung anlegen
-- Artikel \> Lieferant \> Bestellung \> Rechnung anlegen
-- Artikel \> Lieferant \> Letzte Lieferungen \> Rechnung anlegen
-- Artikel \> Lager \> neue Lieferung… (?)
+- *Finanzen \> Rechnungen \> Neue Rechnung anlegen*
+- *Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung anlegen*
+- *Bestellverwaltung \> beendete Bestellung auswählen \> Rechnung anlegen*
+- *Artikel \> Lieferant \> Bestellung \> Rechnung anlegen*
+- *Artikel \> Lieferant \> Letzte Lieferungen \> Rechnung anlegen*
+- *Artikel \> Lager \> neue Lieferung ... > Rechnung anlegen*
 
 > Empfehlung: Rechnungen, die in Papierform vorliegen, gehen einfacher mit einem Smartphone oder Tablet mit Kamerafunktion einzugeben. Sobald ein Rechnungsdatum eingegeben ist, kann die Eingabe jederzeit unterbrochen, die Rechnung unfertig gespeichert werden, um auf einem anderen Gerät fortgesetzt werden. Wichtig ist es, vor dem Speichern bei **Rechnungsdatum** das Datum der Rechnung (oder zumindest das aktuelle Datum) einzugeben, weil sie sonst schwer auffindbar ist. 
 {.is-info}
@@ -71,7 +71,11 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 ## Nummer
 
 Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Banküberweisung von der Foodsoft (oder von der Person, die in der Foodcoop die Rechnungen via Ebanking manuell bezahlt) in den Verwendungszweck eingetragen, und dient sowohl der Foodsoft als auch der Lieferantin zur eindeutigen Zuordnung der Rechnung. 
-> Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521`. Im Gegensatz zum Feld *Rechnungsdatum* ist hier das Datumsformat egal. 
+
+> Das Feld *Rechnungsnummer* ist ein Textfeld und kann neben Zahlen auch Buchstaben und Leerzeichen enthalten.
+{.is-success}
+
+> Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521`. Im Gegensatz zum Feld *Rechnungsdatum* ist hier das Datumsformat egal, weil die Rechnungsnummer nur ein Textfeld ist, und die Foodsoft die Eingabe nicht als Datum interpretiert. 
 {.is-info}
 
 
@@ -79,7 +83,7 @@ Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Bank�
 
 ## Rechnungsdatum
 
-Von Rechnung übernehmen. Wenn nicht bekannt, das Datum der Lieferung oder das aktuelle Datum eingeben.
+Von Rechnung übernehmen. Wenn nicht bekannt, das Datum der Lieferung (eruierbar z.B. aus der ausgewählten Bestellung) oder das aktuelle Datum eingeben.
 
 Für die Eingabe des Datums gibt es folgende alternative Möglichkeiten:
 1. Über die **Kalenderfunktion**: ins Eingabefeld klicken, es erscheinent ein Kalender, das aktuelle Datum ist gelb hinterlegt. Auf das gewünschte Datum klicken, wodurch dieses blau wird und im Eingebefeld erscheint. Diese Art ist auf mobilen Geräten aufgrund des kleinen Displays oft schwierig anzuwenden. ![rechnungsdatum-kalender.png](/rechnungsdatum-kalender.png)
