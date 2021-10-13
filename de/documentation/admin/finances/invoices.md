@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-13T06:20:19.669Z
+date: 2021-10-13T06:23:20.373Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -205,24 +205,26 @@ Falls nicht:
 - **Pfandbereinigter Betrag **größer als** Total**: Lieferant verrechnet mehr, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht Verlust.
 - **Pfandbereinigter Betrag **kleiner als** Total**: Lieferant verrechnet weniger, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht “Gewinn”.
 
-> Unter Finanzen \> Bestellungen abrechnen \> … findest du ebenfalls eine Gegenüberstellung von Bestellung und Rechnung, die allerdings nur dann brauchbar ist, wenn es genau eine Bestellung gibt, die der Rechnung zugeordnet wird. Werden mehrere Bestellungen zugeordnet, wird immer nur die aktuelle Bestellung mit der gesamten Rechnung verglichen.
+> Unter *Finanzen > Bestellungen abrechnen* findest du ebenfalls eine Gegenüberstellung von Bestellung und Rechnung, die allerdings nur dann brauchbar ist, wenn es genau eine Bestellung gibt, die der Rechnung zugeordnet wird. Werden mehrere Bestellungen zugeordnet, wird immer nur die aktuelle Bestellung mit der gesamten Rechnung verglichen.
 {.is-warning}
 
 
-> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden. (**Github Issue?**)
+> **Transportkosten** werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden. (**Github Issue?**)
 {.is-danger}
 
 
 ## Rechnung zur Bezahlung freigeben
 
-Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von Rechnungen andere Personen zuständig sind. 
+> Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von Rechnungen andere Personen zuständig sind. 
+{.is-info}
+
 
 # Rechungen als bezahlt kennzeichnen
 
-Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, indem bei "bezahlt am" das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
+Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, indem bei *bezahlt am* das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
 
 > Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](/de/documentation/admin/finances/bank-accounts)
 {.is-info}
 
 
-Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen \> Rechnungen \> unbezahlte Rechnungen* und *Finanzen \> Übersicht \> unbezahlte Rechnungen* auf.
+Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen > Rechnungen > unbezahlte Rechnungen* und *Finanzen > Übersicht > unbezahlte Rechnungen* auf.
