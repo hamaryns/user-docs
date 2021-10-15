@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-13T06:50:41.395Z
+date: 2021-10-15T08:43:18.990Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -86,7 +86,7 @@ Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Bank�
 Von Rechnung übernehmen. Wenn nicht bekannt, das Datum der Lieferung (eruierbar z.B. aus der ausgewählten Bestellung) oder das aktuelle Datum eingeben.
 
 Für die Eingabe des Datums gibt es folgende alternative Möglichkeiten:
-1. Über die **Kalenderfunktion**: ins Eingabefeld klicken, es erscheinent ein Kalender, das aktuelle Datum ist gelb hinterlegt. Auf das gewünschte Datum klicken, wodurch dieses blau wird und im Eingebefeld erscheint. Diese Art ist auf mobilen Geräten aufgrund des kleinen Displays oft schwierig anzuwenden. Bild: ![rechnungsdatum-kalender.png](/rechnungsdatum-kalender.png)
+1. Über die **Kalenderfunktion**: ins Eingabefeld klicken, es erscheinent ein Kalender, das aktuelle Datum ist gelb hinterlegt. Auf das gewünschte Datum klicken, wodurch dieses blau wird und im Eingebefeld erscheint. Diese Art ist auf mobilen Geräten aufgrund des kleinen Displays oft schwierig anzuwenden. ![admin_finances_invoices_date.png](/uploads-de/admin_finances_invoices_date.png)
 1. **Eingabe im Textfeld genau im Format** `2021-09-30` (also zuerst Jahr 4-stellig, Bindestrich, in der Mitte Monat zweistellig ggf. mit führender Null, Bindestrich, am Ende Tag zweistellig ggf. mit führender Null). 
 
 > Wenn das Datum im falschen Format eingegeben wird, interpretiert die Foodsoft das Datum und insbesondere das Jahr falsch, und die Rechnung ist nachher scheinbar verschwunden, weil die Rechnungen nach Datum sortiert werden (neuerste zuerst). Die Eingabe von `30.9.2021` ergibt z.B. `36-03-13`, also das Datum 13. März im Jahr 36 n.Chr., und die Rechnung wird ganz ans Ende der Liste gereiht.
