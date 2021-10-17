@@ -2,7 +2,7 @@
 title: Überblick
 description: Funktionsüberblick und Einsatzmöglichkeiten der Foodsoft
 published: true
-date: 2021-10-07T17:54:44.061Z
+date: 2021-10-17T21:43:10.344Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -120,7 +120,11 @@ Mit Administrationsrechten ist das Foodsoft Menü gegenüber den Standard-Rechte
 
 # Foodsoft einrichten
 
-Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, und Foodcoops ihre eigene Foodsoft Instanz aktiviert bekommen können. Ihr müsst euch also nicht selbst um einen Server und die Installation der Foodsoft kümmern, obwohl das natürlich auch möglich ist. Wenn ihr dabei seid, eine Foodcoop neu zu gründen, könnt ihr in der Demo-Instanz die Foodsoft zunächst mal ausprobieren. Wenn ihr sicher seid, dass ihr sie verwenden wollt, sind folgende Schritte nötig bzw. empfohlen:
+> **Österreich**: Die IG Foodcoops betreibt einen Server, auf dem die Foodsoft installiert ist, und Foodcoops ihre eigene Foodsoft Instanz aktiviert bekommen können. Ihr müsst euch also nicht selbst um einen Server und die Installation der Foodsoft kümmern, obwohl das natürlich auch möglich ist. 
+{.is-success}
+
+
+Wenn ihr dabei seid, eine Foodcoop neu zu gründen, könnt ihr in der [Demo-Instanz](/de/documentation/admin/foodsoft-demo) die Foodsoft zunächst mal ausprobieren. Wenn ihr sicher seid, dass ihr sie verwenden wollt, sind folgende Schritte nötig bzw. empfohlen:
 
 
 ## Notwendige Schritte
