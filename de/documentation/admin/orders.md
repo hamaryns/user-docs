@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-10-18T07:03:03.360Z
+date: 2021-10-18T07:03:41.989Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -329,7 +329,7 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
 {.is-danger}
 
 
-> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten (**Github Issue anlegen!**)
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein Verlust für die Foodcoop in der Höhe der Transportkosten (**Github Issue anlegen!**)
 {.is-danger}
 
 
