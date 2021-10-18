@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-18T09:00:40.307Z
+date: 2021-10-18T09:06:12.278Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -203,7 +203,7 @@ Das Vorzeichen hat sich Anfang März 2021 umgedreht, die Bedeutung der Farben in
 
 Zusätzlich sind in der Rechnungsansicht noch folgende Details einzusehen:
 - **Pfandbereinigter Betrag** = Rechnungsbetrag - Pfand berechnet + Pfand gutgeschrieben
-- **Total**= Summe aus Bestellungen und Lieferungen Brutto (inkl. Pfand und Mwst, d.h. nicht Pfand-bereinigt\!), neu seit 2021-01: inklusive Transportkosten (werden bei Bestellung als zusätzlicher Plus-Betrag angezeigt; Transportkosten anlegen: siehe eigener Punkt unten).
+- **Total** = Summe aus Bestellungen und Lieferungen Brutto (inkl. Pfand und Mwst, d.h. nicht Pfand-bereinigt\!), neu seit 2021-01: inklusive Transportkosten (werden bei Bestellung als zusätzlicher Plus-Betrag angezeigt; Transportkosten anlegen: siehe [Bestellungen](/de/documentation/admin/orders), Beispiel für Darstellung siehe unten).
 
 > **Pfandbereinigter Betrag** und **Total** sollten übereinstimmen. 
 {.is-warning}
