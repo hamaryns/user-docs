@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-10-18T07:56:38.631Z
+date: 2021-10-18T07:59:31.652Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -311,17 +311,18 @@ Nur wenn Artikel mit veränderten Eigenschaften in der Artikelliste der Lieferan
 
 Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch abhängig von der Bestellsumme. So können die tatsächlich angefallenen Transportkosten für jede Bestellung im Nachhinein gerecht auf alle Bestellgruppen aufgeteilt werden:
 
-![admin_finances_order_transportkosten_bearbeiten1.png](/uploads-de/admin_finances_order_transportkosten_bearbeiten1.png)![admin_finances_order_transportkosten_bearbeiten2.png](/uploads-de/admin_finances_order_transportkosten_bearbeiten2.png)
 
 1. *Finanzen > Bestellungen abrechnen*
 2. Bestellung auswählen
-3. rechts oben *Artikel hinzufügen > Transportkosten bearbeiten*
+3. rechts oben *Artikel hinzufügen > Transportkosten bearbeiten* 
+![admin_finances_order_transportkosten_bearbeiten1.png](/uploads-de/admin_finances_order_transportkosten_bearbeiten1.png)!
 4. Gesamte Transportkosten für Bestellung eingeben (auch negativer Betrag möglich, falls z.B. zu viel bereits in die Artikelpreise einkalkulierte Transportkosten abgezogen werden sollen)
+![admin_finances_order_transportkosten_bearbeiten2.png](/uploads-de/admin_finances_order_transportkosten_bearbeiten2.png)
 5. Transportkostenverteilung auswählen:
    1. Kosten nicht auf die Bestellgruppen aufteilen
    2. Jede Bestellgruppe zahlt gleich viel
    3. Kosten anhand der Bestellsumme aufteilen
-   4. Kosten anhand der Anzahl an erhaltenen Artikeln verteilen
+   4. Kosten anhand der Anzahl an erhaltenen Artikeln verteilen 
 6. Speichern
 7. Ansichtsoptionen \> Gruppenübersicht: Anteil an Transportkosten für jede Bestellgruppe wird angezeigt
 8. Solange die Bestellung noch nicht abgerechnet wurde, kann der Vorgang ab Schritt 3 wiederholt werden, um Korrekturen vorzunehmen, nachdem die Ansichtsoption wieder auf “Bestellung bearbeiten” zurückgesetzt wurde.
