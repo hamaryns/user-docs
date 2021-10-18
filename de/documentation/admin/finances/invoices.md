@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-18T09:06:12.278Z
+date: 2021-10-18T11:43:24.008Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -224,15 +224,22 @@ Beispiel:
 - 30 Euro Rechnungsbetrag (inkl. Transportkosten)
 
 > Beim Erstellen oder Bearbeiten der Rechnung beim Auswählen der Bestellung scheinen die Transportkosten zunächst nicht auf, wenn sie vorher schon [zur Bestellung hinzugefügt wurden](/de/documentation/admin/orders): 
+> ![admin_finances_order_transportkosten_rechnung_bearbeiten.png](/uploads-de/admin_finances_order_transportkosten_rechnung_bearbeiten.png)
 {.is-warning}
 
-![admin_finances_order_transportkosten_rechnung_bearbeiten.png](/uploads-de/admin_finances_order_transportkosten_rechnung_bearbeiten.png)
 
-> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung berücksichtigt unter *Rechnung Detailansicht*, *Unbezahlte Rechnungen* :  
+
+> Ebenbso werden Transportkosten nicht in der Ansicht einzelner Bestellungen unter *Finanzen > Bestellungen abrechnen* angezeigt: ![admin_finances_order_transportkosten_bestellung_abrechnen.png](/uploads-de/admin_finances_order_transportkosten_bestellung_abrechnen.png)
+{.is-warning}
+
+
+
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung berücksichtigt unter *Rechnung Detailansicht*, *Unbezahlte Rechnungen* :
+> ![admin_finances_order_transportkosten_rechnung.png](/uploads-de/admin_finances_order_transportkosten_rechnung.png)
+> ![admin_finances_order_transportkosten_unbezahlte_rechnungen.png](/uploads-de/admin_finances_order_transportkosten_unbezahlte_rechnungen.png) 
 {.is-success}
 
-![admin_finances_order_transportkosten_rechnung.png](/uploads-de/admin_finances_order_transportkosten_rechnung.png)
-![admin_finances_order_transportkosten_unbezahlte_rechnungen.png](/uploads-de/admin_finances_order_transportkosten_unbezahlte_rechnungen.png)
+
 
 
 ## Freigabe Rechnung zur Bezahlung 
