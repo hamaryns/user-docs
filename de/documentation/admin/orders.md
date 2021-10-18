@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-10-18T08:11:01.089Z
+date: 2021-10-18T08:14:25.496Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -324,13 +324,17 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
    3. Kosten anhand der Bestellsumme aufteilen
    4. Kosten anhand der Anzahl an erhaltenen Artikeln verteilen 
 6. Speichern
-7. Ansichtsoptionen \> Gruppenübersicht: Anteil an Transportkosten für jede Bestellgruppe wird angezeigt
-8. Solange die Bestellung noch nicht abgerechnet wurde, kann der Vorgang ab Schritt 3 wiederholt werden, um Korrekturen vorzunehmen, nachdem die Ansichtsoption wieder auf “Bestellung bearbeiten” zurückgesetzt wurde.
+7. *Ansichtsoptionen > Gruppenübersicht*: Anteil an Transportkosten für jede Bestellgruppe wird angezeigt
+8. Solange die Bestellung noch nicht abgerechnet wurde, kann der Vorgang ab Schritt 3 wiederholt werden, um Korrekturen vorzunehmen, nachdem die Ansichtsoption wieder auf *Bestellung bearbeiten* zurückgesetzt wurde.
+
+> Wenn die Bestellung über *Finanzen > Bestellungen abrechnen* verändert wird, müssen die Transportkosten neu berechnet werden, da sie nicht automatisch angepasst werden.
+{.is-info}
+
 
 > Transportkosten werden den Mitgliedern beim Abrechnen aufgrund eines Fehlers nicht von ihren Konten abgebucht: https://github.com/foodcoops/foodsoft/issues/861
 {.is-danger}
 
-### Beispiel Transportkosten
+### Beispiel Anzeige der Transportkosten in Rechnungen
 - 19,20 Euro Bestellbetrag
 - 10 Euro Transportkosten 
 - 30 Euro Rechnungsbetrag (inkl. Transportkosten)
