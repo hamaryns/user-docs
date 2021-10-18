@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-10-18T08:03:31.748Z
+date: 2021-10-18T09:00:40.307Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -216,11 +216,26 @@ Falls nicht:
 {.is-warning}
 
 
-> **Transportkosten** werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein scheinberer Verlust für die Foodcoop in der Höhe der Transportkosten, obwohl diese den Mitgliedern beim Abrechnen anteilig von ihren Konten abgebucht werden. (**Github Issue?**)
-{.is-danger}
+
+## Transportkosten in Rechnungen
+Beispiel:
+- 19,20 Euro Bestellbetrag
+- 10 Euro Transportkosten 
+- 30 Euro Rechnungsbetrag (inkl. Transportkosten)
+
+> Beim Erstellen oder Bearbeiten der Rechnung beim Auswählen der Bestellung scheinen die Transportkosten zunächst nicht auf, wenn sie vorher schon [zur Bestellung hinzugefügt wurden](/de/documentation/admin/orders): 
+{.is-warning}
+
+![admin_finances_order_transportkosten_rechnung_bearbeiten.png](/uploads-de/admin_finances_order_transportkosten_rechnung_bearbeiten.png)
+
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung berücksichtigt unter *Rechnung Detailansicht*, *Unbezahlte Rechnungen* :  
+{.is-success}
+
+![admin_finances_order_transportkosten_rechnung.png](/uploads-de/admin_finances_order_transportkosten_rechnung.png)
+![admin_finances_order_transportkosten_unbezahlte_rechnungen.png](/uploads-de/admin_finances_order_transportkosten_unbezahlte_rechnungen.png)
 
 
-## Rechnung zur Bezahlung freigeben
+## Freigabe Rechnung zur Bezahlung 
 
 > Empfehlung: ins Notizfeld “bezahlen” schreiben, falls für das Bezahlen von Rechnungen andere Personen zuständig sind. 
 {.is-info}
