@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-10-18T07:03:41.989Z
+date: 2021-10-18T07:56:38.631Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -297,7 +297,7 @@ Bestellte Anzahl an gelieferte anpassen (mehr oder weniger Artikel als bestellt 
 
 ## Artikeleigenschaften anpassen
 
-Manchmal ändern sich z.B. Artikelpreise zwischen Bestellung und Lieferung und müssen in der bereits abgeschlossenen, aber noch nicht abgerechneten Bestellung korrigiert werden, damit sie der Rechnung entsprechen. Unter Finanzen \> Bestellungen abrechnen kannst du jeden Artikel bearbeiten:
+Manchmal ändern sich z.B. Artikelpreise zwischen Bestellung und Lieferung und müssen in der bereits abgeschlossenen, aber noch nicht abgerechneten Bestellung korrigiert werden, damit sie der Rechnung entsprechen. Unter *Finanzen > Bestellungen abrechnen* kannst du jeden Artikel bearbeiten:
 
 - Der Preis ist die einzige Artikeleigenschaft, die für jeden Artikel und jede Bestellung separat abgespeichert wird. Dadurch wirken sich Preisänderungen eines Artikels in einer Bestellung zunächst nicht auf andere Bestellungen aus: 
   - Bei vergangenen Bestellungen soll das ja immer so sein. 
@@ -311,9 +311,11 @@ Nur wenn Artikel mit veränderten Eigenschaften in der Artikelliste der Lieferan
 
 Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch abhängig von der Bestellsumme. So können die tatsächlich angefallenen Transportkosten für jede Bestellung im Nachhinein gerecht auf alle Bestellgruppen aufgeteilt werden:
 
-1. Finanzen \> Bestellungen abrechnen
+![admin_finances_order_transportkosten_bearbeiten1.png](/uploads-de/admin_finances_order_transportkosten_bearbeiten1.png)![admin_finances_order_transportkosten_bearbeiten2.png](/uploads-de/admin_finances_order_transportkosten_bearbeiten2.png)
+
+1. *Finanzen > Bestellungen abrechnen*
 2. Bestellung auswählen
-3. rechts oben “Artikel hinzufügen” \> “Transportkosten bearbeiten”
+3. rechts oben *Artikel hinzufügen > Transportkosten bearbeiten*
 4. Gesamte Transportkosten für Bestellung eingeben (auch negativer Betrag möglich, falls z.B. zu viel bereits in die Artikelpreise einkalkulierte Transportkosten abgezogen werden sollen)
 5. Transportkostenverteilung auswählen:
    1. Kosten nicht auf die Bestellgruppen aufteilen
@@ -322,16 +324,16 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
    4. Kosten anhand der Anzahl an erhaltenen Artikeln verteilen
 6. Speichern
 7. Ansichtsoptionen \> Gruppenübersicht: Anteil an Transportkosten für jede Bestellgruppe wird angezeigt
-
 8. Solange die Bestellung noch nicht abgerechnet wurde, kann der Vorgang ab Schritt 3 wiederholt werden, um Korrekturen vorzunehmen, nachdem die Ansichtsoption wieder auf “Bestellung bearbeiten” zurückgesetzt wurde.
 
 > Transportkosten werden den Mitgliedern beim Abrechnen aufgrund eines Fehlers nicht von ihren Konten abgebucht: https://github.com/foodcoops/foodsoft/issues/861
 {.is-danger}
 
+> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung berücksichtigt unter *Rechnung Detailansicht*, *Unbezahlte Rechnungen* (Beispiel mit 19,20 Euro Bestellbetrag, 10 Euro Transportkosten und 30 Euro Rechnungsbetrag inkl. Transportkosten):  
+{.is-success}
 
-> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung nicht berücksichtigt. Da sie in der Rechnungssumme enthalten sind, entsteht so ein Verlust für die Foodcoop in der Höhe der Transportkosten (**Github Issue anlegen!**)
-{.is-danger}
-
+![admin_finances_order_transportkosten_rechnung.png](/uploads-de/admin_finances_order_transportkosten_rechnung.png)
+![admin_finances_order_transportkosten_unbezahlte_rechnungen.png](/uploads-de/admin_finances_order_transportkosten_unbezahlte_rechnungen.png)
 
 # Bestellung abrechnen
 
