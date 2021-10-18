@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-10-18T08:17:09.659Z
+date: 2021-10-18T08:55:47.941Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -334,26 +334,12 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
 > Wenn die Bestellung über *Finanzen > Bestellungen abrechnen* verändert wird, müssen die Transportkosten neu berechnet werden, da sie nicht automatisch angepasst werden.
 {.is-info}
 
+> Wie die Transportkosten bei der Anzeige von Rechnungen berücksichtigt werden, findest du unter [Rechnungen](/de/documentation/admin/finances/invoices).
+{.is-info}
+
 
 > Transportkosten werden den Mitgliedern beim Abrechnen aufgrund eines Fehlers nicht von ihren Konten abgebucht: https://github.com/foodcoops/foodsoft/issues/861
 {.is-danger}
-
-### Beispiel Anzeige der Transportkosten in Rechnungen
-- 19,20 Euro Bestellbetrag
-- 10 Euro Transportkosten 
-- 30 Euro Rechnungsbetrag (inkl. Transportkosten)
-
-> Beim Erstellen oder Bearbeiten der Rechnung beim Auswählen der Bestellung scheinen die Transportkosten zunächst nicht auf: 
-{.is-warning}
-
-![admin_finances_order_transportkosten_rechnung_bearbeiten.png](/uploads-de/admin_finances_order_transportkosten_rechnung_bearbeiten.png)
-
-> Transportkosten werden bei der Rechnungsbilanz beim Betrag der Bestellung berücksichtigt unter *Rechnung Detailansicht*, *Unbezahlte Rechnungen* :  
-{.is-success}
-
-![admin_finances_order_transportkosten_rechnung.png](/uploads-de/admin_finances_order_transportkosten_rechnung.png)
-![admin_finances_order_transportkosten_unbezahlte_rechnungen.png](/uploads-de/admin_finances_order_transportkosten_unbezahlte_rechnungen.png)
-
 
 
 # Bestellung abrechnen
