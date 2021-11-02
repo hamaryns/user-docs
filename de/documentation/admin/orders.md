@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-11-02T16:27:33.894Z
+date: 2021-11-02T16:47:47.071Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -12,12 +12,14 @@ dateCreated: 2021-04-20T22:03:00.312Z
 
 ## Lebenszyklus von Bestellungen
 
+Eine Bestellung ist immer genau einer [Lieferantin](/de/documentation/admin/suppliers) zugeordnet. Es können gleichzeitig beliebig viele Bestellungen aktiv sein, von verschiedenen aber auch von der selben Lieferantin. 
+
 Bestellungen durchlaufen in der Regel folgende Stadien, wobei eine Änderung meist nur vorwärts möglich ist:
 
-1. Bestellung ist noch nicht offen, weil sie erst in der Zukunft startet (optional)
-2. Bestellung ist offen: Bestellgruppen können ihre Bestellungen erstellen und bearbeiten
+1. Bestellung ist noch nicht offen, weil sie erst in der Zukunft startet (optional); sie ist in diese Stadium nur für Administratorinnen sichtbar.
+2. Bestellung ist offen: [Bestellgruppen](/de/documentation/admin/users) können ihre Bestellungen erstellen und bearbeiten. Das für die Bestellung benötigte Guthaben der Bestellgruppen wird "reserviert": das verfügbare Guthaben verringert sich entsprechend. Die  Kontostände der Bestellgruppen bleiben zunächst unverändert.  
 3. Bestellung ist beendet: Bestellgruppen können ihre Bestellungen nicht mehr bearbeiten, Bestellungen werden an Lieferantinnen geschickt; Bestellung kann nicht mehr wieder geöffnet werden, um von Bestellgruppen bearbeitet zu werden. Nach der Lieferung kann die Bestellung grundsätzlich nur noch mit spezieller Berechtigung  angepasst werden (z.B. wenn nicht alles geliefert wurde, was bestellt wurde)
-4. Bestellung ist abgrechnet: Bestellung kann nicht mehr verändert werden
+4. Bestellung ist abgrechnet: Bestellung kann nicht mehr verändert werden, die Beträge wurden den Bestellgruppen von ihren Foodsoft-Konten endgültig abgebucht.
 
 Die folgende Skizze stellt diesen Lebenszyklus dar. Der blaue Pfeil in der Mitte deutet die Zeitachse an: 
 ![bestellung.png](/uploads-de/admin_orders_bestellung.png =400x)
