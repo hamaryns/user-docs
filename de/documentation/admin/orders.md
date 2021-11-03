@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-11-02T17:08:24.757Z
+date: 2021-11-03T15:51:23.739Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -340,7 +340,7 @@ Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch ab
 {.is-info}
 
 
-> Der Fehler, dass Transportkosten den Mitgliedern beim Abrechnen aufgrund eines Fehlers nicht von ihren Konten abgebucht wurden (siehe https://github.com/foodcoops/foodsoft/issues/861), wurde am 20.10.2021 behoben. Transportkosten, die vor diesem Datum angelegt wurden, müssen vor dem Abrechnen der Bestellung nochmal bearbeitet werden, damit sie beim Abrechnen korrekt berücksichtigt werden.
+> Der Fehler, dass seit März 2021 Transportkosten den Mitgliedern beim Abrechnen nicht von ihren Konten abgebucht wurden (siehe https://github.com/foodcoops/foodsoft/issues/861), wurde am 20.10.2021 behoben. Transportkosten, die in diesem Zeitraum angelegt wurden, müssen vor dem Abrechnen der Bestellung nochmal bearbeitet werden, damit sie beim Abrechnen korrekt berücksichtigt werden. Die Transportkosten von bereits abgerechneten Bestellungen können nur über manuelle Kontobuchungen nachträglich berücksichtigt werden.
 {.is-success}
 
 
