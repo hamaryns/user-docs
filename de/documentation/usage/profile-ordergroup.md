@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-10-06T09:14:23.795Z
+date: 2021-11-03T21:40:05.763Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -100,6 +100,9 @@ Unter Profil bearbeiten findst du rechts eine Auflistung aller Mitglieder deiner
 
 ![profildaten2.png](/uploads-de/usage_profile-ordergroup_profildaten2.png)
 
+## Mitglieder aus Bestellgruppe entfernen
+
+Wenn du Mitglieder deiner Bestellgruppe wieder entfernen möchtest, musst du eine Administratorin deiner Foodcoop darum bitten. Falls das betroffene Mitglied keine Nachrichten mehr bekommen möchte, kann es das auch selbst abstellen - siehe oben.
 
 ## Mitgliedschaft in Arbeitsgruppen beenden
 
