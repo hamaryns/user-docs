@@ -2,7 +2,7 @@
 title: Kommunikation
 description: Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 published: true
-date: 2021-10-03T19:31:39.921Z
+date: 2021-11-09T07:53:18.903Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:03:25.476Z
@@ -92,7 +92,9 @@ Bei einer Antwort wird der ursprüngliche Text als Zitat mit `>` am Zeilenfang e
 {.is-info}
 
 
+## Nachrichtengruppen
 
+Über *Nachrichtengruppen beitreten* kannst du, wenn in deiner Foodcoop Nachrichtengruppen eingerichtet sind (siehe [Benutzerinnenverwaltung](/de/documentation/admin/users)), selbständig Gruppen beitreten oder sie verlassen. 
 
 
 # Telefonnummern und Emailadressen
