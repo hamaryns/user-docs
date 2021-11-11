@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-11-11T08:28:52.795Z
+date: 2021-11-11T08:38:17.350Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -226,19 +226,29 @@ Die Foodcoop benötigt Bestelllisten für die Aufteilung der eingegangenn Liefer
 {.is-danger}
 
 
-## Beispiel Gruppen PDF
+## Gruppen PDF
+
+In einem  Gruppen PDF sind die bestellten Artikel nach Bestellgruppen zusammengefasst. Diese Liste ist für die Mitglieder zum Abholen ideal. 
 
 ![admin-bestellungen-gruppenpdf.png](/uploads-de/admin_orders_gruppenpdf.png)
 
-## Beispiel Artikel PDF
+## Artikel PDF
+Ein Artikel PDF sind die bestellten Artikel nach Artikel zusammengefasst. Diese Liste ist fürs Aufteilen der Artikel  auf die Mitglieder ideal. 
 
 ![admin-bestellungen-artikelpdf.png](/uploads-de/admin_orders_artikelpdf.png)
 
-## Beispiel Matrix PDF
+## Matrix PDF
+
+Die Matrix Darstellung kombiniert die Gruppen- und Artikeldarstellung in einer einzelnen Matrix (Tabelle), eine Zeile für jeden Artikel und eine Spalte für jede Bestellgruppe, in den Matrixfeldern die jeweils bestellte Anzahl.
+Zusaätzlich zur Matrix gibt es noch eine Liste *Artikelübersicht*.
+
+> Das Beispiel zeigt keine Matrix, vermutlich weil nur eine Bestellgruppe bestellt hat.
+{.is-danger}
+
 
 ![admin-bestellungen-matrixpdf.png](/uploads-de/admin_orders_matrixpdf.png)
 
-## Beispiel Fax PDF
+## Fax PDF
 
 ![admin-bestellungen-faxpdf.png](/uploads-de/admin_orders_faxpdf.png)
 
