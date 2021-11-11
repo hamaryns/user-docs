@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-11-11T08:38:17.350Z
+date: 2021-11-11T08:42:32.244Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -249,13 +249,13 @@ Zusaätzlich zur Matrix gibt es noch eine Liste *Artikelübersicht*.
 ![admin-bestellungen-matrixpdf.png](/uploads-de/admin_orders_matrixpdf.png)
 
 ## Fax PDF
-
+Das Fax PDF ist eine Liste der insgesamt bestellten Artikelmengen, ohne Aufschlüsselung, was davon jeweils welche Bestellgruppen bestellt haben. Diese Liste kann verwendet werden, um sie der Lieferantin nochmals zukommen zu lassen (falls das Original verloren gegangen ist), oder um die eingegangene Lieferung zu kontrollieren. 
 ![admin-bestellungen-faxpdf.png](/uploads-de/admin_orders_faxpdf.png)
 
 
 # Bestellungen an Lieferung Anpassen
 
-Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel nicht mehr oder nur beschränkt verfügbar, oder die Lieferanten irrt sich - so können sowohl mehr als auch weniger Artikel als bestellt geliefert werden. Nur wenn ihr die Foodsoft auch zum Abrechnen verwendet, ist es wichtig, die Bestellungen an die tatsächliche Lieferung anzupassen, damit
+Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel nicht mehr oder nur beschränkt verfügbar, werden daher nicht geliefert oder durch andere ersetzt, oder die Lieferantin irrt sich - so können sowohl mehr als auch weniger Artikel als bestellt geliefert werden. Nur wenn ihr die Foodsoft auch zum Abrechnen verwendet, ist es wichtig, die Bestellungen an die tatsächliche Lieferung anzupassen, damit
 - die Rechnung der Lieferantin mit der Bestellsumme in der Foodsoft zusammenstimmt, und
 - den Mitgliedern  Beträge von ihrem Guthaben abgebucht werden, die dem entsprechen, was sie tatsächlich bekommen haben.
 
