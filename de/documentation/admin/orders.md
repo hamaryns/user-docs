@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-11-03T15:51:23.739Z
+date: 2021-11-11T08:28:52.795Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -221,6 +221,10 @@ Die Foodcoop benötigt Bestelllisten für die Aufteilung der eingegangenn Liefer
 
 > Die Funktion "Abholtage" muss für dich freigegeben sein - bitte eine Administratorin deiner Foodsoft darum
 {.is-warning}
+
+> Die folgenden Beispiele sind für eine Bestellung, wo nur die Bestellgruppe *LLTest* etwas bestellt hat. Sie geben daher teilweise ein unvollständiges Bild der Darstellungsart wieder und sollten duch ein Beispiel mit mindestens 2 Bestellgruppen ersetzt werden.
+{.is-danger}
+
 
 ## Beispiel Gruppen PDF
 
