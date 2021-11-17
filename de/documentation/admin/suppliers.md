@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Liefernden und Artikel (Foodsoft-Menü "Artikel")
 published: true
-date: 2021-10-03T10:50:49.762Z
+date: 2021-11-17T14:38:39.168Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -94,40 +94,23 @@ Da mit einer Lieferantin Bestellungen und Rechnungen verknüpft sein können, wi
 
 # Artikel
 
+## Artikelfelder (Stammdaten)
 
-## Artikel anlegen
+Jeder Artikel in der Foodsoft, hat folgende Variablen/Felder, notwendige sind mit * vermerkt:
 
-1. Lieferantin auswählen unter "Artikel > Lieferanten/Artikel"
-1. auf Name der Lieferantin und dann auf Artikel oder 
-1. in der entsprechenden Zeile direkt auf "Artikel" 
-1. "Neuer Artikel" anklicken
-1. Weitere Infos siehe "Artikel bearbeiten"
+* ***Artikel ist verfügbar?** (Ja/Nein)
+* ***Name** (Text, frei wählbar)
+* ***Einheit** (Text, frei wählbar)
+* **Notiz** (Text, frei wählbar)
+* ***Kategorie** (Name erstellter Kategorie)
+* ***Nettopreis** (Kommazahl mit ".") und **MWSt** (Prozent) 
+* ***Pfand** (Kommazahl mit ".")
+* **Endpreis** (Kommazahl mit ".")
+* **Herkunft** (Text)
+* **Produzent** (Text)
+* **Bestellnummer** (Text)
 
-![neuer-artikel-1.png](/uploads-de/admin_suppliers_neuer-artikel-1.png)
-
-Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder sichtbar zu machen:
-![neuer-artikel-2.png](/uploads-de/admin_suppliers_neuer-artikel-2.png)
-
-> Wenn du ins Dunkle außerhalb des Eingabefeldes klickst, bewirkt es das gleiche wie wenn du auf "Schließen" drückst, und alle Änderungen sind verloren.
-{.is-warning}
-
-> Falls dein Display bzw. dein Browserfenster nicht recht hoch ist, kann es sein dass du die Schaltflächen "Schließen" und "Artikel erstellen" nicht sehen kannst. Abhilfe: das Browser Fenster so groß wie möglich machen (Doppelklick auf Titelleiste), falls das nicht reicht, Browser auf Vollbildansicht stellen mit F11. 
-{.is-info}
-
-
-
-## Artikel bearbeiten
-
-1. Lieferantin auswählen unter "Artikel > Lieferanten/Artikel"
-1. auf Name der Lieferantin und dann auf Artikel oder 
-1. in der entsprechenden Zeile direkt auf "Artikel" 
-1. In der Zeile des Artikels "Bearbeiten" anklicken
-
-![prod-artikel-bearbeiten.png](/uploads-de/admin_suppliers_prod-artikel-bearbeiten.png)
-
-### Artikel ist verfügbar?
-
-Falls Artikel nicht verfügbar ist, z.B. weil außerhalb der Saison, Häckchen entfernen. Artikel erscheint dann grau in der Artikelliste und wird in Bestellungen nicht aufgenommen.
+Details zu den Feldern, Hinweise zur Verwendung und derzeitige technische Einschränkungen, werden in den folgenden Kaptiteln erläutert.
 
 ### Name
 
@@ -219,6 +202,43 @@ Kann von Lieferantin übernommen, selbst gewählt oder auch leer gelassen werden
 
 > Tipp: wenn Bestellnummern selbst gewählt werden, ist es gut, mit der Nummerierung nicht bei 1, sondern z.B. bei 1000 anzufangen, um  in den Bestelllisten, die an die Lieferantin gehen, Verwechslungen mit der Stückzahl zu reduzieren. Siehe "Artikel importieren".
 {.is-info}
+
+### Artikel ist verfügbar?
+
+Falls Artikel nicht verfügbar ist, z.B. weil außerhalb der Saison, Häckchen entfernen. Artikel erscheint dann grau in der Artikelliste und wird in Bestellungen nicht aufgenommen.
+
+
+## Artikel anlegen
+
+1. Lieferantin auswählen unter "Artikel > Lieferanten/Artikel"
+1. auf Name der Lieferantin und dann auf Artikel oder 
+1. in der entsprechenden Zeile direkt auf "Artikel" 
+1. "Neuer Artikel" anklicken
+1. Weitere Infos siehe "Artikel bearbeiten"
+
+![neuer-artikel-1.png](/uploads-de/admin_suppliers_neuer-artikel-1.png)
+
+Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder sichtbar zu machen:
+![neuer-artikel-2.png](/uploads-de/admin_suppliers_neuer-artikel-2.png)
+
+> Wenn du ins Dunkle außerhalb des Eingabefeldes klickst, bewirkt es das gleiche wie wenn du auf "Schließen" drückst, und alle Änderungen sind verloren.
+{.is-warning}
+
+> Falls dein Display bzw. dein Browserfenster nicht recht hoch ist, kann es sein dass du die Schaltflächen "Schließen" und "Artikel erstellen" nicht sehen kannst. Abhilfe: das Browser Fenster so groß wie möglich machen (Doppelklick auf Titelleiste), falls das nicht reicht, Browser auf Vollbildansicht stellen mit F11. 
+{.is-info}
+
+
+
+## Artikel bearbeiten
+
+1. Lieferantin auswählen unter "Artikel > Lieferanten/Artikel"
+1. auf Name der Lieferantin und dann auf Artikel oder 
+1. in der entsprechenden Zeile direkt auf "Artikel" 
+1. In der Zeile des Artikels "Bearbeiten" anklicken
+
+![prod-artikel-bearbeiten.png](/uploads-de/admin_suppliers_prod-artikel-bearbeiten.png)
+
+
 
 
 ## Artikel importieren
