@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-19T22:32:25.190Z
+date: 2021-11-19T22:33:36.485Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -79,7 +79,7 @@ Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Bank�
 {.is-warning}
 
 
-> Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521`. Im Gegensatz zum Feld *Rechnungsdatum* ist hier das Datumsformat egal, weil die Rechnungsnummer nur ein Textfeld ist, und die Foodsoft die Eingabe nicht als Datum interpretiert. 
+> Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521` oder `27.5.2021`. Im Gegensatz zum Feld *Rechnungsdatum* ist hier das Datumsformat egal, weil die Rechnungsnummer nur ein Textfeld ist, und die Foodsoft die Eingabe nicht als Datum interpretiert. 
 {.is-info}
 
 
