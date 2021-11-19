@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-19T22:34:32.681Z
+date: 2021-11-19T22:45:38.504Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -187,8 +187,8 @@ Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben
 
 Es gibt folgende Möglichkeiten, eine bereits angelegte Rechnung wieder zu finden, die in der Liste der Rechnungen nicht dort aufscheint, wo sie sein sollte: 
 
-1. Gehe auf die letzte Seite der Rechnungsliste mit der Schaltfläche `>>`, wo du sie finden solltest
-1. Gehe auf *Finanzen \> Übersicht \> unbezahlte Rechnungen*, wo du die Rechnung findest, wenn sie noch nicht bezahlt wurde (d.h. wenn noch kein Datum bei *bezahlt am* eingegeben wurde).
+1. Gehe auf die letzte Seite der Rechnungsliste mit der Schaltfläche `>>`, wo du sie dann finden solltest, wenn in der Rechnung kein Datum eingegeben wurde, oder ein falsches Datum, dessen Jahreszahl vor der ersten korrekt angelegten Rechnung liegt.
+1. Gehe auf *Finanzen \> Übersicht \> unbezahlte Rechnungen*, wo du die Rechnung findest, wenn sie noch nicht bezahlt wurde (d.h. wenn noch kein Datum bei *bezahlt am* eingegeben wurde). Manchmal passiert es, dass das Rechnungsdatum versehentlich unter "bezahlt am" eingegeben wird, und statt dem "bezahlt am" Datum das Rechnungsdatum freigelassen wird. Dann erscheint die Rechnung auch nicht unter den unbezahlten, obwohl sie noch gar nicht bezahlt wurde. 
 1. Wenn die Rechnung bereits mit einer Bestellung verknüpft wurde: gehe über *Finanzen > Bestellungen abrechnen* (Zugriffsrecht erforderlich) auf die entsprechende Bestellung und klicke hier auf *Rechnung > Rechnung bearbeiten*. 
 1. [Exportiere die Liste der Rechnungen über die Schaltfläche *CSV* in eine Datei](/de/documentation/admin/lists), und suche in dieser Datei nach der Rechnung. Dabei kannst du z.B. in einem Tabellenprogramm wie unter dem Link beschrieben einen Filter verwenden, um nur die Rechnungen einer Lieferantin anzeigen zu lassen.
 
