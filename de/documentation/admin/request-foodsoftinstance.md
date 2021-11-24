@@ -2,7 +2,7 @@
 title: Foodsoft Server
 description: Wie eure Foodcoop eine eigene Foodsoft-Instanz auf vorhandenen Servern bekommt
 published: true
-date: 2021-11-24T18:45:17.869Z
+date: 2021-11-24T18:46:13.816Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-10T12:15:44.957Z
@@ -14,7 +14,7 @@ dateCreated: 2021-05-10T12:15:44.957Z
 {.is-warning}
 
 # Österreich
-Eine eigene Foodosoft Instanz am [IG]()-Server die unter https://app.foodcoops.at/NAME-EURER-FOODCOOP erreichbar ist, könnt ihr per E-mail an support@@foodcoops.at anfordern.
+Eine eigene Foodosoft Instanz am [IG](https://foodcoops.at/)-Server die unter https://app.foodcoops.at/NAME-EURER-FOODCOOP erreichbar ist, könnt ihr per E-mail an support@foodcoops.at anfordern.
 {.is-danger}
 
 # Anderswo
