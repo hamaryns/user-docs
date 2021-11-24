@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: 
 published: true
-date: 2021-11-24T19:43:42.385Z
+date: 2021-11-24T19:49:28.095Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
@@ -10,6 +10,14 @@ dateCreated: 2021-04-22T08:40:25.460Z
 
 # Begriffsklärungen
 Manche Begriffe in der Foodsoft haben spezielle oder auch mehrfache Bedeutungen:
+
+## Bestellung
+[Bestellung](/de/documentation/admin/orders) (und dazugehörende Lieferung der Artikel) von [Lieferantin](/de/documentation/admin/suppliers) an Bestellgruppen 
+
+## Lieferung 
+Bedeutungen:
+- Einbringen von Lagerartikeln ins [Lager](/de/documentation/admin/storage)
+- Bei der Foocoop angekommene [Bestellung](/de/documentation/admin/orders)
 
 ## Lagerbestellung
 Bedeutungen:
@@ -27,22 +35,15 @@ Siehe [Bestellung](/de/documentation/admin/orders) abrechnen.
 
 ## Konto, Konten
 Bedeutungen:
-1. Foodsoftkonten: Guthaben der Bestellgruppen
-2. Bankkonto/konten der Foodcoop
+1. [Foodsoftkonten](/de/documentation/admin/finances/accounts): Guthaben der Bestellgruppen
+2. [Bankkonto/konten](/de/documentation/admin/finances/bank-accounts) der Foodcoop
 
 ## Transaktionen
-Veränderung des Kontostands von Foodsoftkonten (Guthaben Bestellgruppen) 
+Veränderung des Kontostands von [Foodsoftkonten](/de/documentation/admin/finances/accounts) (Guthaben Bestellgruppen) 
 
 ## Rechnung
-Eine digitale Version der Rechnung einer Lieferantin in der Foodsoft
+Eine digitale Version der [Rechnung](/de/documentation/admin/finances/invoices) einer Lieferantin in der Foodsoft
 
-## Bestellung
-Bestellung (und dazugehörende Lieferung der Artikel) von Lieferantin an Bestellgruppen 
-
-## Lieferung 
-Bedeutungen:
-- Einbringen von Lagerartikeln ins [Lager](/de/documentation/admin/storage)
-- Bei der Foocoop angekommene [Bestellung](/de/documentation/admin/orders)
 
 ## Inventur
 Angleichung des Lagerstands in der Foodsoft an jene im Lagerraum der Foodcoop, siehe [Lager](/de/documentation/admin/storage)
