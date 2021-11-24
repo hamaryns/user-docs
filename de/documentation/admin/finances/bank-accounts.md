@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-11-24T20:35:18.826Z
+date: 2021-11-24T20:40:08.030Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -88,9 +88,13 @@ Jedes Mitglied findet seinen Zahlungsreferenz-Rechner im [Dropdownmenü des Prof
 
 # Bankkonto einrichten
 
+
+## Bankproxy anlegen
+
 > Anleitung aus IG-Forum hier einpflegen: https://forum.foodcoops.at/t/fehler-403-beim-importieren-der-banktransaktionen/5666/2
 {.is-danger}
 
+## Bankkonto anlegen
 
 Um ein Bankkonto zu Verknüpfen ist eine Berechtigung als Administrator erforderlich. unter *Administration > Finanzen > Neues Bankkonto anlegen* wählen. Ein Dialogfenster öffnet sich mit den selbsterklärenden Feldern 
 - Name\*, 
