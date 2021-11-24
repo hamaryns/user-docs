@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: 
 published: true
-date: 2021-10-03T10:25:09.875Z
+date: 2021-11-24T19:42:44.804Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
@@ -47,7 +47,7 @@ Bedeutungen:
 ## Inventur
 Angleichung des Lagerstands in der Foodsoft an jene im Lagerraum der Foodcoop, siehe [Lager](/de/documentation/admin/storage)
 
-## Brutto, Netto, Mehrwersteuer
+## Brutto, Netto, Mehrwertsteuer
 Siehe [Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax)...
 
 ## Pfand
