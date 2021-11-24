@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: 
 published: true
-date: 2021-11-24T19:42:54.033Z
+date: 2021-11-24T19:43:42.385Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
@@ -25,7 +25,7 @@ Vorgang besteht aus 2 Schritten:
 
 Siehe [Bestellung](/de/documentation/admin/orders) abrechnen.
 
-## Konto/Konten
+## Konto, Konten
 Bedeutungen:
 1. Foodsoftkonten: Guthaben der Bestellgruppen
 2. Bankkonto/konten der Foodcoop
