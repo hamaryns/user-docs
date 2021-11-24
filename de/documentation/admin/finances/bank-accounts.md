@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-11-24T20:40:08.030Z
+date: 2021-11-24T20:47:36.825Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -93,6 +93,16 @@ Jedes Mitglied findet seinen Zahlungsreferenz-Rechner im [Dropdownmenü des Prof
 
 > Anleitung aus IG-Forum hier einpflegen: https://forum.foodcoops.at/t/fehler-403-beim-importieren-der-banktransaktionen/5666/2
 {.is-danger}
+
+
+1. https://bankproxy.foodcoops.at/admin öffnen
+1. Authorize klicken
+1. Unter *Create* einen Namen vergeben (z.B. Foodcoop XY ELBA) und den Typ auswählen. Für *Raiffeisen MeinELBA* muss *at.raiffeisen.elba* ausgewählt werden.
+1. Abhängig vom gewählten Typ müssen dann die zusätzlichen Eingabefelder befüllt werden. Die einzelnen Felder sind unter https://bankproxy.github.io/connectors/ dokumentiert.
+1. Nach dem Klicken von *Create* werden die Credentials angezeigt. Den Teil neben *Authorization* mit dem Basic abcdef012345= wird in der Foodsoft benötigt und kann gleich in die Zwischenablage kopiert werden.
+1. In der Foodsoft unter *Admin > Finanzen* muss jetzt ein neuer BankGateway angelegt werden. Es muss ein beliebiger Name (z.B. ELBA) gewählt werden. Als URL wird https://bankproxy.foodcoops.at und unter Authorization-Header das Basic abcdef012345= aus dem vorherigen Schritt eingetragen. Falls ein automatische Import möglich ist (geht derzeit nur mit *Erste Connect*) kann unter Bedienerlos-Benutzerin noch jene Benutzerin eingetragen werden, die den Zugang konfiguriert. Ansonsten kann das Feld auch leer gelassen werden.
+1. Danach kann unter *Admin > Finanzen* beim Bankkonto der zuvor angelegte Bankgateway ausgewählt werden.
+
 
 ## Bankkonto anlegen
 
