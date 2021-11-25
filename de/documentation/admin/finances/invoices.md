@@ -2,13 +2,13 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-19T22:45:38.504Z
+date: 2021-11-25T20:18:17.470Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
 ---
 
-Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen scheinen zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Rechnungen können in Papierform oder digital als PDF oder JPG vorliegen. 
+Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen können dabei in Papierform oder digital als PDF oder JPG vorliegen. Rechnungen scheinen in der Foodsoft zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Weiters ist eine Funktion in Arbeit, dass Rechnungen aus der Foodsoft heraus bezahlt werden können, indem sich die Foodsoft mit dem Bankkonto verbindet und einen Zahlunsgauftrag anlegt. 
 
 
 # Rechnung anlegen
