@@ -2,13 +2,14 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-25T20:18:17.470Z
+date: 2021-11-25T20:30:05.083Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
 ---
 
-Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu vergleichen. Rechnungen können dabei in Papierform oder digital als PDF oder JPG vorliegen. Rechnungen scheinen in der Foodsoft zunächst unter den “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt. Weiters ist eine Funktion in Arbeit, dass Rechnungen aus der Foodsoft heraus bezahlt werden können, indem sich die Foodsoft mit dem Bankkonto verbindet und einen Zahlunsgauftrag anlegt. 
+Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu verknüpfen und vergleichen zu können, ob den Bestellgruppen auch genauso viel von ihren Konten abgebucht wird, wie die Rechnung ausmacht. Die Rechnungen der Produzentinnen können dabei in Papierform oder digital als PDF oder JPG vorliegen. Rechnungen scheinen in der Foodsoft zunächst in der Liste der “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt, wenn das [Bankkonto mit der Foodsoft verknüpft](/de/documentation/admin/finances/bank-accounts) ist. Dadurch wird es möglich, dass mehrere Personen in der Foodcoop Rechnungen vorbereiten, und z.B. eine Person mit Bankzugang dadurch weniger Aufwand beim Einzahlen der Rechnungen hat. Gleichzeitig ist in der Foodsoft jederzeit für alle Beteiligten ersichtlich, welche Rechnungen noch zu bezahlen sind.
+Weiters ist eine Funktion in Arbeit, dass Rechnungen aus der Foodsoft heraus bezahlt werden können, indem sich die Foodsoft mit dem Bankkonto verbindet und einen Zahlunsgauftrag anlegt. 
 
 
 # Rechnung anlegen
