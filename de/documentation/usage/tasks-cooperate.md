@@ -2,7 +2,7 @@
 title: Mitmachen
 description: 
 published: true
-date: 2021-11-26T11:01:22.224Z
+date: 2021-11-26T12:36:25.316Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:06:37.853Z
@@ -96,7 +96,8 @@ Für jede erledigte Aufgabe gibt es entsprechend der Dauer Punkte. Diese werden 
 Der Faktor wird dann im Verhältnis zum Durchschnitt der ganzen Foodcoop gesetzt. Damit das ganze dann keine kryptische Zahl wird der Foodcoop Durchschnitt auf 100 normalisiert. Ein Beispiel:
 
 Hat die Gruppe Sahneschnitten 95 Äpfel bedeutet das, dass sie nur 5% unter dem Durchschnitt liegt. Good job!
-Ich bin gesperrt?
+
+## Erforderliche Apfelpunkte und Bestellstop
 
 In der neuen Version der Foocoop (ab 4.0) gibt es die Möglichkeit einen Bestellstop für Foocoops zu erwirken, deren Äpfelzahl eine bestimmte Grenze unterschreitet. Davon ausgenommen sind
 
