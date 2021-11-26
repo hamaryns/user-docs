@@ -2,7 +2,7 @@
 title: Mitmachen
 description: 
 published: true
-date: 2021-11-26T12:36:25.316Z
+date: 2021-11-26T14:51:31.777Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:06:37.853Z
@@ -87,6 +87,53 @@ Es gibt verschieden Ansichten der Aufgebenliste, wo jeweils eine etwas andere Au
 
 # Apfel Punktesystem
 
+Zusammengefasst:
+
+* Apfelpunkte **zeigen persönliches Engagement** der letzten 6 Monate **im Vergleich** zu allen **in %**
+  * 100 Apfelpunkte = Durchschnitt aller Mitglieder
+* **ERLEDIGTE Aufgaben** und **beendete Bestellungen verändern Apfelpunkte**
+  * → individuell werden sie höher und für alle Anderen niedriger
+  * die Dauer (1-3h) der Aufgabe wird berücksichtigt
+* um **Bestellen** zu können, kann eine **erforderliche Apfelpunktezahl** definiert werden (Einstellungen)
+  * Ausnahmen siehe [Kapitel erforderliche Apfelpunte und Bestellstop](#erforderliche-apfelpunkte-und-bestellstop)
+
+> **Tipp: Transparenz, ohne Zwang/Bestrafung**
+> Als erforderliche Apfelpunktezahl zum Bestellen kann auch 0 eingestellt werden.
+{.is-info}
+
+> **Tipp: automatisierte Erstellung und Zuweisung von Aufgaben**
+> Zugegwiesene und wiederholende Aufgaben können den Aufwand (manuelles Eintragen z.B. "aller" Aufgaben) reduzieren. Diese müssen später jedoch als "erledigt" markiert werden, um zu zählen.
+{.is-info}
+
+> **Tipp: Zusammenfassen von Aufgaben - Alles oder nichts?**
+> Ihr könnt mehrere Aufgaben zu einer zusammenfassen - eine zweckentfremdete Faustregel:
+> "so viel wie nötig, so wenig wie möglich"
+{.is-info}
+
+> Die **Dauer eine Aufgabe (1-3h)** wird berücksichtigt und **kann Aussagekraft verändern:**
+>
+> Wenn nicht jede Aufgabe gleich gewertet wird oder die Dauer stimmt, leidet die Aussagekraft Apfelpuntezahl. Im Extremfall könnte dies zu ungewolltem/"unfairem" Bestellstop führen.
+{.is-warning}
+
+> **Nur ERLEDIGTE Aufgaben werden berücksichtigt:**
+>
+> Die Aufgabe nur zu übernehmen, zählt nicht -> das Hackerl "erledigt" muss gesetzt sein, oder der "Erledigt?" Knopf gedrückt werden.
+{.is-warning}
+
+
+> **Ungewollte Bestellstopps bei Verwendung der Mindestapfelpunktezahl:**
+>  Wenn z.B. nur bestimmte Aufgaben eingetragen werden, kann die Aussagekraft darunter leiden und im Extremfall als unfair empfunden werden oder gar unerwünschte Bestelstopps verhängen.
+>
+>Tipp: besprecht intern welche Aufgaben erfasst werden können, sollen und welche vielleicht fürs Auge verborgen bleiben. Berücksichtigt auch die Dauer der Aufgaben, definiert Aufgaben mit "gleichem" zeitlichen Aufwand oder einigt euch darauf, dass jede Aufgabe gleich zählt.
+>
+> Tastet euch an eure individuelle gemeinsame Mindestapfelpunktezahl heran. Eine zu hohe Grenze kann ungewollte Bestellstopps auslösen, führt ggf. zu unangehnehmen Situationen oder wird gar zur Streitquelle.
+{.is-warning}
+
+
+
+
+---
+
 "Wenn das Apfel Punktesystem aktiviert ist, ist es erforderlich, dass Mitglieder Aufgaben erledigen, um bestellen zu können: du kannst nur bestellen, wenn du mindestens eine gewisse Anzahl von Apfel-Punkten hast. Für jede erledigte Aufgabe bekommst du Apfelpunkte.
 
 Eine Foodcoop lebt davon, dass sich die Mitglieder einbringen. Um ein bisschen Transparenz zu schaffen wurde für die Foodcoop "FC Schinke09" ein Punkte System erdacht, mit welchem die Bestellgruppen Ihr Engagement im Verhältnis zu restlichen Foodcoop einschätzen können. Das funktioniert so:
@@ -95,15 +142,16 @@ Für jede erledigte Aufgabe gibt es entsprechend der Dauer Punkte. Diese werden 
 
 Der Faktor wird dann im Verhältnis zum Durchschnitt der ganzen Foodcoop gesetzt. Damit das ganze dann keine kryptische Zahl wird der Foodcoop Durchschnitt auf 100 normalisiert. Ein Beispiel:
 
-Hat die Gruppe Sahneschnitten 95 Äpfel bedeutet das, dass sie nur 5% unter dem Durchschnitt liegt. Good job!
+Hat die Gruppe Sahneschnitten 95 Äpfel bedeutet das, dass sie nur 5% unter dem Durchschnitt liegt. Good job!"
+Quelle: "https://github.com/foodcoops/foodsoft/wiki/%C3%84pfel-u.-Birnen"
 
 ## Erforderliche Apfelpunkte und Bestellstop
 
-In der neuen Version der Foocoop (ab 4.0) gibt es die Möglichkeit einen Bestellstop für Foocoops zu erwirken, deren Äpfelzahl eine bestimmte Grenze unterschreitet. Davon ausgenommen sind
+"In der neuen Version der Foocoop (ab 4.0) gibt es die Möglichkeit einen Bestellstop für Foocoops zu erwirken, deren Äpfelzahl eine bestimmte Grenze unterschreitet. Davon ausgenommen sind
 
 * neue Bestellgruppen (weniger als 6 Bestellungen insgesamt)
 * 'inaktive' Bestellgruppen (weniger als 3 Bestellungen in den letzten 6 Monaten)
 * dazu können Bestellgruppen manuell von der Sperre ausgenommen werden. (Siehe Administration)"
     
-aus "https://github.com/foodcoops/foodsoft/wiki/%C3%84pfel-u.-Birnen"
+Quelle: "https://github.com/foodcoops/foodsoft/wiki/%C3%84pfel-u.-Birnen"
 
