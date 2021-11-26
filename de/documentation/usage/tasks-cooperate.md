@@ -2,7 +2,7 @@
 title: Mitmachen
 description: 
 published: true
-date: 2021-11-26T14:51:31.777Z
+date: 2021-11-26T14:54:28.716Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:06:37.853Z
@@ -126,7 +126,7 @@ Zusammengefasst:
 >
 >Tipp: besprecht intern welche Aufgaben erfasst werden können, sollen und welche vielleicht fürs Auge verborgen bleiben. Berücksichtigt auch die Dauer der Aufgaben, definiert Aufgaben mit "gleichem" zeitlichen Aufwand oder einigt euch darauf, dass jede Aufgabe gleich zählt.
 >
-> Tastet euch an eure individuelle gemeinsame Mindestapfelpunktezahl heran. Eine zu hohe Grenze kann ungewollte Bestellstopps auslösen, führt ggf. zu unangehnehmen Situationen oder wird gar zur Streitquelle.
+> Tastet euch an eure individuelle gemeinsame Mindestapfelpunktezahl heran. Eine zu hohe Grenze führt ggf. zu unangehnehmen Situationen oder wird gar zur Streitquelle.
 {.is-warning}
 
 
