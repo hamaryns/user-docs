@@ -2,7 +2,7 @@
 title: Überblick
 description: Funktionsüberblick und Einsatzmöglichkeiten der Foodsoft
 published: true
-date: 2021-11-26T11:06:17.616Z
+date: 2021-11-26T11:06:26.697Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T19:57:55.363Z
@@ -92,7 +92,7 @@ Folgende Funktionen können optional teilweise auch deaktiviert werden,
 wenn sie nicht benötigt werden, sodass sie gar nicht aufscheinen:
 
 * Nachrichten
-* Aufgaben und Apfelpunktesystem
+* Aufgaben- und Apfelpunktesystem
 * Umfragen
 * WIKI
 * Dokumenteverwaltung
