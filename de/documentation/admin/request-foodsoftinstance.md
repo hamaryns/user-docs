@@ -2,12 +2,16 @@
 title: Foodsoft Server
 description: Wie eure Foodcoop eine eigene Foodsoft-Instanz auf vorhandenen Servern bekommt
 published: true
-date: 2021-11-24T18:46:13.816Z
+date: 2021-11-28T10:51:23.948Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-10T12:15:44.957Z
 ---
 
+
+> 
+> Eine Übersicht über bestehende Hosting-Plattformen für die Foodsoft findest du unter http://foodcoops.net/foodsoft-hosting/
+{.is-info}
 
 
 > Wenn ihr euch noch nicht sicher seid, ob ihr die Foodsoft verwenden wollt, schaut euch bitte die [Demo-Versionen](/de/documentation/admin/foodsoft-demo) an.
@@ -18,5 +22,5 @@ Eine eigene Foodosoft Instanz am [IG](https://foodcoops.at/)-Server die unter ht
 {.is-danger}
 
 # Anderswo
-> Hier sollte eine Beschreibung folgen, wie eure Foodcoop eine eigene Foodosoft Instanz außerhalb von Österreich mit Admin-Zugangsdaten bekommen kann.
+> Hier sollte eine Beschreibung folgen, wie eure Foodcoop eine eigene Foodosoft Instanz außerhalb von Österreich mit Admin-Zugangsdaten bekommen kann. Infos dazu gibt es auch hier: http://foodcoops.net/foodsoft-hosting/
 {.is-danger}
