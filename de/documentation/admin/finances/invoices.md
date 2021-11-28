@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-28T14:31:43.011Z
+date: 2021-11-28T15:50:36.831Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -132,7 +132,9 @@ Für 3 Flaschen und 50 Cent Pfand pro Flasche:
 - Foodsoft-Artikel enthält 50 Cent Pfand pro Flasche, Produzent verrechnet kein Pfand, Differenz = 0 - 3 \* 0,50 = **-1,50 €** 
 - Foodsoft-Artikel enthält kein Pfand, Produzent verrechnet 50 Cent pro Flasche, Differenz = 3 \* 0,50 - 0 = **+1,50 €**
 
-Siehe auch [Pfand in Foodcoops](/de/documentation/admin/finances/deposits)
+> Allgemeines zu Pfand siehe [Pfand in Foodcoops](/de/documentation/admin/finances/deposits)
+{.is-info}
+
 
 ## Pfand gutgeschrieben
 
@@ -164,7 +166,13 @@ Falls die Rechnung aus mehreren Seiten bzw. Dokumenten besteht, müssen diese vo
 
 ## Notiz
 
-Empfehlung, dass hier der Status der Rechnung kommentiert wird (kann bezahlt werden, oder es muss z.B. noch auf eine Anpassung an die Lieferung gewartet werden) und etwaige Differenzen zwischen Bestellung und Rechnung dokumentiert und erklärt werden (Vorschlag: “Differenz X,XX Euro zugunsten/zulasten der Foodcoop aufgrund ...”). Kann zunächst leer gelassen und später noch bearbeitet werden.
+Hier kannst du einen beliebigen Text als Kommentar zur Rechnung eingeben. Dieser Text wird in der Liste der unbezahlten Rechnungen (in Klammern) angezeigt. 
+
+Empfohlen wird, dass hier der Status der Rechnung kommentiert wird (*"kann bezahlt werden"*, oder *"es muss  noch auf eine Anpassung an die Lieferung gewartet werden"*) und etwaige Differenzen zwischen Bestellung und Rechnung dokumentiert und erklärt werden (Vorschlag: *“Differenz X,XX Euro zugunsten/zulasten der Foodcoop aufgrund ...”*). 
+
+> Das Feld kann zunächst leer gelassen und später noch bearbeitet werden.
+{.is-info}
+
 
 
 
