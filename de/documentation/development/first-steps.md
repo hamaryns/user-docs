@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-11-28T15:18:39.264Z
+date: 2021-11-28T15:35:21.256Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -57,6 +57,21 @@ bundle install --no-deployment
 sudo apt-get install ruby-dev
 sudo gem install nokogiri -v '1.10.10' --source 'https://rubygems.org/'
 bundle install --no-deployment
+
+sudo apt-get install magic
+sudo gem install ruby-filemagic -v '0.7.2' --source 'https://rubygems.org/'
+Building native extensions. This could take a while...
+ERROR:  Error installing ruby-filemagic:
+	ERROR: Failed to build gem native extension.
+
+    current directory: /var/lib/gems/2.7.0/gems/ruby-filemagic-0.7.2/ext/filemagic
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20211128-45197-1g8m0o0.rb extconf.rb
+checking for -lgnurx... no
+checking for magic_open() in -lmagic... no
+*** ERROR: missing required library to compile this module
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may need configuration options.
 -->
 6. Auf Github registrieren: Grundsätzlich kannst du dir den Quelltext mit „Download“ auch einfach herunterladen, um die Foodsoft lokal bei dir zu installieren. Sobald du jedoch veränderte Quellcodes wieder auf Github hochladen möchtest, kommt es zu  Problemen, wenn die Foodsoft in der Zwischenzeit durch andere auf Github verändert wurde. Daher zahlt es sich aus, den Quellcode gleich ordentlich „abzuzweigen“, sodass dann zu einem späteren Zeitunkt auch wieder ein reibungsloses Hochladen von Änderungen (push) möglich ist.
 7. Fork erzeugen: diese sollte dann über `https://github.com/YOUR_USERNAME/foodcoops/foodsoft.git` ansprechbar sein
