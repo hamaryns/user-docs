@@ -2,7 +2,7 @@
 title: Pfand
 description: Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 published: true
-date: 2021-11-28T09:27:34.815Z
+date: 2021-11-28T09:31:47.597Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
@@ -46,7 +46,15 @@ Das Pfand wird in den Artikelpreis inkludiert, scheint beim Bestellen nicht extr
 Siehe [Rechnungen](/de/documentation/admin/finances/invoices): Pfand-Gutschriften und unterschiedliche Pfandberechnung Foodcoop/Lieferantin berücksichtigen
 
 ## Pfandrückzahlung bei Leergut-Rückgabe von Mitgliedern in der Foodcoop
-- [Pfand Gutschriften](/de/documentation/admin/finances/accounts): über Foodsoft Kontotransaktionen kann Pfand von zurückgegebenem Leergut, das die Foodcoop Mitglieder z.B. in einer Papierliste im Lagerraum eintragen, den Mitgliedern gut geschrieben werden. Wenn für diese Transaktionen eine eigene Transaktionsklasse (*Pfandgutschrift* oder ähnlich) verwendet wird, lassen sich im Foodsoft Kontoauszug diese Transaktionen leicht herausfiltern und summieren.
+### Über Papierliste
+[Pfand Gutschriften](/de/documentation/admin/finances/accounts): über Foodsoft Kontotransaktionen kann Pfand von zurückgegebenem Leergut, das die Foodcoop Mitglieder z.B. in einer Papierliste im Lagerraum eintragen, den Mitgliedern gut geschrieben werden. Wenn für diese Transaktionen eine eigene Transaktionsklasse (*Pfandgutschrift* oder ähnlich) verwendet wird, lassen sich im Foodsoft Kontoauszug diese Transaktionen leicht herausfiltern und summieren. Über die Funktion "Neue Überweisungen eingeben" können mehrere Gutschriften auf einmal einfacher eingegeben werden.
+
+### Über Foodsoft-Bestellung
+Siehe https://forum.foodcoops.at/t/pfandauszahlung-direkt-ueber-die-foodsoft-statt-ueber-papierliste/5707
+
+> Wenn sich dieser Vorschlag bewährt, sollte er hierher übernommen werden und der Link zum IG-Forum entfernt werden.
+{.is-danger}
+
 
 ## Pfand Bilanz
 Für die Foodcoop ist es wichtig, dass sie keinen Verlust (oder Gewinn) mit Pfand macht. Das ist dann der Fall, 
