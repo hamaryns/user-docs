@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-28T09:10:01.193Z
+date: 2021-11-28T09:14:25.247Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -275,5 +275,8 @@ Es werden für alle bisher angelegten Rechnungen (neueste zuerst) folgende Daten
 | 2021-11-19 15:48:00 +0100|Stefan |44517|Ackerlhof|21551|74,01|103,2|0|0||Rosa und grüne Liste beachten |
 | 2021-11-16 16:38:22 +0100|Mirko |44516|SOS-Parmesan|SOS-20212460|520|520|0|0|44516|bitte bezahlen |
 | 2021-11-17 15:37:02 +0100|Ina |44515|Mauracher|178380|82,39|82,67|0|0||Bitte bezahlen, ist geprüft! Danke :-) |
+
+> Falls die Tabelle rechts abgeschnitten ist, kannst du den Zoom-Faktor in deinem Browser verkleinern, oft geht das mit Strg-Minus (Ctrl-Minus).
+{.is-info}
 
 
