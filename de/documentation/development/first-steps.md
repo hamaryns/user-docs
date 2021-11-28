@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-11-28T15:35:21.256Z
+date: 2021-11-28T22:35:23.157Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -79,6 +79,18 @@ libraries and/or headers.  Check the mkmf.log file for more details.  You may ne
 9. Docker Compose aus dem Verzeichnis `foodsoft` aufrufen (dort befindet sich die Datei `docker-compose-dev.yml`), wie unter Setup beschrieben: https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md 
      - `docker-compose -f docker-compose-dev.yml up -d mariadb`
      - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle install`
+> Hier kommt es im Schritt 9/13 zu einer Warnung und anschlieen zu einer Fehlermeldung bei mir (Mirko): 
+{.is-danger}
+
+```
+Your bundle is locked to mimemagic (0.3.5), but that version could not be found
+in any of the sources listed in your Gemfile. If you haven't changed sources,
+that means the author of mimemagic (0.3.5) has removed it. You'll need to update
+your bundle to a version other than mimemagic (0.3.5) that hasn't been removed
+in order to install.
+ERROR: Service 'foodsoft' failed to build : The command '/bin/sh -c bundle config build.nokogiri "--use-system-libraries" &&     bundle install --frozen -j 4' returned a non-zero code: 16
+```
+
      - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle exec rake  foodsoft:setup_development_docker`
      - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle exec rake db:schema:load db:seed:small.en`
 
