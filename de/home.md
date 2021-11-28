@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-10-07T21:43:04.765Z
+date: 2021-11-28T21:54:57.098Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -17,7 +17,7 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 >Oder, noch besser:
 {.is-warning}
 
-> Diese Dokumentation ist in einem  [Wiki.js](https://js.wiki/) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. Bitte beachte dazu den [Leitfaden](/de/documentation/howtowrite).
+> Diese Dokumentation ist in einem  [Wiki.js](https://js.wiki/) angelegt. Die Inhalte können sehr einfach über den Webbrowser bearbeitet werden. Du kannst dir gerne einen Zugang holen, um mitzuarbeiten und mitzuhelfen, die Dokumentation zu vervollständigen. Bitte beachte dazu den [Leitfaden](/de/documentation/development/howtowrite).
 {.is-info}
 
 > Dieses Handbuch richtet sich an alle Menschen, die Interesse an der Foodsoft haben. Aus Gründen der Lesbarkeit wird bei **geschlechtsspezifischen Begriffen** jedoch nur die weibliche Form verwendet - außer dort, wo Begriffe in der Foodsoft anders hinterlegt sind (z.B. "Benutzer/innen", "Lieferanten"- hier werden im Sinne der Klarheit die Begriffe der Foodsoft verwendet).
@@ -52,11 +52,12 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 {.links-list}
 
 
-## Foodsoft Programmierung
+## Foodsoft Entwicklung
 
 Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du selbst eine Foodsoft installieren möchtest oder etwas zur Entwicklung beitragen möchtest, bist du hier am richtigen Platz.
 
 - [Erste Schritte](/de/documentation/development/first-steps)
+- [Leitfaden Foodsoft Dokumentation](/de/documentation/development/howtowrite)
 {.links-list}
 
 ## Andere Foodsoft Dokumentationen
