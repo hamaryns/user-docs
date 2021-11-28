@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-10-07T22:10:43.211Z
+date: 2021-11-28T12:57:58.051Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -42,6 +42,8 @@ Folgende Links führen zu den Github Repositories:
 3. Docker so konfigurieren, dass es die nötigen Berechtigungen hat: https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user 
 4. Computer neu starten, damit Änderungen wirksam werden, zum Testem `docker run hello-world` ausführen, es dürfen keine Fehlermeldungen kommen 
 5. Github installieren mit `sudo apt-get install git`, siehe auch https://git-scm.com/download/linux 
+   - `sudo snap install gh`   
+   - `sudo apt  install gitsome` 
 6. Auf Github registrieren: Grundsätzlich kannst du dir den Quelltext mit „Download“ auch einfach herunterladen, um die Foodsoft lokal bei dir zu installieren. Sobald du jedoch veränderte Quellcodes wieder auf Github hochladen möchtest, kommt es zu  Problemen, wenn die Foodsoft in der Zwischenzeit durch andere auf Github verändert wurde. Daher zahlt es sich aus, den Quellcode gleich ordentlich „abzuzweigen“, sodass dann zu einem späteren Zeitunkt auch wieder ein reibungsloses Hochladen von Änderungen (push) möglich ist.
 7. Fork erzeugen
 8. Foodsoft herunterladen mit `git clone https://github.com/foodcoops/foodsoft.git`
