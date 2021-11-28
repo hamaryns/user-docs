@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-11-03T21:40:05.763Z
+date: 2021-11-28T23:22:51.095Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -146,7 +146,10 @@ Im rechten Bereich siehst du einen **Kontoauszug** mit den Buchungen deines Food
 
 
 
-
+## Konto aufladen
+Falls deine Foodcoop die Abrechnung über Foodsoft-Konten macht, musst du dein Konto rechtzeitig aufladen, bevor der Kontostand durch die Bestellungen erschöpft ist. Üblicherweise überweist du dazu den gewünschten Betrag auf das Konto der Foodcoop. 
+- Wenn deine Foodcoop Zahlunsgreferenzcodes verwendet, erfährst du im nächsten Abschnitt *Zahlungsreferenz-Rechner*, wie du für deine Überweisung einen passenden Zahlunsgreferenzcode erzeugst, sodass die Foodsoft deine Überweisung automatisch erkennt und dein Guthaben auflädt. 
+- Ansonsten bekommst du von deiner Foodcoop Infos, ob und wie du deine Überweisungen kennzeichnen sollst. 
 
 # Zahlungsreferenz-Rechner
 
