@@ -2,7 +2,7 @@
 title: Pfand
 description: Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 published: true
-date: 2021-11-28T09:56:09.944Z
+date: 2021-11-28T09:59:25.881Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
@@ -33,7 +33,7 @@ Mögliche Fehlerquellen:
 Die Foodcoop übernimmt die Pfandkosten, und vertraut darauf, dass die Mitglieder das Leergut auch wieder zurückbringen. 
 
 Mögliche Fehlerquellen: 
-- Leergut wird nicht oder woanders (z.B. im Handel) zurückgegeben. Das von der Foodcoop an die Lieferantin bezahlte Pfand kommt nicht mehr zur Foodcoop zurück, sondern verbleibt dem Mitglied als Leergut (obwohl Eigentum der Foodcoop, Beispiel-Motivation: *"die Gläser eigenen sich so gut zur Aufbewahrzung von Lebensmitteln"*), oder falls woanders gegen Pfandauszahlung zurückgegeben, als "Gewinn", solange das ausbezahlte Pfand nicht an die Foocoop weitergereicht wird.
+- Leergut wird nicht oder woanders (z.B. im Handel) zurückgegeben. Das von der Foodcoop an die Lieferantin bezahlte Pfand kommt dadurch nicht mehr zur Foodcoop zurück, sondern verbleibt dem Mitglied als Leergut (obwohl Eigentum der Foodcoop), zum Beispiel mit der Motivation: *"die Gläser eigenen sich so gut zur Aufbewahrzung von Lebensmitteln"*), oder, falls woanders gegen Pfandauszahlung zurückgegeben, als "Gewinn", solange das dort ausbezahlte Pfand nicht an die Foocoop weitergereicht wird.
 
 
 # Pfand in der Foodsoft
