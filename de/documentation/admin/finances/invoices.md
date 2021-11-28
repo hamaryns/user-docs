@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-28T13:22:21.806Z
+date: 2021-11-28T14:31:43.011Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -167,12 +167,13 @@ Falls die Rechnung aus mehreren Seiten bzw. Dokumenten besteht, müssen diese vo
 Empfehlung, dass hier der Status der Rechnung kommentiert wird (kann bezahlt werden, oder es muss z.B. noch auf eine Anpassung an die Lieferung gewartet werden) und etwaige Differenzen zwischen Bestellung und Rechnung dokumentiert und erklärt werden (Vorschlag: “Differenz X,XX Euro zugunsten/zulasten der Foodcoop aufgrund ...”). Kann zunächst leer gelassen und später noch bearbeitet werden.
 
 
+
+# Sonderfälle
+
 ## Transportkosten
 
 Wenn die Rechnung extra ausgewiesene Transportkosten enthält, können diese auf die Bestellung aufgeschlagen werden, sodass die Transportkosten auch von den Bestellgruppen anteilsmäßig übernommen werden. Siehe [Bestellungen > Transportkosten](/de/documentation/admin/orders).
 
-
-# Sonderfälle
 
 ## Abweichender Betrag
 
