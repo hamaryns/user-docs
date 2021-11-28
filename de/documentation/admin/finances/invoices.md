@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-28T15:50:36.831Z
+date: 2021-11-28T15:52:41.170Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -187,11 +187,18 @@ Wenn die Rechnung extra ausgewiesene Transportkosten enthält, können diese auf
 
 Wenn ein anderer Betrag als jener auf der Rechnung zu bezahlen ist, dann soll dieser abweichende Betrag unter *Betrag* eingegeben werden. Das kann z.B. vorkommen, wenn der Lieferantin in der Rechnung ein Fehler passiert ist, und es zusätzlich zur Rechnung eine Gutschrift gibt. Dann sollten Sowohl Rechnung als auch Gutschrift im Anhang zur Rechnung hochgeladen werden.
 
+> Siehe oben bei *Rechnung anlegen > Anhang* wie mehrere Dateien zu einer verbunden werden können.
+{.is-info}
+
 ## Mehrteilige Rechnung
 Wenn für eine Bestellung mehrere Rechnungen ausgestellt werden, ist es sinnvoll, in der Foodsoft nur eine gemeinsame Rechnung anzulegen. 
 - Bei *Rechnungsnummer* werden dann alle Nummern der einzelnen Rechnungen eingetragen (z.B. `20210045, 20210046`), 
 - bei *Betrag* die Summe der Rechnungen, 
-- bei *Anhang* die in einer gemeinsamen Datei vereinten Einzelrechnungen (siehe oben wie mehrere Dateien zu einer verbunden werden können).
+- bei *Anhang* die in einer gemeinsamen Datei vereinten Einzelrechnungen 
+
+> Siehe oben bei *Rechnung anlegen > Anhang* wie mehrere Dateien zu einer verbunden werden können.
+{.is-info}
+
 
 # Rechnung anzeigen und bearbeiten
 
