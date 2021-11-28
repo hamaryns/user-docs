@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-25T20:30:05.083Z
+date: 2021-11-28T09:08:11.206Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -263,3 +263,17 @@ Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, indem bei *bezah
 
 
 Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen > Rechnungen > unbezahlte Rechnungen* und *Finanzen > Übersicht > unbezahlte Rechnungen* auf.
+
+# Rechnungen exportieren
+
+*Finanzen > Rechnungen: [CSV](/de/documentation/admin/lists)*
+
+Es werden für alle bisher angelegten Rechnungen (neueste zuerst) folgende Daten in einer Zeile je Rechnung exportiert:
+
+| Erstellt am|Erstellt von|Rechnungsdatum|Lieferant|Nummer|Betrag|Total|Pfand berechnet|Pfand gutgeschrieben|Bezahlt am|Notiz |
+| -----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----- |
+| 2021-11-19 15:48:00 +0100|Stefan |44517|Ackerlhof|21551|74,01|103,2|0|0||Rosa und grüne Liste beachten |
+| 2021-11-16 16:38:22 +0100|Mirko |44516|SOS-Parmesan|SOS-20212460|520|520|0|0|44516|bitte bezahlen |
+| 2021-11-17 15:37:02 +0100|Ina |44515|Mauracher|178380|82,39|82,67|0|0||Bitte bezahlen, ist geprüft! Danke :-) |
+
+
