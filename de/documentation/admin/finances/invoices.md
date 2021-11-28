@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Liefernden digital ablegen und mit Bestellungen verknüpfen
 published: true
-date: 2021-11-28T09:08:11.206Z
+date: 2021-11-28T09:10:01.193Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -270,7 +270,7 @@ Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen > Rechnungen > unbezahlt
 
 Es werden für alle bisher angelegten Rechnungen (neueste zuerst) folgende Daten in einer Zeile je Rechnung exportiert:
 
-| Erstellt am|Erstellt von|Rechnungsdatum|Lieferant|Nummer|Betrag|Total|Pfand berechnet|Pfand gutgeschrieben|Bezahlt am|Notiz |
+| Erstellt am|Erstellt von|Rechnungs-datum|Lieferant|Nummer|Betrag|Total|Pfand berechnet|Pfand gutge-schrieben|Bezahlt am|Notiz |
 | -----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----- |
 | 2021-11-19 15:48:00 +0100|Stefan |44517|Ackerlhof|21551|74,01|103,2|0|0||Rosa und grüne Liste beachten |
 | 2021-11-16 16:38:22 +0100|Mirko |44516|SOS-Parmesan|SOS-20212460|520|520|0|0|44516|bitte bezahlen |
