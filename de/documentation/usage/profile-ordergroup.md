@@ -2,11 +2,16 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-11-28T23:24:49.721Z
+date: 2021-11-28T23:45:40.459Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
 ---
+
+Hier findest du erklärt, was die Einträge im Menü mit deinem Namen für eine Funktion haben, mit denen du dein Profil und deine persönlichen Einstellungen bearbeiten kannst, dein Foodsoft-Konto anschauen kannst und zum Guthaben Aufladen den Zahlungsreferennz-Rechner verwenden kannst: 
+![usage_profile-ordergroup_meine-bestellgruppe.png](/uploads-de/usage_profile-ordergroup_meine-bestellgruppe.png)
+
+Zunächst jedoch wollen wir dir erklären, was Foodsoft-Benutzerinnen und Bestellgruppen eigentlich sind.
 
 # Benutzerinnen und Bestellgruppen
 
@@ -17,15 +22,17 @@ Jede Foodsoft-Benutzerin (Account) verfügt über ein eigenes Profil mit den fol
 - Adresse
 - IBAN
 
-Bestellt wird innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutzerinnen befinden können (Familie, WG, etc.).
+Bestellt wird gemeinsam innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutzerinnen befinden können (Familie, WG, etc.). Eine Bestellgruppe hat ein gemeinsames Foodsoftkonto mit gemeinsamen Guthaben und eine gemeinsame Bestellung. Wenn ihr euch die Kosten untereinander genau aufteilen wollt, müsst ihr selbst eure Kostenanteile berechnen.
 
 ![bestellgruppen.png](/uploads-de/usage_profile-ordergroup_bestellgruppen.png =400x)
 
-Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, erfahrst du unter "Profil bearbeiten".
+Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). 
+
+Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, erfahrst du unter "Profil bearbeiten".
 
 # Profil bearbeiten
 
-Um dein Profil zu bearbeiten klicke im Menü rechts-oben auf deinen Namen und "Profil bearbeiten": 
+Um dein Profil zu bearbeiten, klicke im Menü rechts-oben auf deinen Namen und "Profil bearbeiten": 
 
 ![meine-bestellgruppe.png](/uploads-de/usage_profile-ordergroup_meine-bestellgruppe.png)
 
@@ -57,7 +64,7 @@ Hier solltest du deine Telefonnummer eingeben, damit du für andere innerhalb de
 
 ## IBAN
 
-Die IBAN deines Bankkontos. Hilfreich, um Zahlungseingänge am Foodcoop Bankkonto zuordnen zu können.
+Die IBAN deines Bankkontos. Hilfreich, um Zahlungseingänge am Foodcoop Bankkonto dir zuordnen zu können.
 
 
 ## Adresse
@@ -150,6 +157,10 @@ Im rechten Bereich siehst du einen **Kontoauszug** mit den Buchungen deines Food
 Falls deine Foodcoop die Abrechnung über Foodsoft-Konten macht, musst du dein Konto rechtzeitig aufladen, bevor der Kontostand durch die Bestellungen erschöpft ist. Üblicherweise überweist du dazu den gewünschten Betrag auf das Konto der Foodcoop. 
 - Wenn deine Foodcoop Zahlunsgreferenzcodes verwendet, erfährst du im nächsten Abschnitt *Zahlungsreferenz-Rechner*, wie du für deine Überweisung einen passenden Zahlunsgreferenzcode erzeugst, sodass die Foodsoft deine Überweisung automatisch erkennt und dein Guthaben auflädt. 
 - Ansonsten bekommst du von deiner Foodcoop Infos, ob und wie du deine Überweisungen kennzeichnen sollst. 
+
+> Meist dauert es 1 bis 2 Tage ab deiner Überweisung, bis dein Guthaben auch in der Foodsoft aufgeladen ist. Daher solltest du dein Guthaben rechtzeitig aufladen.
+{.is-warning}
+
 
 > Bein manchen Foodcoops ist es notwendig, dass du zuerst Mitglied wirst, bevor du dein Konto aufladen kannst.
 {.is-warning}
