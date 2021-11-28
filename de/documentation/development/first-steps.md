@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-11-28T13:02:56.547Z
+date: 2021-11-28T13:12:37.628Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -47,8 +47,8 @@ Folgende Links führen zu den Github Repositories:
    - `sudo apt  install gitsome` 
 --> 
 6. Auf Github registrieren: Grundsätzlich kannst du dir den Quelltext mit „Download“ auch einfach herunterladen, um die Foodsoft lokal bei dir zu installieren. Sobald du jedoch veränderte Quellcodes wieder auf Github hochladen möchtest, kommt es zu  Problemen, wenn die Foodsoft in der Zwischenzeit durch andere auf Github verändert wurde. Daher zahlt es sich aus, den Quellcode gleich ordentlich „abzuzweigen“, sodass dann zu einem späteren Zeitunkt auch wieder ein reibungsloses Hochladen von Änderungen (push) möglich ist.
-7. Fork erzeugen
-8. Foodsoft herunterladen mit `git clone https://github.com/foodcoops/foodsoft.git`
+7. Fork erzeugen: diese sollte dann über `https://github.com/YOUR_USERNAME/foodcoops/foodsoft.git` ansprechbar sein
+8. Fork der Foodsoft herunterladen mit `git clone https://github.com/YOUR_USERNAME/foodcoops/foodsoft.git`
 9. Docker Compose aus dem Verzeichnis `foodsoft` aufrufen (dort befindet sich die Datei `docker-compose-dev.yml`), wie unter Setup beschrieben: https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md 
      - `docker-compose -f docker-compose-dev.yml up -d mariadb`
      - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle install`
