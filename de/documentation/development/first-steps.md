@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-11-28T22:35:23.157Z
+date: 2021-11-28T22:38:17.190Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -79,10 +79,14 @@ libraries and/or headers.  Check the mkmf.log file for more details.  You may ne
 9. Docker Compose aus dem Verzeichnis `foodsoft` aufrufen (dort befindet sich die Datei `docker-compose-dev.yml`), wie unter Setup beschrieben: https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md 
      - `docker-compose -f docker-compose-dev.yml up -d mariadb`
      - `docker-compose -f docker-compose-dev.yml run --rm foodsoft bundle install`
-> Hier kommt es im Schritt 9/13 zu einer Warnung und anschlieen zu einer Fehlermeldung bei mir (Mirko): 
+> Hier kommt es zu Warnungen und anschließend zu einer Fehlermeldung bei mir (Mirko, 28.11.2021): 
 {.is-danger}
 
 ```
+Step 9/13 : RUN bundle config build.nokogiri "--use-system-libraries" &&     bundle install --frozen -j 4
+ ---> Running in 48e2f58af9a7
+Warning: the running version of Bundler (1.17.2) is older than the version that created the lockfile (1.17.3). We suggest you upgrade to the latest version of Bundler by running `gem install bundler`.
+Fetching gem metadata from https://rubygems.org/........
 Your bundle is locked to mimemagic (0.3.5), but that version could not be found
 in any of the sources listed in your Gemfile. If you haven't changed sources,
 that means the author of mimemagic (0.3.5) has removed it. You'll need to update
