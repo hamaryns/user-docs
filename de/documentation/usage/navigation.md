@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-11-29T09:35:34.519Z
+date: 2021-11-29T09:39:29.796Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -10,18 +10,16 @@ dateCreated: 2021-04-02T20:46:00.758Z
 
 # Einleitung
 
-Eine **Foodcoop** (Lebensmittelkooperative) ist der Zusammenschluss von
-Personen und Haushalten, die selbstorganisiert bevorzugt biologische
-Produkte direkt von lokalen Bauernhöfen, Gärtnereien, Bäckereien,
-Imkereien etc. beziehen. Viele der Foodcoops sind Mitglied der IG
-Foodcoops, mehr Infos dazu auf 
-[*https://foodcoops.net*](https://foodcoops.net/).
+Eine **Foodcoop** (Lebensmittelkooperative) ist der Zusammenschluss von Personen und Haushalten, die selbstorganisiert bevorzugt biologische Produkte direkt von lokalen Bauernhöfen, Gärtnereien, Bäckereien, Imkereien etc. beziehen. 
+
+> Viele der Foodcoops in Österreich sind Mitglied der IG Foodcoops, mehr Infos dazu auf [*https://foodcoops.at*](https://foodcoops.at/).
+{.is-info}
+
 
 Die **Foodsoft** dient dazu, die Verwaltungsaufgaben für Foodcoops zu
 vereinfachen und zu automatisieren. 
-Die zentrale Aufgabe  der Foodsoft ist es, Bestellungen der Foodcoop Mitglieder aufzunehmen, an die Lieferantinnen zu übermitteln und für die Mitglieder Bestelllisten zur Verfügung stellen, damit beim Abholen jedes Mitglied weiß, was es bestellt hat. Darüber hinaus können über die Foodsoft Informationen ausgetauscht, Nachrichten an Mitglieder und Gruppen versendet, sowie die Abrechnung durchgeführt werden. Bei der
-Foodsoft handelt es sich um eine Webanwendung, die mit jedem
-[Web-Browser](https://de.wikipedia.org/wiki/Webbrowser) wie z.B: Firefox, Chromem, MS Edge oder Internet Explorer aufrufbar sein sollte. Momentan funktioniert die Anwendung nur auf Desktop Rechnern und Laptops einwandfrei. Die Funktionalität für Mobileräte wie Smartphones und Tablets ist noch eingeschränkt, soll aber in Zukunft verbessert
+Die zentrale Aufgabe  der Foodsoft ist es, Bestellungen der Foodcoop Mitglieder aufzunehmen, an die Lieferantinnen zu übermitteln und für die Mitglieder Bestelllisten zur Verfügung stellen, damit beim Abholen jedes Mitglied weiß, was es bestellt hat. Darüber hinaus können über die Foodsoft Informationen ausgetauscht, Nachrichten an Mitglieder und Gruppen versendet, sowie die gesamte Abrechnung durchgeführt werden. Bei der Foodsoft handelt es sich um eine Webanwendung, die mit jedem
+[Web-Browser](https://de.wikipedia.org/wiki/Webbrowser) wie z.B: Firefox, Chromem, MS Edge oder Internet Explorer aufrufbar sein sollte. Du kannst also von überall aus, wo du einen Webbrowser und einen Internzugang hast, die Foodsoft bedienen.  Momentan funktioniert die Anwendung nur auf Desktop Rechnern und Laptops einwandfrei. Die Funktionalität für Mobileräte wie Smartphones und Tablets ist noch eingeschränkt, soll aber in Zukunft verbessert
 werden.
 
 Die folgende Dokumentation beschreibt grundsätzlich alle Funktionen, die
