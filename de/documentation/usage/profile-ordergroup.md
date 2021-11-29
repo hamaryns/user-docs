@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-11-29T09:11:17.887Z
+date: 2021-11-29T09:17:04.244Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -23,14 +23,23 @@ Jede Foodsoft-Benutzerin (Account) verfügt über ein eigenes Profil mit den fol
 - Adresse
 - IBAN
 
-Bestellt wird gemeinsam innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutzerinnen befinden können (Familie, WG, etc.). Eine Bestellgruppe hat ein gemeinsames Foodsoftkonto mit gemeinsamen Guthaben und gemeinsamen Bestellungen. Wenn ihr euch die bestellten Artikel und die jeweligen Kosten dafür untereinander aufteilen wollt, müsst ihr selbst über eure Bestellungen Buch führen und eure Kostenanteile berechnen. Die Foodsoft berücksichtigt immer nur, wieviel ihr in der Bestellgruppe insgesamt bestellt habt.
-> Beispiel Bestellgruppe 3er WG: Heli bestellt 1 kg Äpfel, Anna 2 kg und Sevi keine, in der Foodsoft werden 3 kg eingetragen und der Bestellgruppe die Kosten dafür abgebucht. 
+Bestellt wird gemeinsam innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutzerinnen befinden können (Familie, WG, etc.). Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). 
 
 ![bestellgruppen.png](/uploads-de/usage_profile-ordergroup_bestellgruppen.png =400x)
 
-Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). 
 
-Deinen Zugang zur Foodsoft solltes du jedenfalls nur selbst benutzen und ihn nicht an andere weitergeben. Wenn außer dir noch andere Personen die Foodsoft benützen wollen, sollte jede Person ihren eigen Zugang in Form einer eigenen Benutzerin haben. Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, und damit einen eigenen Zugang zur Foodsoft zu bekommen, erfährst du im nächsten Abschnitt.
+Eine Bestellgruppe besteht aus einem oder mehreren Benutzerinnne, die sich ein gemeinsames Foodsoftkonto mit gemeinsamen Guthaben und gemeinsamen Bestellungen teilen. Wenn ihr euch die bestellten Artikel und die jeweligen Kosten dafür untereinander aufteilen wollt, müsst ihr selbst über eure Bestellungen Buch führen und eure Kostenanteile berechnen. Die Foodsoft berücksichtigt immer nur, wieviel ihr in der Bestellgruppe insgesamt bestellt habt.
+> Beispiel Bestellgruppe 3er WG: Heli bestellt 1 kg Äpfel, Anna 2 kg und Sevi keine, in der Foodsoft werden 3 kg eingetragen und der Bestellgruppe die Kosten dafür abgebucht. 
+
+
+
+> Deinen Zugang zur Foodsoft solltes du  nur selbst benutzen und ihn nicht an andere weitergeben. Wenn außer dir noch andere Personen die Foodsoft benützen wollen, sollte jede Person ihren eigenen Zugang in Form einer eigenen Benutzerin haben. 
+{.is-warning}
+
+
+> Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, und damit einen eigenen Zugang zur Foodsoft zu bekommen, erfährst du im nächsten Abschnitt.
+{.is-info}
+
 
 
 # Profil bearbeiten
