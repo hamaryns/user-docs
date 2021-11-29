@@ -2,7 +2,7 @@
 title: Starten und Navigieren
 description: 
 published: true
-date: 2021-10-07T21:37:57.619Z
+date: 2021-11-29T09:35:34.519Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
@@ -18,15 +18,10 @@ Foodcoops, mehr Infos dazu auf
 [*https://foodcoops.net*](https://foodcoops.net/).
 
 Die **Foodsoft** dient dazu, die Verwaltungsaufgaben für Foodcoops zu
-vereinfachen und zu automatisieren. Mit der Foodsoft können
-Informationen ausgetauscht, Mails an Mitglieder und Gruppen versendet,
-Mitglieder, ProduzentInnen bzw. LieferantInnen, Bestellungen, Aufgaben,
-Konten, Finanzen, Rechnungen, Artikel und das Lager verwaltet werden,
-sowie Links zu eigenen und anderen Seiten hinterlegt werden. Bei der
-Anwendung handelt es sich um eine Webanwendung, die mit jedem
-Web-Browser aufrufbar sein sollte. Momentan funktioniert die Anwendung
-nur auf Desktop Rechnern und Laptops einwandfrei. Die Funktionalität für
-Mobil Geräte ist noch eingeschränkt, soll aber in Zukunft verbessert
+vereinfachen und zu automatisieren. 
+Die zentrale Aufgabe  der Foodsoft ist es, Bestellungen der Foodcoop Mitglieder aufzunehmen, an die Lieferantinnen zu übermitteln und für die Mitglieder Bestelllisten zur Verfügung stellen, damit beim Abholen jedes Mitglied weiß, was es bestellt hat. Darüber hinaus können über die Foodsoft Informationen ausgetauscht, Nachrichten an Mitglieder und Gruppen versendet, sowie die Abrechnung durchgeführt werden. Bei der
+Foodsoft handelt es sich um eine Webanwendung, die mit jedem
+[Web-Browser](https://de.wikipedia.org/wiki/Webbrowser) wie z.B: Firefox, Chromem, MS Edge oder Internet Explorer aufrufbar sein sollte. Momentan funktioniert die Anwendung nur auf Desktop Rechnern und Laptops einwandfrei. Die Funktionalität für Mobileräte wie Smartphones und Tablets ist noch eingeschränkt, soll aber in Zukunft verbessert
 werden.
 
 Die folgende Dokumentation beschreibt grundsätzlich alle Funktionen, die
