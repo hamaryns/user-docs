@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und markieren ob bezahlt
 published: true
-date: 2021-11-28T20:11:31.754Z
+date: 2021-11-29T22:32:29.165Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -59,6 +59,9 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 
 > Es können mehrere Bestellungen und/oder Lieferungen ausgewählt werden, wenn dafür von der Lieferantin eine gemeinsame Rechnung gestellt wurde.
 {.is-info}
+
+> Es werden **maximal 25** nicht zugeordnete **Bestellungen** bzw. Lieferungen(?) **zur Auswahl** angezeigt. Wenn du ältere Bestellungen nicht in der Auswahlliste siehst, beginne zuerst, Rechnungen für neuere Bestellungen zu erstellen. Sobald diese zugeordnet sind, werden Anzeigeplätze frei und die ältern "rutschen nach".
+{.is-warning}
 
 
 > Eine Bestellung oder Lieferung kann nur einmal einer Rechnung zugeordnet werden. Wenn schon eine Rechnung angelegt und Bestellungen und/oder Lieferungen zugeordnet wurden, daher unbedingt diese suchen (siehe Rechnungsdatum) und bearbeiten, statt sie nochmal neu anzulegen. 
