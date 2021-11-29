@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-11-28T23:47:29.645Z
+date: 2021-11-29T00:02:00.295Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -22,13 +22,15 @@ Jede Foodsoft-Benutzerin (Account) verfügt über ein eigenes Profil mit den fol
 - Adresse
 - IBAN
 
-Bestellt wird gemeinsam innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutzerinnen befinden können (Familie, WG, etc.). Eine Bestellgruppe hat ein gemeinsames Foodsoftkonto mit gemeinsamen Guthaben und eine gemeinsame Bestellung. Wenn ihr euch die Kosten untereinander genau aufteilen wollt, müsst ihr selbst eure Kostenanteile berechnen.
+Bestellt wird gemeinsam innerhalb einer Bestellgruppe, in der sich mehrere Foodsoft-Benutzerinnen befinden können (Familie, WG, etc.). Eine Bestellgruppe hat ein gemeinsames Foodsoftkonto mit gemeinsamen Guthaben und gemeinsamen Bestellungen. Wenn ihr euch die bestellten Artikel und die jeweligen Kosten dafür untereinander aufteilen wollt, müsst ihr selbst über eure Bestellungen Buch führen und eure Kostenanteile berechnen. Die Foodsoft berücksichtigt immer nur, wieviel ihr in der Bestellgruppe insgesamt bestellt habt.
+> Beispiel Bestellgruppe 3er WG: Heli bestellt 1 kg Äpfel, Anna 2 kg und Sevi keine, in der Foodsoft werden 3 kg eingetragen und der Bestellgruppe die Kosten dafür abgebucht. 
 
 ![bestellgruppen.png](/uploads-de/usage_profile-ordergroup_bestellgruppen.png =400x)
 
 Oft besteht deine Bestellgruppe aber auch nur aus einem Mitglied, meist mit der selben oder ähnlichen Bezeichnung wie deine Benutzerin (im Beispiel: Franz). 
 
-Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, erfahrst du unter "Profil bearbeiten".
+Deinen Zugang zur Foodsoft solltes du jedenfalls nur selbst benutzen und ihn nicht an andere weitergeben. Wenn außer dir noch andere Personen die Foodsoft benützen wollen, sollte jede Person ihren eigen Zugang in Form einer eigenen Benutzerin haben. Wie du andere Personen einladen kannst, Mitglied deiner Bestellgruppe zu werden, und damit einen eigenen Zugang zur Foodsoft zu bekommen, erfährst du im nächsten Abschnitt.
+
 
 # Profil bearbeiten
 
