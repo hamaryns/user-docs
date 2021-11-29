@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-11-29T09:17:04.244Z
+date: 2021-11-29T09:28:40.356Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -29,9 +29,10 @@ Bestellt wird gemeinsam innerhalb einer Bestellgruppe, in der sich mehrere Foods
 
 
 Eine Bestellgruppe besteht aus einem oder mehreren Benutzerinnne, die sich ein gemeinsames Foodsoftkonto mit gemeinsamen Guthaben und gemeinsamen Bestellungen teilen. Wenn ihr euch die bestellten Artikel und die jeweligen Kosten dafür untereinander aufteilen wollt, müsst ihr selbst über eure Bestellungen Buch führen und eure Kostenanteile berechnen. Die Foodsoft berücksichtigt immer nur, wieviel ihr in der Bestellgruppe insgesamt bestellt habt.
-> Beispiel Bestellgruppe 3er WG: Heli bestellt 1 kg Äpfel, Anna 2 kg und Sevi keine, in der Foodsoft werden 3 kg eingetragen und der Bestellgruppe die Kosten dafür abgebucht. 
 
+> **Beispiel Bestellgruppe 3er WG**: Heli bestellt 1 kg Äpfel, Anna 2 kg und Sevi keine, in der Foodsoft werden 3 kg eingetragen und der Bestellgruppe die Kosten dafür abgebucht. Heli, Anna und Sevi müssen sich selber notieren, wer wieviel Äpel bestellt hat, und die Kosten dafür auseinanderrechnen. Eine holt für alle die Bestellung in der Foodcoop ab, und in der WG teilen sie dann die Artikel auf. Alle drei haben am Anfang jeweils 100 Euro Guthaben aufgeladen. Nach nach jeder Bestellung lädt jede immer nur genau so viel Guthaben auf, wie ihr Anteil ausgemacht hat.
 
+> **Beispiel Familie A.**: Susi und Fritz haben jeweils einen eigenen Zugang zu ihrer gemeinsamen Bestellgruppe. Sie sehen beim Bestellen, wer von ihnen zuletzt die Bestellungen bearbeitet hat - das  erleichtert es etwas, wenn mal keine Zeit ist, gemeinsam zu bestellen. Das Guthaben laden die beiden vom gemeinsamen Bankkonto auf.
 
 > Deinen Zugang zur Foodsoft solltes du  nur selbst benutzen und ihn nicht an andere weitergeben. Wenn außer dir noch andere Personen die Foodsoft benützen wollen, sollte jede Person ihren eigenen Zugang in Form einer eigenen Benutzerin haben. 
 {.is-warning}
