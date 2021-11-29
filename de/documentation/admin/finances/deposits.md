@@ -2,7 +2,7 @@
 title: Pfand
 description: Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 published: true
-date: 2021-11-29T16:27:22.365Z
+date: 2021-11-29T16:38:51.697Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-06T17:40:08.481Z
@@ -20,13 +20,31 @@ Es gibt unterschiedliche Philosophien, wie Pfand in einer Foodcoop gehandhabt we
 ## Weitergabe des Produzentinnen-Pfands
 Eine 1:1 Weitergabe des Produzentinnen-Pfands ist für die Foodcoop die sicherste Variante, bedeutet aber für die Pfandauszahlung einen erhöhten Aufwand (für welches Gebinde bekomme ich wieviel Pfand gutgeschrieben)? 
 
+Vorteile:
+- es ist egal, wenn Mitglieder Leergut zurückgeben, das sie woanders bezogen haben.
+- einfacher bei der Abrechnung
+
+Nachteile:
+- Kompliziert für die Mitlgieder: viele unterschiedliche Pfandbeträge je nach Gebindeart und Lieferantin
+- Für Leergut ohne Pfand, das zurückgenommen wird, besteht weniger Motivation, es zurückzubringen.
+
+
 Mögliche Fehlerquellen: 
-- falscher Pfandbetrag wird dem Mitglied von Foodcoop gutgeschrieben.
+- Falscher Pfandbetrag wird dem Mitglied gutgeschrieben.
+- Pfand wird gutgeschrieben, obwohl für Leergebinde kein Pfand bezahlt wurde. 
 
 ## Einheitliches Foodcoop-Pfand
-Alles Leergut, das an die Produzentinnen zurückkommen soll, hat ein einheitliches Pfand, z.B. 50 Cent, unabhängig vom Pfand das die Produzentin verrechnet, oder ob sie überhaupt eines verrechnet. Einfach für Mitglieder, sie brauchen bei der  Rückgabe nicht lange recherchieren, wieviel Pfand sie bekommen; außerdem entsteht dadurch eine Motivation für die ökologisch sinnvolle Wiederverwendung, auch wenn von der Produzentin kein oder nur ein sehr niedriges Pfand verrechnet wird. 
+Alles Leergut, das an die Produzentinnen zurückkommen soll, hat ein einheitliches Pfand, z.B. 50 Cent, unabhängig vom Pfand das die Produzentin verrechnet, oder ob sie überhaupt eines verrechnet. 
+
+Vorteile: 
+- Einfach für Mitglieder, sie brauchen bei der  Rückgabe nicht lange recherchieren, wieviel Pfand sie bekommen;  
+- Es entsteht eine Motivation für die ökologisch sinnvolle Wiederverwendung, auch wenn von der Produzentin kein oder nur ein sehr niedriges Pfand verrechnet wird. 
+
+Nachteile:
+- Die Abrechnung ist etwas komplizierter, wenn das Pfand von Lieferantin und Foodcoop unterschiedlich bemessen werden.
 
 Mögliche Fehlerquellen: 
+- Pfand wird gutgeschrieben für Leergut, das kein Pfand enthält weil es gar nicht zurückgenommen wird. 
 - Pfand wird gutgeschrieben für Leergut, das woanders bezogen wurde und für das daher der Foodcoop kein oder ein geringeres Pfand bezahlt wurde.
 
 ## Kein Pfand in der Foodcoop
