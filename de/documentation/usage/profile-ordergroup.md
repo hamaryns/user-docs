@@ -2,13 +2,14 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2021-11-29T09:09:45.213Z
+date: 2021-11-29T09:11:17.887Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
 ---
 
-Hier findest du erklärt, was die Einträge im Menü mit deinem Namen für eine Funktion haben, mit denen du dein Profil und deine persönlichen Einstellungen bearbeiten kannst, dein Foodsoft-Konto anschauen kannst und (falls in deiner Foodcoop aktiviert) zum Guthaben Aufladen den Zahlungsreferenz-Rechner verwenden kannst: 
+Hier findest du erklärt, was die Einträge im Menü mit deinem Namen für eine Funktion haben, mit denen du dein Profil und deine persönlichen Einstellungen bearbeiten kannst, dein Foodsoft-Konto anschauen kannst und (falls in deiner Foodcoop aktiviert) zum Guthaben Aufladen den Zahlungsreferenz-Rechner verwenden kannst:
+
 ![usage_profile-ordergroup_meine-bestellgruppe2.png](/uploads-de/usage_profile-ordergroup_meine-bestellgruppe2.png)
 
 Zunächst jedoch wollen wir dir erklären, was Foodsoft-Benutzerinnen und Bestellgruppen eigentlich sind.
