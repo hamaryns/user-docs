@@ -1,8 +1,8 @@
 ---
 title: Starten und Navigieren
-description: 
+description: Grundlegende Informationen für Benützerinnen, Aufbau und Navigation in der Foodsoft
 published: true
-date: 2021-11-29T09:48:39.801Z
+date: 2021-11-30T15:04:13.852Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:46:00.758Z
