@@ -1,8 +1,8 @@
 ---
 title: Lieferantinnen und Artikel
-description: Verwaltung von Liefernden und Artikel (Foodsoft-Menü "Artikel")
+description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2021-11-17T14:38:39.168Z
+date: 2021-11-30T15:15:29.315Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
