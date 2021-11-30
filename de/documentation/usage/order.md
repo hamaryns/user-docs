@@ -1,8 +1,8 @@
 ---
 title: Bestellungen
-description: Menü Bestellungen: Bestellen!, Abholtage
+description: Überblick und Anleitungen zur Bestellung sowie Abholung
 published: true
-date: 2021-10-03T11:18:29.551Z
+date: 2021-11-30T15:05:45.965Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
