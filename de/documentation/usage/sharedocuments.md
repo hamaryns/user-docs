@@ -1,8 +1,8 @@
 ---
 title: Informationssammlung & Dokumente
-description: 
+description: Funktionen zum Verteilen und gemeinsamen Bearbeiten von Informationen sowie Dokumenten
 published: true
-date: 2021-10-06T13:27:52.925Z
+date: 2021-11-30T15:09:39.985Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:12:37.149Z
