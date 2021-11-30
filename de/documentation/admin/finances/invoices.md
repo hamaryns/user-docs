@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und markieren ob bezahlt
 published: true
-date: 2021-11-30T00:21:59.935Z
+date: 2021-11-30T00:22:18.085Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -271,7 +271,7 @@ Mögliche Ursachen für Differenzen sind:
 - Lieferantin verrechnet **zusätzliche Kosten** wie Transportkosten oder Pfandgebinde. Abhilfe: wie beschrieben Transportkosten und Pfandkosten in der Foodsoft eingeben, damit sie in der Bilanz berücksichtigt werden.
 
 
-## Rechnungsbilanz bei Bestellung abrechnen
+## Rechnungsbilanz bei *Bestellung abrechnen*
 
 Unter *Finanzen > Bestellungen abrechnen* findest du ebenfalls eine Gegenüberstellung von Bestellung und Rechnung, die allerdings nur dann brauchbar ist, wenn es genau eine Bestellung gibt, die der Rechnung zugeordnet wird. Werden mehrere Bestellungen zugeordnet, wird immer nur die aktuelle Bestellung mit der gesamten Rechnung verglichen.
 
