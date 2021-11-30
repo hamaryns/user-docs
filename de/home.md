@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-11-30T14:34:39.389Z
+date: 2021-11-30T15:35:54.067Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -27,28 +27,32 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 ## Foodsoft Anwendung
 
 Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen kennenlernen möchtest, bist du hier richtig. 
-- [Starten und Navigieren](/de/documentation/usage/navigation)
-- [Meine Bestellgruppe](/de/documentation/usage/profile-ordergroup)
-- [Bestellen](/de/documentation/usage/order)
-- [Kommunikation](/de/documentation/usage/communication)
-- [Mitmachen](/de/documentation/usage/tasks-cooperate)
-- [Dokumente](/de/documentation/usage/sharedocuments)
+- [Starten und Navigieren](/de/documentation/usage/navigation)Grundlegende Informationen für Benützerinnen, Aufbau und Navigation in der Foodsoft
+- [Mein Profil & Bestellgruppe](/de/documentation/usage/profile-ordergroup)Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
+- [Bestellen](/de/documentation/usage/order)Überblick und Anleitungen zur Bestellung sowie Abholung
+- [Kommunikation](/de/documentation/usage/communication)Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
+- [Mitmachen](/de/documentation/usage/tasks-cooperate)Beschreibung der Funktionen zur Koordination und transparenten Aufgabenverteilung 
+- [Informationen & Dokumente](/de/documentation/usage/sharedocuments)Funktionen zum Verteilen und gemeinsamen Bearbeiten von Informationen sowie Dokumenten
 {.links-list}
 
 ## Foodsoft Administration
 
 Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann, und wir ihr sie einrichten könnt. Auch im laufenden Betrieb der Foodcoop braucht die Foodsoft  Administratorinnen, die sich im Hintergrund darum kümmern, dass es regelmäßig etwas zu Bestellen gibt, Artikel in der Foodsoft aktuell sind, und auch die Bestellungen abgrechnet werden. 
 
-- [Überblick](/de/documentation/admin/general)
-- [Lieferantinnen, Artikel und Kategorien](/de/documentation/admin/suppliers)
-- [Bestellungen](/de/documentation/admin/orders)
-- [Lager](/de/documentation/admin/storage)
-- [Finanzen](/de/documentation/admin/finances)
-- Finanzen: [Foodsoft-Konten](/de/documentation/admin/finances/accounts) 
-- Finanzen: [Foodcoop-Bankkonto](/de/documentation/admin/finances/bank-accounts)
-- Finanzen: [Rechnungen](/de/documentation/admin/finances/invoices)
-- [Benutzerinnen](/de/documentation/admin/users)
-- [Einstellungen](/de/documentation/admin/settings)
+- [Überblick](/de/documentation/admin/general)Funktionsüberblick und Einsatzmöglichkeiten der Foodsoft
+- [Lieferantinnen, Artikeln und Kategorien](/de/documentation/admin/suppliers)Verwaltung von Lieferantinnen und Artikeln
+- [Bestellungen](/de/documentation/admin/orders)Verwaltung von Bestellungen und Rechnungen
+- [Lager](/de/documentation/admin/storage)Verwalten des Foodcoop-Lagers und Produktinventars
+- [Finanzen](/de/documentation/admin/finances)Überblicksseite zu Finanzfunktionen sowie Verwendung
+- ->Finanzen: [Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen
+- ->Finanzen: [Rechnungen](/de/documentation/admin/finances/invoices)Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
+- ->Finanzen: [Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts)Automatisierte Erfassung von neuen und bestehenden Überweisungen
+- ->Finanzen: [Mehrwertsteuer, Brutto und Netto](/de/documentation/admin/finances/value-added-tax)Steuerliches in Foodcoop erfassen und verwalten
+- ->Finanzen: [Pfand](/de/documentation/admin/finances/deposits)Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
+{.links-list}
+- [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen
+- [Einstellungen](/de/documentation/admin/settings)Erklärung zu globalen/administrativen Einstellungen der Foodsoft
+- [Begriffserklärungen](/de/documentation/admin/terms-definitions)Definitionen und Bedeutungen von Begriffen in der Foodsoft 
 {.links-list}
 
 
@@ -56,11 +60,11 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 
 Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du selbst eine Foodsoft installieren möchtest oder etwas zur Entwicklung beitragen möchtest, bist du hier am richtigen Platz.
 
-- [Erste Schritte](/de/documentation/development/first-steps)
-- [Leitfaden Foodsoft Dokumentation](/de/documentation/development/howtowrite)
+- [Erste Schritte](/de/documentation/development/first-steps)Foodsoft Installation und Entwicklung
+- [Leitfaden Foodsoft Dokumentation](/de/documentation/development/howtowrite)Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
 {.links-list}
 
-## Andere Foodsoft Dokumentationen
+# Andere Foodsoft Dokumentationen
 
 Diese Dokumentationen sind unvollständig und nicht aktuell.
 
@@ -69,7 +73,7 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 {.links-list}
 
 
-## Foodsoft Alternativen
+# Foodsoft Alternativen
 
 
 - [Foodcoop-Shop](https://www.foodcoopshop.com/)
@@ -79,8 +83,8 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 > Warum in einer Doku für die Foodsoft "Werbung" für alternative Möglichkeiten? Falls sich jemand hierher z.B. auf der Suche nach einer Doku für den Foodcoopshop verirrt hat, oder sich einen Überblick über Foodsoft Apps verschaffen möchte, oder einfach mal wissen möchte, was es denn mit dieser "anderen Foodsoft" auf sich hat.
 {.is-info}
 
-# Andere Dokumentationen für Foodcoops
+# Andere Handbücher für Foodcoops
 
-- [Das Foodcoop Handbuch](https://handbuch.foodcoops.at/)
-- [Organisiert euch! Handbuch](https://organisiert-euch.org/)
+- [Foodcoop Gründungsleitfaden](https://handbuch.foodcoops.at/)Handbuch und Tipps zur Gründung von Lebensmittelkooperativen (PDF Download: http://www.bio-austria.at/app/uploads/FoodCoop-Handbuch-Juni-2017.pdf)
+- [Organisiert euch!](https://organisiert-euch.org/)Handbuch und Tipps zum gemeinsamen Arbeiten und kooperativem Miteinander
 {.links-list}
