@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2021-10-07T18:33:32.826Z
+date: 2021-11-30T10:52:26.706Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -12,7 +12,11 @@ Jede Bestellgruppe hat in der Foodsoft automatisch ein virtuelles Konto, das ein
 
 Auch die Foodccoop selbst hat ein Konto, auf das z.B. die Mitgliedsbeiträge, die von den Bestellgruppen abgeucht werden, gutgeschrieben werden können.
 
-# Transaktionsklassen und Transaktionstypen
+# Kontotransaktionsklassen und -transaktionstypen
+
+Zusammengefasst:
+* **Kontotransaktionsklassen:** Überkategorie für Transaktionstypen
+* **Kontotransaktionstypen:** Ermöglicht Transaktionen (Foodsoft sowie Bank) zu Kategorisieren und dadurch seperate Konten (vergleichbar mit Konten der Buchhaltung)
 
 Das Guthaben der Foodsoftkonten der einzelen Bestellgruppen kann über **Transaktionsklassen** in mehrere Teilguthaben aufgeteilt werden, zum Beispiel für Bestellungen und für Mitgliedsbeitrag. Diese können getrennt aufgeladen werden (siehe auch Zahlungsreferenz-Rechner), und Kontostände werden auch für die Mitglieder separat angezeigt. In den Transaktionslisten (Foodsoft-Kontoauszüge) gibt es für jede Klasse eine eigene Spalte.
 
@@ -28,10 +32,29 @@ Bei folgenden Funktionen in der Foodsoft ist jeweils eine Transaktionsklasse aus
 
 Ist eine neue Foodcoop entstanden, gibt es standardmäßig (default) eine Klasse „Other“ mit einem Kontotransaktionstypen (KTT) „**Foodcoop**“. Das ist das Mindestmaß das vom System notwendig ist (und daher angelegt wird) um grundlegende Funktionalität anzubieten. Da alle Foodcoops (FCs) sehr unterschiedlich organisiert sind und arbeiten gibt es keinen Leitfaden für „Die Richtige Einstellung“. Sondern: Von FC zu FC gibt es unterschiedliche Herangehensweisen, Bedürfnisse und somit Einstellungen. Durch Erstellung einiger zusätzlicher Kontotransaktionstypen und der Anbindung des Vereinskontos bietet die Foodsoft zusätzlich zum Bestellen eine vereinfachte (doppelte) Buchführung.
 
-## Transaktionsklassen und -typen erstellen und bearbeiten
+## Kontotransaktionsklassen und -typen erstellen und bearbeiten
 
-Siehe [*Administration \> Finanzen*](/de/documentation/admin/settings) 
+Die Kontotransaktionsklassen sowie -typen können in den Administrativen Einstellungen angezeigt, hinzugefügt, verändert oder geöscht werden:
 
+-> Menu: **Administration > Finanzen**
+
+#### Kontotransaktionsklasse
+Blauer Knopf (rechts oben) "Kontotransaktionsklasse anlegen" öffnet Dialog:
+
+![admin_finances_accounts_transaktionsklasse-erstellen.png](/uploads-de/admin_finances_accounts_transaktionsklasse-erstellen.png){.align-center}
+
+* **Name:** Name der Transaktionsklasse
+
+### Kontotransaktionstyp
+
+Bei Transaktionsklasse in der neuer Typ erstellt werden soll, auf grünen Kopf "Neuen Kontotransaktionstyp anlegen" drücken. Folgender Dialog öffnet sich:
+
+![admin_finances_accounts_kontotransaktionstyp-erstellen.png](/uploads-de/admin_finances_accounts_kontotransaktionstyp-erstellen.png){.align-center}
+
+* **Name (notwendig):** Name des Kontotransaktionstyp
+* **Kontotransaktionsklasse (notwendig):** Kontotransaktionsklasse in der -typ angelegt wird
+* **Kurzname:** Kürzel des Kontotransaktionstypes (notwendig bei automatischen Banktransaktionen)
+* **Bankkonto:**  Zielkonto bei bei/für Banküberweisungen
 
 ## Empfehlungen für Transaktionsklassen und -typen 
 
