@@ -2,7 +2,7 @@
 title: Administration
 description: Dokumentation zur Administration der Foodsoft
 published: true
-date: 2021-11-30T15:02:23.729Z
+date: 2021-11-30T15:16:23.656Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-30T14:14:40.210Z
@@ -14,7 +14,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 
 
 - [Überblick](/de/documentation/admin/general)Funktionsüberblick, Navigation, technische Voraussetzungen, Installation und allgemeine Tipps
-- [Lieferantinnen, Artikel und Kategorien](/de/documentation/admin/suppliers)Verwaltung von Liefernden und Artikel (Foodsoft-Menü "Artikel")
+- [Lieferantinnen, Artikel und Kategorien](/de/documentation/admin/suppliers)Verwaltung von Lieferantinnen und Artikeln
 - [Bestellungen](/de/documentation/admin/orders)Verwaltung von Bestellungen und Rechnungen
 - [Lager](/de/documentation/admin/storage)Verwalten des Foodcoop-Lagers und Produktinventar
 - [Finanzen](/de/documentation/admin/finances)Überblicksseite zu Finanzfunktionen sowie Verwendung
