@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-11-28T21:54:57.098Z
+date: 2021-11-30T14:34:39.389Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -47,8 +47,8 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - Finanzen: [Foodsoft-Konten](/de/documentation/admin/finances/accounts) 
 - Finanzen: [Foodcoop-Bankkonto](/de/documentation/admin/finances/bank-accounts)
 - Finanzen: [Rechnungen](/de/documentation/admin/finances/invoices)
-- [Benutzerinnen (Menü Administration)](/de/documentation/admin/users)
-- [Einstellungen (Menü Administration)](/de/documentation/admin/settings)
+- [Benutzerinnen](/de/documentation/admin/users)
+- [Einstellungen](/de/documentation/admin/settings)
 {.links-list}
 
 
