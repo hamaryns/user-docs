@@ -1,8 +1,8 @@
 ---
 title: Brutto, Netto, Mehrwertsteuer
-description: Wie Foodcoops mit damit umgehen und wie es in der Foodsoft zu berücksichtigen ist
+description: Steuerliches in Foodcoop erfassen und verwalten
 published: true
-date: 2021-10-03T19:48:46.082Z
+date: 2021-11-30T15:22:38.666Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
