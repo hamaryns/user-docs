@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-11-30T00:55:31.149Z
+date: 2021-11-30T14:49:38.714Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -242,11 +242,7 @@ Ein Artikel PDF sind die bestellten Artikel nach Artikel zusammengefasst. Diese 
 Die Matrix Darstellung kombiniert die Gruppen- und Artikeldarstellung in einer einzelnen Matrix (Tabelle), eine Zeile für jeden Artikel und eine Spalte für jede Bestellgruppe, in den Matrixfeldern die jeweils bestellte Anzahl.
 Zusaätzlich zur Matrix gibt es noch eine Liste *Artikelübersicht*.
 
-> Das Beispiel zeigt keine Matrix, vermutlich weil nur eine Bestellgruppe bestellt hat.
-{.is-danger}
-
-
-![admin-bestellungen-matrixpdf.png](/uploads-de/admin_orders_matrixpdf.png)
+![admin_orders_matrixpdf-2.png](/uploads-de/admin_orders_matrixpdf-2.png){.align-center}
 
 ## Fax PDF
 Das Fax PDF ist eine Liste der insgesamt bestellten Artikelmengen, ohne Aufschlüsselung, was davon jeweils welche Bestellgruppen bestellt haben. Diese Liste kann verwendet werden, um sie der Lieferantin nochmals zukommen zu lassen (falls das Original verloren gegangen ist), oder um die eingegangene Lieferung zu kontrollieren. 
