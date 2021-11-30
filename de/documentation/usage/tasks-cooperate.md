@@ -1,8 +1,8 @@
 ---
 title: Mitmachen
-description: 
+description: Beschreibung der Funktionen zur Koordination und transparenten Aufgabenverteilung 
 published: true
-date: 2021-11-26T14:54:28.716Z
+date: 2021-11-30T15:07:24.414Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:06:37.853Z
