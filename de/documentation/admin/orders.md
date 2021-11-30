@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2021-11-11T08:42:32.244Z
+date: 2021-11-30T00:55:31.149Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -285,30 +285,31 @@ Der Vorgang „Bestellung abrechnen“ erfolgt in zwei Stufen, die – leider et
 {.is-danger}
 
 
-- Siehe oben Bestellung in Empfang nehmen, oder
-- unter “Finanzen \> Bestellung abrechnen”: 
-Bestellte Anzahl an gelieferte anpassen (mehr oder weniger Artikel als bestellt wurden geliefert): Bestellung bearbeiten \> Titel des Artikels anklicken \> Im Aufklappmenü Menge bei den Gruppen entsprechend ändern ODER Gruppenansicht \> Anpassen der gelieferten Menge, wenn diese von der Bestellung abweicht
- - Neue Bestellgruppe(n) hinzufügen (es wurde z.B. ein Alternativartikel für nicht gelieferte Produkte geliefert): Bestellung bearbeiten \> Titel des Artikels anklicken \> Im Aufklappmenü “Gruppe hinzufügen”, Anzahl eingeben, bei Bedarf (mehrere Gruppen betroffen) Schritt wiederholen
- - Es können auch Kommazahlen bei “Anzahl” eingeben werden. Das kann genützt werden, um Artikel mit schwankendem Gewicht bzw. Preis abzurechnen:
+Unter “Finanzen \> Bestellung abrechnen”: 
+- **Bestellte Anzahl an gelieferte anpassen** (mehr oder weniger Artikel als bestellt wurden geliefert): *Bestellung bearbeiten \> Titel des Artikels anklicken \> Im Aufklappmenü Menge bei den Gruppen entsprechend ändern* ODER *Gruppenansicht \>* Anpassen der gelieferten Menge, wenn diese von der Bestellung abweicht
+ - **Neue Bestellgruppe(n) hinzufügen** (es wurde z.B. ein Alternativartikel für nicht gelieferte Produkte geliefert): Bestellung bearbeiten \> Titel des Artikels anklicken \> Im Aufklappmenü “Gruppe hinzufügen”, Anzahl eingeben, bei Bedarf (mehrere Gruppen betroffen) Schritt wiederholen
+ - Es können auch **Kommazahlen bei “Anzahl”** eingeben werden, hier allerdings nur mit **Punkt als Dezimaltrennzeichen**. Das kann genützt werden, um Artikel mit schwankendem Gewicht bzw. Preis abzurechnen:
 
 > **Beispiel: tatsächliches Gewicht bekannt**:
 >
->Bestellt werden 2 Stück Krautkopf, in der Foodsofthinterlegt zu je 3,00 € für 2 kg/Stück und 1,50 € pro kg, also gesamt 6,00 € Bekommen: 1,8 kg und 2,5 kg = gesamt 4,3 kg
+>Bestellt werden 2 Stück Krautkopf, in der Foodsofthinterlegt zu je 3,00 € für 2 kg/Stück und 1,50 € pro kg, also gesamt 6,00 €. Bekommen und mit der Waage abgewogen: 1,8 kg und 2,5 kg = gesamt 4,3 kg
 > - Umrechnung in Stück: 4,3 kg / 2 kg pro Stück = 2,15 Stück
-> - Preis wird automatisch zu 2,15 \* 3,00 € = 6,45 €berechnet
-{.is-info}
+> - Preis wird automatisch zu 2,15 \* 3,00 € = 6,45 € berechnet
+
 
 > **Beispiel: tatsächliche Kosten bekannt** 
 >
 > Bestellt werden 2 Stück Käse, in der Foodsoft hinterlegt zu je 10,00 € für 500 g/Stück und 20 € pro kg, also gesamt 20,00 €
-> - Bekommen: 9,50 € und 9,10 € = gesamt 18,60 €
+> - Bekommen: laut Etiketten kosten die Käse 9,50 € und 9,10 € = gesamt 18,60 €
 > - Umrechnung in Stück: 18,60 € / 10 € pro Stück = 1,86 Stück
-> - Preis wird automatisch zu 1,86 \* 10,00 € = 18,60 € berechnet
+> - Preis wird automatisch zu 1,86 * 10,00 € = 18,60 € berechnet
+
+
+> Zusätzlich muss über *Lieferung in Empfang nehmen* die Gesamtmenge angepasst werden, damit die Abrechnung stimmt.
 {.is-info}
 
-> Zusätzlich muss über *Lieferug in Empfang nehmen* die Gesamtmenge angepasst werden, damit die Abrechnung stimmt.
-{.is-info}
-
+> Beispiel aus https://forum.foodcoops.at/t/neue-funktionen-in-der-foodsoft/4847/5 hier übernehmen!
+{.is-danger}
 
 
 ## Artikeleigenschaften anpassen
