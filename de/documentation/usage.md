@@ -2,13 +2,13 @@
 title: Anwendung
 description: Anwendung Startseite
 published: true
-date: 2021-11-30T15:09:50.412Z
+date: 2021-11-30T15:12:42.539Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-24T19:18:58.904Z
 ---
 
-# Foodsoft Anwendung
+# Foodsoft Verwendung für Mitglieder
 
 Wie die Foodsoft Abläufe, Kommunikation, Kooperation sowie Informationsverteilung unterstützen kann, samt Anleitungen zur Verwendung.
 
