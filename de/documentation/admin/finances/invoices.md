@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und markieren ob bezahlt
 published: true
-date: 2021-11-29T22:42:35.369Z
+date: 2021-11-30T00:21:59.935Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -179,6 +179,9 @@ Empfohlen wird, dass hier der Status der Rechnung kommentiert wird (*"kann bezah
 > Das Feld kann zunächst leer gelassen und später noch bearbeitet werden.
 {.is-info}
 
+## Rechnung erstellen
+
+Nachdem au auf *Rechnung erstellen* geklickt hast, werden alle Eingaben nochmal zusammengefasst dargstellt. Kontrolliere nochmal das Rechnungsdatum, jetzt ist die letzte Chance, es noch zu korrigieren, bevor die Rechnung dann in der Liste der Rechnungen "untertaucht", wenn sie ein falsches Datum hat. Was die anderen dargstellten Daten genau bedeuten, erfährst du unten unter *Rechnung prüfen*.
 
 
 
@@ -239,6 +242,7 @@ Unter *Finanzen \> Übersicht \> unbezahlte Rechnung* wir die Differenz zwischen
 Das Vorzeichen hat sich Anfang März 2021 umgedreht, die Bedeutung der Farben in Bezug auf Verlust/Gewinn für die Foodcoop ist gleich geblieben.
 
 
+## Rechnung Detailansicht
 Zusätzlich sind in der Rechnungsansicht noch folgende Details einzusehen:
 - **Pfandbereinigter Betrag** = Rechnungsbetrag - Pfand berechnet + Pfand gutgeschrieben
 - **Total** = Summe aus Bestellungen und Lieferungen Brutto (inkl. Pfand und Mwst, d.h. nicht Pfand-bereinigt\!), neu seit 2021-01: inklusive Transportkosten (werden bei Bestellung als zusätzlicher Plus-Betrag angezeigt; Transportkosten anlegen: siehe [Bestellungen](/de/documentation/admin/orders), Beispiel für Darstellung siehe unten).
@@ -250,8 +254,26 @@ Falls nicht:
 - **Pfandbereinigter Betrag **größer als** Total**: Lieferant verrechnet mehr, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht Verlust.
 - **Pfandbereinigter Betrag **kleiner als** Total**: Lieferant verrechnet weniger, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht “Gewinn”.
 
-> Unter *Finanzen > Bestellungen abrechnen* findest du ebenfalls eine Gegenüberstellung von Bestellung und Rechnung, die allerdings nur dann brauchbar ist, wenn es genau eine Bestellung gibt, die der Rechnung zugeordnet wird. Werden mehrere Bestellungen zugeordnet, wird immer nur die aktuelle Bestellung mit der gesamten Rechnung verglichen.
-{.is-warning}
+
+
+
+
+## Ursachen für Differenzen
+
+Ab welchem Differenzbetrag eine Nachforschung Sinn macht, ist Ermessenssache der Foodcoop. Zufällige, einmalige Fehler sind eher tolerierbar als systematische Fehler, die wiederholt auftreten, weil z.B. Artikelpreise in der Foodsoft falsch eingegeben sind.
+
+Mögliche Ursachen für Differenzen sind:
+- **Rundungsdifferenzen**: Durch unterschiedliche Arten der [Mehrwertsteuer-Berechnung](/de/documentation/admin/finances/value-added-tax) in Verbindung mit Rundungen kann es zu geringen Differenzen in der Größenordnung von max. 1 Cent pro Artikel kommen. Abhilfe: Artikelpreise um 1 Cent anheben, falls es regelmäßig zu Verlusten für die Foodcoop kommt.
+- **Fehler in der Rechnung**. Abhilfe: Rechnung prüfen und bei der Lieferantin reklamieren.
+- Unterschiedlicher **Artikelpreis** in Bestellung und Rechnung. Abhilfe: Preis in der Foodsoft korrigieren, oder bei der Lieferantin reklamieren
+- Unterschiedliche **Artikelmengen** in Bestellung und Rechnung. Abhilfe: in der Foodsoft [Bestellung anpassen](/de/documentation/admin/orders) an die Mengen, die geliefert wurden, oder bei der Lieferantin reklamieren. Beim Abholen oder Aufteilen der Waren kann können auch Artikel "verloren" gehen oder versehentlich an falsche Mitglieder geraten. Eine Nachforschung ist meist sehr aufwändig und nur selten erfolgreich. Auch wenn ohne Klärung wohl oder übel der Verein die Kosten für die fehlenden Artikel übernehmen muss, ist das auf jeden Fall der zeitsparendere Weg.
+- **Variables Gewicht** bei Artikeln, die pro Stück bestellt werden, Lieferantin verrechnet nach tatsächlich geliefertem Gewicht. Abhilfe:  in der Foodsoft [Bestellung anpassen](/de/documentation/admin/orders) an die Mengen, die geliefert wurden, eventuell den Grundpreis von Artikeln mit variablem Gewicht in der Foodsoft erhöhen, damit er einem größeren Artikelgewicht entspricht.
+- Lieferantin verrechnet **zusätzliche Kosten** wie Transportkosten oder Pfandgebinde. Abhilfe: wie beschrieben Transportkosten und Pfandkosten in der Foodsoft eingeben, damit sie in der Bilanz berücksichtigt werden.
+
+
+## Rechnungsbilanz bei Bestellung abrechnen
+
+Unter *Finanzen > Bestellungen abrechnen* findest du ebenfalls eine Gegenüberstellung von Bestellung und Rechnung, die allerdings nur dann brauchbar ist, wenn es genau eine Bestellung gibt, die der Rechnung zugeordnet wird. Werden mehrere Bestellungen zugeordnet, wird immer nur die aktuelle Bestellung mit der gesamten Rechnung verglichen.
 
 
 
