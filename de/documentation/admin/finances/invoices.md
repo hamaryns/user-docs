@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und markieren ob bezahlt
 published: true
-date: 2021-11-30T00:33:37.489Z
+date: 2021-11-30T00:40:17.783Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -247,24 +247,23 @@ Das Vorzeichen hat sich Anfang März 2021 umgedreht, die Bedeutung der Farben in
 
 
 ## Rechnung Detailansicht
-Zusätzlich sind in der Rechnungsansicht noch folgende Details einzusehen:
+In der Rechnungsdetailansicht unmittelbar nach dem Erstellen der Rechnungs oder über *Finanzen > Rechnungen > Nummer oder Rechnungsdatum anklicken* sind folgende Details einzusehen:
 - **Pfandbereinigter Betrag** = Rechnungsbetrag - Pfand berechnet + Pfand gutgeschrieben
 - **Total** = Summe aus Bestellungen und Lieferungen Brutto (inkl. Pfand und Mwst, d.h. nicht Pfand-bereinigt\!), neu seit 2021-01: inklusive Transportkosten (werden bei Bestellung als zusätzlicher Plus-Betrag angezeigt; Transportkosten anlegen: siehe [Bestellungen](/de/documentation/admin/orders), Beispiel für Darstellung siehe unten).
 
 > **Pfandbereinigter Betrag** und **Total** sollten übereinstimmen. 
 {.is-warning}
 
-Falls nicht:
+Falls nicht, bedeutet das:
 - **Pfandbereinigter Betrag **größer als** Total**: Lieferant verrechnet mehr, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht Verlust.
 - **Pfandbereinigter Betrag **kleiner als** Total**: Lieferant verrechnet weniger, als den Foodcoop Mitgliedern vom Guthaben abgezogen wird. Die Foodcoop macht “Gewinn”.
 
 
 
-
-
 ## Ursachen für Differenzen
 
-Ab welchem Differenzbetrag eine Nachforschung Sinn macht, ist Ermessenssache der Foodcoop. Zufällige, einmalige Fehler sind eher tolerierbar als systematische Fehler, die wiederholt auftreten, weil z.B. Artikelpreise in der Foodsoft falsch eingegeben sind.
+Foodcoops sollten gunrdsätzlich weder Gewinn noch Verlust machen. Ab welchem Differenzbetrag eine Nachforschung Sinn macht, ist Ermessenssache der Foodcoop. Wegen ein paar Euro Differenz stundenlang auf Fehlersuche zu gehen, ist schnell mal ein unverhältnismäßig hoher Aufwand.
+Zufällige, einmalige Fehler sind eher tolerierbar als systematische Fehler, die wiederholt auftreten, weil z.B. Artikelpreise in der Foodsoft falsch eingegeben sind.
 
 Mögliche Ursachen für Differenzen sind:
 - **Rundungsdifferenzen**: Durch unterschiedliche Arten der [Mehrwertsteuer-Berechnung](/de/documentation/admin/finances/value-added-tax) in Verbindung mit Rundungen kann es zu geringen Differenzen in der Größenordnung von max. 1 Cent pro Artikel kommen. Abhilfe: Artikelpreise um 1 Cent anheben, falls es regelmäßig zu Verlusten für die Foodcoop kommt.
