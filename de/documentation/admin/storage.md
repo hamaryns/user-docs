@@ -1,8 +1,8 @@
 ---
 title: Lager
-description: Verwalten des Foodcoop-Lagers und Produktinventar (Menü: "Artikel" > "Lager")
+description: Verwalten des Foodcoop-Lagers und Produktinventars (Menü: "Artikel" > "Lager")
 published: true
-date: 2021-10-03T10:54:13.259Z
+date: 2021-11-30T15:17:00.245Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:55:48.199Z
