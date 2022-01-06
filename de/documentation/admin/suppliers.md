@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2021-11-30T15:15:29.315Z
+date: 2022-01-06T12:19:45.707Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -110,7 +110,12 @@ Jeder Artikel in der Foodsoft, hat folgende Variablen/Felder, notwendige sind mi
 * **Produzent** (Text)
 * **Bestellnummer** (Text)
 
-Details zu den Feldern, Hinweise zur Verwendung und derzeitige technische Einschränkungen, werden in den folgenden Kaptiteln erläutert.
+Details zu den Feldern, Hinweise zur Verwendung und derzeitige technische Einschränkungen, werden in den folgenden Kapiteln erläutert.
+
+### Artikel ist verfügbar?
+
+Falls Artikel nicht verfügbar ist, z.B. weil außerhalb der Saison, Häckchen entfernen. Artikel erscheint dann grau in der Artikelliste und wird in Bestellungen nicht aufgenommen.
+
 
 ### Name
 
@@ -122,11 +127,23 @@ Der Name des Artikels muss aus 4 bis 60 Zeichen bestehen.
 
 ### Einheit und Gebinde
 
-Die Bezeichnung der Einheit kann frei gewählt werden und muss aus  1 bis 15 Zeichen bestehen. 
+Unter Einheit gibt es zwei Felder: `Gebindegröße` x `Einheit`
 
-Bestellmangen erfolgen immer in Einer-Schritten der Einheit.
+Die **Bezeichnung der Einheit** kann frei gewählt werden und muss aus  1 bis 15 Zeichen bestehen, z.B.:
+- `500 g`
+- `1 L`
+- `Flasche`
+- `Packung`
+- `Stück`
 
-#### Mindestbestellmenge definieren
+
+Bestellmengen erfolgen immer in Einser-Schritten der Einheit.
+
+Die Zahl vor der Einheit ist die Mindestmenge bzw. **Gebindegröße**. Sie bestimmt, wieviel Einheiten mindestens bestellt werden müssen, z.B. 6 Gläser in einem Karton, wenn nur ganze Kartons bestellt werden können. Wenn Einheiten einzeln bestellt werden können, 1 eintragen.
+
+> Hier fehlt ein Beschreibung bzw. Link darauf für Mindestmengen und Toleranzen, Einstellungen dazu, was passiert in welchem Fall, wie werden die Artikel aufgeteilt?
+{.is-danger}
+
 
 ![prod-artikel-mindestbestellmenge.png](/uploads-de/admin_suppliers_prod-artikel-mindestbestellmenge.png)
 
@@ -160,6 +177,8 @@ Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachste
 > Siehe auch grundlegende Infos zur [Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax).
 {.is-info}
 
+> Der Standardwert für den Mehrwertsteuersatz, der beim Anlegen von neuen Artikeln im Feld erscheint, kann in den Einstellungen verändert werden.
+{.is-info}
 
 ### Pfand
 
@@ -202,10 +221,6 @@ Kann von Lieferantin übernommen, selbst gewählt oder auch leer gelassen werden
 
 > Tipp: wenn Bestellnummern selbst gewählt werden, ist es gut, mit der Nummerierung nicht bei 1, sondern z.B. bei 1000 anzufangen, um  in den Bestelllisten, die an die Lieferantin gehen, Verwechslungen mit der Stückzahl zu reduzieren. Siehe "Artikel importieren".
 {.is-info}
-
-### Artikel ist verfügbar?
-
-Falls Artikel nicht verfügbar ist, z.B. weil außerhalb der Saison, Häckchen entfernen. Artikel erscheint dann grau in der Artikelliste und wird in Bestellungen nicht aufgenommen.
 
 
 ## Artikel anlegen
@@ -253,17 +268,18 @@ Vorhandene Preisliste im Excel-Format (oder ähnlich) importieren:
 4. Spalten der original-Preisliste so umordnen, dass sie zur Kopfzeileder Mustertabelle aus der Foodsoft passen. Dazu Spalteninhalt ab der zweiten Zeile markieren und mit Strg+Alt an die richtige Position ziehen.
 5. Artikelkategorien: Angelegte Kategorien siehe Foodsoft \> Artikel \> Kategorien. Bezeichnungen der Kategorien dürfen keine Leerstellen am Ende haben (passiert wenn aus Foodsoft in Tabelle kopiert).
 6. Optional fortlaufende Bestellnummern vergeben, falls vom Lieferant keine Artikelnummern vorgesehen sind. Bestellnummern sind notwendig, wenn die Liste später aktualisiert und erneut hochgeladen wird, damit die aktualisierten den bestehenden Artikeln zugeordnet werden können. Bei den Bestelllisten, die die Foodsoft für die Lieferantin erstellt, wird die Bestellnummer in der ersten Spalte angezeigt. Um die Gefahr einer Verwechslung mit der Stückzahl in der zweiten Spalte zu reduzieren, können die Bestellnummern z.B. 1001, 1002, … sein.
+7. Tabelle speichern und in Foodsoft importieren
 
-- Artikel: ...
+> Beim Importieren einer .ods Datei aus LibreOffice wird die Kategorie nicht importiert, wenn die Datei aber im .xls Format gespeichert wird, klappt es (Mirko 2022-01).
+{.is-danger}
+
 
 ## Artikel exportieren
 
-Alle Artikel der Produzentin werden in eine Textdatei im CSV Format gespeichert, können bei Bedarf mit einem Tabellenprogramm wie Excel oder Calc (LibreOffice) bearbeitet und mit der Import Funktion auch wieder bei einer anderen Produzentin oder in der Foodsoft einer anderen Foodcoop importiert werden.
+Alle Artikel der Produzentin werden in eine [Textdatei im CSV Format](/de/documentation/admin/lists) gespeichert, können bei Bedarf mit einem Tabellenprogramm wie Excel oder Calc (LibreOffice) bearbeitet und mit der Import Funktion auch wieder bei einer anderen Produzentin oder in der Foodsoft einer anderen Foodcoop importiert werden.
 
 Wird die CSV Datei in einer deutschen Office Version bearbeitet, kann es sein, dass Dezimaltrenner Punkt durch Komma ersetzt wird, was beim Einlesen der CSV Datei nicht akzeptiert wird. Abhilfe: im ODS-Format speichern.
 
-~~Wenn die Datei im ODS Format gespeichert wird, fehlt die Beschriftung der ersten Spalte „Status“ in der ersten Zeile und muss ergänzt werden.~~
-[*Behoben 2021-03*](https://github.com/foodcoops/foodsoft/commit/07c8393c8c81888b2853d8eca7ef4774fe06fde3)
 
 ## Artikel löschen
 
@@ -344,7 +360,7 @@ Artikel > Kategorien
 Artikel > Kategorien > Neue Kategorie anlegen
 
 ### Name
-Eine möglicht selbsterklärende und prägnante Bezeichnung für die Katorie.
+Eine möglicht selbsterklärende und prägnante Bezeichnung für die Kategorie.
 
 
 
