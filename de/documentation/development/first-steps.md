@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2022-01-10T15:15:17.718Z
+date: 2022-01-10T15:15:35.480Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -154,7 +154,7 @@ Wo ist im Code was zu finden?
 > Hier nur ein Auszug, bitte gerne erweitern!
 {.is-danger}
 
-# API Datenschnittstelle
+# API 
 
 Über das API können sich externe Anwendungen mit der Foodsoft verbinden und Daten austauschen bzw. Aktionen in der Foodsoft durchführen. 
 
