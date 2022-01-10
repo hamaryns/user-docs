@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2021-11-25T10:10:36.545Z
+date: 2022-01-10T15:06:21.138Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -12,7 +12,9 @@ dateCreated: 2021-04-20T23:17:42.160Z
 
 ## Was ermöglicht die Bankanbindung?
 
-Die Foodcoop bietet die Option einer Bankanbindung. Wenn eingerichtet, ermöglicht dies der Foodsoft einen Zugriff auf die Transaktionshistorie der Vereinskonten. Dies bietet folgende Vorteile:
+Die Foodcoop bietet die Option einer Bankanbindung. Wenn eingerichtet, ermöglicht dies der Foodsoft, die Bankkontozeilen der Vereinskonten zu importieren, und  Übweisungen von Rechnungen zu tätigen (in Arbeit) und in Folge als bezahlt zu markieren. 
+
+Dies bietet folgende Vorteile:
 - **Überweisungen der Mitglieder** auf das Vereinskonto können von der Foodsoft automatisiert durch die Verwendung von Zahlunsgreferenzcodes automatisch erkannt und den Bestellgruppen zugeordnet werden. So entfällt der manuelle Prozess, z.B. Bestellguthaben oder Mitgliedsbeitrag den Bestellgruppen in der Foodsoft gut zu geschreiben. 
 - **Überweisungen von Rechnungen** an die Lieferantinnen können von der Foodsoft erkannt, zugeornet und als bezahlt markiert werden.  
 - Es werden interne Querverweise, genannt **Finanzlinks**, (teilweise) automatisch erstellt. Dies ermöglicht es, Buchungen zu verknüpfen, um diese jederzeit nachvollziehbar zu gestalten. Werden alle Banktransaktionen, Kontotransaktionen und Rechnungen mit einem Finanzlink verknüpft, lässt sich eine nachvollziehbare (einfache) doppelte Buchhaltung umsetzten.
@@ -50,7 +52,7 @@ Für folgende Banken unterstützt die Foodsoft eine Bankanbindung:
 - Holvi
 - Oberbank
 - Sparda
-- Bawag, Easybank: muss erst adaptiert werden bei Bedarf
+- Bawag, Easybank (neu seit 2021-12)
 
 > Falls die Bank deiner Foodcoop hier nicht vorkommt, wende dich bitte im Forum an @paroga. Bitte diese Liste ergänzen, falls eine  neue Bank hinzugefügt wurde.
 {.is-warning}
