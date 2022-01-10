@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2021-11-28T22:38:17.190Z
+date: 2022-01-10T15:15:17.718Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -25,11 +25,36 @@ Folgende Links führen zu den Github Repositories:
 - Sobald du dich registrierst und selbst Änderungen durchführst, solltest du einen Fork für deine Änderungen anlegen, der dann unter https://github.com/DEIN_GITHUB_BENUTZERNAME/foodsoft erreichbar ist.
 
 # Installation der Foodsoft
-- [Foodsoft setup manuell](https://github.com/foodcoops/foodsoft/blob/master)
+
+## Anleitungen auf Github
+
+> Die Installation über [Docker](https://de.wikipedia.org/wiki/Docker_(Software)) erfordert weniger Schritte und Vorkenntnisse, und ist daher einfacher durchzuführen als das manuelle Setup. 
+{.is-info}
+
+- [Foodsoft setup manuell](https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT.md)
 - [Foodsoft setup Docker](https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md)
 {.links-list}
 
 
+## Ergänzende Hinweise zur Installation
+
+- Wenn ein Schritt nicht klappt, einen Neustart des Computers versuchen, z.B. nach  Installation der Docker Software.
+- Vor dem Download deines Foodsoft Branches *Fetch Upstream > Fetch and Merge* ausführen, um alle Dateien deines Branches auf den aktuellsten Stand zu bringen. Mit veralteten Dateien kann es zu Fehlern bei der Installation kommen.
+- Deinen Branch der Foodsoft herunterladen mit `git clone https://github.com/YOUR_USERNAME/foodsoft.git`; es entsteht im aktuellen Verzeichnis ein Verzeichnis `foodsoft`, das alle benötigten Dateien enthält.
+- Wenn es mit deinem Branch nicht klappt, kannst du auch den Foodsoft-Master als ZIP Datei herunterladen und entpacken. Lokal durchgeführte Änderungen im Code können dann allerdings nicht mehr so einfach auf Github hochgeladen werden.
+- Vor der Installation der Foodsoft (egal ob manuell oder über Docker) in das Verzeichnis wechseln: `cd foodsoft`
+- Foodsoft starten: 
+  - manuelle Installation:  `bundle exec rails s`
+  - Docker: `docker-compose -f docker-compose-dev.yml up`
+  - Webbrowser: in beiden Fällen URL `http://localhost:3000/` öffnen, User: admin, Password: secret
+
+## Datenbank importieren
+
+Wenn du ein Abbild deiner Foodsoft-Datenbank als `datenbank.sql` Datei hast, kannst du es in deine lokale Installation einpielen:
+- nach manueller Installation der Foodsoft und bei Verwendung einer mysql Datenbank: `mysql –u root –p foodsoft_development < datenbank.sql`
+- Foodsoft Installation über Docker: ... (noch zu beschreiben) ...
+
+<!--
 ## Anleitung für Ubuntu Linux über Docker
 
 > Diese Anleitung ist möglicherweise unvollständig und wurde schon länger nicht mehr getestet.
@@ -72,9 +97,9 @@ checking for magic_open() in -lmagic... no
 *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary
 libraries and/or headers.  Check the mkmf.log file for more details.  You may need configuration options.
--->
+-- >
 6. Auf Github registrieren: Grundsätzlich kannst du dir den Quelltext mit „Download“ auch einfach herunterladen, um die Foodsoft lokal bei dir zu installieren. Sobald du jedoch veränderte Quellcodes wieder auf Github hochladen möchtest, kommt es zu  Problemen, wenn die Foodsoft in der Zwischenzeit durch andere auf Github verändert wurde. Daher zahlt es sich aus, den Quellcode gleich ordentlich „abzuzweigen“, sodass dann zu einem späteren Zeitunkt auch wieder ein reibungsloses Hochladen von Änderungen (push) möglich ist.
-7. Fork erzeugen: diese sollte dann über `https://github.com/YOUR_USERNAME/foodcoops/foodsoft.git` ansprechbar sein
+7. Fork erzeugen: diese sollte dann über `https://github.com/YOUR_USERNAME/oodsoft.git` ansprechbar sein
 8. Fork der Foodsoft herunterladen mit `git clone https://github.com/YOUR_USERNAME/foodcoops/foodsoft.git`
 9. Docker Compose aus dem Verzeichnis `foodsoft` aufrufen (dort befindet sich die Datei `docker-compose-dev.yml`), wie unter Setup beschrieben: https://github.com/foodcoops/foodsoft/blob/master/doc/SETUP_DEVELOPMENT_DOCKER.md 
      - `docker-compose -f docker-compose-dev.yml up -d mariadb`
@@ -84,7 +109,7 @@ libraries and/or headers.  Check the mkmf.log file for more details.  You may ne
 
 ```
 Step 9/13 : RUN bundle config build.nokogiri "--use-system-libraries" &&     bundle install --frozen -j 4
- ---> Running in 48e2f58af9a7
+ -- -> Running in 48e2f58af9a7
 Warning: the running version of Bundler (1.17.2) is older than the version that created the lockfile (1.17.3). We suggest you upgrade to the latest version of Bundler by running `gem install bundler`.
 Fetching gem metadata from https://rubygems.org/........
 Your bundle is locked to mimemagic (0.3.5), but that version could not be found
@@ -107,7 +132,7 @@ ERROR: Service 'foodsoft' failed to build : The command '/bin/sh -c bundle confi
 ### Github mit SSH-Verbindung einrichten
 1. https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh 
 2. https://docs.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh 
-
+-->
 
 # Ruby on Rails 
 Allgemeine Einführungen zum Ruby Framework für Web-Applikationen:
@@ -127,4 +152,16 @@ Wo ist im Code was zu finden?
   - `config/locales/de.yml` 
 
 > Hier nur ein Auszug, bitte gerne erweitern!
+{.is-danger}
+
+# API Datenschnittstelle
+
+Über das API können sich externe Anwendungen mit der Foodsoft verbinden und Daten austauschen bzw. Aktionen in der Foodsoft durchführen. 
+
+## API V1
+- https://raw.githubusercontent.com/foodcoops/foodsoft/master/doc/swagger.v1.yml
+
+## Beispiel-Codes
+
+> Kommt sobald verfügbar...
 {.is-danger}
