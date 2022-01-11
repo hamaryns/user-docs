@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-01-11T19:13:15.792Z
+date: 2022-01-11T20:05:10.505Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -89,9 +89,17 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 - [Organisiert euch!](https://organisiert-euch.org/)Handbuch und Tipps zum gemeinsamen Arbeiten und kooperativem Miteinander
 {.links-list}
 
-<!--
+
 # Andere Hilfswerkzeuge für Foodcoops
 
-- https://fcoop.at/ Services für österreichische FoodCoops: Etherpad (Kollaborativer Texteditor),  EtherCalc (Kollaborative Tabellenverarbeitung), URL Shortener, BitPoll Terminfindung (Doodle), Nextcloud Online Speicherplatz (Dropbox), Jitsi Online Videkonferenz, Forum
-
-{.links-list} -->
+## Österreichische Foodcoops: Forum und anderes
+Über https://fcoop.at/ stehen folgende Services für österreichische FoodCoops zur Verfügung: 
+- Forum
+- Etherpad (Kollaborativer Texteditor)
+- EtherCalc (Kollaborative Tabellenverarbeitung)
+- URL Shortener
+- BitPoll Terminfindung (Doodle)
+- Nextcloud Online Speicherplatz (Dropbox)
+- Jitsi Online Videkonferenz
+> Für die Nutzung dieser Services ist ein Zugang zu einer österreichischen Foodsoft Instanz und eine Anmeldung damit im Forum erforderlich.
+{.is-warning}
