@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2021-11-30T15:37:56.005Z
+date: 2022-01-11T19:07:19.148Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -87,4 +87,10 @@ Diese Dokumentationen sind unvollständig und nicht aktuell.
 
 - [Foodcoop Gründungsleitfaden](https://handbuch.foodcoops.at/)Handbuch und Tipps zur Gründung von Lebensmittelkooperativen [PDF Download](http://www.bio-austria.at/app/uploads/FoodCoop-Handbuch-Juni-2017.pdf)
 - [Organisiert euch!](https://organisiert-euch.org/)Handbuch und Tipps zum gemeinsamen Arbeiten und kooperativem Miteinander
+{.links-list}
+
+# Andere Hilfswerkzeuge für Foodcoops
+
+- https://fcoop.at/ Services für österreichische FoodCoops: Etherpad (Kollaborativer Texteditor),  EtherCalc (Kollaborative Tabellenverarbeitung), URL Shortener, BitPoll Terminfindung (Doodle), Nextcloud Online Speicherplatz (Dropbox), Jitsi Online Videkonferenz, Forum
+
 {.links-list}
