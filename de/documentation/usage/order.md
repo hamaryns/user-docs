@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Überblick und Anleitungen zur Bestellung sowie Abholung
 published: true
-date: 2022-01-12T13:30:32.329Z
+date: 2022-01-12T13:34:55.728Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -70,14 +70,14 @@ Dein Guthaben wird wie folgt aufgeschlüsselt:
 
 ## Laufende Bestellungen
 
-Laufende Bestellungen sind jene, wo du im Moment bestellen kannst, indem du sie bearbeitest. 
+Laufende Bestellungen sind jene, wo du im Moment bestellen kannst, indem du sie bearbeitest. Über die hinterlegten Links kommst du zu den Detailansichten der jeweiligen Bestellungen.
 
 Für jede Bestellung wird angezeigt:
 - **Lieferant**: Name der Lieferantin, bei der bestellt werden kann. Der **hinterlegte Link** führt zur Bearbeitung der Bestellung. 
 - **Abholung**: ab wann kann ich die Artikel dieser Bestellung in der Foodcoop abholen 	
 - **Endet am**:  bis wann kann ich diese Bestellung bearbeiten 	
 - **Wer hat bestellt?**: wer aus deiner [Bestellgruppe](/de/documentation/usage/order-group) hat zuletzt die Bestellung bearbeitet?
-- **Bestellsumme**: wieviel macht diese Bestellung in Summe aus. Der **hinterlegte Link** führt zu einer übersichtlien Darstellung der Bestellung, wo zunächst nur jene Artikel angezeigt werden, die du bestellt hast.
+- **Bestellsumme**: wieviel macht diese Bestellung in Summe aus. Der **hinterlegte Link** führt zu einer übersichtlichen Darstellung der Bestellung, wo zunächst nur jene Artikel angezeigt werden, die du bestellt hast.
 
 Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen. 
 
@@ -87,8 +87,13 @@ Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen.
 > Wenn von einer Lieferantin gerade keine Bestellung offen ist, ist es leider nicht möglich, die verfügbaren Produkte dieser Lieferantin einzusehen, außer du verfügst über entsprechende administrative Rechte in der Foodsoft.
 {.is-info}
 
+### Bestellung bearbeiten
 
+Über den **Link, der bei der Lieferantin hinterlegt** ist. Nach dem Speichern wird die Ansicht "Bestellung anzeigen" dargestellt.
 
+### Bestellung anzeigen
+
+Über den **Link, der bei der Bestellsumme hinterlegt** ist, sofern die Bestellung schon bearbeitet und etwas bestellt wurde.
 
 ## Nicht abgerechnete Bestellungen
 
