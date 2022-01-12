@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Überblick und Anleitungen zur Bestellung sowie Abholung
 published: true
-date: 2021-11-30T15:05:45.965Z
+date: 2022-01-12T13:30:32.329Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -73,10 +73,11 @@ Dein Guthaben wird wie folgt aufgeschlüsselt:
 Laufende Bestellungen sind jene, wo du im Moment bestellen kannst, indem du sie bearbeitest. 
 
 Für jede Bestellung wird angezeigt:
+- **Lieferant**: Name der Lieferantin, bei der bestellt werden kann. Der **hinterlegte Link** führt zur Bearbeitung der Bestellung. 
 - **Abholung**: ab wann kann ich die Artikel dieser Bestellung in der Foodcoop abholen 	
 - **Endet am**:  bis wann kann ich diese Bestellung bearbeiten 	
 - **Wer hat bestellt?**: wer aus deiner [Bestellgruppe](/de/documentation/usage/order-group) hat zuletzt die Bestellung bearbeitet?
-- **Bestellsumme**: wieviel macht diese Bestellung in Summe aus
+- **Bestellsumme**: wieviel macht diese Bestellung in Summe aus. Der **hinterlegte Link** führt zu einer übersichtlien Darstellung der Bestellung, wo zunächst nur jene Artikel angezeigt werden, die du bestellt hast.
 
 Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen. 
 
