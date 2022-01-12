@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Überblick und Anleitungen zur Bestellung sowie Abholung
 published: true
-date: 2022-01-12T13:43:16.602Z
+date: 2022-01-12T14:54:44.292Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -68,7 +68,7 @@ Dein Guthaben wird wie folgt aufgeschlüsselt:
 
 
 
-## Bestellen: Laufende Bestellungen
+## Laufende Bestellungen
 
 Laufende Bestellungen sind jene, wo du im Moment bestellen kannst, indem du sie bearbeitest. Über die hinterlegten Links kommst du zu den Detailansichten der jeweiligen Bestellungen.
 
@@ -95,7 +95,7 @@ Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen.
 
 Über den **Link, der bei der Bestellsumme hinterlegt** ist, sofern die Bestellung schon bearbeitet und etwas bestellt wurde.
 
-## Abholen: Nicht abgerechnete Bestellungen
+## Nicht abgerechnete Bestellungen
 
 Nicht abgerechnete Bestellungen sind jene Bestellungen, die bereits abgeschlossen sind, und die du daher nicht mehr bearbeiten kannst. Meist bedeutet das auch, dass die Bestellung bereits an die Lieferantin geschickt wurde.  **Beim Abholen deiner Bestellung kannst du hier nachschauen, was du bestellt hast**. Wenn eine Bestellung grau dargestellt und kein Link hinterlegt ist, hast du bei dieser Bestellung nichts bestellt. 
 
