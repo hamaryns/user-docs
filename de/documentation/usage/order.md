@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Überblick und Anleitungen zur Bestellung sowie Abholung
 published: true
-date: 2022-01-12T13:34:55.728Z
+date: 2022-01-12T13:40:06.862Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -97,18 +97,22 @@ Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen.
 
 ## Nicht abgerechnete Bestellungen
 
-Nicht abgerechnete Bestellungen sind jene Bestellungen, die bereits abgeschlossen sind, und die du daher nicht mehr bearbeiten kannst. Meist bedeutet das auch, dass die Bestellung bereits an die Lieferantin geschickt wurde.  Beim Abholen deiner Bestellung kannst du hier nachschauen, was du bestellt hast. Wenn eine Bestellung grau dargestellt und kein Link hinterlegt ist, hast du bei dieser Bestellung nichts bestellt. 
+Nicht abgerechnete Bestellungen sind jene Bestellungen, die bereits abgeschlossen sind, und die du daher nicht mehr bearbeiten kannst. Meist bedeutet das auch, dass die Bestellung bereits an die Lieferantin geschickt wurde.  **Beim Abholen deiner Bestellung kannst du hier nachschauen, was du bestellt hast**. Wenn eine Bestellung grau dargestellt und kein Link hinterlegt ist, hast du bei dieser Bestellung nichts bestellt. 
 
-Falls du dich erinnern kannst, etwas bestellt zu haben, es aber hier nicht findest, gibt es mehrere mögliche Ursachen:
-- du hast die Bestellung bearbeitet, aber nicht gespeichert
-- die Bestellung wurde von deiner Foodcoop storniert
-- es waren mehrere Bestellungen für die Lieferantin (bzw. das Lager) gleichzeitig offen, und du hast es bei einer anderen Bestellung bestellt
+> Falls du dich erinnern kannst, etwas bestellt zu haben, es aber hier nicht findest, gibt es mehrere mögliche Ursachen:
+> du hast die Bestellung bearbeitet, aber nicht gespeichert, oder 
+> die Bestellung wurde von deiner Foodcoop storniert, oder
+> es waren mehrere Bestellungen für die Lieferantin (bzw. das Lager) gleichzeitig offen, und du hast es bei einer anderen Bestellung bestellt.
+{.is-info}
+
 
 
 
 ## Abgerechnete Bestellungen
 
 Abgerechnete Bestellungen sind üblicherweise jene, wo die Lieferantin der Foodcoop eine Rechnung gestellt hat, die Foodcoop deine Bestellungen an das tatsächlich gelieferte angepasst und die entsprechenden Beträge von deinem Guthaben abgebucht hat. 
+
+Über den **Link, der beim Lieferant hinterlegt** ist, kommst du zur Detailansicht der Bestellung, sofern du bei dieser Bestellung setwas bestellt hast.
 
 
 
