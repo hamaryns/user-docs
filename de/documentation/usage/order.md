@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Überblick und Anleitungen zur Bestellung sowie Abholung
 published: true
-date: 2022-01-12T13:42:11.738Z
+date: 2022-01-12T13:43:16.602Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -89,7 +89,7 @@ Am Ende der Liste findest du die Summe aller deiner laufenden Bestellungen.
 
 ### Bestellung bearbeiten
 
-Über den **Link, der bei der Lieferantin hinterlegt** ist. Nach dem Speichern wird die Ansicht "Bestellung anzeigen" dargestellt.
+Über den **Link, der bei der Lieferantin hinterlegt** ist. Nach dem Speichern wird die Ansicht "Bestellung anzeigen" dargestellt. Details zum Bearbeiten siehe *Bestellen*.
 
 ### Bestellung anzeigen
 
