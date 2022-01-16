@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-01-06T12:19:45.707Z
+date: 2022-01-16T17:52:54.777Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -170,7 +170,7 @@ Grundsätzlich gibt es zwei Möglichkeiten, Preise einzugeben:
 1. als Bruttopreis: Nettopreis = Preis inkl. Mehrwertsteuer in Kombination mit 0 % Mehrwertsteuer 
 2. als Nettopreis: Nettopreis = Preis exkl. Mehrwertsteuer in Kombination mit Mehrwertsteuersatz > 0 
 
-Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachsten ist es, wenn du ich an der Preisliste der Lieferantin orientierst: 
+Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachsten ist es, wenn du dich an der Preisliste der Lieferantin orientierst: 
 - sind dort Nettopreise angegeben, übernimmst du diese und gibst den Mehrwersteuer Prozentsatz ein; die Foodsoft berechnet automatisch den Bruttopreis und zeigt das Ergebnis auch gleich unter "Endpreis" an. 
 - sind dort Bruttopreise angegeben, übernimmst du diese und gibst für  Mehrwersteuer 0 ein. Der "Endpreis" ist gleich der Nettopreis. 
 
