@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-01-25T11:38:37.200Z
+date: 2022-01-25T11:39:33.989Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -87,7 +87,7 @@ Jedes Mitglied findet seinen Zahlungsreferenz-Rechner im [Dropdownmenü des Prof
 {.is-info}
 
 Weitere Infos zum Zahlunsgreferenzcode:
-- [Zahlungsreferenz-Rechner](/de/documentation/usage/profile-ordergroup#zahlungsreferenz-rechner) Wie Mitglieder ihre Zahlunsgreferenzcodes erstellen können
+- [Zahlungsreferenz-Rechner](/de/documentation/usage/profile-ordergroup#zahlungsreferenz-rechner) Wie Mitglieder ihre Zahlunsgreferenzcodes erstellen können, Beispiele, häufige Fehler
 - [Transaktionsklassen](/de/documentation/admin/finances/accounts) Was eingerichtet werden muss, damit Zahlunsgrefernzcodes verwendet werden können.
 {.links-list}
 
