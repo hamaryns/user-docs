@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-25T11:23:40.714Z
+date: 2022-01-25T11:52:30.904Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -194,7 +194,9 @@ Nur bei bestimmten Banken kann sich die Foodsoft zweimal täglich automatisch di
 
 ## Häufige Fehler bei Zahlungsreferenzcodes
 
-Wenn du den Code abtippst, statt ihn zu kopieren (grundsätzlich nicht empfohlen weil zu fehleranfällig), achte bitte ganz genau darauf, dass jedes einzelne Zeichen korrekt ist: 
+Zahlungsreferenzcodes können nur bei elektronischer Überweisung mit E-Banking zuverlässig eingesetzt werden. Wird eine Überweisung z.B. per Erlagschein durchgeführt, ist es erfahrungsgemäß sehr wahrscheinlich, dass der Code beim Bearbeiten des Erlagscheins nicht korrekt eingegeben oder gescannt wird, und der Code in Folge nicht erkannt wird.
+
+Am sichersten ist es, wenn du den Code zur Eingabe ins E-Banking aus der Foodsoft kopierst uns ihn im E-Banking einfügst. Wenn du ihn abtippst, was grundsätzlich nicht empfohlen wird weil zu fehleranfällig, achte bitte ganz genau darauf, dass jedes einzelne Zeichen korrekt ist: 
 
 > Zahl 0 und nicht Buchstabe O, 
 {.is-warning}
@@ -210,6 +212,9 @@ Wenn du den Code abtippst, statt ihn zu kopieren (grundsätzlich nicht empfohlen
 
 > Wenn der Code fehlerhaft ist, wird er von der Foodsoft nicht erkannt und dein Guthaben wird nicht automatisch aufgeladen. Ein Mitglied deiner Foodcoop mit Zugriff auf die <span id="anchor-20"></span>Finanzverwaltung muss das händisch erledigen. Bitte erspare dir die Verzögerung und der Finanzverwaltung deiner Foodcoop den Aufwand, indem du dich um korrekte Zahlungsreferenzcodes bemühst.
 {.is-danger}
+
+> Wenn du öfters den selben Betrag überweist, kannst du in deinem E-Banking eine Vorlage anlgen mit dem entsprechenden Zahlunsgreferenzcode als Verwendungszweck.
+{.is-success}
 
 ## Beispiele für Zahlungsreferenzcodes
 
