@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-01-25T11:37:42.024Z
+date: 2022-01-25T11:38:37.200Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -174,7 +174,7 @@ In folgenden Fällen wird mit der Funktion „Transaktionen zuordnen“ ein Fina
 
 Falls eine Buchung nicht erkannt wird (z.B. weil Zahlungsreferenzcode fehlerhaft oder Rechnungsdaten  nicht übereinstimmen), erfolgt keine Aktion, die grüne Schaltfläche *Hinzufügen* unter Finanzlinks bleibt erhalten. In diesem Fall sollte manuell ein Finanzlink erstellt werden, siehe unten. 
 
-> Zahlunsgreferenzcodes können *nicht* für Rücküberweisungen verwendet werden. Wenn z.B. einem Mitglied versehentlich überwiesene 10 Euro Mitgliedsbeitrag zurücküberwiesen werden sollen, und dabei als Zahlungsreferenz `FS123.456M-10` verwendet wird (das Mitglied hat zuvor mit dem Code `FS123.456M10` überwiesen), so wird diese Transaktion leider **nicht** zugeordnet und dem Mitglied werden keine 10 Euro abgezogen. Es geht aber recht rasch, diese Zuordnung wie unten beschrieben manuell durchzuführen.  
+> Zahlunsgreferenzcodes können *nicht* für Rücküberweisungen verwendet werden. Wenn z.B. einem Mitglied versehentlich überwiesene 10 Euro Mitgliedsbeitrag zurücküberwiesen werden sollen, und dabei als Zahlungsreferenz `FS123.456M-10` verwendet wird (das Mitglied hat zuvor mit dem Code `FS123.456M10` überwiesen), so wird diese Transaktion leider **nicht** zugeordnet und dem Mitglied werden keine 10 Euro Guthaben abgezogen. Es geht aber recht rasch, diese Zuordnung wie unten beschrieben manuell durchzuführen.  
 {.is-warning}
 
 
