@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-25T11:52:30.904Z
+date: 2022-01-25T11:57:31.266Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -192,6 +192,9 @@ Nur bei bestimmten Banken kann sich die Foodsoft zweimal täglich automatisch di
 > Wenn mehrere Zugänge zu deiner Bestellgruppe angelegt sind, unterscheiden sich die Codes je nach Zugang, und im Kontoauszug wird dann angezeigt, von welchem Zugang aus ein Guthaben überwiesen wurde. 
 {.is-info}
 
+> Wenn du öfters den selben Betrag überweist, kannst du in deinem E-Banking eine Vorlage anlegen mit dem entsprechenden Zahlunsgreferenzcode als Verwendungszweck. Auch für einen Dauerauftrag mit fixem Betrag brauchst du den Zahlungsreferenzcode nur einmal einzugeben.
+{.is-success}
+
 ## Häufige Fehler bei Zahlungsreferenzcodes
 
 Zahlungsreferenzcodes können nur bei elektronischer Überweisung mit E-Banking zuverlässig eingesetzt werden. Wird eine Überweisung z.B. per Erlagschein durchgeführt, ist es erfahrungsgemäß sehr wahrscheinlich, dass der Code beim Bearbeiten des Erlagscheins nicht korrekt eingegeben oder gescannt wird, und der Code in Folge nicht erkannt wird.
@@ -213,8 +216,7 @@ Am sichersten ist es, wenn du den Code zur Eingabe ins E-Banking aus der Foodsof
 > Wenn der Code fehlerhaft ist, wird er von der Foodsoft nicht erkannt und dein Guthaben wird nicht automatisch aufgeladen. Ein Mitglied deiner Foodcoop mit Zugriff auf die <span id="anchor-20"></span>Finanzverwaltung muss das händisch erledigen. Bitte erspare dir die Verzögerung und der Finanzverwaltung deiner Foodcoop den Aufwand, indem du dich um korrekte Zahlungsreferenzcodes bemühst.
 {.is-danger}
 
-> Wenn du öfters den selben Betrag überweist, kannst du in deinem E-Banking eine Vorlage anlgen mit dem entsprechenden Zahlunsgreferenzcode als Verwendungszweck.
-{.is-success}
+Weitere Tipps  findest du im folgenden Abschnitt anhand konkreter Beispiele.
 
 ## Beispiele für Zahlungsreferenzcodes
 
@@ -222,30 +224,29 @@ Folgendes Beispiel ist für die Transaktionskürzel M für Mitgliedsbeitrag und 
 
 <table>
 <tbody>
-<tr class="odd">
-<td>Code Beispiel</td>
-<td>Bestellguthaben</td>
-<td>Mitgliedsbeitrag</td>
-<td>Überweisungs-<br />
-betrag</td>
+<tr>
+<th>Code Beispiel</th>
+<th>Bestellguthaben</th>
+<th>Mitgliedsbeitrag</th>
+<th>Überweisungs-<br />betrag</th>
 </tr>
 <tr class="even">
 <td>FS123.456G25</td>
-<td>25</td>
-<td>0</td>
-<td>25</td>
+<td align="center">25</td>
+<td align="center">0</td>
+<td align="center">25</td>
 </tr>
 <tr class="odd">
 <td>FS123.456M10</td>
-<td>0</td>
-<td>10</td>
-<td>10</td>
+<td align="center">0</td>
+<td align="center">10</td>
+<td align="center">10</td>
 </tr>
 <tr class="even">
 <td>FS123.456G25M10</td>
-<td>25</td>
-<td>10</td>
-<td>35</td>
+<td align="center">25</td>
+<td align="center">10</td>
+<td align="center">35</td>
 </tr>
 </tbody>
 </table>
