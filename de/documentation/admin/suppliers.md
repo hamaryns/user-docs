@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-01-26T05:47:49.607Z
+date: 2022-01-26T05:49:11.624Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -307,8 +307,8 @@ Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ände
 - **Manuelle Aktualiserung durch Bearbeiten** einzelner oder aller Artikel: außer beim Preis wirken sich alle Änderungen auf alle Bestellungen aus, also auch auf aktuelle offene sowie bereits geschlossene oder abgerechnete Bestellungen (siehe [*https://github.com/foodcoops/foodsoft/issues/850*](https://github.com/foodcoops/foodsoft/issues/850)).
 
 - Wenn es nötig ist, einen Artikel für eine laufende oder bevorstehende Bestellung zu aktualsieren, aber die Artikel von abgeschlossenen oder anderen laufenden Bestellungen nicht beeinflusst werden, kann eine **Kopie des Artikels** angelegt werden. Original und Kopie müssen unterschiedliche Bezeichnungen haben. Deshalb z.B. 
-     - vor dem Anlegen der Kopie die Bezeichung ändern von z.B. `Äpfel` auf `Äpfel bis JJJJ-MM-DD` (`JJJJ-MM-DD` ist das aktuelle Datum) und in der frisch angelegten Kopie das `bis JJJJ-MM-DD` wieder herauslöschen. Vorteil: der aktuelle Artikel heißt gleich wie gewohnt, Nachteil: für Bestellerinnen ist anhand der Artikelbezeichnung nicht auf den ersten Blick erkennbar, dass sich etwas geändert hat. Oder:
-     - nach dem Anlegen der Kopie die Bezeichung ändern von z.B. `Äpfel` auf `Äpfel ab JJJJ-MM-DD (neuer Preis)`, wobei `JJJJ-MM-DD`  das aktuelle Datum ist. Vorteil: für Bestellerinnen ist ersichtlich, dass sich etwas geändert hat, und was. Nachteil: diese Info ist nach einiger Zeit überflüssig.
+     - vor dem Anlegen der Kopie die Bezeichung ändern von z.B. `Äpfel` auf `Äpfel bis JJJJ-MM-DD` (`JJJJ-MM-DD` ist das aktuelle Datum) und in der frisch angelegten Kopie das `bis JJJJ-MM-DD` wieder herauslöschen. Vorteil: der aktuelle Artikel heißt gleich wie gewohnt; Nachteil: für Bestellerinnen ist anhand der Artikelbezeichnung nicht auf den ersten Blick erkennbar, dass sich etwas geändert hat. Oder:
+     - nach dem Anlegen der Kopie die Bezeichung der Kopie ändern von z.B. `Äpfel` auf `Äpfel ab JJJJ-MM-DD neuer Preis`, wobei `JJJJ-MM-DD`  das aktuelle Datum ist. Vorteil: für Bestellerinnen ist ersichtlich, dass sich etwas geändert hat, und was; Nachteil: diese Info ist nach einiger Zeit überflüssig.
 
 - Alternativ können Artikel auch durch **Hochladen einer aktualisierten Import-Liste** aktualisiert werden. Dazu ist es erforderlich, jedem Artikel eine Bestellnummer (order nummer) zuzuweisen. Das können einfach fortlaufende Zahlen sein (1, 2, 3, …), falls die Lieferantin keine Artikelnummern vergibt. Ohne Bestellnummern kann die Foodsoft die Artikel der hochgeladenen nicht den bestehenden zuordnen. Die Artikeldaten von bereits abgeschlosssenen Bestellungen wie Name, Einheit usw. werden dabei auch verändert, mit Ausnahme der Artikelpreise, was z.B. im Fall der Änderung der Einheit zu einer verfälschten Darstellung alter Bestellungen führt, siehe oben erwähnter Github Issue. 
 
