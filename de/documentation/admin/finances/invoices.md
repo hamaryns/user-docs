@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-01-31T08:17:44.306Z
+date: 2022-01-31T08:19:59.796Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -318,9 +318,9 @@ Beispiel:
 Für die Bezahlung von Rechnungen gibt es folgende Möglichkeiten:
 - **Manuelle Überweisung per E-Banking** durch Foodcoop Mitglied mit Bankzugang. Die Daten für die Überweisung (Empfängerin, IBAN, Betrag, Verwendungszweck: Rechnungsnummer(n)) können aus der Foodsoft von der Übersicht *Finanzen > Rechnungen > unbezahlte Rechnungen* bzw. *Finanzen > Übersicht > Unbezahlte Rechnungen > alle anzeigen* kopiert werden.
 - **Automatisierte Überweisung durch die Foodsoft über die Bankanbindung**: Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](/de/documentation/admin/finances/bank-accounts).
-- **Per Einzieher**: manche Lieferantinnen ziehen die Rechnungsbeträe selbst vom Foodcoop Bankkonto ab.
+- **Per Einzieher**: manche Lieferantinnen ziehen die Rechnungsbeträge selbst vom Foodcoop Bankkonto ab.
 
-Sobald eine Rechnung bezahlt ist, sollte sich auch in der Foodosft als bezahlt gekennzeichnet werden, indem  bei *bezahlt am* das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). Wenn die Foodsoft [mit dem Bankkonto verknüpft ist](/de/documentation/admin/finances/bank-accounts), geschieht dies automatisch beim nächsten Import der Bankdaten.
+Sobald eine Rechnung bezahlt ist, sollte sich auch in der Foodsoft als bezahlt gekennzeichnet werden, indem  bei *bezahlt am* das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). Wenn die Foodsoft [mit dem Bankkonto verknüpft ist](/de/documentation/admin/finances/bank-accounts), geschieht dies automatisch beim nächsten Import der Bankdaten.
 
 > Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen > Rechnungen > unbezahlte Rechnungen* und *Finanzen > Übersicht > unbezahlte Rechnungen* auf.
 {.is-success}
