@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: Definitionen und Bedeutungen von Begriffen in der Foodsoft 
 published: true
-date: 2021-11-30T15:02:10.086Z
+date: 2022-01-31T08:55:05.169Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
@@ -52,4 +52,4 @@ Angleichung des Lagerstands in der Foodsoft an jene im Lagerraum der Foodcoop, s
 Siehe [Mehrwertsteuer](/de/documentation/admin/finances/value-added-tax)...
 
 ## Pfand
-Siehe [Lieferantinnen](/de/documentation/admin/suppliers)
+Siehe [Lieferantinnen](/de/documentation/admin/suppliers) und [Pfand](/de/documentation/admin/finances/deposits).
