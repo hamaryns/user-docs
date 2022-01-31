@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-31T11:12:51.201Z
+date: 2022-01-31T11:27:54.585Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -207,7 +207,7 @@ Unten siehst du den Gesamtbetrag, die Zahlungsreferenz und die IBAN, die du bei 
 
 ![usage_profile-ordergroup_zr-rechner2.png](/uploads-de/usage_profile-ordergroup_zr-rechner2.png)
 
-> Es ist nicht notwendig, zusätzlich zur Zahlungsreferenz noch weitere Informationen anzuführen, aber es ist möglich, solange der zusätzliche Text durch ein Leerzeichen vom Code getrennt ist.
+> Es ist nicht notwendig, zusätzlich zur Zahlungsreferenz noch weitere Informationen anzuführen, aber es ist möglich, solange der zusätzliche Text durch ein Leerzeichen von der Zahlungsreferenz getrennt ist.
 {.is-info}
 
 
