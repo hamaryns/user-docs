@@ -2,7 +2,7 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Steuerliches in Foodcoop erfassen und verwalten
 published: true
-date: 2021-11-30T15:22:38.666Z
+date: 2022-01-31T08:00:01.115Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
@@ -23,7 +23,7 @@ Weitere Infos:
 
 Grundsätzlich muss für alle Artikel, die eine Foocoop an ihre Mitglieder weitergibt, eine Mehrwersteuer bezahlt werden. Die Bemessung und Abfuhr der Mehrwertsteuer ist jedoch Aufgabe der Lieferantin. Für die Foodcoop ist es nur wichtig, dass sie von Lieferantinnen Rechnungen bekommen, auf denen vermerkt ist, wieviel Mehrwertsteuer angefallen ist.
 
-> Eine Firma wie z.B. ein Lebensmittelhandel kauft bei Lieferantinnen zu Netto-Preisen ein, muss aber von ihren Kundinnen Bruttopreise verrechnen und die Differenz (= Mehrwersteuer) dem Finanzamt abführen. Eine Foodcoop ist jedoch keine Firma, weshalb die Lieferantin die Mehrwertsteuerabgabe erledigen muss. 
+> Eine Firma wie z.B. ein Lebensmittelhandel kauft bei Lieferantinnen zu Netto-Preisen ein, muss aber von ihren Kundinnen Bruttopreise verrechnen und die Differenz (= Mehrwertsteuer) dem Finanzamt abführen. Eine Foodcoop ist jedoch keine Firma, weshalb die Lieferantin die Mehrwertsteuerabgabe erledigen muss. 
 {.is-info}
 
 
