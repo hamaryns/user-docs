@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-01-31T08:49:14.568Z
+date: 2022-01-31T08:53:43.695Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -131,7 +131,7 @@ Rechnungsbetrag (inklusive [Mehrwertsteuer](/de/documentation/admin/finances/val
 ## Pfand berechnet
 
 Leer lassen, falls in den Artikeln der Foodsoft ein Pfandbetrag bereits inkludiert ist, weil Bestellungen und Lieferungen nicht pfandbereinigt werden. Falls sich Pfand in der Foodsoft und auf der Rechnung des Produzenten nicht decken, kann hier die Differenz eingegeben werden: 
-- (Pfand gesamt Produzent) - (Pfand gesamt Foodsoft). 
+- `Pfand gesamt Produzent` - `Pfand gesamt Foodsoft`. 
     
     
 ### Beispiele
