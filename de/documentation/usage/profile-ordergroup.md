@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-31T10:57:15.642Z
+date: 2022-01-31T11:07:48.136Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -217,28 +217,8 @@ Unten siehst du den Gesamtbetrag, die Zahlungsreferenz und die IBAN, die du bei 
 > Wenn du öfters den selben Betrag überweist, kannst du in deinem E-Banking eine Vorlage anlegen mit dem entsprechenden Zahlunsgreferenzcode als Verwendungszweck. Auch für einen Dauerauftrag mit fixem Betrag brauchst du den Zahlungsreferenzcode nur einmal einzugeben.
 {.is-success}
 
-## Häufige Fehler bei Zahlungsreferenzcodes
 
-Zahlungsreferenzcodes können nur bei elektronischer Überweisung mit E-Banking zuverlässig eingesetzt werden. Wird eine Überweisung z.B. per Erlagschein durchgeführt, ist es erfahrungsgemäß sehr wahrscheinlich, dass der Code beim Bearbeiten des Erlagscheins nicht korrekt eingegeben oder gescannt wird, und der Code in Folge nicht erkannt wird.
 
-Am sichersten ist es, wenn du den Code zur Eingabe ins E-Banking aus der Foodsoft kopierst uns ihn im E-Banking einfügst. Wenn du ihn abtippst, was grundsätzlich nicht empfohlen wird weil zu fehleranfällig, achte bitte ganz genau darauf, dass jedes einzelne Zeichen korrekt ist: 
-
-> Zahl 0 und nicht Buchstabe O, 
-{.is-warning}
-
-> Punkt und nicht Komma
-{.is-warning}
-
-> keine Leerzeichen im Code (Smartphones und Tablets fügen gern ein Leerzeichen nach dem Punkt ein, das du bitte löschen musst) 
-{.is-warning}
-
-> Code muss vollständig sein, es dürfen keine Zeichen fehlen (häufig passiert das beim Kopieren am Anfang und Ende des Codes, beim Abtippen auch mitten drin)
-{.is-warning}
-
-> Wenn der Code fehlerhaft ist, wird er von der Foodsoft nicht erkannt und dein Guthaben wird nicht automatisch aufgeladen. Ein Mitglied deiner Foodcoop mit Zugriff auf die <span id="anchor-20"></span>Finanzverwaltung muss das händisch erledigen. Bitte erspare dir die Verzögerung und der Finanzverwaltung deiner Foodcoop den Aufwand, indem du dich um korrekte Zahlungsreferenzcodes bemühst.
-{.is-danger}
-
-Weitere Tipps  findest du im folgenden Abschnitt anhand konkreter Beispiele.
 
 ## Beispiele für Zahlungsreferenzcodes
 
@@ -273,21 +253,40 @@ Folgendes Beispiel ist für die Transaktionskürzel M für Mitgliedsbeitrag und 
 </tbody>
 </table>
 
-> Die Summe aus Guthaben und Mitgliedsbeitrag muss mit dem überwiesenen Betrag zusammenstimmen. 
+
+
+
+## Häufige Fehler bei Zahlungsreferenzcodes
+
+Bei unpassenden Zahlungscodes wird kein Guthaben aufgeladen, und es verursacht für das Finanzteam deiner Foodcoop einen Extra-Aufwand, den du vermeiden kannst, indem du schaust, dass der Code vollständig ist und zum Überweisungsbetrag passt.
+
+Zahlungsreferenzcodes können nur bei elektronischer Überweisung mit E-Banking zuverlässig eingesetzt werden. Wird eine Überweisung z.B. per Erlagschein durchgeführt, ist es erfahrungsgemäß sehr wahrscheinlich, dass der Code beim Bearbeiten des Erlagscheins nicht korrekt eingegeben oder gescannt wird, und der Code in Folge nicht erkannt wird.
+
+Am sichersten ist es, wenn du den Code zur Eingabe ins E-Banking aus der Foodsoft kopierst uns ihn im E-Banking einfügst. Wenn du ihn abtippst, was grundsätzlich nicht empfohlen wird weil zu fehleranfällig, achte bitte ganz genau darauf, dass jedes einzelne Zeichen korrekt ist: 
+
+> Ziffer 0 und nicht Buchstabe O 
 {.is-warning}
 
-> Du kannst einen Code nur dann mehrfach verwenden, wenn du genau die selben Beträge für Mitgliedsbeitrag und/oder Guthaben überweist. Ansonsten musst du in der Foodsoft einen passenden Code mit dem Zahlungsreferenz-Rechner erstellen. 
+> Punkt und nicht Komma: Im ersten Teil des Codes befinden sich zwei Zahlen, die durch einen Punkt getrennt sind, z.B. `FS123.456G100`: Punkt zwischen 123 und 456. Eventuell eingegebene Cent-Beträge müssen durch einen **Punkt als Dezimaltrenner** abgetrennt sein, z.B: `FS123.456G25.50` für 25,50 €.
 {.is-warning}
 
-> Cent-Beträge müssen durch einen **Punkt als Dezimaltrenner** abgetrennt sein, z.B: `FS123.456G25.50` für 25,50 €.
+> Keine Leerzeichen im Code (Smartphones und Tablets fügen gern ein Leerzeichen nach dem Punkt ein, das du bitte löschen musst) 
 {.is-warning}
 
-> Ein Code ohne Kategorie-Kürzel und Betrag wie z.B. `FS123.456` ist ungültig! 
-{.is-danger}
+> Code muss vollständig sein, es dürfen keine Zeichen fehlen (häufig passiert das beim Kopieren am Anfang und Ende des Codes, beim Abtippen auch mitten drin). Ein Code ohne Kategorie-Kürzel und Betrag wie z.B. `FS123.456` ist ungültig! 
+{.is-warning}
+
+> Die Summe der einzelnen Zwecke (z.B. Guthaben und Mitgliedsbeitrag) muss mit dem überwiesenen Betrag zusammenstimmen, siehe Beispiel oben. 
+{.is-warning}
+
+> Du kannst einen Code nur dann mehrfach verwenden, wenn du genau den selben Betrag überweist. Ansonsten musst du in der Foodsoft einen passenden Code mit dem Zahlungsreferenz-Rechner erstellen. 
+{.is-warning}
 
 
-> Bei unpassenden Zahlungscodes wird kein Guthaben aufgeladen, und es verursacht für das Finanzteam deiner Foodcoop einen Extra-Aufwand, den du vermeiden kannst, indem du schaust, dass der Code vollständig ist und zum Überweisungsbetrag passt.
-{.is-danger}
+
+
+
+
 
 # Abmelden
 
