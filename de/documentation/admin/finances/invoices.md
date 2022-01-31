@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-01-31T08:19:59.796Z
+date: 2022-01-31T08:49:14.568Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -211,6 +211,12 @@ Wenn für eine Bestellung mehrere Rechnungen ausgestellt werden, ist es sinnvoll
 > Siehe oben bei *Rechnung anlegen > Anhang* wie mehrere Dateien zu einer verbunden werden können.
 {.is-info}
 
+## Zahlung per Einzieher (SEPA Lastschrift)
+
+Manche Lieferantinnen ziehen ihre Rechnungsbeträge selbständig vom Foodcoop Bankkonto per Lastschrift ab. Auch für diese Zahlungen sollten in der Foodsoft Rechnungen angelegt werden. In der *Notiz* kann vermerkt werden, dass diese Rechnungen nicht per Überweisung bezahlt werden sollen, weil sie automatisch beglichen werden. Die *Rechnungsnummer* in der Foodsoft muss an den Verwendungszweck der Lastschriftbuchung angepasst werden, damit ein Finanzlink zwischen Buchung und Rechnung angelegt und die Rechnung als bezahlt markiert wird (siehe [Foodsoft mit Bankkonto verknüpfen](/de/documentation/admin/finances/bank-accounts)).
+
+> Die Rechnung in der Foodsoft kann vor und nach der erfolgten Abbuchung vom Bankkonto angelegt werden. Oft sind die Rechnungsdaten wie Betrag und Rechnungsnummer erst nach der Abbuchung bekannt. Die Rechnung kann trotzdem auch schon vorher mit vorläufigen Daten angelegt werden, und dann nach der Abbuchung noch angepasst werden. Nach der ersten Abbuchung muss gegebenenfalls die IBAN der Lieferantin in der Foodsoft an die IBAN der Buchung angepasst werden.
+{.is-info}
 
 
 # Rechnung anzeigen und bearbeiten
