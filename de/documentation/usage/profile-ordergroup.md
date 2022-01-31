@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-31T12:18:58.397Z
+date: 2022-01-31T17:49:26.697Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -187,10 +187,6 @@ Falls deine Foodcoop die Abrechnung über Foodsoft-Konten macht, musst du dein K
 
 Wenn es in deiner Foodcoop eingerichtet ist, kannst du für Überweisungen für Foodsoft Guthaben und Foodcoop Mitgliedsbeiträge auf das Bankkonto bzw. die Bankkonten deiner Foodcoop einen Zahlungsreferenz-Code verwenden. Damit werden deine Überweisungen automatisch deiner Bestellgruppe zugeordnet, und dein Guthaben in der Foodsoft aufgeladen.
 
-
-> Beachte, dass eine Überweisung ein bis zwei Banktage dauert, bis sie am Konto eintrifft, und dass bei den meisten Banken die Foodsoft nicht eigenständig Zugriff auf das Bankkonto hat, sondern nur, indem eine Bankkonto-Zeichnungsberechtigte deiner Foodcoop die Foodsoft manuell mit dem Bankkonto synchronisiert. Nur bei bestimmten Banken kann sich die Foodsoft zweimal täglich automatisch die Bankdaten holen, siehe administrativer Teil: [Bankkonto mit Foodsoft verknüpfen](#anchor-19).
-{.is-warning}
-
 Du findest den **Zahlungsreferenz-Rechner** im **Dropdownmenü deines Profilnamens**: 
 
 ![usage_profile-ordergroup_meine-bestellgruppe2.png](/uploads-de/usage_profile-ordergroup_meine-bestellgruppe2.png)
@@ -217,7 +213,8 @@ Unter den Zwecken und Betragsfeldern siehst du den **Gesamtbetrag**, die **Zahlu
 > Wenn du öfters den selben Betrag überweist, kannst du in deinem E-Banking eine Vorlage anlegen mit dem entsprechenden Zahlunsgreferenzcode als Verwendungszweck. Auch für einen Dauerauftrag mit fixem Betrag brauchst du den Zahlungsreferenzcode nur einmal einzugeben.
 {.is-success}
 
-
+> Beachte, dass eine Überweisung ein bis zwei Banktage dauert, bis sie am Konto eintrifft, und dass bei den meisten Banken die Foodsoft nicht eigenständig Zugriff auf das Bankkonto hat, sondern nur, indem eine Bankkonto-Zeichnungsberechtigte deiner Foodcoop die Foodsoft manuell mit dem Bankkonto synchronisiert. Nur bei bestimmten Banken kann sich die Foodsoft zweimal täglich automatisch die Bankdaten holen.
+{.is-warning}
 
 
 ## Beispiele für Zahlungsreferenzcodes
