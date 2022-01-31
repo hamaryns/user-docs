@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-31T10:52:10.541Z
+date: 2022-01-31T10:57:15.642Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -195,13 +195,15 @@ Du findest den **Zahlungsreferenz-Rechner** im **Dropdownmenü deines Profilname
 
 ![usage_profile-ordergroup_meine-bestellgruppe2.png](/uploads-de/usage_profile-ordergroup_meine-bestellgruppe2.png)
 
+## Anwendung
+
 Je nachdem, welche Zwecke für Überweisungen deine Foodcoop vorgesehen hat, siehst du hier pro Zweck eine Zeile mit einem Betrag-Feld. Im folgenden Beispiel gibt es die Möglichkeit, Beträge für Bestellguthaben und Mitgliedsbeitrag zu überweisen:
 
 ![usage_profile-ordergroup_zr-rechner1.png](/uploads-de/usage_profile-ordergroup_zr-rechner1.png)
 
-Tippe in das Betrag-Feld und gib denn gewünschten Betrag ein. Die *Pfeil nach oben/unten Knöpfe* rechts vom Eingabefeld erhöhen bzw. erniedrigen den Betrag mit jedem Mal Drücken einen Cent. Die Betrag-Felder für Zwecke, die du nicht benötigst, lässt du am besten leer. Du kannst aber auch in einer Überweisung gleichzeitig mehre Zwecke eintragen und die Summe der einzelnen Beträge überweisen. 
+Tippe in das Betrag-Feld und gib den gewünschten Betrag ein. Die *Pfeil nach oben/unten Knöpfe* rechts vom Eingabefeld erhöhen bzw. erniedrigen den Betrag mit jedem Mal Drücken um einen Cent. Die Betrag-Felder für Zwecke, die du nicht benötigst, lässt du am besten leer. Du kannst aber auch in einer Überweisung gleichzeitig mehre Zwecke eintragen und die Summe der einzelnen Beträge überweisen. 
 
-Unten siehst du den Gesamtbetrag, die Zahlungsreferenz und die IBAN, die du bei deiner E-Banking Überweisung eingibst. Ja nachdem wie deine Bank es benannt hat, gibst du die Zahlunsgreferenz z.B. "Zahlungsreferenz" oder "Verwendungszweck" ein. In diesem Beispiel erkennt das E-Banking automatisch, ob es sich um eine Zahlungsreferenz oder einen Verwendungszweck handelt, und das Feld heißt "Betreff":
+Unten siehst du den Gesamtbetrag, die Zahlungsreferenz und die IBAN, die du bei deiner E-Banking Überweisung eingibst. Ja nachdem wie deine Bank es benannt hat, gibst du die Zahlunsgreferenz z.B. unter "Zahlungsreferenz" oder "Verwendungszweck" ein. In diesem Beispiel erkennt das E-Banking automatisch, ob es sich um eine Zahlungsreferenz oder einen Verwendungszweck handelt, und das Feld heißt "Betreff":
 
 ![usage_profile-ordergroup_zr-rechner2.png](/uploads-de/usage_profile-ordergroup_zr-rechner2.png)
 
