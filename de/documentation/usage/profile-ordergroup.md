@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-31T17:54:16.869Z
+date: 2022-01-31T17:56:37.516Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -219,7 +219,7 @@ Unter den Zwecken und Betragsfeldern siehst du den **Gesamtbetrag**, die **Zahlu
 
 ## Beispiele für Zahlungsreferenzcodes
 
-Folgende Beispiele sind für die Transaktionskürzel M für Mitgliedsbeitrag und G für Guthaben. Die Buchstaben M und G können von den Administratorinnen deiner Foodcoop frei festgelegt werden, M und G sind lediglich Empfehlungen. Der Code enthält im ersten Teil `FSxxx.yyy` zum deine Benutzer-ID (xxx) und deine Bestellgruppen-ID (yyy), und restlichen Teil einen Betrag für Mitgliedsbeitrag `M...` und/oder Guthaben `G...`: 
+Folgende Beispiele sind für die Transaktionskürzel M für Mitgliedsbeitrag und G für Guthaben. Die Buchstaben M und G können von den Administratorinnen deiner Foodcoop frei festgelegt werden, M und G sind lediglich Empfehlungen. Der Code enthält im ersten Teil `FSxxx.yyy` deine Benutzer-ID `xxx` und deine Bestellgruppen-ID `yyy`, und im restlichen Teil einen Betrag `zz` für Mitgliedsbeitrag `Mzz` und/oder Guthaben `Gzz`: 
 
 <table>
 <tbody>
