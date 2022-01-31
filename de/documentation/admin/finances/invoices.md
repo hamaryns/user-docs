@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2021-11-30T15:20:59.162Z
+date: 2022-01-31T08:17:44.306Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -185,7 +185,7 @@ Empfohlen wird, dass hier der Status der Rechnung kommentiert wird (*"kann bezah
 
 ## Rechnung erstellen
 
-Nachdem au auf *Rechnung erstellen* geklickt hast, werden alle Eingaben nochmal zusammengefasst dargstellt. Kontrolliere nochmal das Rechnungsdatum, jetzt ist die letzte Chance, es noch zu korrigieren, bevor die Rechnung dann in der Liste der Rechnungen "untertaucht", wenn sie ein falsches Datum hat. Was die anderen dargstellten Daten genau bedeuten, erfährst du unten unter *Rechnung prüfen*.
+Nachdem du auf *Rechnung erstellen* geklickt hast, werden alle Eingaben nochmal zusammengefasst dargstellt. Kontrolliere nochmal das Rechnungsdatum, jetzt ist die letzte Chance, es noch zu korrigieren, bevor die Rechnung dann in der Liste der Rechnungen "untertaucht", wenn sie ein falsches Datum hat. Was die anderen dargstellten Daten genau bedeuten, erfährst du unten unter *Rechnung prüfen*.
 
 
 
@@ -210,6 +210,7 @@ Wenn für eine Bestellung mehrere Rechnungen ausgestellt werden, ist es sinnvoll
 
 > Siehe oben bei *Rechnung anlegen > Anhang* wie mehrere Dateien zu einer verbunden werden können.
 {.is-info}
+
 
 
 # Rechnung anzeigen und bearbeiten
@@ -312,15 +313,18 @@ Beispiel:
 {.is-info}
 
 
-# Rechungen als bezahlt kennzeichnen
+# Rechnungen bezahlen
 
-Rechnungen sollten erst dann als bezahlt gekennzeichnet werden, indem bei *bezahlt am* das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). 
+Für die Bezahlung von Rechnungen gibt es folgende Möglichkeiten:
+- **Manuelle Überweisung per E-Banking** durch Foodcoop Mitglied mit Bankzugang. Die Daten für die Überweisung (Empfängerin, IBAN, Betrag, Verwendungszweck: Rechnungsnummer(n)) können aus der Foodsoft von der Übersicht *Finanzen > Rechnungen > unbezahlte Rechnungen* bzw. *Finanzen > Übersicht > Unbezahlte Rechnungen > alle anzeigen* kopiert werden.
+- **Automatisierte Überweisung durch die Foodsoft über die Bankanbindung**: Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](/de/documentation/admin/finances/bank-accounts).
+- **Per Einzieher**: manche Lieferantinnen ziehen die Rechnungsbeträe selbst vom Foodcoop Bankkonto ab.
 
-> Wenn die Foodsoft mit dem Bankkonto verknüpft ist, macht die Foodsoft das automatisch, siehe [Bankkonto](/de/documentation/admin/finances/bank-accounts).
-{.is-info}
+Sobald eine Rechnung bezahlt ist, sollte sich auch in der Foodosft als bezahlt gekennzeichnet werden, indem  bei *bezahlt am* das Datum der Bezahlung eingetragen wird, wenn sie tatsächlich bezahlt wurden (z.B. indem im Ebanking eine Überweisung durchgeführt wurde). Wenn die Foodsoft [mit dem Bankkonto verknüpft ist](/de/documentation/admin/finances/bank-accounts), geschieht dies automatisch beim nächsten Import der Bankdaten.
 
+> Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen > Rechnungen > unbezahlte Rechnungen* und *Finanzen > Übersicht > unbezahlte Rechnungen* auf.
+{.is-success}
 
-Bezahlte Rechnungen scheinen nicht mehr unter *Finanzen > Rechnungen > unbezahlte Rechnungen* und *Finanzen > Übersicht > unbezahlte Rechnungen* auf.
 
 # Rechnungen exportieren
 
