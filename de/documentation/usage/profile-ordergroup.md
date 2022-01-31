@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-25T11:57:31.266Z
+date: 2022-01-31T10:45:58.750Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -139,6 +139,10 @@ Falls du Mitglied in Arbeitsgruppen bist (nur Administratorinnen können dich zu
 
 # Meine Bestellgruppe
 
+Um dir Infos zu deiner Bestellgruppe anzusehen, klicke im Menü rechts-oben auf deinen Namen und "Meine Bestellgruppe": 
+
+![usage_profile-ordergroup_meine-bestellgruppe2.png](/uploads-de/usage_profile-ordergroup_meine-bestellgruppe2.png)
+
 ## Kontostand und Mitglieder
 
 In der Foodsoft hast du ein virtuelles Konto mit Guhaben. Im **Kasten links** siehst du 
@@ -175,7 +179,7 @@ Falls deine Foodcoop die Abrechnung über Foodsoft-Konten macht, musst du dein K
 {.is-warning}
 
 
-> Bein manchen Foodcoops ist es notwendig, dass du zuerst Mitglied wirst, bevor du dein Konto aufladen kannst.
+> Bei manchen Foodcoops ist es notwendig, dass du zuerst Mitglied wirst, bevor du dein Konto aufladen kannst.
 {.is-warning}
 
 
@@ -183,11 +187,26 @@ Falls deine Foodcoop die Abrechnung über Foodsoft-Konten macht, musst du dein K
 
 Wenn es in deiner Foodcoop eingerichtet ist, kannst du für Überweisungen für Foodsoft Guthaben und Foodcoop Mitgliedsbeiträge auf das Bankkonto bzw. die Bankkonten deiner Foodcoop einen Zahlungsreferenz-Code verwenden. Damit werden deine Überweisungen automatisch deiner Bestellgruppe zugeordnet, und dein Guthaben in der Foodsoft aufgeladen.
 
-Du findest den **Zahlungsreferenz-Rechner** im **Dropdownmenü deines Profilnamens**. 
 
-Beachte allerdings, dass eine Überweisung ein bis zwei Banktage dauert, bis sie am Konto eintrifft, und dass bei den meisten Banken die Foodsoft nicht eigenständig Zugriff auf das Bankkonto hat, sondern nur, indem eine Bankkonto-Zeichnungsberechtigte deiner Foodcoop die Foodsoft manuell mit dem Bankkonto synchronisiert. 
+> Beachte, dass eine Überweisung ein bis zwei Banktage dauert, bis sie am Konto eintrifft, und dass bei den meisten Banken die Foodsoft nicht eigenständig Zugriff auf das Bankkonto hat, sondern nur, indem eine Bankkonto-Zeichnungsberechtigte deiner Foodcoop die Foodsoft manuell mit dem Bankkonto synchronisiert. Nur bei bestimmten Banken kann sich die Foodsoft zweimal täglich automatisch die Bankdaten holen, siehe administrativer Teil: [Bankkonto mit Foodsoft verknüpfen](#anchor-19).
+{.is-warning}
 
-Nur bei bestimmten Banken kann sich die Foodsoft zweimal täglich automatisch die Bankdaten holen, siehe administrativer Teil: [Bankkonto mit Foodsoft verknüpfen](#anchor-19).
+Du findest den **Zahlungsreferenz-Rechner** im **Dropdownmenü deines Profilnamens**: 
+
+![usage_profile-ordergroup_meine-bestellgruppe2.png](/uploads-de/usage_profile-ordergroup_meine-bestellgruppe2.png)
+
+Je nachdem, welche Zwecke für Überweisungen deine Foodcoop vorgesehen hat, siehst du hier pro Zweck eine Zeile mit einem Betrag-Feld. Im folgenden Beispiel gibt es die Möglichkeit, Beträge für Bestellguthaben und Mitgliedsbeitrag zu überweisen. Tippe in das Betrag-Feld und gib denn gewünschten Betrag ein. Die Betrag-Felder für Zwecke, die du nicht benötigst, lasse am besten leer. Du kannst auch in einer Überweisung gleichzeitig mehre Zwecke eintragen und die Summe überweisen. 
+
+![usage_profile-ordergroup_zr-rechner1.png](/uploads-de/usage_profile-ordergroup_zr-rechner1.png)
+
+
+Unten siehst du den Gesamtbetrag und die Zahlungsreferenz, die du bei deiner E-Banking Überweisung eingibst. Ja nachdem wie deine Bank es benannt hat, gibst du die Zahlunsgreferenz z.B. unter "Betreff", "Zahlungsreferenz" oder "Verwendungszweck" ein. In diesem Beispiel erkennt das E-Banking automatisch, ob es sich um eine Zahlungsreferenz oder einen Verwendungszweck handelt:
+
+![usage_profile-ordergroup_zr-rechner2.png](/uploads-de/usage_profile-ordergroup_zr-rechner2.png)
+> 
+> Es ist nicht notwendig, zusätzlich zur Zahlungsreferenz noch weitere Informationen anzuführen, aber es ist möglich, solange der zusätzliche Text durch ein Leerzeichen vom Code getrennt ist.
+{.is-info}
+
 
 > Wenn mehrere Zugänge zu deiner Bestellgruppe angelegt sind, unterscheiden sich die Codes je nach Zugang, und im Kontoauszug wird dann angezeigt, von welchem Zugang aus ein Guthaben überwiesen wurde. 
 {.is-info}
