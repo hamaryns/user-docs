@@ -2,7 +2,7 @@
 title: Mein Profil & Bestellgruppe
 description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
 published: true
-date: 2022-01-31T11:07:48.136Z
+date: 2022-01-31T11:12:51.201Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
@@ -222,7 +222,7 @@ Unten siehst du den Gesamtbetrag, die Zahlungsreferenz und die IBAN, die du bei 
 
 ## Beispiele für Zahlungsreferenzcodes
 
-Folgendes Beispiel ist für die Transaktionskürzel M für Mitgliedsbeitrag und G für Guthaben. Die Buchstaben M und G können von den AdministratorInnen deiner Foodcoop frei definiert werden, M und G sind lediglich Empfehlungen. Der Code enthält zum einen deinen Benutzer und deine Bestellgruppe FSxxx.xxx, und zum anderen einen Betrag für Mitgliedsbeitrag (M…) und/oder Guthaben (G…): 
+Folgende Beispiele sind für die Transaktionskürzel M für Mitgliedsbeitrag und G für Guthaben. Die Buchstaben M und G können von den Administratorinnen deiner Foodcoop frei festgelegt werden, M und G sind lediglich Empfehlungen. Der Code enthält zum einen deinen Benutzer und deine Bestellgruppe `FSxxx.xxx`, und zum anderen einen Betrag für Mitgliedsbeitrag `M...` und/oder Guthaben `G...`: 
 
 <table>
 <tbody>
@@ -255,10 +255,9 @@ Folgendes Beispiel ist für die Transaktionskürzel M für Mitgliedsbeitrag und 
 
 
 
-
 ## Häufige Fehler bei Zahlungsreferenzcodes
 
-Bei unpassenden Zahlungscodes wird kein Guthaben aufgeladen, und es verursacht für das Finanzteam deiner Foodcoop einen Extra-Aufwand, den du vermeiden kannst, indem du schaust, dass der Code vollständig ist und zum Überweisungsbetrag passt.
+Bei unpassenden Zahlungscodes wird kein Guthaben aufgeladen, und es verursacht für das Finanzteam deiner Foodcoop einen Extra-Aufwand, den du vermeiden kannst, indem du schaust, dass der Code korrekt und vollständig ist und zum Überweisungsbetrag passt.
 
 Zahlungsreferenzcodes können nur bei elektronischer Überweisung mit E-Banking zuverlässig eingesetzt werden. Wird eine Überweisung z.B. per Erlagschein durchgeführt, ist es erfahrungsgemäß sehr wahrscheinlich, dass der Code beim Bearbeiten des Erlagscheins nicht korrekt eingegeben oder gescannt wird, und der Code in Folge nicht erkannt wird.
 
