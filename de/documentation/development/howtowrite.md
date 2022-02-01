@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
 published: true
-date: 2021-11-30T15:11:17.623Z
+date: 2022-02-01T07:51:22.037Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -10,6 +10,19 @@ dateCreated: 2021-10-06T10:35:36.615Z
 
 Dieser Leitfaden bezieht sich auf alle Teile der Dokumentation und soll helfen, einen einheitlichen Standard in Formulierungen und Layout zu erreichen.
 
+# Zugang
+
+## Österreichische Foodcoops
+Du musst dich einmalig im Forum unter forum.foodcoops.at regostrieren. Dann kannst du dich auch für die Bearbeitung dieses Wikis anmelden:
+![wiki-login1.png](/uploads-de/wiki-login1.png)
+
+Anmeldeoption *foodcoops.at*:
+![wiki-login2.png](/uploads-de/wiki-login2.png)
+
+Falls du im Forum gerade nicht angemeldet bist, wirst du zur Anmeldeseite des Forums weitergeleitet.
+
+Einmal angemeldet, solltest du bei jeder Seite rechts unten das Bearbeiten Symbol sehen:
+![wiki-login3.png](/uploads-de/wiki-login3.png)
 
 # Struktur
 
