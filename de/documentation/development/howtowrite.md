@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
 published: true
-date: 2022-02-01T07:56:29.991Z
+date: 2022-02-01T11:26:28.487Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -28,6 +28,10 @@ Einmal angemeldet, solltest du bei jeder Seite rechts unten das Bearbeiten Symbo
 # Wiki-JS
 
 Die Funktionsweise des verwendeten Wiki JS ist unter https://docs.requarks.io beschrieben.
+
+> Die Hauptsprache muss auf Niederländisch eingestellt sein, damit *... (Mario bitte ergänzen) ...* Für Änderungen in den Einstellungen kanns sie vorübergehend auf Deutsch oder Englisch umgestellt werden. 
+{.is-warning}
+
 
 # Struktur
 
