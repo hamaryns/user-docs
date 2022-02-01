@@ -1,8 +1,8 @@
 ---
 title: Mein Profil & Bestellgruppe
-description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe; sowie persönliche Einstellungen
+description: Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe, persönliche Einstellungen, Zahlungsreferenzrechner
 published: true
-date: 2022-01-31T17:56:37.516Z
+date: 2022-02-01T06:04:20.844Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T20:58:16.893Z
