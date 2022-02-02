@@ -2,7 +2,7 @@
 title: Lager
 description: Verwalten des Foodcoop-Lagers und Produktinventars (Menü: "Artikel" > "Lager")
 published: true
-date: 2021-11-30T15:17:00.245Z
+date: 2022-02-02T12:49:11.959Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:55:48.199Z
@@ -15,8 +15,9 @@ Das Lager dient für die Verwaltung von Artikeln, die von der Foodcoop auf Vorra
 > **Lagerbestellung** steht in der Foodsoft für 2 verschiedene Arten von Bestellungen:
 > - um das Lager mit Artikel der Lieferantin aufzufüllen, und 
 > - damit Mitglieder Artikel aus dem Lager bestellen und entnehmen können.
+>
+> .
 {.is-info}
-
 
 Das Lager hat eine eigene Artikelliste, wo die Artikel von Lieferantinnen eingebracht werden können, oder auch unabhängig von Artikeln der Lieferantinnen Lagerartikel angelegt werden können. 
 
@@ -159,7 +160,7 @@ Details siehe **Tutorial - Lagerartikel anlegen und einbringen.pdf**
 > Empfehlung: trage in das Notizfeld der Lieferung deinen Namen ein, damit später nachvollziehbar ist, wer sie angelegt hat. Die Foodsoft zeigt nicht an, wer Lieferungen erstellt hat.
 {.is-info}
 
-> Preise von Lagerartikeln können nicht geändert werden. Wenn eine neue Lieferung mit einem anderen Preis ankommt, muss der Lagerbestand der alten Artikel Null sein, damit dieser Lagerrtikel gelöscht werden und mit einem anderen Preis neu angelegt werden kann. Ansonsten muss für die neuen Artikel ein weiterer Lagerartikel mit dem neuen Preis unter einer anderen Artikelbezeichnung angelegt wrrden, z.B. "Rosinen" (Altbestand) und "Rosinen 2021-05" für die neuen). 
+> Preise von Lagerartikeln können nicht geändert werden. Wenn eine neue Lieferung mit einem anderen Preis ankommt, muss der Lagerbestand der alten Artikel Null sein, damit dieser Lagerrtikel gelöscht werden und mit einem anderen Preis neu angelegt werden kann. Ansonsten muss für die neuen Artikel ein weiterer Lagerartikel mit dem neuen Preis unter einer anderen Artikelbezeichnung angelegt werden, z.B. "Rosinen" (Altbestand) und "Rosinen 2021-05" für die neuen). 
 {.is-warning}
 
 # Rechnung für Lieferung anlegen
