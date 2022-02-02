@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T07:50:55.549Z
+date: 2022-02-02T07:55:29.730Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -45,8 +45,8 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - [Lager](/de/documentation/admin/storage)Verwalten des Foodcoop-Lagers und Produktinventars
 - [Finanzen](/de/documentation/admin/finances)Überblicksseite zu Finanzfunktionen sowie Verwendung
 - [-- Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen
-- [-- Rechnungen](/de/documentation/admin/finances/invoices)Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
-- [-- Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts)Automatisierte Erfassung von neuen und bestehenden Überweisungen
+- [-- Rechnungen](/de/documentation/admin/finances/invoices)Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und abgleichen sowie Bezahlstatus markieren
+- [-- Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts)Automatisierte Erfassung und Verarbeitung von Zahlungsein- und -ausgängen auf Foodcoop-Bankkonten, Zahlungsreferenzrechner aktivieren
 - [-- Mehrwertsteuer, Brutto und Netto](/de/documentation/admin/finances/value-added-tax)Steuerliches in Foodcoop erfassen und verwalten
 - [-- Pfand](/de/documentation/admin/finances/deposits)Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 - [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder,  Bestellgruppen, Arbeits- und Nachrichtengruppen, Vergabe von administrativen Berechtigungen
