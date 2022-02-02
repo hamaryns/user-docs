@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T07:45:28.852Z
+date: 2022-02-02T07:50:55.549Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -49,7 +49,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - [-- Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts)Automatisierte Erfassung von neuen und bestehenden Überweisungen
 - [-- Mehrwertsteuer, Brutto und Netto](/de/documentation/admin/finances/value-added-tax)Steuerliches in Foodcoop erfassen und verwalten
 - [-- Pfand](/de/documentation/admin/finances/deposits)Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
-- [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen
+- [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder,  Bestellgruppen, Arbeits- und Nachrichtengruppen, Vergabe von administrativen Berechtigungen
 - [Einstellungen](/de/documentation/admin/settings)Erklärung zu globalen/administrativen Einstellungen der Foodsoft
 - [Begriffserklärungen](/de/documentation/admin/terms-definitions)Definitionen und Bedeutungen von Begriffen in der Foodsoft 
 {.links-list}
