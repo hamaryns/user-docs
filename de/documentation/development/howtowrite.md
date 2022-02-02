@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
 published: true
-date: 2022-02-01T11:26:28.487Z
+date: 2022-02-02T07:28:52.693Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -18,12 +18,18 @@ Du musst dich einmalig im [Forum](forum.foodcoops.at) registrieren. Dann kannst 
 ![wiki-login1.png](/uploads-de/wiki-login1.png)
 
 Anmeldeoption *foodcoops.at*:
+
 ![wiki-login2.png](/uploads-de/wiki-login2.png)
 
 Falls du im Forum gerade nicht angemeldet bist, wirst du zur Anmeldeseite des Forums weitergeleitet.
 
 Einmal angemeldet, solltest du bei jeder Seite rechts unten das Bearbeiten Symbol sehen:
+
 ![wiki-login3.png](/uploads-de/wiki-login3.png)
+
+## Zugang für andere Personen
+
+Bitte wende dich an support@igfoodcoops.at.
 
 # Wiki-JS
 
