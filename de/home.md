@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-01-11T20:08:58.869Z
+date: 2022-02-02T07:37:31.303Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -44,12 +44,11 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - [Bestellungen](/de/documentation/admin/orders)Verwaltung von Bestellungen und Rechnungen
 - [Lager](/de/documentation/admin/storage)Verwalten des Foodcoop-Lagers und Produktinventars
 - [Finanzen](/de/documentation/admin/finances)Überblicksseite zu Finanzfunktionen sowie Verwendung
-- ->Finanzen: [Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen
-- ->Finanzen: [Rechnungen](/de/documentation/admin/finances/invoices)Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
-- ->Finanzen: [Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts)Automatisierte Erfassung von neuen und bestehenden Überweisungen
-- ->Finanzen: [Mehrwertsteuer, Brutto und Netto](/de/documentation/admin/finances/value-added-tax)Steuerliches in Foodcoop erfassen und verwalten
-- ->Finanzen: [Pfand](/de/documentation/admin/finances/deposits)Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
-{.links-list}
+- [-- Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen
+- [-- Rechnungen](/de/documentation/admin/finances/invoices)Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
+- [-- Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts)Automatisierte Erfassung von neuen und bestehenden Überweisungen
+- [-- Mehrwertsteuer, Brutto und Netto](/de/documentation/admin/finances/value-added-tax)Steuerliches in Foodcoop erfassen und verwalten
+- [-- Pfand](/de/documentation/admin/finances/deposits)Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
 - [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen
 - [Einstellungen](/de/documentation/admin/settings)Erklärung zu globalen/administrativen Einstellungen der Foodsoft
 - [Begriffserklärungen](/de/documentation/admin/terms-definitions)Definitionen und Bedeutungen von Begriffen in der Foodsoft 
