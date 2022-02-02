@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
 published: true
-date: 2022-02-02T07:28:52.693Z
+date: 2022-02-02T07:31:09.988Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -40,6 +40,9 @@ Die Funktionsweise des verwendeten Wiki JS ist unter https://docs.requarks.io be
 
 
 # Struktur
+
+
+## Neue Seite anlegen
 
 Neue Seiten anlegen und/oder Inhalte von einer auf die andere Seite verschieben bitte nur in Absprache mit dem aktuellen Kernteam.
 
