@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T07:55:29.730Z
+date: 2022-02-02T07:59:23.870Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -27,7 +27,7 @@ Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es
 ## Foodsoft Anwendung
 
 Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen kennenlernen möchtest, bist du hier richtig. 
-- [Starten und Navigieren](/de/documentation/usage/navigation)Grundlegende Informationen für Benutzerinnen, Aufbau und Navigation in der Foodsoft
+- [Starten und Navigieren](/de/documentation/usage/navigation)Grundlegende Informationen für Benutzerinnen, Navigation in der Foodsoft
 - [Mein Profil & Bestellgruppe](/de/documentation/usage/profile-ordergroup)Erklärung des eigenen Foodsoft-Kontos und -Bestellgruppe, persönliche Einstellungen, Verwendung des Zahlungsreferenzrechners
 - [Bestellen](/de/documentation/usage/order)Überblick und Anleitungen zur Bestellung sowie Abholung
 - [Kommunikation](/de/documentation/usage/communication)Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
