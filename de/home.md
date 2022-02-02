@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T07:43:51.113Z
+date: 2022-02-02T07:45:28.852Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -37,7 +37,7 @@ Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen 
 
 ## Foodsoft Administration
 
-Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann, und wir ihr sie einrichten könnt. Auch im laufenden Betrieb der Foodcoop braucht die Foodsoft  Administratorinnen, die sich im Hintergrund darum kümmern, dass es regelmäßig etwas zu Bestellen gibt, Artikel in der Foodsoft aktuell sind, und auch die Bestellungen abgrechnet werden. 
+Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann, und wir ihr sie einrichten könnt. Auch im laufenden Betrieb der Foodcoop braucht die Foodsoft  Administratorinnen, die sich im Hintergrund darum kümmern, dass es regelmäßig etwas zu Bestellen gibt, Artikel in der Foodsoft aktuell sind, und auch die Bestellungen abgrechnet und die Rechnungen der Lieferantinnen bezahlt werden. 
 
 - [Überblick](/de/documentation/admin/general)Funktionsüberblick und Einsatzmöglichkeiten der Foodsoft
 - [Lieferantinnen, Artikeln und Kategorien](/de/documentation/admin/suppliers)Verwaltung von Lieferantinnen und Artikeln
