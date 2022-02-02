@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T08:01:13.867Z
+date: 2022-02-02T08:02:49.383Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -10,7 +10,7 @@ dateCreated: 2021-03-17T13:41:15.075Z
 
 # Foodsoft Dokumentation
 
-Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/documentation/ressources/videos) zu ausgewählten Funktionen. Sie wird, genauso wie die Foodsoft-Software, von freiwilligen Foodcoop-EnthusiastInnen unentgeltlich in ihrer Freizeit erstellt. 
+Diese schriftiche Dokumentation besteht aus mehreren Teilen. Zusätzlich gibt es ein paar [Erklärungs-Videos](/de/documentation/ressources/videos) zu ausgewählten Funktionen. Sie wird, genauso wie die Foodsoft-Software, von freiwilligen Foodcoop-Enthusiastinnen unentgeltlich in ihrer Freizeit erstellt. 
 
 
 > Obwohl wir uns Mühe geben, wird diese Dokumentation wohl nie perfekt sein. Vieles wurde von den Autorinnen aus der Sicht der Anwendung der Foodsoft in der eigenen Foodcoop und in der Situation in Österreich mit der tollen Unterstützung durch die  [IG Foodcoops](https://foodcoops.at) beschrieben. Wenn dir etwas auffällt, schreib mit der Kommentarfunktion einen Kommentar, wie wir es besser beschreiben könnten! 
