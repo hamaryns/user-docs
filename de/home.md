@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T08:03:25.548Z
+date: 2022-02-02T08:41:33.969Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -52,6 +52,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder,  Bestellgruppen, Arbeits- und Nachrichtengruppen, Vergabe von administrativen Berechtigungen
 - [Einstellungen](/de/documentation/admin/settings)Erklärung zu globalen/administrativen Einstellungen der Foodsoft
 - [Begriffserklärungen](/de/documentation/admin/terms-definitions)Definitionen und Bedeutungen von Begriffen in der Foodsoft 
+- [Häufige Fragen und Probleme](/de/documentation/admin/faq) Antworten und Lösungen für häufige Fragen und Probleme bei administrativen Funktionen
 {.links-list}
 
 
