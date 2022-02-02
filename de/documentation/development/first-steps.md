@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2022-01-10T15:15:35.480Z
+date: 2022-02-02T08:49:28.217Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -42,7 +42,7 @@ Folgende Links führen zu den Github Repositories:
 - Vor dem Download deines Foodsoft Branches *Fetch Upstream > Fetch and Merge* ausführen, um alle Dateien deines Branches auf den aktuellsten Stand zu bringen. Mit veralteten Dateien kann es zu Fehlern bei der Installation kommen.
 - Deinen Branch der Foodsoft herunterladen mit `git clone https://github.com/YOUR_USERNAME/foodsoft.git`; es entsteht im aktuellen Verzeichnis ein Verzeichnis `foodsoft`, das alle benötigten Dateien enthält.
 - Wenn es mit deinem Branch nicht klappt, kannst du auch den Foodsoft-Master als ZIP Datei herunterladen und entpacken. Lokal durchgeführte Änderungen im Code können dann allerdings nicht mehr so einfach auf Github hochgeladen werden.
-- Vor der Installation der Foodsoft (egal ob manuell oder über Docker) in das Verzeichnis wechseln: `cd foodsoft`
+- Vor der Installation der Foodsoft (egal ob manuell oder über Docker) nach dem Download in das Verzeichnis wechseln: `cd foodsoft` bzw. `cd foodsoft-master`
 - Foodsoft starten: 
   - manuelle Installation:  `bundle exec rails s`
   - Docker: `docker-compose -f docker-compose-dev.yml up`
