@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T07:42:14.755Z
+date: 2022-02-02T07:43:51.113Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -32,7 +32,7 @@ Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen 
 - [Bestellen](/de/documentation/usage/order)Überblick und Anleitungen zur Bestellung sowie Abholung
 - [Kommunikation](/de/documentation/usage/communication)Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
 - [Mitmachen](/de/documentation/usage/tasks-cooperate)Beschreibung der Funktionen zur Koordination und transparenten Aufgabenverteilung 
-- [Informationen & Dokumente](/de/documentation/usage/sharedocuments)Funktionen zum Verteilen und gemeinsamen Bearbeiten von Informationen sowie Dokumenten
+- [Informationen & Dokumente](/de/documentation/usage/sharedocuments)Zentrale Ablage und gemeinsames Bearbeiten von Informationen sowie Dokumenten
 {.links-list}
 
 ## Foodsoft Administration
