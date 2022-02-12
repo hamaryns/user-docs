@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2021-11-30T11:58:34.352Z
+date: 2022-02-12T07:48:05.724Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -109,9 +109,21 @@ Das verfügbare Guthaben eines Mitglieds bestimmt, ob das Mitglied noch weitere 
 
 Finanzen \> Konten verwalten
 - Bestellgruppe suchen über Suchfeld, blättern oder Anzahl der dargstellten Einträge erhöhen
-- Bei der entsprechenden Bestellgruppe “Neue Transaktion” anklicken
-- Positiver Betrag: Guthaben erhöht sich, negativer Betrag: Guthaben verringert sich.
-- Cent-Betrag mit Komma oder Punkt als Dezimaltrenner eingeben: 1,25 oder 1.25 möglich.
+- Bei der entsprechenden Bestellgruppe *Neue Transaktion* anklicken
+- **Kontotransaktionstyp**: passenden auswählen, standardmäßig ist der alphabetisch erste ausgewählt.
+- **Betrag**: 
+   - Positiver Betrag: Guthaben erhöht sich, negativer Betrag: Guthaben verringert sich.
+   - Cent-Betrag mit Komma oder Punkt als Dezimaltrenner eingeben: 1,25 oder 1.25 möglich.
+- Notiz: Text eingeben, der die Buchung beschreibt in Ergänzung zum Kontotransaktionstyp.
+
+Beispiele:
+- Guthaben Bestellung: 100 €, manuelle Buchung weil Zahlungsreferenzcode fehlerhaft
+- Zuschuss Fahrtkosten: 10 €, Apfelhof 3.5.
+- Guthaben Bestellung: -10 €, Umwandlung Guthaben Bestellung in Mitgliedsbeitrag
+- Guthaben Mitgliedsbeitrag: 10 €, Umwandlung Guthaben Bestellung in Mitgliedsbeitrag
+
+
+
 
 ## Transaktionen automatisch durchführen
 
