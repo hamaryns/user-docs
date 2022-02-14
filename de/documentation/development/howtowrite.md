@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
 published: true
-date: 2022-02-02T08:14:10.950Z
+date: 2022-02-14T08:58:13.565Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -23,7 +23,7 @@ Anmeldeoption *foodcoops.at*:
 
 Falls du im Forum gerade nicht angemeldet bist, wirst du zur Anmeldeseite des Forums weitergeleitet.
 
-Einmal angemeldet, solltest du bei jeder Seite rechts unten das Bearbeiten Symbol sehen:
+Einmal angemeldet, solltest du bei jeder Seite rechts unten das **Bearbeiten Symbol** sehen:
 
 ![wiki-login3.png](/uploads-de/wiki-login3.png)
 
