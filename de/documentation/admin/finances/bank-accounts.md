@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-02-17T17:49:40.561Z
+date: 2022-02-17T17:53:45.469Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -91,9 +91,10 @@ Weitere Infos zum Zahlunsgreferenzcode:
 - [Transaktionsklassen](/de/documentation/admin/finances/accounts) Was eingerichtet werden muss, damit Zahlunsgreferenzcodes verwendet werden können
 {.links-list}
 
-# Bankkonto einrichten
+# Bankkonto einrichten in der Foodsoft
 
-Das Einrichten eines Bankkontos erfordert die Schritte
+
+Das Einrichten eines Bankkontos in der Foodsoft erfordert die Schritte
 1. Bankproxy anlegen
 1. Bankgateway anlegen
 1. Bankkonto anlegen
