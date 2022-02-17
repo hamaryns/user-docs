@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-01-25T11:40:08.166Z
+date: 2022-02-17T17:49:40.561Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -145,6 +145,15 @@ Mit *Bank account erstellen* wird das Bankkonto in der Foodsoft angelegt.
 > Falls noch nicht geschehen, sollten noch [Transaktionsklassen und -typen](/de/documentation/admin/finances/accounts) eingerichtet werden, um Zahlungsreferencodes verwenden zu können.
 {.is-info}
 
+## Spezialfälle
+
+### Erste Bank
+Falls eure Foodcoop ein Konto bei der ErsteBank hat, gibt es die Möglichkeit, dass die Banktransaktionen von der Foodsoft automatisch im Hintergrund importiert werden können. Das manuelle Importieren mit der Freigabe über die s Identity-App entfällt dadurch.
+
+
+Für die Verwendung von ErsteConnect ist ein gültiges Zertifikat notwendig, das regelmäßig erneuert werden muss. Die Erste hat dazu ein Kooperation mit I.CA, welche die Zertifikate ausstellen.
+
+Detaillierte Anleitung dazu siehe https://forum.foodcoops.at/t/foodsoft-ersteconnect-bankanbindung-einrichten/5965
 
 
 # Bankkontozeilen importieren und weiterverarbeiten
