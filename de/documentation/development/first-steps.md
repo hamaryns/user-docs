@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2022-02-02T08:49:28.217Z
+date: 2022-02-19T22:28:22.977Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -160,6 +160,10 @@ Wo ist im Code was zu finden?
 
 ## API V1
 - https://raw.githubusercontent.com/foodcoops/foodsoft/master/doc/swagger.v1.yml
+
+Query-Strings Beschreibung:
+https://github.com/activerecord-hackery/ransack
+
 
 ## Beispiel-Codes
 
