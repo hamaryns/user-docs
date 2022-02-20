@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-02-20T12:35:20.588Z
+date: 2022-02-20T12:35:50.547Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
