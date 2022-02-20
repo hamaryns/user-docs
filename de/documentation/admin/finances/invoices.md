@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-01-31T08:53:43.695Z
+date: 2022-02-20T12:35:20.588Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -42,11 +42,11 @@ Lieferantin auswählen.
 
 ## Bestellungen und Lieferungen mit Rechnung verknüpfen
 
-In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung(en) und/oder jene Bestellung(en) auswählen, für die die Rechnung ausgestellt wurde. Damit ist klar, ob die Lieferantin für eine Lieferung/Bestellung eine Rechnung ausgestellt hat, und der Rechnungsberag kann mit dem Guthaben, das den Mitgliedern abgebucht wird (bzw. das als Warenwert ins Lager eingegangen ist), verglichen werden. Dies ist die einzige echte Kontrollmöglichkeit, um zu schauen, dass die Foodcoop keinen Verlust, aber auch keinen unerwünschten Gewinn macht - daher ist dieser Schritt sehr wichtig.
+In den Feldern **Lager-Lieferung** und **Bestellung** solltest du jene Lager-Lieferung(en) und/oder jene Bestellung(en) auswählen, für die die Rechnung ausgestellt wurde. Damit ist klar, ob die Lieferantin für eine Lieferung/Bestellung eine Rechnung ausgestellt hat, und der Rechnungsberag kann mit dem Guthaben, das den Mitgliedern abgebucht wird (bzw. das als Warenwert ins Lager eingegangen ist), verglichen werden. Dies ist die einzige echte Kontrollmöglichkeit, um zu schauen, dass die Foodcoop keinen Verlust, aber auch keinen unerwünschten Gewinn macht - daher ist dieser Schritt sehr wichtig.
 
 ![rechnung-bestellung-lieferung.png](/uploads-de/admin_finances_invoices_rechnung-bestellung-lieferung.png =400x)
     
--  **[Lieferung](./Lager)**: **bei Rechnung für eine Bestellung leer lassen**. Wenn für diesen Produzenten [Lagerartikel](./Lager) über die Funktion *Artikel > Lager > neue Lieferung* eingebucht  wurden, die noch keiner Rechnung zugeordnet sind, können diese  hier ausgewählt werden. Mehrere Lieferungen können dabei in  einer gemeinsamen Rechnung ausgewählt werden.
+-  **[Lager-Lieferung](./Lager)**: **bei Rechnung für eine Bestellung leer lassen**. Wenn für diesen Produzenten [Lagerartikel](./Lager) über die Funktion *Artikel > Lager > neue Lieferung* eingebucht  wurden, die noch keiner Rechnung zugeordnet sind, können diese  hier ausgewählt werden. Mehrere Lieferungen können dabei in  einer gemeinsamen Rechnung ausgewählt werden.
 -  **[Bestellung](./Bestellung)**: wenn es für diesen Produzenten abgeschlossene, aber noch nicht abgerechnete Bestellungen gibt, die noch keiner Rechnung zugeordnet sind, können diese hier ausgewählt werden. Mehrere Bestellungen können dabei in einer gemeinsamen  Rechnung ausgewählt werden.
     
 > Angezeigter **Betrag** für Bestellung(en) und Lieferung(en)
@@ -54,17 +54,17 @@ In den Feldern **Lieferung** und **Bestellung** solltest du jene Lager-Lieferung
 {.is-info}
 
     
-> Angezeigtes **Datum** für Bestellung(en) und Lieferung(en) ist jenes, an dem die Bestellung endete (nicht Liefer- oder  Abholdatum\!)
+> Angezeigtes **Datum** für Bestellung(en) und Lager-Lieferung(en) ist jenes, an dem die Bestellung endete (nicht Liefer- oder  Abholdatum\!)
 {.is-info}
 
-> Es können mehrere Bestellungen und/oder Lieferungen ausgewählt werden, wenn dafür von der Lieferantin eine gemeinsame Rechnung gestellt wurde.
+> Es können mehrere Bestellungen und/oder Lager-Lieferungen ausgewählt werden, wenn dafür von der Lieferantin eine gemeinsame Rechnung gestellt wurde.
 {.is-info}
 
-> Es werden **maximal 25** nicht zugeordnete **Bestellungen** bzw. Lieferungen(?) **zur Auswahl** angezeigt. Wenn du ältere Bestellungen nicht in der Auswahlliste siehst, beginne zuerst, Rechnungen für neuere Bestellungen zu erstellen. Sobald diese zugeordnet sind, werden Anzeigeplätze frei und die ältern "rutschen nach".
+> Es werden **maximal 25** nicht zugeordnete **Bestellungen** bzw. Lager-Lieferungen(?) **zur Auswahl** angezeigt. Wenn du ältere Bestellungen nicht in der Auswahlliste siehst, beginne zuerst, Rechnungen für neuere Bestellungen zu erstellen. Sobald diese zugeordnet sind, werden Anzeigeplätze frei und die ältern "rutschen nach".
 {.is-warning}
 
 
-> Eine Bestellung oder Lieferung kann **nur einmal einer Rechnung zugeordnet** werden: Sobald eine Bestellung oder Lieferung einer Rechnung zugeordnet wurde, scheint sie bei anderen Rechnunge nicht mehr zur Auswahl auf. Wenn schon eine Rechnung angelegt und Bestellungen und/oder Lieferungen zugeordnet wurden, daher unbedingt diese suchen (siehe Rechnungsdatum) und bearbeiten, statt sie nochmal neu anzulegen. Falls eine Bestellung oder Lieferung versehentlich einer falschen Rechnung zugeordnet wurde, kann diese Rechnung bearbeitet, und dort die Bestellung oder Lieferung weggenommen werden, dann sollte sie bei der richtigen Rechnung wieder auswählbar sein.
+> Eine Bestellung oder Lager-Lieferung kann **nur einmal einer Rechnung zugeordnet** werden: Sobald eine Bestellung oder Lieferung einer Rechnung zugeordnet wurde, scheint sie bei anderen Rechnunge nicht mehr zur Auswahl auf. Wenn schon eine Rechnung angelegt und Bestellungen und/oder Lager-Lieferungen zugeordnet wurden, daher unbedingt diese suchen (siehe Rechnungsdatum) und bearbeiten, statt sie nochmal neu anzulegen. Falls eine Bestellung oder Lieferung versehentlich einer falschen Rechnung zugeordnet wurde, kann diese Rechnung bearbeitet, und dort die Bestellung oder Lieferung weggenommen werden, dann sollte sie bei der richtigen Rechnung wieder auswählbar sein.
 {.is-warning}
 
 > Auch eine bereits **abgerechnete Bestellung** kann einer Rechnung zugeordnet werden. Empfohlen wird jedoch, zuerst die Rechnung anzulegen, mit der Bestellung zu vergleichen, und dann erst die Bestellung abzurechnen.
