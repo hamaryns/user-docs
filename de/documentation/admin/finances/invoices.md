@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-02-20T12:35:50.547Z
+date: 2022-02-27T13:27:00.815Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -89,6 +89,13 @@ Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Bank�
 
 > Falls auf der Rechnung keine Rechnungsnummer aufscheint, selbst eine (in Bezug auf die Lieferantin) eindeutige Rechnungsnummer erstellen, z.B. aus dem Datum, also z.B. `20210527` oder `2021-05-27` oder `270521` oder `27.5.2021`. Im Gegensatz zum Feld *Rechnungsdatum* ist hier das Datumsformat egal, weil die Rechnungsnummer nur ein Textfeld ist, und die Foodsoft die Eingabe nicht als Datum interpretiert. 
 {.is-info}
+
+> Falls die Lieferantin z.B. bei **Vorauszahlung** einen bestimmten **Verwendungszweck** benötigt, diesen als Rechnungsnummer eintragen. 
+{.is-info}
+
+> Falls sie Zahlung per Lastschrift erfolgt, den Verwendungszweck der Buchung nach erfolger Abbuchung vom Foodcoop-Bankkonto als Rechnungsnummer eingeben, damit die Buchung der Rechnung zugeordnet wird und die Rechnung als bezahlt markiert wird.
+{.is-info}
+
 
 
 
