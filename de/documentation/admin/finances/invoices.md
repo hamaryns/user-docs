@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-02-27T13:27:00.815Z
+date: 2022-02-27T13:28:04.193Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -93,7 +93,7 @@ Rechnungsnummer von Rechnung übernehmen. Die Rechnungsnummer wird bei der Bank�
 > Falls die Lieferantin z.B. bei **Vorauszahlung** einen bestimmten **Verwendungszweck** benötigt, diesen als Rechnungsnummer eintragen. 
 {.is-info}
 
-> Falls sie Zahlung per Lastschrift erfolgt, den Verwendungszweck der Buchung nach erfolger Abbuchung vom Foodcoop-Bankkonto als Rechnungsnummer eingeben, damit die Buchung der Rechnung zugeordnet wird und die Rechnung als bezahlt markiert wird.
+> Falls die Zahlung per **Lastschrift** erfolgt, den Verwendungszweck der Buchung nach erfolger Abbuchung vom Foodcoop-Bankkonto (gegebenenfalls nachträglich) als Rechnungsnummer eingeben, damit die Buchung der Rechnung zugeordnet wird und die Rechnung als bezahlt markiert wird.
 {.is-info}
 
 
