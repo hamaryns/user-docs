@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Foodsoft Installation und Entwicklung
 published: true
-date: 2022-02-19T22:28:22.977Z
+date: 2022-02-27T21:00:58.423Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-01T12:20:11.258Z
@@ -138,6 +138,10 @@ ERROR: Service 'foodsoft' failed to build : The command '/bin/sh -c bundle confi
 Allgemeine Einführungen zum Ruby Framework für Web-Applikationen:
 - https://www.tutorialspoint.com/ruby-on-rails/rails-introduction.htm 
 - Ruby in 20 Minutes: https://www.ruby-lang.org/en/documentation/quickstart/  
+# Verwendete Tools
+
+- **Ransack** enables the creation of both simple and advanced search forms for your Ruby on Rails application: https://github.com/activerecord-hackery/ransack/blob/master/README.md
+- **Simple Form** aims to be as flexible as possible while helping you with powerful components to create your forms: https://github.com/heartcombo/simple_formhttps://github.com/heartcombo/simple_form
 
 # Foodsoft Dateistruktur
 
