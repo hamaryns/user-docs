@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-02-24T22:29:03.149Z
+date: 2022-03-01T08:12:02.336Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -179,7 +179,7 @@ Eine Bestellung endet automatisch, wenn dies vorher so eingestellt wurde (siehe 
 > "Beenden" kann nicht mehr rückgängig gemacht werden. Die Bestellung ist dann gesperrt und kann nicht mehr verändert werden  (keine Veränderung der Bestellung durch Bestellgruppen, keine Änderung des Abholdatums durch Administratorinnen möglich).  
 {.is-warning}
 
-## Beendete Bestellung bearbeiten
+## Beendete Bestellung bearbeiten: Abholdatum nachträglich anpassen
 Eine beendete Bestellung kann mit folgendem Trick bearbeitet werden: 
 1. entsprechende Bestellung anzeigen
 2. in der Browseradresszeile `/edit` hinzufügen
@@ -188,7 +188,11 @@ also z.B.:
 - Browser-URL zum Anzeigen: `https://app.foodcoops.at/franckkistl/orders/4014`
 - Browser-URL zum Bearbeiten: `https://app.foodcoops.at/franckkistl/orders/4014/edit`
 
-Das macht aber eigentlich nur Sinn, um das Abholdatum anzupassen oder nachzutragen.
+Das macht aber eigentlich nur Sinn, um das **Abholdatum anzupassen** oder nachzutragen.
+
+> Das Datum bei *Endet am* einer bereits beendeten Bestellung auf ein Datum in der Zukunft zu setzten, ändert nichts am Status der Bestellung, sie bleibt trotzdem beendet und es kann nichts mehr bestellt werden. 
+{.is-warning}
+
 
 # Bestelllisten für Lieferantinnen
 
