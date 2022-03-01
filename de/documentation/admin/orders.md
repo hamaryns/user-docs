@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-01T09:03:55.150Z
+date: 2022-03-01T12:43:33.109Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -186,9 +186,12 @@ Zusätzlich zu den direkten Bestellungen der Mitglieder kann bei einer Bestellun
 
 # Bestellung beenden
 
-Eine Bestellung endet automatisch, wenn dies vorher so eingestellt wurde (siehe oben), kann aber jederzeit auch manuell (vorzeitig) über "Beenden" beendet werden.
+Eine Bestellung 
+- endet automatisch, wenn dies vorher so eingestellt wurde (siehe oben), 
+- muss manuell beendet werden, wenn keine automatisches Beenden eingestellt wurde (siehe oben),
+- kann unabhängig davon jederzeit manuell (sowohl nach Bestellendedatum, falls noch offen, als auch vorzeitig) über "Beenden" beendet werden.
 
-> "Beenden" kann nicht mehr rückgängig gemacht werden. Die Bestellung ist dann gesperrt und kann nicht mehr verändert werden  (keine Veränderung der Bestellung durch Bestellgruppen, keine Änderung des Abholdatums durch Administratorinnen möglich).  
+> "Beenden" kann nicht mehr rückgängig gemacht werden. Die Bestellung ist dann gesperrt und kann nicht mehr verändert werden  (keine Veränderung der Bestellung durch Bestellgruppen möglich).  
 {.is-warning}
 
 ## Beendete Bestellung bearbeiten: Abholdatum nachträglich anpassen
@@ -266,7 +269,7 @@ Ein Artikel PDF sind die bestellten Artikel nach Artikel zusammengefasst. Diese 
 ## Matrix PDF
 
 Die Matrix Darstellung kombiniert die Gruppen- und Artikeldarstellung in einer einzelnen Matrix (Tabelle), eine Zeile für jeden Artikel und eine Spalte für jede Bestellgruppe, in den Matrixfeldern die jeweils bestellte Anzahl.
-Zusaätzlich zur Matrix gibt es noch eine Liste *Artikelübersicht*.
+Zusätzlich zur Matrix gibt es noch eine Liste *Artikelübersicht*.
 
 ![admin_orders_matrixpdf-2.png](/uploads-de/admin_orders_matrixpdf-2.png){.align-center}
 
@@ -275,7 +278,7 @@ Das Fax PDF ist eine Liste der insgesamt bestellten Artikelmengen, ohne Aufschl�
 ![admin-bestellungen-faxpdf.png](/uploads-de/admin_orders_faxpdf.png)
 
 
-# Bestellungen an Lieferung Anpassen
+# Bestellungen an Lieferung anpassen
 
 Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel nicht mehr oder nur beschränkt verfügbar, werden daher nicht geliefert oder durch andere ersetzt, oder die Lieferantin irrt sich - so können sowohl mehr als auch weniger Artikel als bestellt geliefert werden. Nur wenn ihr die Foodsoft auch zum Abrechnen verwendet, ist es wichtig, die Bestellungen an die tatsächliche Lieferung anzupassen, damit
 - die Rechnung der Lieferantin mit der Bestellsumme in der Foodsoft zusammenstimmt, und
