@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-01T08:42:30.407Z
+date: 2022-03-01T09:03:55.150Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -17,19 +17,31 @@ Eine Bestellung ist immer genau einer [Lieferantin](/de/documentation/admin/supp
 Bestellungen durchlaufen in der Regel folgende Stadien, wobei eine Änderung meist nur vorwärts möglich ist:
 
 1. Bestellung ist noch nicht offen, weil sie erst in der Zukunft startet (optional); sie ist in diese Stadium nur für Administratorinnen sichtbar.
-2. Bestellung ist offen: Bestellgruppen ([Definition Bestellgruppe](/de/documentation/usage/profile-ordergroup), [Administration](/de/documentation/admin/users)) können ihre Bestellungen erstellen und bearbeiten. 
-3. Bestellung ist beendet: Bestellgruppen können ihre Bestellungen nicht mehr bearbeiten, Bestellungen werden an Lieferantinnen geschickt; Bestellung kann nicht mehr wieder geöffnet werden, um von Bestellgruppen bearbeitet zu werden. Nach der Lieferung kann die Bestellung grundsätzlich nur noch mit spezieller Berechtigung  angepasst werden (z.B. wenn nicht alles geliefert wurde, was bestellt wurde)
-4. Bestellung ist abgrechnet: Bestellung kann nicht mehr verändert werden, die Beträge wurden den Bestellgruppen von ihren Foodsoft-Konten endgültig abgebucht.
+2. Bestellung ist **offen (laufende Bestellung)**: Bestellgruppen ([Definition Bestellgruppe](/de/documentation/usage/profile-ordergroup), [Administration](/de/documentation/admin/users)) können ihre Bestellungen erstellen und bearbeiten. 
+3. Bestellung ist **beendet**: Bestellgruppen können ihre Bestellungen nicht mehr bearbeiten, Bestellungen werden an Lieferantinnen geschickt; Bestellung kann nicht mehr wieder geöffnet werden, um von Bestellgruppen bearbeitet zu werden. Nach der Lieferung kann die Bestellung grundsätzlich nur noch mit spezieller Berechtigung  angepasst werden (z.B. wenn nicht alles geliefert wurde, was bestellt wurde)
+3. Bestellung **in Empfang genommen**: Die bestellten Mengen wurden an die tatsächlich gelieferten Mengen angepasst. Dieser Vorgang kann öfters erfolgen, solange die Bestellung noch nicht abgerechnet wurde.
+4. Bestellung ist **abgrechnet**: Bestellung kann nicht mehr verändert werden, die Beträge wurden den Bestellgruppen von ihren Foodsoft-Konten endgültig abgebucht.
 
 Die folgende Skizze stellt diesen Lebenszyklus dar. Der blaue Pfeil in der Mitte deutet die Zeitachse an: 
 ![bestellung.png](/uploads-de/admin_orders_bestellung.png =400x)
+
+Die folgende Tabelle zeigt, was in welchem Stadium der Bestellung geschieht bzw. möglich ist.
+
+Bestellstatus: | laufend (offen)  | beendet | abgerechnet
+--------------|----------|---------|------------
+Mitglieder können ihre Bestellung bearbeiten | ja | -- | -- |
+Admins können Zeitpunkt Bestellende anpassen  | ja | -- | -- |
+Admins können Abholdatum anpassen | ja | (ja) | -- |
+Admins können Bestellungen der Mitglieder anpassen | --  | ja | --
+Mitglieder verfügbares Guthaben verringert | ja | ja | --
+Mitglieder Kontostand verringert | -- | -- | ja
 
 ## Bestellungen abrechnen und Rechnungen anlegen
 
 Beim Bestellen werden die Beträge den Bestellgruppen noch nicht von ihren Konten abgebucht, es verringern sich zunächst nur die verfügbaren Guthaben. Erst beim Abrechnen einer Bestellung werden die Beträge für diese Bestellung den Bestellgruppen von ihren Foodsoft-Konten abgebucht.
 Nur vorher können noch Anpassungen durchgeführt werden, wenn es z.B. bei der Lieferung Abweichungen zur Bestellung gibt. Weiters sollte die Rechnung des Produzenten angelegt und mit der Bestellung verknüpft werden, um vergleichen zu können, ob sich die Geldbeträge von Rechnung und Bestellung decken.
 
-> Achtung auf die Einhaltung der Reihenfolge: sobald eine Bestellung abgerechnet ist, kann sie nicht mehr angepasst werden, und es können keine Rechnungen mehr mit dieser Bestellung verknüpft werden.
+> Achtung auf die Einhaltung der Reihenfolge: sobald eine Bestellung abgerechnet ist, kann sie nicht mehr angepasst werden.
 {.is-warning}
 
 Daher sollte folgende Reihenfolge strikt eingehalten werden:
@@ -43,7 +55,7 @@ Daher sollte folgende Reihenfolge strikt eingehalten werden:
 
 ## Erforderliche Berechtigungen für Bestellverwaltung
 
-- Bestellungen anlegen, bearbeiten, beenden, anpassen, Lieferungen entgegenehmen, Rechnungen anlegen: **Bestellungen**
+- Bestellungen anlegen, bearbeiten, beenden, anpassen, Lieferungen entgegenehmen, Rechnungen anlegen: **Bestellungen**. Benutzerinnen, die nur diese Berechtigung haben, können nur die von ihnen angelegten Bestellungen und Rechnungen bearbeiten.
 - Lagerbestellungen anlegen: **Lieferanten** oder **Artikeldatenbank**
 - Bestellungen abrechnen: **Finanzen**
 
