@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-01T12:43:33.109Z
+date: 2022-03-01T12:49:42.057Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -423,3 +423,15 @@ Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](/de/docu
 1. Abzurechnende Bestellung aus der Liste suchen, in dieser Zeile den Link der Lieferantin oder "abrechnen" anklicken
 1. Bestellung abrechnen
 1. Bestätigen (kein Zurück!)
+
+# Bestellung löschen
+
+Eine Bestellung sollte nur dann geläscht werden, wenn sie versehentlich angelegt wurde und idealerweise noch nichts bestellt wurde. 
+
+> Ist es möglich, eine offene Bestellung zu löschen, bei der schon etwas bestellt wurde?
+{.is-danger}
+
+
+> Wenn eine Bestellung schon beendet ist, die Lieferung aber nicht zustande kommt (z.B. weil die Mindestbestellmenge nicht erreicht wurde), ist es besser, mit Hilfe der Funktion "Lieferung in Empfang nehmen" alle empfangenen Mengen auf Null zu setzten (ein Klick), statt die Bestellung zu löschen. Damit wird den Mitgliedern nichts von ihrem Guthaben abgebucht, es scheint in den Bestelllisten aber "bestellt: X, bekommen: 0" auf, sodass die Bestellung nicht einfach "verschwindet", sondern ersichtlich ist, dass sie nicht zustandegkommen ist.
+{.is-info}
+
