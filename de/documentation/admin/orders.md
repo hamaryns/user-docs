@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-01T08:12:02.336Z
+date: 2022-03-01T08:42:30.407Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -274,17 +274,32 @@ Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel n
 
 ## Bestellungen in Empfang nehmen
 
-Die Funktion "In Empfang nehmen" ist so, dass du bei Artikeln, wo eine Anzahl abweichend von der bestellten geliefert wurde, die tatsächlich gelieferte Anzahl in das leere Feld schreibst. Es können auch Dezimalzahlen mit Punkt eingegeben werden (z.B: 3.5 für dreieinhalb Einheiten), wenn die gelieferte Menge von der bestellten abweicht.
+Die Funktion *In Empfang nehmen* ist so, dass du bei Artikeln, wo eine Anzahl abweichend von der bestellten geliefert wurde, die tatsächlich gelieferte Anzahl in das leere Feld schreibst. 
 
-Wenn die Bestellmenge mit der Liefermenge übereinstimmt, können die entsprechenden Felder frei gelassen werden. Es empfiehlt sich aber dennoch, alle Felder auszufüllen, da dadurch einfach nachvollziehbar ist, ob alle Mengen kontrolliert wurden.
+- Es können auch **Dezimalzahlen** mit Punkt eingegeben werden (z.B: 3.5 für dreieinhalb Einheiten), wenn die gelieferte Menge von der bestellten abweicht.
+- Wenn die Bestellmenge mit der Liefermenge übereinstimmt, können die entsprechenden **Felder frei gelassen** werden. Es empfiehlt sich aber dennoch, alle Felder auszufüllen, da dadurch einfach nachvollziehbar ist, ob alle Mengen kontrolliert wurden.
+- Wenn die Bestellung komplett ausgefallen ist (z.B. weil die Mindestmenge nicht erreicht wurde), kannst du die Funktion *alle auf Null setzen* verwenden.
 
-Wenn die Bestellung komplett ausgefallen ist (z.B. weil die Mindestmenge nicht erreicht wurde), kannst du die Funktion „alle auf Null setzen“ verwenden.
+Dann klickst du auf *Bestellung in Empfang nehmen*.
 
-Dann klickst du auf "Bestellung in Empfang nehmen".
+> Man sieht die bestellten, aber nicht gelieferten Artikel dann nur mehr in der Gruppen-PDF Ansicht.
+{.is-info}
 
-Man sieht die bestellten, aber nicht gelieferten Artikel dann nur mehr in der Gruppen-PDF Ansicht.
 
 ## Mitglieder-Bestellungen anpassen
+
+Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln* kannst du die Aufteilung der gelieferten Artikel auf die Bestellgruppen anpassen. Den Bestellgruppen wird dann nur die tatsächlich erhaltene Menge bei der Abrechnung abgebucht. Falls die Foodsoft nicht zur Abrechnung verwendet wird, kann dieser Schritt entfallen.
+
+![admin_orders_bestellung-anpassen.png](/uploads-de/admin_orders_bestellung-anpassen.png)
+
+Es können auch **Kommazahlen** bei *Bekommen* eingeben werden. 
+- Beispiel oben: 2 Bestellgruppen haben je 2 kg Äpfel bestellt, wobei 1 Bestelleinheit gleich 1 kg ist. Geliefert wurde insgesamt  4,7 statt 4 kg. Lager erhält 2,2 kg und Anton 2,5 kg. 
+
+> Es können hier nur die Mengen für Bestellgruppen verändert werden, die auch etwas bestellt haben. Bestellgruppen, die nichts bestellt haben, scheinen nicht auf. Wenn zum Beispiel zu viel geliefert wird, und eine Bestellgruppe etwas davon übernehmen möchte, die nichts bestellt hat, kann unter *Finanzen > Bestellungen abrechnen* diese  Bestellgruppe hinzugefügt werden. 
+{.is-info}
+
+
+<!-- DIESEN ABSCHNITT NACH FINANZEN > BESTELUNNG ABRECHNEN VERSCHIEBEN! (Mirko)
 
 Der Vorgang „Bestellung abrechnen“ erfolgt in zwei Stufen, die – leider etwas verwirrend – gleich heißen:
 
@@ -298,7 +313,10 @@ Der Vorgang „Bestellung abrechnen“ erfolgt in zwei Stufen, die – leider et
 Unter “Finanzen \> Bestellung abrechnen”: 
 - **Bestellte Anzahl an gelieferte anpassen** (mehr oder weniger Artikel als bestellt wurden geliefert): *Bestellung bearbeiten \> Titel des Artikels anklicken \> Im Aufklappmenü Menge bei den Gruppen entsprechend ändern* ODER *Gruppenansicht \>* Anpassen der gelieferten Menge, wenn diese von der Bestellung abweicht
  - **Neue Bestellgruppe(n) hinzufügen** (es wurde z.B. ein Alternativartikel für nicht gelieferte Produkte geliefert): Bestellung bearbeiten \> Titel des Artikels anklicken \> Im Aufklappmenü “Gruppe hinzufügen”, Anzahl eingeben, bei Bedarf (mehrere Gruppen betroffen) Schritt wiederholen
- - Es können auch **Kommazahlen bei “Anzahl”** eingeben werden, hier allerdings nur mit **Punkt als Dezimaltrennzeichen**. Das kann genützt werden, um Artikel mit schwankendem Gewicht bzw. Preis abzurechnen:
+
+Es können auch **Kommazahlen** bei *Bekommen* eingeben werden. 
+
+Das kann genützt werden, um Artikel mit schwankendem Gewicht bzw. Preis abzurechnen:
 
 > **Beispiel: tatsächliches Gewicht bekannt**:
 >
@@ -320,7 +338,7 @@ Unter “Finanzen \> Bestellung abrechnen”:
 
 > Beispiel aus https://forum.foodcoops.at/t/neue-funktionen-in-der-foodsoft/4847/5 hier übernehmen!
 {.is-danger}
-
+-->
 
 ## Artikeleigenschaften anpassen
 
