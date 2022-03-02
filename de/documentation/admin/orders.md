@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-02T08:15:45.854Z
+date: 2022-03-02T12:22:51.148Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -303,16 +303,22 @@ Dann klickst du auf *Bestellung in Empfang nehmen*.
 
 ## Mitglieder-Bestellungen anpassen
 
-Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln* kannst du die Aufteilung der gelieferten Artikel auf die Bestellgruppen anpassen. Die veränderte Bestellmenge wird in den Bestelllisten berücksichtigt (bestellt: ... bekommen: ...), sofern sie nach der Anpassung erstellt bzw. ausgedruckt werden. Den Bestellgruppen wird dann nur die tatsächlich erhaltene Menge bei der Abrechnung abgebucht.
+Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln* kannst du die Aufteilung der gelieferten Artikel auf die Bestellgruppen anpassen: 
 
 ![admin_orders_bestellung-anpassen.png](/uploads-de/admin_orders_bestellung-anpassen.png)
 
+Die veränderte Bestellmenge wird in den Bestelllisten berücksichtigt (bestellt: ... bekommen: ...), sofern sie nach der Anpassung erstellt bzw. ausgedruckt werden. Den Bestellgruppen wird dann nur die tatsächlich erhaltene Menge bei der Abrechnung abgebucht.
 Es können auch **Kommazahlen** bei *Bekommen* eingeben werden. 
 - Beispiel oben: 2 Bestellgruppen haben je 2 kg Äpfel bestellt, wobei 1 Bestelleinheit gleich 1 kg ist. Geliefert wurde insgesamt  4,7 statt 4 kg. Lager erhält 2,2 kg und Anton 2,5 kg. 
 
 > Die Anpassungen werden erst gespeichert, wenn du auf *in Empfang nehmen* klickst!
 {.is-warning}
 
+Die veränderte Bestellmenge wird in den Bestelllisten berücksichtigt (Bestellt => *Bekommen*, *Preis* entspricht Menge *Bekommen*), sofern sie nach der Anpassung erstellt bzw. ausgedruckt werden:
+
+![admin_orders_bestellung-anpassen-pdf.png](/uploads-de/admin_orders_bestellung-anpassen-pdf.png)
+
+Den Bestellgruppen wird dann nur die tatsächlich erhaltene Menge bei der Abrechnung abgebucht.
 
 > Es können hier nur die Mengen für Bestellgruppen verändert werden, die auch etwas bestellt haben. Bestellgruppen, die nichts bestellt haben, scheinen nicht auf. Wenn zum Beispiel zu viel geliefert wird, und eine Bestellgruppe etwas davon übernehmen möchte, die nichts bestellt hat, kann unter *Finanzen > Bestellungen abrechnen* diese  Bestellgruppe hinzugefügt werden. 
 {.is-info}
