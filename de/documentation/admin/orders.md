@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-02T12:22:51.148Z
+date: 2022-03-02T12:24:32.296Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -307,7 +307,6 @@ Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln*
 
 ![admin_orders_bestellung-anpassen.png](/uploads-de/admin_orders_bestellung-anpassen.png)
 
-Die veränderte Bestellmenge wird in den Bestelllisten berücksichtigt (bestellt: ... bekommen: ...), sofern sie nach der Anpassung erstellt bzw. ausgedruckt werden. Den Bestellgruppen wird dann nur die tatsächlich erhaltene Menge bei der Abrechnung abgebucht.
 Es können auch **Kommazahlen** bei *Bekommen* eingeben werden. 
 - Beispiel oben: 2 Bestellgruppen haben je 2 kg Äpfel bestellt, wobei 1 Bestelleinheit gleich 1 kg ist. Geliefert wurde insgesamt  4,7 statt 4 kg. Lager erhält 2,2 kg und Anton 2,5 kg. 
 
