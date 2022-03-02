@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-02T12:24:32.296Z
+date: 2022-03-02T12:33:20.794Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -317,7 +317,7 @@ Die veränderte Bestellmenge wird in den Bestelllisten berücksichtigt (Bestellt
 
 ![admin_orders_bestellung-anpassen-pdf.png](/uploads-de/admin_orders_bestellung-anpassen-pdf.png)
 
-Den Bestellgruppen wird dann nur die tatsächlich erhaltene Menge bei der Abrechnung abgebucht.
+Den Bestellgruppen wird dann die tatsächlich erhaltene Menge bei der Abrechnung abgebucht.
 
 > Es können hier nur die Mengen für Bestellgruppen verändert werden, die auch etwas bestellt haben. Bestellgruppen, die nichts bestellt haben, scheinen nicht auf. Wenn zum Beispiel zu viel geliefert wird, und eine Bestellgruppe etwas davon übernehmen möchte, die nichts bestellt hat, kann unter *Finanzen > Bestellungen abrechnen* diese  Bestellgruppe hinzugefügt werden. 
 {.is-info}
