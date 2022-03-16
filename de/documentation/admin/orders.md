@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-02T12:33:20.794Z
+date: 2022-03-16T12:25:31.232Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -191,7 +191,10 @@ Eine Bestellung
 - muss manuell beendet werden, wenn keine automatisches Beenden eingestellt wurde (siehe oben),
 - kann unabhängig davon jederzeit manuell (sowohl nach Bestellendedatum, falls noch offen, als auch vorzeitig) über "Beenden" beendet werden.
 
-> "Beenden" kann nicht mehr rückgängig gemacht werden. Die Bestellung ist dann gesperrt und kann nicht mehr verändert werden  (keine Veränderung der Bestellung durch Bestellgruppen möglich).  
+> Die Optionen für *Aktionen beim Bestellende* (siehe oben) wie z.B. die Bestellung per Email an die Lieferantin schicken,  werden nur ausgeführt, wenn die Bestellung automatisch endet. Bei einer vorzeitigen manuellen Beendigung werden sie nicht ausgeführt.
+{.is-info}
+
+> "Beenden" kann nicht mehr rückgängig gemacht werden. Die Bestellung ist dann gesperrt und kann nicht mehr verändert werden (keine Veränderung der Bestellung durch Bestellgruppen möglich). Ein Wiederaufnehmen der Bestellphase ist nicht mehr möglich. 
 {.is-warning}
 
 ## Beendete Bestellung bearbeiten: Abholdatum nachträglich anpassen
