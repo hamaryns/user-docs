@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-03-16T12:34:02.615Z
+date: 2022-03-16T12:35:29.923Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -156,7 +156,7 @@ Mit "Bestellung erstellen" wird die Bestellung gespeichert und kann, solange sie
 # Bestellungen bearbeiten
 
 Beide Arten von Bestellungen (Lieferantin und Lager) können unter **Bestellungen > Bestellverwaltung > Bearbeiten** bearbeitet werden, solange sie noch nicht beendet sind. Es können Beginn und Ende der Bestellung, Endaktion, Notiz und die verfügbaren Artikel bearbeitet werden. 
-Änderungen werden erst überuommen, wenn das Bearbeiten mit *Bestellung aktualisieren* abgeschlosen wird. Wenn Artikel entfernt werden, die schon bestellt wurden, wird eine Warnung ausgegeben, die bestätitgt werden muss. Artikel, die nach dem Erstellen der Bestellung neu hinzugekommen oder verfügbar gemacht wurden, müssen in der Bestellung aktiviert werden, das erfolgt nicht automatisch. 
+Änderungen werden erst übernommen, wenn das Bearbeiten mit *Bestellung aktualisieren* abgeschlosen wird. Wenn Artikel entfernt werden, die schon bestellt wurden, wird eine Warnung ausgegeben, die bestätitgt werden muss. Artikel, die nach dem Erstellen der Bestellung neu hinzugekommen oder verfügbar gemacht wurden, müssen in der Bestellung aktiviert werden, das erfolgt nicht automatisch. 
 
 Wenn Bestellungen beendet sind, können sie nur mehr an die Lieferung angepasst werden ("in Empfang nehmnen") und für eine neue Bestellung kopiert werden, jedoch nicht mehr bearbeitet werden (wie es doch geht, siehe  *Bestellung beenden*).
 
