@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-03-31T06:08:49.899Z
+date: 2022-03-31T06:14:07.307Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -245,7 +245,7 @@ Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres
 
 ## Finanzlinks manuell erstellen oder bearbeiten 
 
-Wenn in einer Buchung kein oder ein [fehlerhafter Zahlungsreferenzcode](/de/documentation/usage/profile-ordergroup) (z.B. Tippfehler, ungültige Modifizierung des Codes durch Mitglied, Überweisung mittels Papier-Zahlschein, ...) vorhanden ist, muss manuell ein Finanzlink erstellt und eine Foodsoft-Kontotransaktion (Aufbuchen des Guthabens auf das entsprechende Foodosoft-Bestellgruppenkonto) erstellt werden. 
+Wenn in einer Buchung kein oder ein [fehlerhafter Zahlungsreferenzcode](/de/documentation/usage/profile-ordergroup) (z.B. Tippfehler, ungültige Modifizierung des Codes durch Mitglied, Überweisung mittels Papier-Zahlschein, neues Mitglied noch ohne Foodsoft-Login, ...) vorhanden ist, muss manuell ein Finanzlink erstellt und eine Foodsoft-Kontotransaktion (Aufbuchen des Guthabens auf das entsprechende Foodosoft-Bestellgruppenkonto) erstellt werden. 
 
 Ebenso kann bei Rechnungen z.B. durch abweichende Rechnungsbeträge, abweichende IBAN oder abweichende Zahlungsreferenz die Zuordnung fehlschlagen, sodass ein Finanzlink manuell erstellt und die Rechnung manuell als bezahlt markiert werden muss. 
 
