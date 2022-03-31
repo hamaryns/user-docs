@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-03-31T09:30:04.941Z
+date: 2022-03-31T09:42:25.222Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -245,7 +245,7 @@ Falls die automatische Zuordnung nicht erfolgreich war, weil eines oder mehreres
 
 ## Finanzlinks manuell erstellen oder bearbeiten 
 
-Wenn in einer Buchung kein oder ein [fehlerhafter Zahlungsreferenzcode](/de/documentation/usage/profile-ordergroup) (z.B. Tippfehler, ungültige Modifizierung des Codes durch Mitglied, Überweisung mittels Papier-Zahlschein, neues Mitglied noch ohne Foodsoft-Login, ...) vorhanden ist, muss manuell ein Finanzlink erstellt und eine Foodsoft-Kontotransaktion (Aufbuchen des Guthabens auf das entsprechende Foodosoft-Bestellgruppenkonto) erstellt werden. 
+Wenn in einer Buchung kein oder ein [fehlerhafter Zahlungsreferenzcode](/de/documentation/usage/profile-ordergroup) (z.B. Tippfehler, ungültige Modifizierung des Codes durch Mitglied, Überweisung mittels Papier-Zahlschein, neues Mitglied noch ohne Foodsoft-Login, ...) vorhanden ist, muss manuell ein Finanzlink erstellt und eine Foodsoft-Kontotransaktion (Aufbuchen des Guthabens auf das entsprechende Foodsoft-Bestellgruppenkonto) erstellt werden. 
 
 Ebenso kann bei Rechnungen z.B. durch abweichende Rechnungsbeträge, abweichende IBAN oder abweichende Zahlungsreferenz die Zuordnung fehlschlagen, sodass ein Finanzlink manuell erstellt und die Rechnung manuell als bezahlt markiert werden muss. 
 
@@ -254,6 +254,8 @@ Außerdem kann ein bestehender Finanzlink auch erweitert werden, um einer Rechnu
 - falls von der Lieferantin im Nachhein eine Gutschrift überweisen wurde 
 
 Folgend Funktionen stehen unter *Finanzen > Bankkonten* in der Spalte *Finanzlink* über die Schaltfläche *Hinzufügen* (oder falls schon ein Link erstellt wurde, über den Link *Anzeigen*) zur Verfügung:
+
+![admin_finances_bank-accounts_neue-kontotransaktion0.png](/uploads-de/admin_finances_bank-accounts_neue-kontotransaktion0.png)
 
 ### Banktransaktion hinzufügen
 
@@ -265,7 +267,7 @@ Aus der Liste der Kontransaktionen eine auswählen. Der Aufbau der Liste kann et
 
 ### Kontotransaktion neu anlegen mit Finanzlink
 
-*Neu Kontotransaktion hinzufügen* (Unterfunktion von *Kontotransaktion hinzufügen*): es wird eine Foodsoft-Kontotransaktion und der Finanzlink dazu erstellt. Das geht wesentlich komfprtabler, als zuerst eine Kontotransaktion zu erstellen, und sie dann im Finanzlink hinzuzufügen. Anwendung z.B. wenn eine Banküberweisung für Guthaben ohne oder mit fehlerhaftem Zahlungsreferenzcode vorliegt.
+*Neu Kontotransaktion hinzufügen* (Unterfunktion von *Kontotransaktion hinzufügen*): es wird eine Foodsoft-Kontotransaktion und der Finanzlink dazu erstellt. Das geht wesentlich komfortabler, als zuerst eine Kontotransaktion zu erstellen, und sie dann im Finanzlink hinzuzufügen. Anwendung z.B. wenn eine Banküberweisung für Guthaben ohne oder mit fehlerhaftem Zahlungsreferenzcode vorliegt.
 
 ![hadmin_finances_bank-accounts_neue-kontotransaktion1.png](/uploads-de/admin_finances_bank-accounts_neue-kontotransaktion1.png)
 
