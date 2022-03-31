@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Überblick und Anleitungen zur Bestellung sowie Abholung
 published: true
-date: 2022-01-12T14:54:44.292Z
+date: 2022-03-31T07:42:06.224Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-02T21:00:01.863Z
@@ -123,25 +123,31 @@ Abgerechnete Bestellungen sind üblicherweise jene, wo die Lieferantin der Foodc
 1. auf die Bestellung der Lieferantin klicken
 1. die Bestellmengen anpassen durch + und - Schaltflächen
 1. die Bestellung speichern
+![usage_order_bestellen2.png](/uploads-de/usage_order_bestellen2.png)
 
 Danach siehst du zusammenfassend eine Übersicht über die Artikel, die du bestellt hast. 
 
-> Solange die Bestellung offen ist (siehe "endet am Datum/Uhrzeit") kannst du die Bestellung beliebig oft bearbeiten, bereits bestelltes wieder herausnehmen, Mengen erhöhen oder verringern, oder Neue hinzufügen. 
+> Solange die Bestellung offen ist (siehe "endet am Datum/Uhrzeit") kannst du die **Bestellung beliebig oft bearbeiten**, bereits bestelltes wieder herausnehmen, Mengen erhöhen oder verringern, oder Neue hinzufügen. 
 {.is-info}
 
-> Die Artikel jeder Lieferantin sind nach Produkt-Kategorien gegliedert. Falls du der Meinung bist, eine feinere Unterteilung in mehr Kategorien wäre übersichtlicher, schlage das in deiner Foodcoop vor.
+> Die Artikel jeder Lieferantin sind nach **Produkt-Kategorien** gegliedert. Falls du der Meinung bist, eine feinere Unterteilung in mehr Kategorien wäre übersichtlicher, schlage das in deiner Foodcoop vor.
 {.is-info}
 
-> Über das Suchfeld kannst du bei umfangreichen Produktlisten oft schneller das gewünschte Produkt finden. Meist reicht es, ein paar Buchstaben einzugeben. Es werden dann nur die Artikel angezeigt, die den Suchtext enthalten.
+> Über das **Suchfeld** kannst du bei umfangreichen Produktlisten oft schneller das gewünschte Produkt finden. Meist reicht es, ein paar Buchstaben einzugeben. Es werden dann nur die Artikel angezeigt, die den Suchtext enthalten.
 {.is-info}
 
-Es können immer nur ganzzahlige Vielfache der Einheit eines Artikels bestellt werden, z.B. 2 x Karotten 500 g =  1000 g. Manche Artikel wie z.B. Krautköpfe werden nach Stück bestellt, variieren aber im Gewicht von Stück zu Stück. Erkundige dich, wie deine Foodcoop damit umgeht!
+> Es können immer nur **ganzzahlige Vielfache der Einheit** eines Artikels bestellt werden, z.B. 2 x Karotten 500 g =  1000 g. Manche Artikel wie z.B. Krautköpfe werden nach Stück bestellt, variieren aber im Gewicht von Stück zu Stück. Erkundige dich, wie deine Foodcoop damit umgeht!
+{.is-info}
+
 
 > Wenn von deiner Foodcoop verwendet, kann so wie im Beispiel eine Bestellung **Lager** dabei sein. Das sind Artikel, die aus dem Lager deiner Foodcoop bestellen kannst. Falls einzelne Artikel nicht bestellbar sind, ist der Lagerstand erschöpft. Es kann auch sein, dass Artikel noch im Lager sind, aber bereits von anderen Foodcoop Mitgliedern bestellt sind.
 {.is-info}
 
 
-> Bestellen über Smartphone: Speichern-Button wieder sichtbar machen durch Deaktivieren des zuletzt aktivierten Artikels; ins Weiße klicken …
+> **Bestellen über Smartphone**: Speichern-Button wieder sichtbar machen durch Deaktivieren des zuletzt aktivierten Artikels; ins Weiße klicken …
+{.is-warning}
+
+> Wenn dein **verfügbares Guthaben** erschöpft ist, kannst du nicht mehr bestellen. Lade rechtzeitig dein Guthaben auf. 
 {.is-warning}
 
 
