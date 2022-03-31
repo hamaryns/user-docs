@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-03-31T06:14:07.307Z
+date: 2022-03-31T09:30:04.941Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -263,15 +263,15 @@ Eine weitere Bankkontobuchung verknüpfen, z.B. wenn eine Rechnung in mehreren T
 
 Aus der Liste der Kontransaktionen eine auswählen. Der Aufbau der Liste kann etwas länger dauern, wenn es in der Foodcoop schon viele Transaktionen gibt. 
 
-### Kontotransaktion neu anlegen mit  Finanzlink
+### Kontotransaktion neu anlegen mit Finanzlink
 
-*Neu Kontotransaktion hinzufügen* (Unterfunktion von *Kontotransaktion hinzufügen*): es wird eine Foodsoft-Kontotransaktion und der Finanzlink dazu erstellt.
+*Neu Kontotransaktion hinzufügen* (Unterfunktion von *Kontotransaktion hinzufügen*): es wird eine Foodsoft-Kontotransaktion und der Finanzlink dazu erstellt. Das geht wesentlich komfprtabler, als zuerst eine Kontotransaktion zu erstellen, und sie dann im Finanzlink hinzuzufügen. Anwendung z.B. wenn eine Banküberweisung für Guthaben ohne oder mit fehlerhaftem Zahlungsreferenzcode vorliegt.
 
-![hadmin_finances_bank-accounts_neue-kontotransaktion1.png](/uploads-de/hadmin_finances_bank-accounts_neue-kontotransaktion1.png)
+![hadmin_finances_bank-accounts_neue-kontotransaktion1.png](/uploads-de/admin_finances_bank-accounts_neue-kontotransaktion1.png)
 
-![hadmin_finances_bank-accounts_neue-kontotransaktion2.png](/uploads-de/hadmin_finances_bank-accounts_neue-kontotransaktion2.png)
+![hadmin_finances_bank-accounts_neue-kontotransaktion2.png](/uploads-de/admin_finances_bank-accounts_neue-kontotransaktion2.png)
 
-Anwendung z.B. wenn kein oder ein fehlerhafter Zahlungsreferenzcode vorliegt. Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags.
+ Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags.
 
 
 ### Rechnung hinzufügen
