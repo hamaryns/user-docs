@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-02-17T17:53:45.469Z
+date: 2022-03-31T06:08:49.899Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -263,7 +263,15 @@ Eine weitere Bankkontobuchung verknüpfen, z.B. wenn eine Rechnung in mehreren T
 
 Aus der Liste der Kontransaktionen eine auswählen. Der Aufbau der Liste kann etwas länger dauern, wenn es in der Foodcoop schon viele Transaktionen gibt. 
 
-***Neu Kontotransaktion hinzufügen*** (Unterfunktion von *Kontotransaktion hinzufügen*): es wird eine Foodsoft-Kontotransaktion und der Finanzlink dazu erstellt. Anwedung z.B. wenn kein oder ein fehlerhafter Zahlungsreferenzcode vorliegt. Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags.
+### Kontotransaktion neu anlegen mit  Finanzlink
+
+*Neu Kontotransaktion hinzufügen* (Unterfunktion von *Kontotransaktion hinzufügen*): es wird eine Foodsoft-Kontotransaktion und der Finanzlink dazu erstellt.
+
+![hadmin_finances_bank-accounts_neue-kontotransaktion1.png](/uploads-de/hadmin_finances_bank-accounts_neue-kontotransaktion1.png)
+
+![hadmin_finances_bank-accounts_neue-kontotransaktion2.png](/uploads-de/hadmin_finances_bank-accounts_neue-kontotransaktion2.png)
+
+Anwendung z.B. wenn kein oder ein fehlerhafter Zahlungsreferenzcode vorliegt. Die Bestellgruppe wird wenn möglich aus dem IBAN vorausgewählt, falls es bereits vorher schonmal eine Zuordnung gab. Es können auch mehrere Transaktionen hintereinander z.B. für verschiedene Transaktionsklassen für Guthaben Bestellungen/Mitgliedsbeitrag erstellt werden, bei jeder weiteren Transaktion erscheint automatisch der noch nicht verbuchte Rest des Überweisungsbetrags.
 
 
 ### Rechnung hinzufügen
