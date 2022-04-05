@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-02-27T13:28:04.193Z
+date: 2022-04-05T05:53:42.088Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -10,6 +10,21 @@ dateCreated: 2021-04-20T23:05:17.349Z
 
 Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu verknüpfen und vergleichen zu können, ob den Bestellgruppen auch genauso viel von ihren Konten abgebucht wird, wie die Rechnung ausmacht. Die Rechnungen der Produzentinnen können dabei in Papierform oder digital als PDF oder JPG vorliegen. Rechnungen scheinen in der Foodsoft zunächst in der Liste der “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt, wenn das [Bankkonto mit der Foodsoft verknüpft](/de/documentation/admin/finances/bank-accounts) ist. Dadurch wird es möglich, dass mehrere Personen in der Foodcoop Rechnungen vorbereiten, und z.B. eine Person mit Bankzugang dadurch weniger Aufwand beim Einzahlen der Rechnungen hat. Gleichzeitig ist in der Foodsoft jederzeit für alle Beteiligten ersichtlich, welche Rechnungen noch zu bezahlen sind.
 Weiters ist eine Funktion in Arbeit, dass Rechnungen aus der Foodsoft heraus bezahlt werden können, indem sich die Foodsoft mit dem Bankkonto verbindet und einen Zahlunsgauftrag anlegt. 
+
+# Erforderliche Berechtigungen
+
+> Diese Beschreibung über Berechtigungen und den damit verbundenen Rechten zur Bearbeitung von Rechnungen basiert auf Beobachtungen und muss noch anhand des Foodsoft Programmcodes oder entsprechenden Tests in der Demoinstanz bestätigt werden.
+{.is-warning}
+
+
+Mit der Berechtigung **Rechnungen** können Benutzerinnen
+- Rechnungen anlegen und 
+- zwar alle Rechnungen sehen, aber nur die selbst angelegten Rechnungen bearbeiten, 
+- solange die zugehörige Bestellung noch nicht abgerechnet ist(?)
+
+Mit der zusätzlichen(?) Berechtigung **Finanzen** können Benutzerinnen
+- alle Rechnungen bearbeiten, egal von wem sie angelegt wurden
+- Rechnungen auch dann noch bearbeiten, wenn die zugehörige Bestellung schon abgerechnet ist.
 
 
 # Rechnung anlegen
