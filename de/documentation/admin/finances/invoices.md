@@ -2,14 +2,22 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-04-05T05:53:42.088Z
+date: 2022-04-05T06:03:50.433Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
 ---
 
-Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen und sie mit den entsprechenden Lieferungen und Bestellungen zu verknüpfen und vergleichen zu können, ob den Bestellgruppen auch genauso viel von ihren Konten abgebucht wird, wie die Rechnung ausmacht. Die Rechnungen der Produzentinnen können dabei in Papierform oder digital als PDF oder JPG vorliegen. Rechnungen scheinen in der Foodsoft zunächst in der Liste der “unbezahlten Rechnungen” auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt, wenn das [Bankkonto mit der Foodsoft verknüpft](/de/documentation/admin/finances/bank-accounts) ist. Dadurch wird es möglich, dass mehrere Personen in der Foodcoop Rechnungen vorbereiten, und z.B. eine Person mit Bankzugang dadurch weniger Aufwand beim Einzahlen der Rechnungen hat. Gleichzeitig ist in der Foodsoft jederzeit für alle Beteiligten ersichtlich, welche Rechnungen noch zu bezahlen sind.
-Weiters ist eine Funktion in Arbeit, dass Rechnungen aus der Foodsoft heraus bezahlt werden können, indem sich die Foodsoft mit dem Bankkonto verbindet und einen Zahlunsgauftrag anlegt. 
+Die Funktion “Rechnung” dient dazu, Rechnungen von Produzentinnen in die Foodsoft zu übertragen (sozusagen eine digitale Kopie der Rechnung anzulegen), und sie mit den entsprechenden Lieferungen und Bestellungen zu verknüpfen. Das ermöglicht es,
+- die Rechnungsdaten in der Foodsoft digital zu sammeln und jederzeit abrufbar zu haben (statt oder zusätzlich zu einem Papierrechnungsordner)
+- vergleichen zu können, ob den Bestellgruppen auch genauso viel von ihren Konten abgebucht wird, wie die Rechnung ausmacht - die einzige Möglichkeit, einer exakten Bilanzierung;
+- die Verarbeitung von Rechnungen aufteilen zu können auf unterschiedliche Personen in die Schritte *Rechnungsdaten eingeben* und *Rechnung bezahlen*.
+
+Die Rechnungen der Produzentinnen können dabei in Papierform oder digital als PDF oder JPG vorliegen. Rechnungen scheinen in der Foodsoft zunächst in der Liste der *unbezahlten Rechnungen* auf, und werden als bezahlt markiert, sobald ein entsprechender Zahlungsausgang am Foodsoft-Bankkonto auftritt, wenn das [Bankkonto mit der Foodsoft verknüpft](/de/documentation/admin/finances/bank-accounts) ist. Dadurch wird es möglich, dass mehrere Personen in der Foodcoop Rechnungen vorbereiten, und z.B. eine Person mit Bankzugang dadurch weniger Aufwand beim Einzahlen der Rechnungen hat. Gleichzeitig ist in der Foodsoft jederzeit für alle Beteiligten (Berechtigung *Finanzen*) ersichtlich, welche Rechnungen noch zu bezahlen sind.
+
+> Weiters ist eine Funktion in der Testphase, dass Rechnungen aus der Foodsoft heraus bezahlt werden können, indem sich die Foodsoft mit dem Bankkonto verbindet und einen Zahlunsgauftrag anlegt. 
+{.is-info}
+
 
 # Erforderliche Berechtigungen
 
