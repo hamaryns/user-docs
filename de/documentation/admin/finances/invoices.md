@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-04-05T06:03:50.433Z
+date: 2022-04-05T06:34:14.621Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -21,18 +21,14 @@ Die Rechnungen der Produzentinnen können dabei in Papierform oder digital als P
 
 # Erforderliche Berechtigungen
 
-> Diese Beschreibung über Berechtigungen und den damit verbundenen Rechten zur Bearbeitung von Rechnungen basiert auf Beobachtungen und muss noch anhand des Foodsoft Programmcodes oder entsprechenden Tests in der Demoinstanz bestätigt werden.
-{.is-warning}
-
-
 Mit der Berechtigung **Rechnungen** können Benutzerinnen
 - Rechnungen anlegen und 
-- zwar alle Rechnungen sehen, aber nur die selbst angelegten Rechnungen bearbeiten, 
-- solange die zugehörige Bestellung noch nicht abgerechnet ist(?)
+- alle Rechnungen sehen, aber 
+- nur die selbst angelegten Rechnungen bearbeiten, solange die Rechnung noch nicht bezahlt ist
 
-Mit der zusätzlichen(?) Berechtigung **Finanzen** können Benutzerinnen
+Mit der Berechtigung **Finanzen** können Benutzerinnen
 - alle Rechnungen bearbeiten, egal von wem sie angelegt wurden
-- Rechnungen auch dann noch bearbeiten, wenn die zugehörige Bestellung schon abgerechnet ist.
+- Rechnungen auch dann noch bearbeiten, wenn sie schon bezahlt ist.
 
 
 # Rechnung anlegen
