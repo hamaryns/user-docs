@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-04-05T06:34:14.621Z
+date: 2022-04-05T09:36:00.178Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -247,6 +247,7 @@ Manche Lieferantinnen ziehen ihre Rechnungsbeträge selbständig vom Foodcoop Ba
 
 # Rechnung anzeigen und bearbeiten
 
+## Rechnung anzeigen
 Um eine bereits angelegte Rechnung anzuzeigen: 
 - *Finanzen \> Rechnungen*: Die Rechnungen sind nach Rechnungsdatum sortiert, beginnend mit aktuellen. Diese Rechnung sollte hier auch dann zu finden sein, wenn die Rechnung schon als bezahlt markiert wurde (= Datum bei "bezahlt am" eingegeben)
 >  Wenn ein falsches Datum in der   Vergangenheit eingegeben wurde, kann es sein, dass die Rechnung sehr  weit hinten zu finden ist. Wie du sie in so einem Fall wieder findest, um das Datum richtig zu stelln, ist im nächsten Abschnitt beschrieben.
@@ -255,7 +256,6 @@ Um eine bereits angelegte Rechnung anzuzeigen:
 
 - *Finanzen \> Übersicht \> unbezahlte Rechnungen*: hier scheint die Rechnung nur dann auf, wenn kein Datum bei “bezahlt am” eingegeben wurde, unabhängig davon, ob die Rechnung auch wirklich bezahlt wurde\!
 
-Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben anzeigen und dann “bearbeiten” auswählen. Zusätzlich gibt es noch die Möglichkeit über *Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung bearbeiten*.
 
 ## Verschollene Rechnung finden und wiederherstellen
 
@@ -268,6 +268,15 @@ Es gibt folgende Möglichkeiten, eine bereits angelegte Rechnung wieder zu finde
 
 > Wenn du die Rechnung gefunden hast, gib bitte das richtige Datum ein und beachte wie oben unter *Rechnung anlegen* beschrieben, dass das Datumsformat richtig ist.
 {.is-info}
+
+## Rechnung bearbeiten
+
+Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben anzeigen und dann “bearbeiten” auswählen. Zusätzlich gibt es noch die Möglichkeit über *Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung bearbeiten*.
+
+> Wenn bereits ein Anhang hochgeladen wurde, ist dieser in der *Bearbeiten*-Ansicht nicht sichtbar, sondern nur in der Anzeige-Ansicht (siehe oben). 
+{.is-warning}
+
+
 
 # Rechnung prüfen
 
