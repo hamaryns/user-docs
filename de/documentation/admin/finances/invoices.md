@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-04-05T12:17:08.158Z
+date: 2022-04-05T12:20:49.889Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -256,6 +256,7 @@ Um eine bereits angelegte Rechnung anzuzeigen:
 
 - *Finanzen \> Übersicht \> unbezahlte Rechnungen*: hier scheint die Rechnung nur dann auf, wenn kein Datum bei “bezahlt am” eingegeben wurde, unabhängig davon, ob die Rechnung auch wirklich bezahlt wurde\!
 
+Die Details zu einer bestimmten Rechnung sind über den Link in der ersten Spalte mit der Rechnungsnummer ersichtlich ("Rechnungs-Ansicht").
 
 ## Verschollene Rechnung finden und wiederherstellen
 
@@ -272,6 +273,10 @@ Es gibt folgende Möglichkeiten, eine bereits angelegte Rechnung wieder zu finde
 ## Rechnung bearbeiten
 
 Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben anzeigen und dann “bearbeiten” auswählen. Zusätzlich gibt es noch die Möglichkeit über *Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung bearbeiten*.
+
+> Benutzerinnen ohne Berechtigung *Finanzen* können nur Rechnungen bearbeiten, die sie selbst angelegt haben, und die noch nicht bezahlt sind.
+{.is-warning}
+
 
 > Wenn bereits ein Anhang hochgeladen wurde, ist dieser in der *Bearbeiten*-Ansicht nicht sichtbar, sondern nur in der Anzeige-Ansicht (siehe oben). Wenn du den Anhang unverändert lassen möchtest, brauchst du hier den Anhang nicht nochmal hochladen. Nur wenn du den bereits hochgeladenen Anhang durch einen anderen ersetzen möchtest, wähle hier den neuen Anhang aus.
 {.is-warning}
