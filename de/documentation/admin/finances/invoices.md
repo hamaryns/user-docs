@@ -2,7 +2,7 @@
 title: Rechnungen
 description: Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und Bezahlstatus
 published: true
-date: 2022-04-05T09:36:00.178Z
+date: 2022-04-05T12:17:08.158Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:05:17.349Z
@@ -273,7 +273,7 @@ Es gibt folgende Möglichkeiten, eine bereits angelegte Rechnung wieder zu finde
 
 Um eine bereits angelegte Rechnung zu bearbeiten: zunächst wie oben beschrieben anzeigen und dann “bearbeiten” auswählen. Zusätzlich gibt es noch die Möglichkeit über *Finanzen \> Bestellungen abrechnen \> Bestellung auswählen \> Rechnung bearbeiten*.
 
-> Wenn bereits ein Anhang hochgeladen wurde, ist dieser in der *Bearbeiten*-Ansicht nicht sichtbar, sondern nur in der Anzeige-Ansicht (siehe oben). 
+> Wenn bereits ein Anhang hochgeladen wurde, ist dieser in der *Bearbeiten*-Ansicht nicht sichtbar, sondern nur in der Anzeige-Ansicht (siehe oben). Wenn du den Anhang unverändert lassen möchtest, brauchst du hier den Anhang nicht nochmal hochladen. Nur wenn du den bereits hochgeladenen Anhang durch einen anderen ersetzen möchtest, wähle hier den neuen Anhang aus.
 {.is-warning}
 
 
