@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-04-28T10:23:16.973Z
+date: 2022-04-28T10:26:02.453Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -395,6 +395,9 @@ Nur wenn Artikel mit veränderten Eigenschaften in der Artikelliste der Lieferan
 
 
 ## Transportkosten hinzufügen
+
+> Für diese Funktion ist die Berechtigung *Finanzen* erforderlich!
+{.is-warning}
 
 Manche ProduzentInnen verrechnen pro Lieferung Transportkosten, manchmal auch abhängig von der Bestellsumme. So können die tatsächlich angefallenen Transportkosten für jede Bestellung im Nachhinein gerecht auf alle Bestellgruppen aufgeteilt werden:
 
