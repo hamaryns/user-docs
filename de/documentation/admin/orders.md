@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-04-28T10:19:42.407Z
+date: 2022-04-28T10:23:16.973Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -308,8 +308,8 @@ Dann klickst du auf *Bestellung in Empfang nehmen*.
 ## Lagerbestellung
 
 Wenn bei einer Bestellung auch für das Lager etwas mit bestellt wurde (siehe oben: *Lagerbestellung bei Lieferantin*):
-1. Eine Lager Lieferung für die entsprechenden Artikel anlegen
-1. Die ins Lager gelieferten Artikel aus der Bestellung herausnehmen: sowohl Gesamtzahl über *Lieferung in Empfang nehmen*, als auch die *Lagerbestellung* bei Bestellung abrechnen (siehe *Mitglieder-Bestellungen anpassen*). 
+1. Eine [Lager Lieferung](/de/documentation/admin/storage) für die entsprechenden Artikel anlegen
+1. Die ins Lager gelieferten Artikel aus der Bestellung herausnehmen: sowohl Gesamtzahl über *Bestellung in Empfang nehmen*, als auch die *Lagerbestellung* (siehe *Mitglieder-Bestellungen anpassen*). 
 > Die Lagerlieferung würde in der Rechnungsbilanz sonst doppelt berücksichtigt, einmal im Bestellwert (obwohl die Lagerbestellung beim Abrechnen niemandem abgebucht wird), und einmal in der Lager-Lieferung. Das müsste nicht sein, wenn die Foodsooft den Wert der Lagerbestellung bei der Berechnung der Bestellsumme ausschließen würde. **Issue auf Github anlegen, oder besser: Foodsoft Pull Request erstellen!**
 {.is-danger}
 
@@ -319,8 +319,7 @@ Wenn bei einer Bestellung auch für das Lager etwas mit bestellt wurde (siehe ob
 > Für diese Funktion ist die Berechtigung *Finanzen* erforderlich!
 {.is-warning}
 
-
-Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln* kannst du die Aufteilung der gelieferten Artikel auf die Bestellgruppen anpassen: 
+Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln* oder unter *Finanzen > Bestellungen abrechnen* kannst du die Aufteilung der gelieferten Artikel auf die Bestellgruppen anpassen: 
 
 ![admin_orders_bestellung-anpassen.png](/uploads-de/admin_orders_bestellung-anpassen.png)
 
