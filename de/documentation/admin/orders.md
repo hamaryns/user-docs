@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-04-28T10:26:02.453Z
+date: 2022-05-01T20:35:48.502Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -334,6 +334,15 @@ Die veränderte Bestellmenge wird in den Bestelllisten berücksichtigt (Bestellt
 ![admin_orders_bestellung-anpassen-pdf.png](/uploads-de/admin_orders_bestellung-anpassen-pdf.png)
 
 Den Bestellgruppen wird dann die tatsächlich erhaltene Menge bei der Abrechnung abgebucht.
+
+Es können hier nur Umverteilungen eingegeben werden, das heißt es muss die folgende Reihenfolge eingehalten werden:
+1. *Bestellung in Empfang nehmen*, dort die gesamt erhaltene Menge pro Artikel eingegeben werden
+2. Aufteilung auf die Bestellgruppen anpassen. Die vorher eingestellte gesamt Menge muss dabei erhalten bleiben.
+> Die Funktion *in Empfang nehmen* überschreibt eventuelle vorher eingegebene Umverteilungen von Artikel merken auf die Bestellgruppen mit den ursprünglich bestellen Mengen. Die gesamt empfangene Menge kann nach einer Umverteilung auf die Bestellgruppen nur mehr über *Finanzen > Bestellungen abrechnen > Artikel bearbeiten* angepasst werden.
+{.is-warning}
+
+
+
 
 > Es können hier nur die Mengen für Bestellgruppen verändert werden, die auch etwas bestellt haben. Bestellgruppen, die nichts bestellt haben, scheinen nicht auf. Wenn zum Beispiel zu viel geliefert wird, und eine Bestellgruppe etwas davon übernehmen möchte, die nichts bestellt hat, kann unter *Finanzen > Bestellungen abrechnen* diese  Bestellgruppe hinzugefügt werden. 
 {.is-info}
