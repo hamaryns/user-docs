@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-05-02T06:14:01.209Z
+date: 2022-05-02T06:39:49.048Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -464,12 +464,44 @@ Die Bestellung sollte erst abgerechnet werden, wenn auch die [Rechnung](/de/docu
 > In der .at-Testinstanz [foodsoft-demo](/de/documentation/admin/foodsoft-demo) ist möglich, auch nach abgerechneter Bestellung noch eine  Rechnung dazu anzulegen (2.10.2021 Mirko)
 {.is-success}
 
+Die Foodsoft-Funktion  „Bestellung abrechnen“ erfolgt in zwei Stufen, die – leider etwas verwirrend – gleich heißen:
 
-## Eine Bestellung abrechnen
+1. **Bestellung zur Abrechnung vorbereiten**: Anpassung der Bestellung durchführen (tatsächlich erhaltene Artikelzahlen, gegenüber Bestellung abweichende Verteilung an Bestellgruppen, geänderte Artikelpreise, Transportkosten hinzufügen, ...) 
+2. **Bestellung endgültig abrechnen**: Auf der Seite von Schritt 1 gibt es nochmals die Schattfläche *Bestellung abrechnen*, mit der die Bestellung dann endgültig abgerechnet wird. Damit werden den Bestellgruppen die entsprechenden Beträge von ihrem Guthaben endgültig abgezogen, die Bestellung kann nicht mehr verändert werden. 
 
-1. Menü Finanzen > Bestellungen abrechnen
+## Bestellung zur Abrechnung vorbereiten
+
+In der Liste *Finanzen > Bestellung abrechnen* bei der entsprechenden Bestellung auf *abrechnen* oder den Datumslink klicken. In diesem Schritt bereitest du die Bestellung zur Abrechnung vor, indem du  noch Änderungen an der     Bestellung vornehmen kannst. Alle Änderungen an der Bestellung werden automatisch gespeichert (keine *Abbrechen* Funktion!), es wird aber das Guthaben der Bestellgruppen noch nicht belastet. Du kannst auch öfters zurückkehren und weitere Änderungen vornehmen, solange du nicht den 2. Schritt *Bestellung (endgültig) abrechnen* ausgeführt hast.
+
+Es wird zunächst nur eine Liste aller bestellten Artikel angeiegt und die gesamten Kosten der Artikel. Wenn du auf den Namen eines Artikels klickst, erscheinen bzw. verschwindet eine Liste der Bestellgruppen, die diesen Artikel bestellt haben, mit der jeweiligen Artikelanzahl *Bekommen*. In der ersten Zeile findest du eine Schaltfläche *Gruppe hinzufügen*, falls eine Bestellgruppe etwas erhalen hat, ohne etwas bestellt zu haben.
+
+Die *Bekommen* Anzahl kannst du verändern über die +/- Tasten, oder indem du eine Zahl eingibst. Es können auch **Kommazahlen** bei *Bekommen* eingeben werden. Das kann genützt werden, um Artikel mit schwankendem Gewicht bzw. Preis abzurechnen:
+
+> **Beispiel: tatsächliches Gewicht bekannt**:
+>
+>Bestellt werden 2 Stück Krautkopf, in der Foodsofthinterlegt zu je 3,00 € für 2 kg/Stück und 1,50 € pro kg, also gesamt 6,00 €. Bekommen und mit der Waage abgewogen: 1,8 kg und 2,5 kg = gesamt 4,3 kg
+> - Umrechnung in Stück: 4,3 kg / 2 kg pro Stück = 2,15 Stück
+> - Preis wird automatisch zu 2,15 \* 3,00 € = 6,45 € berechnet
+
+
+> **Beispiel: tatsächliche Kosten bekannt** 
+>
+> Bestellt werden 2 Stück Käse, in der Foodsoft hinterlegt zu je 10,00 € für 500 g/Stück und 20 € pro kg, also gesamt 20,00 €
+> - Bekommen: laut Etiketten kosten die Käse 9,50 € und 9,10 € = gesamt 18,60 €
+> - Umrechnung in Stück: 18,60 € / 10 € pro Stück = 1,86 Stück
+> - Preis wird automatisch zu 1,86 * 10,00 € = 18,60 € berechnet
+
+
+> Wenn sich durch die Anpassung der Aufteilung eines Artikels die Gesamtzahl ändert, muss zusätzlich entweder vor den Anpassungen über *Bestellungen > Bestellverwaltung > Bestellung in Empfang nehmen* die Gesamtmenge angepasst werden, oder im Nachhinein über *Artikel Bearbeiten* in der Abrechnungsansicht, damit die Abrechnung stimmt.
+{.is-warning}
+
+
+
+## Bestellung endgültig abrechnen
+
+1. Menü *Finanzen > Bestellungen abrechnen*
 1. Abzurechnende Bestellung aus der Liste suchen, in dieser Zeile den Link der Lieferantin oder "abrechnen" anklicken
-1. Bestellung abrechnen
+1. *Bestellung abrechnen*
 1. Bestätigen (kein Zurück!)
 
 # Bestellung löschen
