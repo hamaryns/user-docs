@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-05-01T20:35:48.502Z
+date: 2022-05-02T06:14:01.209Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -284,12 +284,23 @@ Das Fax PDF ist eine Liste der insgesamt bestellten Artikelmengen, ohne Aufschl�
 
 # Bestellungen an Lieferung anpassen
 
-Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel nicht mehr oder nur beschränkt verfügbar, werden daher nicht geliefert oder durch andere ersetzt, oder die Lieferantin irrt sich - so können sowohl mehr als auch weniger Artikel als bestellt geliefert werden. Nur wenn ihr die Foodsoft auch zum Abrechnen verwendet, ist es wichtig, die Bestellungen an die tatsächliche Lieferung anzupassen, damit
+Nicht immer wird genau das geliefert, was bestellt wird. Manchmal sind Artikel nicht mehr oder nur beschränkt verfügbar, werden daher nicht geliefert oder durch andere ersetzt, oder die Lieferantin irrt sich - so können sowohl mehr als auch weniger Artikel als bestellt geliefert werden.
+> Wenn ihr die Foodsoft nicht zum Abrechnen verwendet, könnt ihr diesen Schritt überspringen, und die Bestellung sofort abrechnen. Dieser Schritt ist wichtig, damit Bestellungen als abgeschlossen gelten und von der Foodsoft auch also solche (nicht mehr) dargestellt werden können. Auch wenn ihr euch zu einem späteren Zeitpunkt entscheidet, die Foodsoft doch für die Abrechnung zu verwenden, habt ihr dann einen sauberen Umstieg - sonst müsstet ihr nachträglich alle bisherigen Bestellungen abrechnen.
+{.is-info}
+
+Nur wenn ihr die Foodsoft auch zum Abrechnen verwendet, ist es wichtig, die Bestellungen an die tatsächliche Lieferung anzupassen, damit
 - die Rechnung der Lieferantin mit der Bestellsumme in der Foodsoft zusammenstimmt, und
 - den Mitgliedern  Beträge von ihrem Guthaben abgebucht werden, die dem entsprechen, was sie tatsächlich bekommen haben.
 
-> Wenn ihr die Foodsoft nicht zum Abrechnen verwendet, könnt ihr diesen Schritt überspringen, und die Bestellung sofort abrechnen. Dieser Schritt ist wichtig, damit Bestellungen als abgeschlossen gelten und von der Foodsoft auch also solche (nicht mehr) dargestellt werden können. Auch wenn ihr euch zu einem späteren Zeitpunkt entscheidet, die Foodsoft doch für die Abrechnung zu verwenden, habt ihr dann einen sauberen Umstieg - sonst müsstet ihr nachträglich alle bisherigen Bestellungen abrechnen.
-{.is-info}
+> Beim Beenden einer Bestellung wird für jeden Artikel jeweils die Summe der von den Bestellgruppen bestellten Artikelzahlen gebildet und als separater Wert in der Foodsoft gespeichert, damit sie z.B. an die Lieferantin übermittelt werden kann. Von diesem Zeitpunkt an wird diese gesamte Anzahl eines Artikel nicht mehr automatisch an die einzelnen Anzahlen der von den Bestellgruppen bestellten Artikelzahl angepasst und umgekehrt! 
+{.is-warning}
+
+Für die im folgenden beschriebenen Anpassungen ist es daher oft nötig, sowohl die gesamte Anzahl anzupassen (*in Empfang nehmen*), als auch die Anzahlen der Bestellgruppen anzupassen, und darauf zu achten, dass die gesamte Anzahl immer der Summe der einzelnen Bestellgruppen entspricht, weil
+- die **gesamte Artikelzahl** für die Berechnung des Bestell-Geldwerts herangezogen wird, der z.B. bei der Rechnung aufscheint und mit der Rechnungssumme übereinstimmen sollte, und
+- die **Artikelzahlen der einzelnen Bestellgruppen** beim Abrechnen für die Berechnung der Abbuchungsbeträge von den Foodsoft-Konten der Bestellgruppen herangezogen werden.
+
+Eine Abweichung von Gesamtzahl und Summe aus den Einzelbestellungen wird durch ein rotes Rufzeichen angezeigt.
+
 
 ## Bestellungen in Empfang nehmen
 
@@ -338,10 +349,8 @@ Den Bestellgruppen wird dann die tatsächlich erhaltene Menge bei der Abrechnung
 Es können hier nur Umverteilungen eingegeben werden, das heißt es muss die folgende Reihenfolge eingehalten werden:
 1. *Bestellung in Empfang nehmen*, dort die gesamt erhaltene Menge pro Artikel eingegeben werden
 2. Aufteilung auf die Bestellgruppen anpassen. Die vorher eingestellte gesamt Menge muss dabei erhalten bleiben.
-> Die Funktion *in Empfang nehmen* überschreibt eventuelle vorher eingegebene Umverteilungen von Artikel merken auf die Bestellgruppen mit den ursprünglich bestellen Mengen. Die gesamt empfangene Menge kann nach einer Umverteilung auf die Bestellgruppen nur mehr über *Finanzen > Bestellungen abrechnen > Artikel bearbeiten* angepasst werden.
+> Die Funktion *in Empfang nehmen* überschreibt eventuelle vorher eingegebene Umverteilungen von Artikeln auf die Bestellgruppen mit den ursprünglich bestellen Mengen. Die gesamt empfangene Menge kann nach einer Umverteilung auf die Bestellgruppen nur mehr über *Finanzen > Bestellungen abrechnen > Artikel bearbeiten* angepasst werden.
 {.is-warning}
-
-
 
 
 > Es können hier nur die Mengen für Bestellgruppen verändert werden, die auch etwas bestellt haben. Bestellgruppen, die nichts bestellt haben, scheinen nicht auf. Wenn zum Beispiel zu viel geliefert wird, und eine Bestellgruppe etwas davon übernehmen möchte, die nichts bestellt hat, kann unter *Finanzen > Bestellungen abrechnen* diese  Bestellgruppe hinzugefügt werden. 
