@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-05-29T13:22:51.588Z
+date: 2022-05-29T13:33:23.939Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -155,7 +155,14 @@ Mit "Bestellung erstellen" wird die Bestellung gespeichert und kann, solange sie
 
 # Bestellungen bearbeiten
 
-Beide Arten von Bestellungen (Lieferantin und Lager) können unter **Bestellungen > Bestellverwaltung > Bearbeiten** bearbeitet werden, solange sie noch nicht beendet sind. Es können Beginn und Ende der Bestellung, Endaktion, Notiz und die verfügbaren Artikel bearbeitet werden. 
+Bestellungen können, solange sie noch nicht beendet sind,  wahlweise über folgende Wege bearbeitet werden:
+- *Bestellungen > Bestellverwaltung > Bestellung > Bearbeiten* (Bestellungen Lieferantin und Lager) 
+- *Bestellungen > Bestellverwaltung > Bestellung > Anzeigen > Bearbeiten* (Bestellungen Lieferantin und Lager) 
+- *Artikel > Lieferantin > Letzte Bestellungen > Bestelldatum > Bearbeiten* (nur die letzten 10 Bestellungen der Liferantin)
+
+
+
+Es können Beginn und Ende der Bestellung, Endaktion, Notiz und die verfügbaren Artikel bearbeitet werden. 
 Änderungen werden erst übernommen, wenn das Bearbeiten mit *Bestellung aktualisieren* abgeschlosen wird. Wenn Artikel entfernt werden, die schon bestellt wurden, wird eine Warnung ausgegeben, die bestätitgt werden muss. Artikel, die nach dem Erstellen der Bestellung neu hinzugekommen oder verfügbar gemacht wurden, müssen in der Bestellung aktiviert werden, das erfolgt nicht automatisch. 
 
 Wenn Bestellungen beendet sind, können sie nur mehr an die Lieferung angepasst werden ("in Empfang nehmnen") und für eine neue Bestellung kopiert werden, jedoch nicht mehr bearbeitet werden (wie es doch geht, siehe  *Bestellung beenden*).
@@ -170,9 +177,9 @@ Wenn Bestellungen beendet sind, können sie nur mehr an die Lieferung angepasst 
 ## Überblick Bestellungen
 
 ### Alle Bestellungen
-Beide Arten von Bestellungen (Lieferantin und Lager) können unter **Bestellungen > Bestellverwaltung > Anzeigen** angezeigt werden. Die Anzeige ergolgt in einer chronologischen Liste, sortiert nach dem Datum des Bestellendes, neueste Bestellungen zuerst, in folgende Teilabschnitte gegliedert:
+Beide Arten von Bestellungen (Lieferantin und Lager) können unter *Bestellungen > Bestellverwaltung > Anzeigen* angezeigt werden. Die Anzeige ergolgt in einer chronologischen Liste, sortiert nach dem Datum des Bestellendes, neueste Bestellungen zuerst, in folgende Teilabschnitte gegliedert:
 
-- laufend
+- laufend (auch wenn das Beginndatum in der Zukunft liegt, und die Bestellung noch nicht allgemein sichtbar ist)
 - beendet
 - abgrechnet
 
