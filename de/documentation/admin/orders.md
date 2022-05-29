@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-05-29T13:18:52.799Z
+date: 2022-05-29T13:22:51.588Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -12,7 +12,7 @@ dateCreated: 2021-04-20T22:03:00.312Z
 
 ## Lebenszyklus von Bestellungen
 
-Eine Bestellung ist immer genau einer [Lieferantin](/de/documentation/admin/suppliers) zugeordnet. Es können gleichzeitig beliebig viele Bestellungen aktiv sein, von verschiedenen aber auch von der selben Lieferantin. 
+Eine Bestellung ist immer genau einer [Lieferantin](/de/documentation/admin/suppliers) zugeordnet. Es können gleichzeitig beliebig viele Bestellungen aktiv sein, von verschiedenen aber auch von der selben Lieferantin. Letzteres macht beispielsweise Sinn, wenn bei einer Lieferantin Artikel mit unterschiedlichen Lieferzeitpunkten bestellt werden: hier kann für jedes Abholdatum eine eigene Bestellung mit den jeweilgen Artikeln angelegt werden, die aber gleichzeitig als offene Bestellung laufen und damit gleichzeitig bestellt werden können. 
 
 Bestellungen durchlaufen in der Regel folgende Stadien, wobei eine Änderung meist nur vorwärts möglich ist:
 
