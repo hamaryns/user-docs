@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-05-02T06:39:49.048Z
+date: 2022-05-29T13:15:28.274Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -167,18 +167,34 @@ Wenn Bestellungen beendet sind, können sie nur mehr an die Lieferung angepasst 
 
 # Bestellungen anzeigen
 
-Beide Arten von Bestellungen (Lieferantin und Lager) können unter **Bestellungen > Bestellverwaltung > Anzeigen** angezeigt werden. Dabei wird der aktuelle Status der Bestellung angezeigt, also welche und wieviele Artikel von den Foodcoop Mitgliedern bisher bestellt wurden. 
+## Überblick Bestellungen
 
-## Standardansicht: Artikelübersicht
+### Alle Bestellungen
+Beide Arten von Bestellungen (Lieferantin und Lager) können unter **Bestellungen > Bestellverwaltung > Anzeigen** angezeigt werden. Die Anzeige ergolgt in einer chronologischen Liste, sortiert nach dem Datum des Bestellendes, neueste Bestellungen zuerst, in folgende Teilabschnitte gegliedert:
+
+- laufend
+- beendet
+- abgrechnet
+
+Für die Anzeige der Details einer Bestellunge gibt es jeweils die Schaltfläche *Anzeigen*.
+
+### Bestellungen einer Lieferantin
+Die letzten 10 Bestellungen einer Lieferantin können unter *Artikel > Lieferantin > Letzte Bestellungen* angezeigt werden. Pro Bestellung gibt es folgende Links:
+- **Datum** (läuft von) führt zur Detailansicht der Bestellung
+- **Status** führt zur entsprechenden Seite *Finanzen > Bestellungen abrechnen* der jeweiligen Bestellung (Zugriffsberechtigung *Finanzen* erforderlich!), siehe *Bestellungen anpassen* und *Bestellungen abrechnen* 
+
+## Detailansicht Bestellungen
+
+### Standardansicht: Artikelübersicht
 Komplette Artikelliste der Lieferantin wird angezeigt, nicht bestellte Artikel grau, bestellte Artikel grün mit der gesamten Anzahl bestellter Einheiten
 
-## Sortiert nach Gruppen
+### Sortiert nach Gruppen
 Überschrift für jede Bestellgruppe, die etwas bestellt haben, darunter die bestellten Artikel der Bestellgruppe.
 
-## Sortiert nach Artikeln
+### Sortiert nach Artikeln
 Überschrift für jeden Artikel (sofern mindestens 1 Einheit bestellt wurde), darunter die Bestellgruppen und die von ihnen jeweils bestellten Einheiten.
 
-## Lagerbestellung bei Lieferantin
+### Lagerbestellung bei Lieferantin
 
 Zusätzlich zu den direkten Bestellungen der Mitglieder kann bei einer Bestellung bei der Lieferantin eine Lagerbestellung (Foodcoop bestellt bei Lieferant um Lagerbestand aufzufüllen) hinzugefügt werden, solange die Bestellung noch offen ist. Diese Artikel scheinen dann in der Bestellliste, die an den Lieferanten geht, auch auf, nicht aber in der Abrechnung und bei “Bestellung annehmen”(?). Wenn die Artikel geliefert sind, ist fürs Lager nochmal extra eine Lieferung für diese Artikel anzulegen, damit sie in den Lagerbestand aufgenommen werden. Für die Rechnung sind dann sowohl Bestellung und (Lager-)Lieferung anzugeben.
 
