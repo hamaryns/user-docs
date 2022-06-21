@@ -2,7 +2,7 @@
 title: Bestellungen
 description: Verwaltung von Bestellungen und Rechnungen (Foodsoft-Menü: "Bestellungen" > "Bestellverwaltung" und "Abholtage" ; "Finanzen" > "Bestellungen abrechnen")
 published: true
-date: 2022-05-29T13:33:23.939Z
+date: 2022-06-21T11:27:18.882Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T22:03:00.312Z
@@ -353,15 +353,25 @@ Wenn bei einer Bestellung auch für das Lager etwas mit bestellt wurde (siehe ob
 > Für diese Funktion ist die Berechtigung *Finanzen* erforderlich!
 {.is-warning}
 
-Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln* oder unter *Finanzen > Bestellungen abrechnen* kannst du die Aufteilung der gelieferten Artikel auf die Bestellgruppen anpassen: 
+Unter *Bestellverwaltung > Beendet > Anzeigen >  Sortiert nach Gruppen/Artikeln* oder unter *Finanzen > Bestellungen abrechnen* kannst du die Aufteilung der gelieferten Artikel auf die Bestellgruppen anpassen.
+In der Bestellverwaltung:
 
 ![admin_orders_bestellung-anpassen.png](/uploads-de/admin_orders_bestellung-anpassen.png)
 
 Es können auch **Kommazahlen** bei *Bekommen* eingeben werden. 
 - Beispiel oben: 2 Bestellgruppen haben je 2 kg Äpfel bestellt, wobei 1 Bestelleinheit gleich 1 kg ist. Geliefert wurde insgesamt  4,7 statt 4 kg. Lager erhält 2,2 kg und Anton 2,5 kg. 
 
+> Die Beträge müssen immer mit Dezimalpunkt statt -komma eingegeben werden, auch wenn sie daraufhin mit Dezimalkomma angezeigt werden.
+{.is-warning}
+
 > Die Anpassungen werden erst gespeichert, wenn du auf *in Empfang nehmen* klickst!
 {.is-warning}
+
+Im Abrechnungsmenü sieht es folgendermaßen aus:
+
+![abrechnung.png](/uploads-de/abrechnung.png)
+
+
 
 Die veränderte Bestellmenge wird in den Bestelllisten berücksichtigt (Bestellt => *Bekommen*, *Preis* entspricht Menge *Bekommen*), sofern sie nach der Anpassung erstellt bzw. ausgedruckt werden:
 
@@ -376,7 +386,7 @@ Es können hier nur Umverteilungen eingegeben werden, das heißt es muss die fol
 {.is-warning}
 
 
-> Es können hier nur die Mengen für Bestellgruppen verändert werden, die auch etwas bestellt haben. Bestellgruppen, die nichts bestellt haben, scheinen nicht auf. Wenn zum Beispiel zu viel geliefert wird, und eine Bestellgruppe etwas davon übernehmen möchte, die nichts bestellt hat, kann unter *Finanzen > Bestellungen abrechnen* diese  Bestellgruppe hinzugefügt werden. 
+> In der Bestellverwaltung können nur die Mengen für Bestellgruppen verändert werden, die auch etwas bestellt haben. Bestellgruppen, die nichts bestellt haben, scheinen nicht auf. Wenn zum Beispiel zu viel geliefert wird, und eine Bestellgruppe etwas davon übernehmen möchte, die nichts bestellt hat, kann unter *Finanzen > Bestellungen abrechnen* diese  Bestellgruppe hinzugefügt werden. 
 {.is-info}
 
 
