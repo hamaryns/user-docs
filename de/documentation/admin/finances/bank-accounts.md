@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-03-31T09:42:25.222Z
+date: 2022-07-05T20:10:15.787Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -39,7 +39,7 @@ Für folgende Banken unterstützt die Foodsoft eine Bankanbindung:
 
 ### Vollautomatisch
 
-> Synchronisation zwei mal täglich um 08:00 und 18:00
+> Synchronisation zwei mal täglich um 08:00 und 20:00 Uhr
 {.is-info}
 - Erste Bank Sparkasse (George)
 
