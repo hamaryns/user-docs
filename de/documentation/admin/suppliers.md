@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-09-20T04:44:21.217Z
+date: 2022-09-20T04:48:41.847Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -367,16 +367,16 @@ Artikel > Kategorien > Neue Kategorie anlegen
 Eine möglichst selbsterklärende und prägnante Bezeichnung für die Kategorie.
 
 > Beim Bestellen werden die Artikel nach Kategorien gruppiert und darin alphabetisch sortiert angezeigt.
-Die Kategorien werden ebenfalls alphabetisch sortiert angezeigt.
+> Die Kategorien werden ebenfalls alphabetisch sortiert angezeigt.
 {.is-info}
 
 > Tipp: Damit die Kategorien beim Bestellen nach einer bestimmten Reihenfolge angezeigt werden, z.B. sodass Frischwaren zuoberst stehen, vor den Kategorienamen einen Prefix setzen.
-Beispiel:
-(a) Fruchtgemüse
-(a) Wurzelgemüse
-(c) Eier
-(m) Getreideprodukte
-usw.
+> Beispiel:
+> (a) Fruchtgemüse
+> (a) Wurzelgemüse
+> (c) Eier
+> (m) Getreideprodukte
+> usw.
 {.is-info}
 
 ### Beschreibung
@@ -384,15 +384,15 @@ usw.
 Dieses optionale Feld kann entweder zur Beschreibung der Kategorie (wird nur in der Kategorien-Liste angezeigt, nicht beim Bestellen) oder als kommagetrennte Liste an Schlagwörtern für den [Import per CSV/Excelliste](/de/documentation/admin/suppliers#artikel-importieren) verwendet werden, um neue Artikel automatisiert bestimmten Kategorien zuzuordnen.
 
 > Die Inhalte der Spalte "Kategorie" in der CSV werden sowohl mit den Kategorienamen als auch mit den Schlagwörtern aus der Kategoriebeschreibung verglichen. Ist die Kategorie in der CSV in einem Kategorienamen enthalten oder stimmt exakt mit einem Schlagwort überein (Groß-/Kleinschreibung egal), wird die Kategorie mit der engsten Übereinstimmung vorausgewählt.
-Die Kategorie des Artikels kann im darauffolgenden Menü noch manuell angepasst werden, bzw. muss ausgewählt werden, falls keine Übereinstimmung gefunden wurde.
+> Die Kategorie des Artikels kann im darauffolgenden Menü noch manuell angepasst werden, bzw. muss ausgewählt werden, falls keine Übereinstimmung gefunden wurde.
 {.is-info}
 
 > Beispiel:
-Kategorie "(a) Fruchtgemüse"
-Beschreibung "Zucchini, Tomaten, Paradeiser, Paprika"
--> CSV mit Artikel mit Kategorie "Paprika" oder "Frucht" wird der Kategorie "(a) Fruchtgemüse" zugeordnet, Artikel mit Kategorie "Paprika grün" oder "Diverses Fruchtgemüse" jedoch nicht.
-Beschreibung "Zucchini, Tomaten, Paradeiser, Paprika grün"
--> CSV mit Artikel mit Kategorie "Paprika grün" wird der Kategorie "(a) Fruchtgemüse" zugeordnet, Artikel mit Kategorie "Paprika" jedoch nicht.
+> Kategorie "(a) Fruchtgemüse"
+> Beschreibung "Zucchini, Tomaten, Paradeiser, Paprika"
+> -> CSV mit Artikel mit Kategorie "Paprika" oder "Frucht" wird der Kategorie "(a) Fruchtgemüse" zugeordnet, Artikel mit Kategorie "Paprika grün" oder "Diverses Fruchtgemüse" jedoch nicht.
+> Beschreibung "Zucchini, Tomaten, Paradeiser, Paprika grün"
+> -> CSV mit Artikel mit Kategorie "Paprika grün" wird der Kategorie "(a) Fruchtgemüse" zugeordnet, Artikel mit Kategorie "Paprika" jedoch nicht.
 {.is-info}
 
 > Die Kategoriebeschreibung kann aus maximal 255 Zeichen bestehen.
@@ -405,6 +405,6 @@ Hier kannst du Name und Beschreibung einer Kategorie anpassen. Die interne Zuord
 ## Kategorie löschen
 
 > Eine Kategorie kann nicht gelöscht werden, solange Artikel ihr zugeordnet sind. Es erscheint dann eine Fehlermeldung.
-Die betreffenden Artikel müssen erst herausgesucht und entweder gelöscht oder anderen Kategorien zugewiesen werden, danach lässt sich die Kategorie löschen.
+> Die betreffenden Artikel müssen erst herausgesucht und entweder gelöscht oder anderen Kategorien zugewiesen werden, danach lässt sich die Kategorie löschen.
 {.is-warning}
 
