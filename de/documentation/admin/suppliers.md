@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-09-20T04:52:41.646Z
+date: 2022-09-20T05:03:42.295Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -268,7 +268,7 @@ Vorhandene Preisliste im Excel-Format (oder ähnlich) importieren:
 2. Erste Zeile markieren (am linken Rand auf Zeilennummer 1 klicken) und mit Strg-Plus eine Zeile einfügen 
 3. Foodsoft Artikel \> Lieferanten \> Artikel \> Artikel hochladen: Mustertabelle Kopfzeile kopieren und in die leere erste Zeile der Tabelle einfügen mit Strg+Alt+V (Excel) bzw. Strg+Gross(Shift)+V unformatierten Text einfügen
 4. Spalten der original-Preisliste so umordnen, dass sie zur Kopfzeileder Mustertabelle aus der Foodsoft passen. Dazu Spalteninhalt ab der zweiten Zeile markieren und mit Strg+Alt an die richtige Position ziehen.
-5. Artikelkategorien: Angelegte Kategorien siehe Foodsoft \> Artikel \> Kategorien. Bezeichnungen der Kategorien dürfen keine Leerstellen am Ende haben (passiert wenn aus Foodsoft in Tabelle kopiert).
+5. Artikelkategorien: Angelegte Kategorien siehe Foodsoft \> Artikel \> Kategorien. Bezeichnungen der Kategorien dürfen keine Leerstellen am Ende haben (passiert wenn aus Foodsoft in Tabelle kopiert). Die Kategorien werden mit den Kategorienamen und ggf. den Schlagwörtern abgeglichen, [mehr Infos dazu hier](/de/documentation/admin/suppliers#beschreibung).
 6. Optional fortlaufende Bestellnummern vergeben, falls vom Lieferant keine Artikelnummern vorgesehen sind. Bestellnummern sind notwendig, wenn die Liste später aktualisiert und erneut hochgeladen wird, damit die aktualisierten den bestehenden Artikeln zugeordnet werden können. Bei den Bestelllisten, die die Foodsoft für die Lieferantin erstellt, wird die Bestellnummer in der ersten Spalte angezeigt. Um die Gefahr einer Verwechslung mit der Stückzahl in der zweiten Spalte zu reduzieren, können die Bestellnummern z.B. 1001, 1002, … sein.
 7. Tabelle speichern und in Foodsoft importieren
 
@@ -289,8 +289,7 @@ Wird die CSV Datei in einer deutschen Office Version bearbeitet, kann es sein, d
 {.is-info}
 
 
-> Artikel können nicht gelöscht werden, solange sie Teil einer offenen
-> Bestellung sind.
+> Artikel können nicht gelöscht werden, solange sie Teil einer offenen Bestellung sind.
 {.is-warning}
 
 
