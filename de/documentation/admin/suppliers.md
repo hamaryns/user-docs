@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-09-20T04:49:00.806Z
+date: 2022-09-20T04:52:41.646Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -150,8 +150,11 @@ Die Zahl vor der Einheit ist die Mindestmenge bzw. **Gebindegröße**. Sie besti
 > Die Einheit, rechts der Markierung, gibt die Mengen an, in der Bestellt werden kann.
 >
 > **Beispiel (entspricht Bild oben)**
+> 
 > Mindestbestellmenge 6 Einheiten je 500g, Bestelleinheiten jeweils 500g KG:
+> 
 > "Links"  -> 6
+> 
 > "Rechts" -> 500g
 {.is-info}
 
@@ -188,8 +191,7 @@ Welche der beiden Varianten du auswählst, bleibt dir überlassen. Am einfachste
 {.is-info}
 
 
-> Bei den Bestelllisten, die von der Foodsoft erstellt werden, um sie an die ProduzentInnen zu senden, ist das Pfand in den angegebenen Preisen nicht inkludiert. Manche ProduzentInnen stellen keine eigenen Rechnungen, sondern verwenden diese Bestelllisten als Rechnung. Wenn die
-> ProduzentInnen das Pfand des zurückgegegeben Leerguts gut schrieben, muss das Pfand in den Bestelllisten inkludiert werden, indem das Pfand im Nettopreis der Artikel einberechnet und das Pfand auf 0 gesetzt wird. 
+> Bei den Bestelllisten, die von der Foodsoft erstellt werden, um sie an die ProduzentInnen zu senden, ist das Pfand in den angegebenen Preisen nicht inkludiert. Manche ProduzentInnen stellen keine eigenen Rechnungen, sondern verwenden diese Bestelllisten als Rechnung. Wenn die ProduzentInnen das Pfand des zurückgegegeben Leerguts gut schrieben, muss das Pfand in den Bestelllisten inkludiert werden, indem das Pfand im Nettopreis der Artikel einberechnet und das Pfand auf 0 gesetzt wird. 
 {.is-warning}
 
 
@@ -367,15 +369,22 @@ Artikel > Kategorien > Neue Kategorie anlegen
 Eine möglichst selbsterklärende und prägnante Bezeichnung für die Kategorie.
 
 > Beim Bestellen werden die Artikel nach Kategorien gruppiert und darin alphabetisch sortiert angezeigt.
+> 
 > Die Kategorien werden ebenfalls alphabetisch sortiert angezeigt.
 {.is-info}
 
 > Tipp: Damit die Kategorien beim Bestellen nach einer bestimmten Reihenfolge angezeigt werden, z.B. sodass Frischwaren zuoberst stehen, vor den Kategorienamen einen Prefix setzen.
+> 
 > Beispiel:
+> 
 > (a) Fruchtgemüse
+> 
 > (a) Wurzelgemüse
+> 
 > (c) Eier
+> 
 > (m) Getreideprodukte
+> 
 > usw.
 {.is-info}
 
@@ -384,14 +393,20 @@ Eine möglichst selbsterklärende und prägnante Bezeichnung für die Kategorie.
 Dieses optionale Feld kann entweder zur Beschreibung der Kategorie (wird nur in der Kategorien-Liste angezeigt, nicht beim Bestellen) oder als kommagetrennte Liste an Schlagwörtern für den [Import per CSV/Excelliste](/de/documentation/admin/suppliers#artikel-importieren) verwendet werden, um neue Artikel automatisiert bestimmten Kategorien zuzuordnen.
 
 > Die Inhalte der Spalte "Kategorie" in der CSV werden sowohl mit den Kategorienamen als auch mit den Schlagwörtern aus der Kategoriebeschreibung verglichen. Ist die Kategorie in der CSV in einem Kategorienamen enthalten oder stimmt exakt mit einem Schlagwort überein (Groß-/Kleinschreibung egal), wird die Kategorie mit der engsten Übereinstimmung vorausgewählt.
+> 
 > Die Kategorie des Artikels kann im darauffolgenden Menü noch manuell angepasst werden, bzw. muss ausgewählt werden, falls keine Übereinstimmung gefunden wurde.
 {.is-info}
 
 > Beispiel:
+> 
 > Kategorie "(a) Fruchtgemüse"
+> 
 > Beschreibung "Zucchini, Tomaten, Paradeiser, Paprika"
+> 
 > -> CSV mit Artikel mit Kategorie "Paprika" oder "Frucht" wird der Kategorie "(a) Fruchtgemüse" zugeordnet, Artikel mit Kategorie "Paprika grün" oder "Diverses Fruchtgemüse" jedoch nicht.
+> 
 > Beschreibung "Zucchini, Tomaten, Paradeiser, Paprika grün"
+> 
 > -> CSV mit Artikel mit Kategorie "Paprika grün" wird der Kategorie "(a) Fruchtgemüse" zugeordnet, Artikel mit Kategorie "Paprika" jedoch nicht.
 {.is-info}
 
@@ -405,6 +420,7 @@ Hier kannst du Name und Beschreibung einer Kategorie anpassen. Die interne Zuord
 ## Kategorie löschen
 
 > Eine Kategorie kann nicht gelöscht werden, solange Artikel ihr zugeordnet sind. Es erscheint dann eine Fehlermeldung.
+> 
 > Die betreffenden Artikel müssen erst herausgesucht und entweder gelöscht oder anderen Kategorien zugewiesen werden, danach lässt sich die Kategorie löschen.
 {.is-warning}
 
