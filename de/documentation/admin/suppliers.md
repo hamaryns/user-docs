@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-09-20T05:03:42.295Z
+date: 2022-10-28T20:07:45.267Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -71,6 +71,10 @@ Die Eingabe der IBAN des Bankkontos der Produzentin ist dann erforderlich, wenn 
 Dieses Feld kann auf zwei Arten benutzt werden:
 - als Text, der beim Bestellen angezeigt wird
 - als Zahl für einen Geldbetrag, der einen Mindestbestellwert darstellt.  Bei Bestellung wird dann dieser Wert und der aktuelle Bestellwert von allen Bestellgruppen angezeigt. Bei Anlegen der Bestellung kann die Option “... nur wenn Mindestbestellwert erreicht ist” ausgewählt werden.
+
+> Bei der Angabe einer Zahl kann zusätzlich hinter der Zahl eine Währung bzw. ein Währungssymbol  angegeben werden, z.B. "40 €". Getestet von Mirko 2022-10-28, jedoch keine Garantie, dass es so bleibt.
+{.is-success}
+
 
 > Eine automatische Mindest-Stückzahl nicht möglich, daher in Geldwert umrechnen bzw. mit Lieferantin stattdessen Euro-Wert vereinbaren. 
 {.is-info}
