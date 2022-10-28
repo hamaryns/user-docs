@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: Definitionen und Bedeutungen von Begriffen in der Foodsoft 
 published: true
-date: 2022-10-28T19:56:49.886Z
+date: 2022-10-28T19:57:47.996Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
