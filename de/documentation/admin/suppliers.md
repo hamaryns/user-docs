@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-10-29T08:00:30.828Z
+date: 2022-10-29T19:10:02.803Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -260,7 +260,19 @@ Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder si
 ![prod-artikel-bearbeiten.png](/uploads-de/admin_suppliers_prod-artikel-bearbeiten.png)
 
 
+## Artikel aktualisieren
 
+Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ändern. Hier wird beschrieben, wie diese Anpassungen durchgeführt werden können, und wie sich diese Änderungen auf bereits abgeschlossene oder aktuelle Bestellungen auswirken.
+
+- **Manuelle Aktualisierung durch Bearbeiten** einzelner oder aller Artikel: außer beim Preis wirken sich alle Änderungen auf alle Bestellungen aus, also auch auf aktuelle offene sowie bereits geschlossene oder abgerechnete Bestellungen (siehe [*https://github.com/foodcoops/foodsoft/issues/850*](https://github.com/foodcoops/foodsoft/issues/850)). Die Änderung eines Preises wirkt sich nur auf offene Bestellungen aus. Sobald eine Bestellung beendet wird, wird für jeden Artikel der Preis extra gespeichert, den der Artikel zu diesem Zeitpunkt hat. 
+
+- Wenn es nötig ist, einen Artikel für eine laufende oder bevorstehende Bestellung zu aktualsieren, aber die Artikel von abgeschlossenen oder anderen laufenden Bestellungen nicht beeinflusst werden, kann eine **Kopie des Artikels** angelegt werden. Original und Kopie müssen unterschiedliche Bezeichnungen haben. Deshalb z.B. 
+     - vor dem Anlegen der Kopie die Bezeichung ändern von z.B. `Äpfel` auf `Äpfel bis JJJJ-MM-DD` (`JJJJ-MM-DD` ist das aktuelle Datum) und in der frisch angelegten Kopie das `bis JJJJ-MM-DD` wieder herauslöschen. Vorteil: der aktuelle Artikel heißt gleich wie gewohnt; Nachteil: für Bestellerinnen ist anhand der Artikelbezeichnung nicht auf den ersten Blick erkennbar, dass sich etwas geändert hat. Oder:
+     - nach dem Anlegen der Kopie die Bezeichung der Kopie ändern von z.B. `Äpfel` auf `Äpfel ab JJJJ-MM-DD neuer Preis`, wobei `JJJJ-MM-DD`  das aktuelle Datum ist. Vorteil: für Bestellerinnen ist ersichtlich, dass sich etwas geändert hat, und was; Nachteil: diese Info ist nach einiger Zeit überflüssig.
+
+- Alternativ können Artikel auch durch **Hochladen einer aktualisierten Import-Liste** aktualisiert werden. Dazu ist es erforderlich, jedem Artikel eine Bestellnummer (order nummer) zuzuweisen. Das können einfach fortlaufende Zahlen sein (1, 2, 3, …), falls die Lieferantin keine Artikelnummern vergibt. Ohne Bestellnummern kann die Foodsoft die Artikel der hochgeladenen nicht den bestehenden zuordnen. Die Artikeldaten von bereits abgeschlosssenen Bestellungen wie Name, Einheit usw. werden dabei auch verändert, mit Ausnahme der Artikelpreise, was z.B. im Fall der Änderung der Einheit zu einer verfälschten Darstellung alter Bestellungen führt, siehe oben erwähnter Github Issue. 
+
+- Eine weitere Möglichkeit, insbesondere wenn keine Bestellnummern vergeben wurden, ist es, **Artikel zu löschen, und dann die Artikel neu hochzuladen**. Das geht jedoch nur, solange keine Bestellung offen ist. Die Daten von bereits abgeschlossenen oder abgerechneten Bestellungen (Artikelname, Einheit, Preis, …) werden dabei nicht verändert. Das mag in bestimmten Fällen auch so erwünscht sein.
 
 ## Artikel importieren
 
@@ -305,19 +317,7 @@ Aie Anzahl der angezeigten Artikel erhöhen, sodass alle angezeigt werden, am En
 {.is-warning}
 
 
-## Artikel aktualisieren
 
-Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ändern. Hier wird beschrieben, wie diese Anpassungen durchgeführt werden können, und wie sich diese Änderungen auf bereits abgeschlossene oder aktuelle Bestellungen auswirken.
-
-- **Manuelle Aktualisierung durch Bearbeiten** einzelner oder aller Artikel: außer beim Preis wirken sich alle Änderungen auf alle Bestellungen aus, also auch auf aktuelle offene sowie bereits geschlossene oder abgerechnete Bestellungen (siehe [*https://github.com/foodcoops/foodsoft/issues/850*](https://github.com/foodcoops/foodsoft/issues/850)). Die Änderung eines Preises wirkt sich nur auf offene Bestellungen aus. Sobald eine Bestellung beendet wird, wird für jeden Artikel der Preis extra gespeichert, den der Artikel zu diesem Zeitpunkt hat. 
-
-- Wenn es nötig ist, einen Artikel für eine laufende oder bevorstehende Bestellung zu aktualsieren, aber die Artikel von abgeschlossenen oder anderen laufenden Bestellungen nicht beeinflusst werden, kann eine **Kopie des Artikels** angelegt werden. Original und Kopie müssen unterschiedliche Bezeichnungen haben. Deshalb z.B. 
-     - vor dem Anlegen der Kopie die Bezeichung ändern von z.B. `Äpfel` auf `Äpfel bis JJJJ-MM-DD` (`JJJJ-MM-DD` ist das aktuelle Datum) und in der frisch angelegten Kopie das `bis JJJJ-MM-DD` wieder herauslöschen. Vorteil: der aktuelle Artikel heißt gleich wie gewohnt; Nachteil: für Bestellerinnen ist anhand der Artikelbezeichnung nicht auf den ersten Blick erkennbar, dass sich etwas geändert hat. Oder:
-     - nach dem Anlegen der Kopie die Bezeichung der Kopie ändern von z.B. `Äpfel` auf `Äpfel ab JJJJ-MM-DD neuer Preis`, wobei `JJJJ-MM-DD`  das aktuelle Datum ist. Vorteil: für Bestellerinnen ist ersichtlich, dass sich etwas geändert hat, und was; Nachteil: diese Info ist nach einiger Zeit überflüssig.
-
-- Alternativ können Artikel auch durch **Hochladen einer aktualisierten Import-Liste** aktualisiert werden. Dazu ist es erforderlich, jedem Artikel eine Bestellnummer (order nummer) zuzuweisen. Das können einfach fortlaufende Zahlen sein (1, 2, 3, …), falls die Lieferantin keine Artikelnummern vergibt. Ohne Bestellnummern kann die Foodsoft die Artikel der hochgeladenen nicht den bestehenden zuordnen. Die Artikeldaten von bereits abgeschlosssenen Bestellungen wie Name, Einheit usw. werden dabei auch verändert, mit Ausnahme der Artikelpreise, was z.B. im Fall der Änderung der Einheit zu einer verfälschten Darstellung alter Bestellungen führt, siehe oben erwähnter Github Issue. 
-
-- Eine weitere Möglichkeit, insbesondere wenn keine Bestellnummern vergeben wurden, ist es, **Artikel zu löschen, und dann die Artikel neu hochzuladen**. Das geht jedoch nur, solange keine Bestellung offen ist. Die Daten von bereits abgeschlossenen oder abgerechneten Bestellungen (Artikelname, Einheit, Preis, …) werden dabei nicht verändert. Das mag in bestimmten Fällen auch so erwünscht sein.
 
 # Kategorien
 
