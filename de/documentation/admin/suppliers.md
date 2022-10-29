@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-10-28T20:07:45.267Z
+date: 2022-10-29T06:55:30.881Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -309,7 +309,7 @@ Aie Anzahl der angezeigten Artikel erhöhen, sodass alle angezeigt werden, am En
 
 Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ändern. Hier wird beschrieben, wie diese Anpassungen durchgeführt werden können, und wie sich diese Änderungen auf bereits abgeschlossene oder aktuelle Bestellungen auswirken.
 
-- **Manuelle Aktualiserung durch Bearbeiten** einzelner oder aller Artikel: außer beim Preis wirken sich alle Änderungen auf alle Bestellungen aus, also auch auf aktuelle offene sowie bereits geschlossene oder abgerechnete Bestellungen (siehe [*https://github.com/foodcoops/foodsoft/issues/850*](https://github.com/foodcoops/foodsoft/issues/850)).
+- **Manuelle Aktualisierung durch Bearbeiten** einzelner oder aller Artikel: außer beim Preis wirken sich alle Änderungen auf alle Bestellungen aus, also auch auf aktuelle offene sowie bereits geschlossene oder abgerechnete Bestellungen (siehe [*https://github.com/foodcoops/foodsoft/issues/850*](https://github.com/foodcoops/foodsoft/issues/850)).
 
 - Wenn es nötig ist, einen Artikel für eine laufende oder bevorstehende Bestellung zu aktualsieren, aber die Artikel von abgeschlossenen oder anderen laufenden Bestellungen nicht beeinflusst werden, kann eine **Kopie des Artikels** angelegt werden. Original und Kopie müssen unterschiedliche Bezeichnungen haben. Deshalb z.B. 
      - vor dem Anlegen der Kopie die Bezeichung ändern von z.B. `Äpfel` auf `Äpfel bis JJJJ-MM-DD` (`JJJJ-MM-DD` ist das aktuelle Datum) und in der frisch angelegten Kopie das `bis JJJJ-MM-DD` wieder herauslöschen. Vorteil: der aktuelle Artikel heißt gleich wie gewohnt; Nachteil: für Bestellerinnen ist anhand der Artikelbezeichnung nicht auf den ersten Blick erkennbar, dass sich etwas geändert hat. Oder:
