@@ -2,7 +2,7 @@
 title: Brutto, Netto, Mehrwertsteuer
 description: Steuerliches in Foodcoop erfassen und verwalten
 published: true
-date: 2022-01-31T08:00:01.115Z
+date: 2022-10-30T19:59:38.416Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T09:16:46.231Z
@@ -10,7 +10,7 @@ dateCreated: 2021-04-22T09:16:46.231Z
 
 # Mehrwertsteuer (Österreich)
 
-> Die Mehrwertsteuer (abgekürzt Mwst, auch Umsatzsteuer) ist eine Steuer für Lieferungen oder Leistungen, die nur bei der Letztverbraucherin/dem Letztverbraucher zum Tragen kommt. Der Mehrwertsteuersatz beträgt **grundsätzlich 20 Prozent** (sogenannter "Normalsteuersatz"). Für einige Waren/Dienstleistungen gilt ein ermäßigter Mehrwertsteuersatz z.B. für **Lebensmittel von 10 Prozent**, Details siehe unten. Der ermäßigte Steuersatz von **13 Prozent** kann z.B. unter bestimmten Voraussetzunen für landwirtschafliche Direktvermarktung herangezogen werden.
+> Die Mehrwertsteuer (abgekürzt Mwst, auch Umsatzsteuer) ist eine Steuer für Lieferungen oder Leistungen, die nur bei der Letztverbraucherin/dem Letztverbraucher zum Tragen kommt. Der Mehrwertsteuersatz beträgt **grundsätzlich 20 Prozent** (sogenannter "Normalsteuersatz"). Für einige Waren/Dienstleistungen gilt ein ermäßigter Mehrwertsteuersatz z.B. für **Lebensmittel von 10 Prozent**, Details siehe unten. Der ermäßigte Steuersatz von **13 Prozent** kann z.B. unter bestimmten Voraussetzungen für landwirtschaftliche Direktvermarktung herangezogen werden.
 
 
 
