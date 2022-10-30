@@ -2,7 +2,7 @@
 title: Begriffsklärungen
 description: Definitionen und Bedeutungen von Begriffen in der Foodsoft 
 published: true
-date: 2022-10-28T19:57:47.996Z
+date: 2022-10-30T19:55:12.464Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-22T08:40:25.460Z
@@ -15,10 +15,8 @@ Manche Begriffe in der Foodsoft haben spezielle oder auch mehrfache Bedeutungen:
 [Bestellung](/de/documentation/admin/orders) (und dazugehörende Lieferung der Artikel) von [Lieferantin](/de/documentation/admin/suppliers) an Bestellgruppen 
 
 ## Mindestbestellmenge
-Eine Mindestbestellmenge kann für eine [Lieferantin](/de/documentation/admin/suppliers) als Geldbetrag festgelegt werden. 
-Beim Anlegen einer [
-Bestellung
-](/de/documentation/admin/orders) kann als Aktion ausgewählt werden, dass die Bestellliste nur dann per E-Mail an die Lieferantin geschickt wird, wenn die Mindestbestellmenge erreicht worden ist.
+Eine Mindestbestellmenge kann für eine [Lieferantin](/de/documentation/admin/suppliers) als Geldbetrag für eine gesamte Bestellung (nicht für einzelne Artikel) festgelegt werden. 
+Beim Anlegen einer [Bestellung](/de/documentation/admin/orders) kann als Aktion ausgewählt werden, dass die Bestellliste nur dann per E-Mail an die Lieferantin geschickt wird, wenn die Mindestbestellmenge erreicht worden ist. Die Bestellerinnen sollten dann allerdings noch verständigt werden, dass die Bestellung nicht zustandgekommen ist, und mit *Lieferung in Empfang nehmen*  alle erhaltenen Mengen auf Null gesetzt werden, damit den Bestellerinnen beim Abrechnen nichts abgebucht wird. 
 
 ## Lieferung 
 Bedeutungen:
