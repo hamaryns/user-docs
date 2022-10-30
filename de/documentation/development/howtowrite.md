@@ -2,7 +2,7 @@
 title: Leitfaden Foodosoft Dokumentation
 description: Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
 published: true
-date: 2022-02-14T08:58:13.565Z
+date: 2022-10-30T20:07:03.237Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T10:35:36.615Z
@@ -126,7 +126,7 @@ nicht erwünscht/zu vermeiden:
 
 Aus Gründen der Lesbarkeit wird bei geschlechtsspezifischen Begriffen **nur die weibliche Form** verwendet. Beispeile: Benutzerin (Mehrzahl: Benutzerinnen), Lieferantin, Administratorin, ...
 
-Ausgenommen dort, wo Begriffe in der Foodsoft anders hinterlegt sind (z.B. "Benutzer/innen", "Lieferanten") - hier werden im Sinne der Klarheit die Begriffe der Foodsoft übernommen. Längerfirstig wäre es gut, auch für die Foodsoft eine einheitliche Vorgehensweise zu vereinbaren und umzusetzen, ideaelerweise in Abstimmung mit der Dokumentation.
+Ausgenommen dort, wo Begriffe in der Foodsoft anders hinterlegt sind (z.B. "Benutzer/innen", "Lieferanten") - hier werden im Sinne der Klarheit die Begriffe der Foodsoft übernommen. Längerfristig wäre es gut, auch für die Foodsoft eine einheitliche Vorgehensweise zu vereinbaren und umzusetzen, ideaelerweise in Abstimmung mit der Dokumentation.
 
 
 # Bilder
