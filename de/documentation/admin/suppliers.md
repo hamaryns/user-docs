@@ -2,7 +2,7 @@
 title: Lieferantinnen und Artikel
 description: Verwaltung von Lieferantinnen und Artikeln (Foodsoft-Menü "Artikel")
 published: true
-date: 2022-11-08T14:25:22.064Z
+date: 2022-11-08T15:02:24.794Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T21:50:56.992Z
@@ -262,11 +262,11 @@ Mit dem Scrollbalken rechts nach unten scrollen, um die unteren Eingabefelder si
 
 ## Artikel aktualisieren
 
-Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ändern. Hier wird beschrieben, wie diese Anpassungen durchgeführt werden können, und wie sich diese Änderungen auf bereits abgeschlossene oder aktuelle Bestellungen auswirken.
+Artikeldetails wie Preis, Bezeichnung, Menge können sich im Lauf der Zeit ändern. Hier wird beschrieben, wie diese Anpassungen durchgeführt werden können, und wie sich diese Änderungen auf bereits abgeschlossene oder laufende, noch offene Bestellungen auswirken.
 
 - **Manuelle Aktualisierung durch Bearbeiten** einzelner oder aller Artikel: außer beim Preis wirken sich alle Änderungen auf alle Bestellungen aus, also auch auf aktuelle offene sowie bereits geschlossene oder abgerechnete Bestellungen (siehe [*https://github.com/foodcoops/foodsoft/issues/850*](https://github.com/foodcoops/foodsoft/issues/850)). Die Änderung eines Preises wirkt sich nur auf offene Bestellungen aus. Sobald eine Bestellung beendet wird, wird für jeden Artikel der Preis extra gespeichert, den der Artikel zu diesem Zeitpunkt hat. 
 
-- **Bestehenden Artikel aus laufender Bestellung herausnehmen (nicht mehr verfügbar)**: zuerst unter *Bestellungen > Bestellverwaltung > Bestellung ... bearbeiten* die laufende Bestellung bearbeiten und beim Artikel dort das Häkchen weg klicken und dann *Bestellung aktualisieren*. Falls der Artikel bereits bestellt wurde, erscheint ein Warnhinweis, *Warnung ignorieren* anwählen und erneut auf *Bestellung aktualisieren*; die Bestellungen der Bestellgruppen für diesen Artikel werden damit gelöscht! Dann erst unter *Artikel > Lieferanten/Artikel > Lieferantin > Artikel* den Artikel bearbeiten und als nicht nicht verfügbar markieren. Bei umgekehrter Reihenfolge der Schritte scheint der Artikel beimi Bearbeiten der laufenden Bestellung nicht mehr auf (kann also nicht entfernt werden), und ist aber in der Bestellansicht noch vorhanden. 
+- **Bestehenden Artikel aus laufender Bestellung herausnehmen (nicht mehr verfügbar)**: zuerst unter *Bestellungen > Bestellverwaltung > Bestellung ... bearbeiten* die laufende Bestellung bearbeiten, beim Artikel dort das Häkchen weg klicken und dann *Bestellung aktualisieren*. Falls der Artikel bereits bestellt wurde, erscheint ein Warnhinweis, *Warnung ignorieren* anwählen und erneut auf *Bestellung aktualisieren*; die Bestellungen der Bestellgruppen für diesen Artikel werden damit gelöscht! Dann erst unter *Artikel > Lieferanten/Artikel > Lieferantin > Artikel* den Artikel bearbeiten und als nicht nicht verfügbar markieren. Bei umgekehrter Reihenfolge der Schritte scheint der Artikel beim Bearbeiten der laufenden Bestellung nicht mehr auf und kann dadurch nicht entfernt werden, obwohl er in der Bestellansicht noch vorhanden ist. 
 
 - **Neuen Artikel in laufende Bestellung aufnehmen:** Unter *Artikel > Lieferanten/Artikel > Lieferantin > Artikel* den Artikel neu anlegen, dann unter *Bestellungen > Bestellverwaltung > Bestellung ... bearbeiten* die laufende Bestellung bearbeiten, beim neu hinzugefügten Artikel das Häkchen anklicken und schließlich *Bestellung aktualisieren*.
 
