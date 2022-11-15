@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-11-15T06:17:47.120Z
+date: 2022-11-15T06:18:24.837Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -51,13 +51,14 @@ Für folgende Banken unterstützt die Foodsoft eine Bankanbindung:
 
 ### Halbautomatisch
 
-> Auslösen durch Mitglied mit Finanzzugriff via  *Finanzen > Bankkonten > Importieren*. Zweifaktorauthentifizierung erforderlich.
-{.is-info}
 - Raiffeisen, Umweltcenter Gunskirchen
 - Holvi
 - Oberbank
 - Sparda
 - Bawag, Easybank (neu seit 2021-12)
+
+> Auslösen durch Mitglied mit Finanzzugriff via  *Finanzen > Bankkonten > Importieren*. Zweifaktorauthentifizierung erforderlich.
+{.is-info}
 
 > Falls die Bank deiner Foodcoop hier nicht vorkommt, wende dich bitte im Forum an @paroga. Bitte diese Liste ergänzen, falls eine  neue Bank hinzugefügt wurde.
 {.is-warning}
