@@ -2,7 +2,7 @@
 title: Bankkonto mit Foodsoft verknüpfen
 description: Automatisierte Erfassung von neuen und bestehenden Überweisungen (Menü: "Finanzen" > "Bankkonten")
 published: true
-date: 2022-11-15T06:10:24.354Z
+date: 2022-11-15T06:14:16.853Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:17:42.160Z
@@ -42,11 +42,12 @@ Für folgende Banken unterstützt die Foodsoft eine Bankanbindung:
 > Synchronisation zwei mal täglich um ca. 08:00 und 20:00 Uhr (Sommerzeit) bzw. 07:00 und 19:00 Uhr (Winterzeit)
 {.is-info}
 - Erste Bank Sparkasse (George)
-
+> Bankverbindung muss alle 90 Tage neu hergestellt werden (*Finanzen > Bankkonten > Importieren*, per PushTAN bestätigen)
+{.is-warning}
 
 ### Halbautomatisch
 
-> Auslösen durch Mitglied mit Finanzzugriff via  *Finanzen > Bankkonten > Importieren*. Zweifaktoratentifizierung erforderlich.
+> Auslösen durch Mitglied mit Finanzzugriff via  *Finanzen > Bankkonten > Importieren*. Zweifaktorauthentifizierung erforderlich.
 {.is-info}
 - Raiffeisen, Umweltcenter Gunskirchen
 - Holvi
