@@ -2,7 +2,7 @@
 title: Datenbank - phpMyAdmin
 description: Welche verstecken Features der Zugriff auf die Foodsoft-Datenbank bietet
 published: true
-date: 2023-04-09T03:46:38.500Z
+date: 2023-04-09T03:49:21.338Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-09T02:10:13.914Z
@@ -11,14 +11,17 @@ dateCreated: 2023-04-09T02:10:13.914Z
 # Datenbankzugriff via phpMyAdmin
 
 > Über das Tool phpMyAdmin kannst du einfach im Browser auf die Datenbank deiner Foodsoft-Instanz zugreifen und Daten auslesen/verändern.
-Dies ist für einige versteckte Features, für die es noch kein Menü in der Foodsoft-Benutzeroberfläche gibt, die einzige Möglichkeit sie zu aktivieren.
+{.is-success}
+
+> Dies ist für einige versteckte Features, für die es noch kein Menü in der Foodsoft-Benutzeroberfläche gibt, die einzige Möglichkeit sie zu aktivieren.
 In anderen Fällen kann es einfach viel praktischer sein, als z.B. eine Reihe von Daten händisch über die Foodsoft-Benutzeroberfläche zu bearbeiten bzw. nachzuschlagen.
-Für viele Zwecke brauchst du dabei gar keine speziellen SQL-Kenntnisse.
+{.is-info}
+
+> Für viele Zwecke brauchst du dabei gar keine speziellen SQL-Kenntnisse.
 {.is-success}
 
 > Sei aber äußerst vorsichtig, denn du kannst mit diesem Tool deine Foodsoft-Instanz zerstören bzw. darin viel kaputtmachen!
-Sei daher behutsam mit dem Einsatz von phpMyAdmin und beachte u.a.:
-Verändere nicht die `id` eines Datensatzes, denn andere Datensätze verweisen auf diesen mittels dieser ID, außerdem dürfen zwei Datensätze in einer Tabelle nicht die gleiche ID haben.
+Sei daher behutsam mit dem Einsatz von phpMyAdmin.
 {.is-warning}
 
 > Den Zugang zu eurer Foodsoft-Datenbank musst du zunächst beim Host deiner Foodsoft-Instanz (z.B. IG FoodCoops in Österreich) anfordern.
@@ -56,6 +59,9 @@ Danach musst die Änderungen am Datensatz noch speichern, indem du unten auf OK 
 ![db_speichern.png](/db_speichern.png)
 
 Oder du klickst im Browser einfach auf Zurück oder in der oberen Leiste auf Anzeigen, um die Bearbeitung abzubrechen.
+
+> Verändere nicht die `id` eines Datensatzes, denn andere Datensätze verweisen auf diesen mittels dieser ID, außerdem dürfen zwei Datensätze in einer Tabelle nicht die gleiche `id` haben.
+{.is-warning}
 
 ## Weitere Funktionen
 
