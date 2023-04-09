@@ -2,7 +2,7 @@
 title: Foodsoft-Konten für Guthaben der Mitglieder
 description: Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen (Menü "Finanzen" > "Konten verwalten")
 published: true
-date: 2022-03-14T15:44:00.000Z
+date: 2023-04-09T03:40:10.897Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-20T23:12:07.102Z
@@ -156,7 +156,7 @@ Empfohlene Vorgehensweise:
 
 ### Aktivierung und Vorbereitung
 
-> Es gibt derzeit (2022-03) noch kein Admin Interface, um die Funktion *Alle Bestellgruppen mit Mitgliedsbeitrag hinzufügen* (siehe unten) zu aktivieren. Es geht nur über eine direkten Eingriff in die Datenbank.
+> Es gibt derzeit (2022-03) noch kein Admin Interface, um die Funktion *Alle Bestellgruppen mit Mitgliedsbeitrag hinzufügen* (siehe unten) zu aktivieren. Es geht nur über einen [direkten Eingriff in die Datenbank](../datenbank).
 {.is-danger}
 
 
