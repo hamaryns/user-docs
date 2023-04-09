@@ -2,7 +2,7 @@
 title: Datenbank - phpMyAdmin
 description: Welche verstecken Features der Zugriff auf die Foodsoft-Datenbank bietet
 published: false
-date: 2023-04-09T02:10:13.914Z
+date: 2023-04-09T03:29:00.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-09T02:10:13.914Z
@@ -107,6 +107,10 @@ Klicke auf **Bearbeiten** und verändere den Wert unter Value. Beispiel:
 
 So können jeweils beliebig viele Felder für Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Lieferantinnen und Rechnungen konfiguriert werden.
 
+> TODO: Codeblock, auch unter weitere Optionen
+{.is-danger}
+
+
 --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
 user:
   - name: user_field
@@ -126,7 +130,7 @@ invoice:
 
 #### Weitere Optionen
 
-Für Felder gibt es noch weitere Optionen:
+Für Felder gibt es noch weitere hilfreiche Optionen:
 
 --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
 user:
@@ -134,84 +138,58 @@ user:
     label: Testfeld
     hint: Ein Hinweis, der unterhalb des Eingabefeldes angezeigt wird.
     placeholder: 'Hinweis innerhalb des Eingabefeldes'
-  
+  - name: text_field
+    label: Textfeld
+    as: text
+  - name: password_field
+    label: Passwort-Feld
+    as: password
+  - name: float_number_field
+    label: Fließkommazahl
+    as: float
+  - name: date_field
+    label: Datumsfeld
+    as: date
+    html5: true
+    
+Das sieht dann so aus:
 
-## Foodsoft Anwendung
+![cf_beispiel.png](/cf_beispiel.png)
 
-Wenn du neu in deiner Foodcoop bist, und die Foodsoft einfach mal zum Bestellen kennenlernen möchtest, bist du hier richtig. 
-- [Starten und Navigieren](/de/documentation/usage/navigation)Grundlegende Informationen für Benutzerinnen, Navigation in der Foodsoft: wo finde ich was?
-- [Mein Profil & Bestellgruppe](/de/documentation/usage/profile-ordergroup)Erklärung des eigenen Foodsoft-Kontos und der eigenen Bestellgruppe, persönliche Einstellungen, Verwendung des Zahlungsreferenzrechners
-- [Bestellen](/de/documentation/usage/order)Überblick und Anleitungen zur Bestellung sowie Abholung
-- [Kommunikation](/de/documentation/usage/communication)Foodsoft Nachrichten, Mitglieder Kontakte, Umfragen und ander Hilfsmittel zur Kommunikation in der Foodcoop
-- [Mitmachen](/de/documentation/usage/tasks-cooperate)Beschreibung der Funktionen zur Koordination und transparenten Aufgabenverteilung 
-- [Informationen & Dokumente](/de/documentation/usage/sharedocuments)Zentrale Ablage und gemeinsames Bearbeiten von Informationen sowie Dokumenten
-{.links-list}
-
-## Foodsoft Administration
-
-Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann, und wir ihr sie einrichten könnt. Auch im laufenden Betrieb der Foodcoop braucht die Foodsoft  Administratorinnen, die sich im Hintergrund darum kümmern, dass es regelmäßig etwas zu Bestellen gibt, Artikel in der Foodsoft aktuell sind, und auch die Bestellungen abgrechnet und die Rechnungen der Lieferantinnen bezahlt werden. 
-
-- [Überblick](/de/documentation/admin/general)Funktionsüberblick und Einsatzmöglichkeiten der Foodsoft
-- [Lieferantinnen, Artikeln und Kategorien](/de/documentation/admin/suppliers)Verwaltung von Lieferantinnen und Artikeln
-- [Bestellungen](/de/documentation/admin/orders)Verwaltung von Bestellungen und Rechnungen
-- [Lager](/de/documentation/admin/storage)Verwalten des Foodcoop-Lagers und Produktinventars
-- [Finanzen](/de/documentation/admin/finances)Überblicksseite zu Finanzfunktionen sowie Verwendung
-- [-- Mitglieder-Konten für Guthaben](/de/documentation/admin/finances/accounts)Verwaltung der Guthaben-Konten aller Foodcoop-Mitglieder und Transaktionen
-- [-- Rechnungen](/de/documentation/admin/finances/invoices)Rechnungen von Lieferantinnen digital ablegen, mit Bestellungen verknüpfen und abgleichen sowie Bezahlstatus markieren
-- [-- Bankkonto mit Foodsoft verknüpfen](/de/documentation/admin/finances/bank-accounts)Automatisierte Erfassung und Verarbeitung von Zahlungsein- und -ausgängen auf Foodcoop-Bankkonten, Zahlungsreferenzrechner aktivieren
-- [-- Mehrwertsteuer, Brutto und Netto](/de/documentation/admin/finances/value-added-tax)Steuerliches in Foodcoop erfassen und verwalten
-- [-- Pfand](/de/documentation/admin/finances/deposits)Wie Pfand in Foodcoops gehandhabt und in Foodsoft erfasst werden kann
-- [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder,  Bestellgruppen, Arbeits- und Nachrichtengruppen, Vergabe von administrativen Berechtigungen
-- [Einstellungen](/de/documentation/admin/settings)Erklärung zu globalen/administrativen Einstellungen der Foodsoft
-- [Begriffserklärungen](/de/documentation/admin/terms-definitions)Definitionen und Bedeutungen von Begriffen in der Foodsoft 
-- [Häufige Fragen und Probleme](/de/documentation/admin/faq) Antworten und Lösungen für häufige Fragen und Probleme bei administrativen Funktionen
-{.links-list}
-
-
-## Foodsoft Entwicklung
-
-Die Foodsoft ist eine frei zugängliche Software, und wird laufend verbessert und weiterentwickelt. Wenn du selbst eine Foodsoft installieren möchtest oder etwas zur Entwicklung beitragen möchtest, bist du hier am richtigen Platz.
-
-- [Erste Schritte](/de/documentation/development/first-steps)Foodsoft Installation und Entwicklung
-- [Leitfaden Foodsoft Dokumentation](/de/documentation/development/howtowrite)Leitfaden zur Bearbeitung von Beiträgen dieser Foodosoft Dokumentation
-{.links-list}
-
-# Andere Foodsoft Dokumentationen
-
-Diese Dokumentationen sind unvollständig und nicht aktuell.
-
-  - [Foodsoft@Github](https://github.com/foodcoops/foodsoft/wiki/Doku) 
-  - [foodcoops.readthedocs.io](https://foodcoops.readthedocs.io/en/latest/)
-{.links-list}
-
-
-# Foodsoft Alternativen
-
-
-- [Foodcoop-Shop](https://www.foodcoopshop.com/)
-- Abrechnung über Papierlisten (vielleicht mag jemand eine Anleitung dazu schreiben?)
-{.links-list}
-
-> Warum in einer Doku für die Foodsoft "Werbung" für alternative Möglichkeiten? Falls sich jemand hierher z.B. auf der Suche nach einer Doku für den Foodcoopshop verirrt hat, oder sich einen Überblick über Foodsoft Apps verschaffen möchte, oder einfach mal wissen möchte, was es denn mit dieser "anderen Foodsoft" auf sich hat.
+> Eine Liste an möglichen Optionen findest du [hier](https://github.com/heartcombo/simple_form#available-input-types-and-defaults-for-each-column-type), jedoch funktionieren nicht all diese Datentypen ohne weiteres (z.B. werden die Eingaben nicht gespeichert).
+Die oben aufgelisten Datentypen sind erfolgreich getestet worden.
 {.is-info}
 
-# Andere Handbücher für Foodcoops
+#### Anwendung auf Kontotransaktionen (z.B. für Mitgliedsbeitrag)
 
-- [Foodcoop Gründungsleitfaden](https://handbuch.foodcoops.at/)Handbuch und Tipps zur Gründung von Lebensmittelkooperativen [PDF Download](http://www.bio-austria.at/app/uploads/FoodCoop-Handbuch-Juni-2017.pdf)
-- [Organisiert euch!](https://organisiert-euch.org/)Handbuch und Tipps zum gemeinsamen Arbeiten und kooperativem Miteinander
-{.links-list}
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+ordergroup:
+  - name: membership_fee
+    label: Mitgliedsbeitrag
+    hint: Als negative Zahl eintragen (z.B. -4 oder -4,5 oder -4.5)
+    financial_transaction_source: true
+    
+Die letzte Zeile bewirkt, dass im Menü `Neue Überweisungen eingeben` folgender Button erscheint:
 
+![mb_hinzufuegen.png](/mb_hinzufuegen.png)
 
-# Andere Hilfswerkzeuge für Foodcoops
+> Dadurch werden die Bestellgruppen hinzugefügt und jeweils der Wert, der als Mitgliedsbeitrag gespeichert ist, direkt als Betrag eingefügt.
+{.is-success}
 
-## Österreichische Foodcoops: Forum und anderes
-Über https://fcoop.at/ stehen folgende Services für österreichische FoodCoops zur Verfügung: 
-- Forum
-- Etherpad (Kollaborativer Texteditor)
-- EtherCalc (Kollaborative Tabellenverarbeitung)
-- URL Shortener
-- BitPoll Terminfindung (Doodle)
-- Nextcloud Online Speicherplatz (Dropbox)
-- Jitsi Online Videkonferenz
-> Für die Nutzung dieser Services ist ein Zugang zu einer österreichischen Foodsoft Instanz oder ein eigens beantragter **Zugang zum Forum** erforderlich. Nur nach der Anmeldung im Forum sind die Services zugänglich.
+> Da ein positiver Betrag der Bestellgruppe gutgeschrieben wird, ist es zum Einziehen von Mitgliedsbeiträgen notwendig das Feld mit einer negativen Zahl auszufüllen. Da dies kontraintuitiv ist, ist es ratsam per Hinweis (hint) darauf hinzuweisen.
 {.is-warning}
+
+> Der Mitgliedsbeitrag kann so je Bestellgruppe individuell festgelegt werden - z.B. je nach dem, aus wie vielen Personen eine Bestellgruppe besteht oder welche Einkommensverhältnisse vorherrschen.
+{.is-success}
+
+> Es können auch mehrere benutzerdefinierte als financial_transaction_source definiert werden, dann erscheinen mehrere solche Buttons ("Alle Bestellgruppen mit ... hinzufügen") nebeneinander.
+{.is-success}
+
+> Die Vorgehensweise für das Verwalten von Mitgliedsbeiträgen über die Foodsoft ist also:
+(1) Mitgliedsbeitrag-Feld konfigurieren
+(2) Höhe bzw. Berechnungsgrundlage für den Mitgliedsbeitrag sowie auf welchen Zeitraum er sich bezieht, überlegen
+(3) Jeweiligen Mitgliedsbeitrag bei Bestellgruppen eintragen (Achtung, dies geht nur über die Administration, kann also nicht von allen Bestellgruppen selbst gemacht werden)
+(4) [Kontotransaktionsklasse & -typ für Mitgliedsbeitrag einrichten](https://docs.foodcoops.net/de/documentation/admin/finances/accounts) (kann auch vorher geschehen)
+(5...) Bestellgruppen laden ihren Mitgliedsbeitrag auf (wie Guthaben), können also beliebig im Voraus oder nur für die nächste Einziehung einzahlen
+(5...) Ein Mitglied zieht den Mitgliedsbeitrag z.B. jeden Monat/Quartal ein - dabei kann es passieren, dass Bestellgruppen mit ihrem "Mitgliedsbeitrag-Guthaben" ins Minus rutschen und erinnert werden müssen es wieder einzuzahlen.
+{.is-info}
