@@ -2,7 +2,7 @@
 title: Datenbank - phpMyAdmin
 description: Welche verstecken Features der Zugriff auf die Foodsoft-Datenbank bietet
 published: true
-date: 2023-04-09T03:38:12.981Z
+date: 2023-04-09T03:44:51.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-09T02:10:13.914Z
@@ -17,8 +17,8 @@ Für viele Zwecke brauchst du dabei gar keine speziellen SQL-Kenntnisse.
 {.is-success}
 
 > Sei aber äußerst vorsichtig, denn du kannst mit diesem Tool deine Foodsoft-Instanz zerstören bzw. darin viel kaputtmachen!
-Sei daher behutsam mit dem Einsatz von phpMyAdmin und beachte u.a.:
-	Verändere nicht die `id` eines Datensatzes, denn andere Datensätze verweisen auf diesen mittels dieser ID, außerdem dürfen zwei Datensätze in einer Tabelle nicht die gleiche ID haben.
+> Sei daher behutsam mit dem Einsatz von phpMyAdmin und beachte u.a.:
+> Verändere nicht die `id` eines Datensatzes, denn andere Datensätze verweisen auf diesen mittels dieser ID, außerdem dürfen zwei Datensätze in einer Tabelle nicht die gleiche ID haben.
 {.is-warning}
 
 > Den Zugang zu eurer Foodsoft-Datenbank musst du zunächst beim Host deiner Foodsoft-Instanz (z.B. IG FoodCoops in Österreich) anfordern.
