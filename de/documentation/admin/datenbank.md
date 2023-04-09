@@ -2,7 +2,7 @@
 title: Datenbank - phpMyAdmin
 description: Welche verstecken Features der Zugriff auf die Foodsoft-Datenbank bietet
 published: true
-date: 2023-04-09T03:44:51.022Z
+date: 2023-04-09T03:46:38.500Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-09T02:10:13.914Z
@@ -17,8 +17,8 @@ Für viele Zwecke brauchst du dabei gar keine speziellen SQL-Kenntnisse.
 {.is-success}
 
 > Sei aber äußerst vorsichtig, denn du kannst mit diesem Tool deine Foodsoft-Instanz zerstören bzw. darin viel kaputtmachen!
-> Sei daher behutsam mit dem Einsatz von phpMyAdmin und beachte u.a.:
-> Verändere nicht die `id` eines Datensatzes, denn andere Datensätze verweisen auf diesen mittels dieser ID, außerdem dürfen zwei Datensätze in einer Tabelle nicht die gleiche ID haben.
+Sei daher behutsam mit dem Einsatz von phpMyAdmin und beachte u.a.:
+Verändere nicht die `id` eines Datensatzes, denn andere Datensätze verweisen auf diesen mittels dieser ID, außerdem dürfen zwei Datensätze in einer Tabelle nicht die gleiche ID haben.
 {.is-warning}
 
 > Den Zugang zu eurer Foodsoft-Datenbank musst du zunächst beim Host deiner Foodsoft-Instanz (z.B. IG FoodCoops in Österreich) anfordern.
@@ -187,11 +187,10 @@ Die letzte Zeile bewirkt, dass im Menü `Neue Überweisungen eingeben` folgender
 > Es können auch mehrere benutzerdefinierte als financial_transaction_source definiert werden, dann erscheinen mehrere solche Buttons ("Alle Bestellgruppen mit ... hinzufügen") nebeneinander.
 {.is-success}
 
-> Die Vorgehensweise für das Verwalten von Mitgliedsbeiträgen über die Foodsoft ist also:
-(1) Mitgliedsbeitrag-Feld konfigurieren
-(2) Höhe bzw. Berechnungsgrundlage für den Mitgliedsbeitrag sowie auf welchen Zeitraum er sich bezieht, überlegen
-(3) Jeweiligen Mitgliedsbeitrag bei Bestellgruppen eintragen (Achtung, dies geht nur über die Administration, kann also nicht von allen Bestellgruppen selbst gemacht werden)
-(4) [Kontotransaktionsklasse & -typ für Mitgliedsbeitrag einrichten](https://docs.foodcoops.net/de/documentation/admin/finances/accounts) (kann auch vorher geschehen)
-(5...) Bestellgruppen laden ihren Mitgliedsbeitrag auf (wie Guthaben), können also beliebig im Voraus oder nur für die nächste Einziehung einzahlen
-(5...) Ein Mitglied zieht den Mitgliedsbeitrag z.B. jeden Monat/Quartal ein - dabei kann es passieren, dass Bestellgruppen mit ihrem "Mitgliedsbeitrag-Guthaben" ins Minus rutschen und erinnert werden müssen es wieder einzuzahlen.
-{.is-info}
+Die empfohlene Vorgehensweise für das Verwalten von Mitgliedsbeiträgen über die Foodsoft ist also:
+1. Mitgliedsbeitrag-Feld konfigurieren
+2. Höhe bzw. Berechnungsgrundlage für den Mitgliedsbeitrag sowie auf welchen Zeitraum er sich bezieht, überlegen
+3. Jeweiligen Mitgliedsbeitrag bei Bestellgruppen eintragen (Achtung, dies geht nur über die Administration, kann also nicht von allen Bestellgruppen selbst gemacht werden)
+4. [Kontotransaktionsklasse & -typ für Mitgliedsbeitrag einrichten](https://docs.foodcoops.net/de/documentation/admin/finances/accounts) (kann auch vorher geschehen)
+5. Bestellgruppen laden ihren Mitgliedsbeitrag auf (wie Guthaben), können also beliebig im Voraus oder nur für die nächste Einziehung einzahlen
+6. Ein Mitglied zieht den Mitgliedsbeitrag z.B. jeden Monat/Quartal ein - dabei kann es passieren, dass Bestellgruppen mit ihrem "Mitgliedsbeitrag-Guthaben" ins Minus rutschen und erinnert werden müssen es wieder einzuzahlen.
