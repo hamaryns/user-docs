@@ -1,8 +1,8 @@
 ---
 title: Datenbank - phpMyAdmin
 description: Welche verstecken Features der Zugriff auf die Foodsoft-Datenbank bietet
-published: false
-date: 2023-04-09T03:35:58.290Z
+published: true
+date: 2023-04-09T03:36:31.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-09T02:10:13.914Z
