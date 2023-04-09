@@ -2,7 +2,7 @@
 title: Datenbank - phpMyAdmin
 description: Welche verstecken Features der Zugriff auf die Foodsoft-Datenbank bietet
 published: false
-date: 2023-04-09T03:29:00.878Z
+date: 2023-04-09T03:35:58.290Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-09T02:10:13.914Z
@@ -107,10 +107,7 @@ Klicke auf **Bearbeiten** und verändere den Wert unter Value. Beispiel:
 
 So können jeweils beliebig viele Felder für Benutzerinnen, Bestellgruppen, Arbeitsgruppen, Lieferantinnen und Rechnungen konfiguriert werden.
 
-> TODO: Codeblock, auch unter weitere Optionen
-{.is-danger}
-
-
+```
 --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
 user:
   - name: user_field
@@ -127,11 +124,13 @@ supplier:
 invoice:
   - name: invoice_field
     label: Rechnungen-Feld
+```
 
 #### Weitere Optionen
 
 Für Felder gibt es noch weitere hilfreiche Optionen:
 
+```
 --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
 user:
   - name: test_field
@@ -151,7 +150,8 @@ user:
     label: Datumsfeld
     as: date
     html5: true
-    
+```
+
 Das sieht dann so aus:
 
 ![cf_beispiel.png](/cf_beispiel.png)
