@@ -2,7 +2,7 @@
 title: Datenbank - phpMyAdmin
 description: Welche verstecken Features der Zugriff auf die Foodsoft-Datenbank bietet
 published: true
-date: 2023-04-09T03:36:31.831Z
+date: 2023-04-09T03:38:12.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-09T02:10:13.914Z
@@ -162,12 +162,14 @@ Die oben aufgelisten Datentypen sind erfolgreich getestet worden.
 
 #### Anwendung auf Kontotransaktionen (z.B. für Mitgliedsbeitrag)
 
+```
 --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
 ordergroup:
   - name: membership_fee
     label: Mitgliedsbeitrag
     hint: Als negative Zahl eintragen (z.B. -4 oder -4,5 oder -4.5)
     financial_transaction_source: true
+```
     
 Die letzte Zeile bewirkt, dass im Menü `Neue Überweisungen eingeben` folgender Button erscheint:
 
