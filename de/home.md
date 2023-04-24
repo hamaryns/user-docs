@@ -2,7 +2,7 @@
 title: Willkommen
 description: 
 published: true
-date: 2022-02-02T08:41:33.969Z
+date: 2023-04-24T18:53:48.192Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T13:41:15.075Z
@@ -53,6 +53,7 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - [Einstellungen](/de/documentation/admin/settings)Erklärung zu globalen/administrativen Einstellungen der Foodsoft
 - [Begriffserklärungen](/de/documentation/admin/terms-definitions)Definitionen und Bedeutungen von Begriffen in der Foodsoft 
 - [Häufige Fragen und Probleme](/de/documentation/admin/faq) Antworten und Lösungen für häufige Fragen und Probleme bei administrativen Funktionen
+- [Datenbankzugriff via phpMyAdmin](/de/documentation/admin/datenbank) Änderungen vornehmen, für die es noch keine Benutzeroberfläche gibt, u.a. benutzerdefinierte Felder wie Mitgliedsbeitrag anlegen.
 {.links-list}
 
 
