@@ -2,7 +2,7 @@
 title: Administration
 description: Dokumentation zur Administration der Foodsoft
 published: true
-date: 2021-11-30T15:16:40.687Z
+date: 2023-04-24T18:56:55.736Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-30T14:14:40.210Z
@@ -21,4 +21,6 @@ Was die Foodosft alles kann, wobei und wie sie eure Foodcoop unterstützen kann,
 - [Benutzerinnen](/de/documentation/admin/users)Verwaltung aller Mitglieder, deren Foodsoft-Konten und Bestellgruppen
 - [Einstellungen](/de/documentation/admin/settings)Erklärung zu globalen/administrativen Einstellungen der Foodsoft
 - [Begriffserklärungen](/de/documentation/admin/terms-definitions)Definitionen und Bedeutungen von Begriffen in der Foodsoft 
+- [Häufige Fragen und Probleme](/de/documentation/admin/faq) Antworten und Lösungen für häufige Fragen und Probleme
+- [Datenbank (phpMyAdmin)](/de/documentation/admin/datenbank) Änderungen vornehmen, für die es noch keine Benutzeroberfläche gibt, u.a. benutzerdefinierte Felder wie Mitgliedsbeitrag anlegen.
 {.links-list}
